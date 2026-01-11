@@ -3,4 +3,27 @@
 /audio/*.mp4
 /audio/*.m4a
 
+# --- iOS / Xcode ---
+# Build products / DerivedData (when they land in-repo)
+/ios/build/
+/ios/.DerivedData/
+
+# User-specific Xcode data
+**/*.xcodeproj/**/xcuserdata/
+**/*.xcuserstate
+**/*.xcscmblueprint
+
+# Xcode workspace user data (workspace contents may be committed in some setups)
+**/*.xcworkspace/**/xcuserdata/
+
+# SwiftPM build artifacts (when present in-repo)
+**/.swiftpm/
+**/.build/
+*.hmap
+
+# CocoaPods / Carthage (uncomment if you use them)
+# /ios/Pods/
+# /ios/Podfile.lock
+# /ios/Carthage/Build/
+
 
