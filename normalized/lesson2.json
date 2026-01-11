@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson2",
+  "title": "Lesson 2 – Sino; Who",
+  "vocabulary": [
+    {
+      "tagalog": "sino",
+      "english": "who",
+      "required": true,
+      "audioPath": "60d50e06-b540-43aa-a754-d7eb99a0fb09"
+    },
+    {
+      "tagalog": "gurò",
+      "english": "teacher",
+      "required": true,
+      "audioPath": "d68442b5-f24c-48b4-a093-e4c1a51a15ce"
+    },
+    {
+      "tagalog": "lalaki",
+      "english": "man",
+      "required": true,
+      "audioPath": "e44291cd-5c89-42b6-8e77-8dda49c682dc"
+    },
+    {
+      "tagalog": "pangulo",
+      "english": "president",
+      "required": true,
+      "audioPath": "2da47f77-0cea-4e8d-806f-61d42f435d26"
+    },
+    {
+      "tagalog": "at",
+      "english": "and",
+      "required": true,
+      "audioPath": "e5c2b425-8dc4-4c8d-a8cf-95dabfab08fd"
+    },
+    {
+      "tagalog": "estudyante",
+      "english": "student",
+      "required": true,
+      "audioPath": "8b575e2f-6223-425d-93db-3d99b8182614"
+    },
+    {
+      "tagalog": "babae",
+      "english": "woman",
+      "required": true,
+      "audioPath": "9daadf82-a208-4b27-a7c9-511a3793420b"
+    },
+    {
+      "tagalog": "mga",
+      "english": "plural marker",
+      "required": true,
+      "audioPath": "3e5a39fa-e49c-49b6-83a5-25a3cae6d6e7"
+    },
+    {
+      "tagalog": "Sir",
+      "english": "Mr.",
+      "required": true,
+      "audioPath": "17725c33-a699-4470-bf74-cde79b02ef3d"
+    },
+    {
+      "tagalog": "nanay",
+      "english": "mother",
+      "required": true,
+      "audioPath": "83621007-c19c-41d3-bda6-e39df8da47c5"
+    },
+    {
+      "tagalog": "sinó- sinó",
+      "english": "who (used with plurals)",
+      "required": false,
+      "audioPath": "edba986a-f838-47a2-b32d-09ba5fe396ec"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "For information about how to do Lessons 2 – 71, please read **How to Use this Book**."
+    },
+    {
+      "type": "p",
+      "markdown": "Note – to aid memorization, words and examples can be hidden by selecting \"hide all\" or by selecting individually."
+    },
+    {
+      "type": "p",
+      "markdown": "In this lesson, we will learn to ask questions with “who”, which is _sino _in Tagalog. For a complete list of Tagalog question words, see **Appendix K**. We will also use this lesson as our introduction to Tagalog sentences and the _ang _form. If you are not familiar with _ang_ form noun markers, or need a refresher, please go to **Appendix A** and memorize them before attempting this lesson."
+    },
+    {
+      "type": "p",
+      "markdown": "Here is a little review of English grammar. The **subject **of a sentence is the person/thing that is doing or being something. The **predicate **is the rest of the sentence. For more English grammar definitions, please see **Appendix M**."
+    },
+    {
+      "type": "h2",
+      "markdown": "**Sino** + subject? (Tag.) = Who is the subject? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject takes _ang_ form.**"
+    },
+    {
+      "type": "p",
+      "markdown": "In this book, the equation shown in big text above is called a Structure Equation. Terms like “Structure Equation” and abbreviations that are unique to this book can be found in **Appendix N**."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang guro?",
+        "english": "Who is the teacher?",
+        "required": true,
+        "audioPath": "a480b5ef-8434-40fa-896e-6b46c1f84aac"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang mga lalaki?",
+        "english": "Who are the men?",
+        "required": true,
+        "audioPath": "c08f985c-6a71-46aa-9508-f1487d11d70a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang pangulo?",
+        "english": "Who is the president?",
+        "required": true,
+        "audioPath": "8a7127ad-37ab-44f0-8bbe-7ca6961f8541"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "To answer these questions, you can use the following:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Predicate** + subject. (Tag.) = Subject is the predicate. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject and predicate take _ang_ form**."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Si Mrs. Castillo ang guro.",
+        "english": "The teacher is Mrs. Castillo.",
+        "required": true,
+        "audioPath": "f4d74eda-ec87-4042-b90d-d1dcb6eb8a34"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sina Joshua at Joaquin ang mga lalaki.",
+        "english": "The men are Joshua and Joaquin.",
+        "required": true,
+        "audioPath": "974a56ff-32f2-4e1a-a3d8-a4fe348c066c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Si Sir Bautista ang pangulo.",
+        "english": "The president is Mr. Bautista.",
+        "required": true,
+        "audioPath": "707112da-69bf-4a49-9b09-284d3685e5cc"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Remember that direct family member nouns, like _nanay_, are usually marked by the same noun markers that mark names."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Si nanay ang guro.",
+        "english": "The teacher is mother.",
+        "required": true,
+        "audioPath": "93ecb9ea-3f20-41d9-b6da-047733a840ad"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Extra: Sino-sino</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There is a special word for “who” that is used with plurals. It is _sino-sino_, or _sinu-sino_. Here is an example:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino-sino ang mga lalaki?",
+        "english": "Who are the men?",
+        "required": true,
+        "audioPath": "cc9ed333-f267-40ec-a5ca-d44c640ce279"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is good to be able to recognize this, but it is not used very often in colloquial speech. You are better off using _sino_, so we will not mention _sino-sino_ again."
+    },
+    {
+      "type": "p",
+      "markdown": "This is not all - we will go deeper into _sino_ in later lessons."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sino ang mga guro?",
+      "english": "Who are the teachers?",
+      "required": true,
+      "audioPath": "8d367c8e-4650-4085-a54c-e7e934112e12"
+    },
+    {
+      "tagalog": "Sina Sir Santos at Mrs. Castillo ang mga guro.",
+      "english": "The teachers are Mr. Santos and Mrs. Castillo.",
+      "required": true,
+      "audioPath": "8da641ad-a111-4384-9fd8-ff95a0f4bc55"
+    },
+    {
+      "tagalog": "Sino ang lalaki?",
+      "english": "Who is the man?",
+      "required": true,
+      "audioPath": "21b59874-97c1-4d08-9255-2f529c4f7501"
+    },
+    {
+      "tagalog": "Si Joaquin ang lalaki.",
+      "english": "The man is Joaquin.",
+      "required": true,
+      "audioPath": "1b1cc13b-5252-42e8-a182-53c7cb4e5dbb"
+    },
+    {
+      "tagalog": "Sino ang mga pangulo?",
+      "english": "Who are the presidents?",
+      "required": true,
+      "audioPath": "ff6021c4-9830-4f80-9ab1-ac1b5ce44fe9"
+    },
+    {
+      "tagalog": "Sina Mrs. Cruz at Sir Bautista ang mga pangulo.",
+      "english": "The presidents are Mrs. Cruz and Mr. Bautista.",
+      "required": true,
+      "audioPath": "91e6e9dc-d96c-45e8-aa46-2796e7e4e37e"
+    },
+    {
+      "tagalog": "Sino ang estudyante?",
+      "english": "Who is the student?",
+      "required": true,
+      "audioPath": "fc20e4d1-e215-4093-8212-e86d926e9807"
+    },
+    {
+      "tagalog": "Si Angel ang estudyante.",
+      "english": "The student is Angel.",
+      "required": true,
+      "audioPath": "b7ddcef4-58c8-4252-9cba-799832a97d3d"
+    },
+    {
+      "tagalog": "Sino ang babae?",
+      "english": "Who is the woman?",
+      "required": true,
+      "audioPath": "77dc74f0-2e53-414f-903a-e4738b24f7fc"
+    },
+    {
+      "tagalog": "Si nanay ang babae.",
+      "english": "The woman is Mother.",
+      "required": true,
+      "audioPath": "b7feccd4-33f1-4d51-9270-88b549dc80fe"
+    }
+  ]
+}

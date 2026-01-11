@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson3",
+  "title": "Lesson 3 - Ano; What",
+  "vocabulary": [
+    {
+      "tagalog": "anó",
+      "english": "what",
+      "required": true,
+      "audioPath": "332099d0-1fc1-40d8-a290-12133a51f786"
+    },
+    {
+      "tagalog": "inumin",
+      "english": "beverage",
+      "required": true,
+      "audioPath": "9d27320e-2f97-49e3-9d82-4420fa020d0b"
+    },
+    {
+      "tagalog": "tubig",
+      "english": "water",
+      "required": true,
+      "audioPath": "a1b45e02-0a9a-42fe-b657-13413374a384"
+    },
+    {
+      "tagalog": "pera",
+      "english": "money",
+      "required": true,
+      "audioPath": "4caa9b18-556c-415e-9105-1a6cf7c26d57"
+    },
+    {
+      "tagalog": "piso",
+      "english": "peso",
+      "required": true,
+      "audioPath": "2503efcd-d412-4b13-8d1c-7ca165491b18"
+    },
+    {
+      "tagalog": "adobo",
+      "english": "a Philippine dish",
+      "required": true,
+      "audioPath": "a98d7c7d-7b57-484f-9ee4-330edc779d57"
+    },
+    {
+      "tagalog": "pagkain",
+      "english": "food",
+      "required": true,
+      "audioPath": "45c58d76-d907-461b-959a-2d479800c51c"
+    },
+    {
+      "tagalog": "ano’ng",
+      "english": "what is",
+      "required": false,
+      "audioPath": "1ad761d7-fb53-4214-b116-7b3576a67f19"
+    },
+    {
+      "tagalog": "anong",
+      "english": "which",
+      "required": false,
+      "audioPath": "58d51739-1a35-480a-8e67-6c9af4fd3673"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, we will learn to ask questions with “what”, which is _ano_ in Tagalog. Before doing this lesson, you will need to memorize the _ang _form demonstrative pronouns (dp, E.g. this, that, these and those), and read “_Yun _instead of _Iyan _and _Iyon_” in **Appendix A**. Also, you will begin to use the Linker, so please read **Appendix B**."
+    },
+    {
+      "type": "h2",
+      "markdown": "**Ano** + subject? (Tag.) = What is subject? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang adobo?",
+        "english": "What is adobo?",
+        "required": true,
+        "audioPath": "a6e36293-4da7-4b88-9f0b-052fed1cae47"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang tubig?",
+        "english": "What is water?",
+        "required": true,
+        "audioPath": "b9aadb3b-e0d0-4873-8eb2-68ef18f539d3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang piso?",
+        "english": "What is a peso?",
+        "required": true,
+        "audioPath": "860fdaef-82de-49dc-a75f-7398365a9166"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>*Extra1: Ano ang vs ano’ng vs anong</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Instead of _ano ang_, you will sometimes hear its contraction, _ano'ng_, in colloquial speech. We are not going to use _ano'ng _in this book because it is easy to confuse with _anong_, which has the same pronunciation but different meaning:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang adobo?",
+        "english": "What is adobo?",
+        "required": true,
+        "audioPath": "b915f51d-446b-4f9b-a81d-b247403c4b66"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano’ng adobo?",
+        "english": "What is adobo?",
+        "required": true,
+        "audioPath": "0eeb5a58-7fde-43f9-94fe-0a1417017c4b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Anong adobo?",
+        "english": "Which adobo?",
+        "required": true,
+        "audioPath": "da52e459-5d7d-4b1c-9f4f-c22b50400372"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "To answer these simple ano ang questions, you can use this construction:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Predicate** + subject. (Tag.) = Subject is predicate. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkain ang adobo.",
+        "english": "Adobo is food.",
+        "required": true,
+        "audioPath": "2db07191-f202-44d0-9339-9c7ce6248bd3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inumin ang tubig.",
+        "english": "Water is a drink.",
+        "required": true,
+        "audioPath": "64a60065-6171-4bfe-aec7-8316db2c706c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pera ang piso.",
+        "english": "A peso is money.",
+        "required": true,
+        "audioPath": "a0d05ef3-388d-4270-b154-f00156743304"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "*But if you want to ask something like “What is **the **drink?” (as in “What is the drink she is drinking?”) you should not say _Ano ang inumin?_ because it will normally be interpreted as “What is **a **drink?” You should instead say things like “What is **that** drink?” to be better understood:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Ano** + subject + linker + dp? (Tag.) = What is dp subject? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Subject & dp take _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang pagkaing ito?",
+        "english": "What is this food?",
+        "required": true,
+        "audioPath": "07c8458e-3828-414d-a838-4e160ef6374b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang mga inuming yun?",
+        "english": "What are those drinks?",
+        "required": true,
+        "audioPath": "09436226-90cd-4c3b-9dd2-427986c93179"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang perang ito?",
+        "english": "What is this money?",
+        "required": true,
+        "audioPath": "6947471a-67b0-458e-8604-1aa2a1773129"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>*Extra2: Ang does not always mean “the”</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "It was mentioned that _Ano ang inumin? _sounds more like “What is a drink?” rather than “What is the drink?” to native speakers. I wanted to point out that although it is sometimes convenient to translate _ang_ as “the”, it is actually just a noun marker, so this does not always work."
+    },
+    {
+      "type": "p",
+      "markdown": "To answer these, use:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Predicate** + subject + linker + dp. (Tag.) = Dp predicate is subject. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Subject & dp take _ang_ form. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Adobo ang pagkaing ito.",
+        "english": "This food is adobo.",
+        "required": true,
+        "audioPath": "2c7537a2-a31e-489d-ac11-1b3cfa13d921"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tubig ang mga inuming yun.",
+        "english": "Those drinks are water.",
+        "required": true,
+        "audioPath": "ba44697e-0494-42e7-8193-2c1fdf99d9fc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Piso ang perang ito.",
+        "english": "This money is a peso.",
+        "required": true,
+        "audioPath": "77a2973d-bc74-4b41-996e-6dafd33c05a9"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Definite vs Indefinite</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Saying things like “What is **that **drink?” rather than “What is **a **drink?” is an example of using a **Definite **rather than **Indefinite** structure. You will see this Definite vs Indefinite distinction again. I just wanted to say here that there are more ways to make a noun Definite, in addition to dps."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Word order in “A is B” type sentences</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "In English “A is B” type sentences, A is the subject and B is the predicate. You may have noticed that these take the form “predicate + subject” in Tagalog, which is the opposite of English."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Si Mrs. Castillo ang guro.",
+        "english": "The teacher is Mrs. Castillo.",
+        "required": true,
+        "audioPath": "3a0335b6-117c-43b8-b96f-b163388a5adc"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Depending on the sentence, native speakers may invert the English definition. For example, “Mrs. Castillo is the teacher” is a perfectly valid definition for the above sentence. However, this does not always work."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkain ang adobo.",
+        "english": "Adobo is food.",
+        "required": true,
+        "audioPath": "95ebffe3-1daa-47c8-ab10-fe008042a0ae"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In this example, it would be wrong to say “Food is adobo”, because it is a false statement (food is not always adobo), so native speakers would not invert this English definition. In this book, to be consistent, we will use the subject + predicate order in the English definition, unless otherwise specified."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Dps in “A is B” type sentences</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Sometimes demonstrative pronouns appear to violate the normal sentence order in “A is B” sentences. Here are some examples with the dp _ito_."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tubig ito.",
+        "english": "This is water.",
+        "required": true,
+        "audioPath": "04d1c437-94c1-4f91-a9d0-510766a65e11"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is normal order; the Tagalog is predicate + subject, and English is subject + predicate. But:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ito ang tubig.",
+        "english": "This is the water.",
+        "required": true,
+        "audioPath": "4f31bc88-79dc-4d82-9af1-e93f92184e24"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Actually, the Tagalog is using the normal predicate + subject order here. But the English definition is inverted, because it sounds strange to say “The water is this”. So this is an exception, because the English takes predicate + subject form."
+    },
+    {
+      "type": "p",
+      "markdown": "This is not all for _ano_; we will go deeper into it in later lessons."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ano ang inuming ito?",
+      "english": "What is this drink?",
+      "required": true,
+      "audioPath": "7309b759-8772-4878-bdd6-66f10722f1b7"
+    },
+    {
+      "tagalog": "Tubig ang inuming ito.",
+      "english": "This drink is water.",
+      "required": true,
+      "audioPath": "77a9dcfb-517e-408e-9808-6d7d9eaafce1"
+    },
+    {
+      "tagalog": "Ano ang mga yun?",
+      "english": "What are those?",
+      "required": true,
+      "audioPath": "1f8cdd59-4868-4bcd-b7ad-4f9737a04769"
+    },
+    {
+      "tagalog": "Mga piso yun. Yun ang pera.",
+      "english": "Those are pesos. That is the money.",
+      "required": true,
+      "audioPath": "c4fd72ed-6d90-4957-959d-ea24bcf36283"
+    },
+    {
+      "tagalog": "Ano ang pagkaing yun?",
+      "english": "What is that food?",
+      "required": true,
+      "audioPath": "731a9b85-5cfc-4465-82e1-036ad699d780"
+    },
+    {
+      "tagalog": "Adobo ang pagkaing yun.",
+      "english": "That food is adobo.",
+      "required": true,
+      "audioPath": "015fb5fa-db2c-43d5-8669-7b5038d121e2"
+    },
+    {
+      "tagalog": "Ano ang perang yun?",
+      "english": "What is that money?",
+      "required": true,
+      "audioPath": "8d96ca33-688e-4c5a-ad18-ea415ceb22d7"
+    },
+    {
+      "tagalog": "Piso ang perang ito.",
+      "english": "This money is a peso.",
+      "required": true,
+      "audioPath": "0872e0d1-2313-4a7b-8146-4d57c93c8404"
+    },
+    {
+      "tagalog": "Ano ang mga inuming ito?",
+      "english": "What are these drinks?",
+      "required": true,
+      "audioPath": "cee153a3-f370-4f51-a060-1e45e1d6d406"
+    },
+    {
+      "tagalog": "Tubig ang mga inuming ito.",
+      "english": "These drinks are water.",
+      "required": true,
+      "audioPath": "ec7d460e-b46a-4e34-bb42-10a1a8aef586"
+    }
+  ]
+}

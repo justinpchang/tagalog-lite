@@ -1,0 +1,157 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/lesson.schema.json",
+  "title": "Lesson",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "id",
+    "title",
+    "vocabulary",
+    "contents",
+    "exampleSentences"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Schema version for this lesson JSON format."
+    },
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-zA-Z0-9][a-zA-Z0-9._-]*$",
+      "description": "Stable identifier for the lesson (used for routing, filenames, and references)."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable lesson title."
+    },
+    "vocabulary": {
+      "type": "array",
+      "description": "Vocabulary items introduced in the lesson.",
+      "items": {
+        "$ref": "#/$defs/BilingualItem"
+      }
+    },
+    "contents": {
+      "type": "array",
+      "description": "Ordered sequence of lesson blocks.",
+      "items": {
+        "$ref": "#/$defs/Block"
+      }
+    },
+    "exampleSentences": {
+      "type": "array",
+      "description": "Example sentences associated with the lesson.",
+      "items": {
+        "$ref": "#/$defs/BilingualItem"
+      }
+    }
+  },
+  "$defs": {
+    "AudioPath": {
+      "description": "Bundle-relative path to an audio file. Use null if no audio is available.",
+      "oneOf": [
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "BilingualItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "tagalog",
+        "english",
+        "required",
+        "audioPath"
+      ],
+      "properties": {
+        "tagalog": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Tagalog text."
+        },
+        "english": {
+          "type": "string",
+          "minLength": 1,
+          "description": "English translation/gloss."
+        },
+        "required": {
+          "type": "boolean",
+          "description": "Whether the learner is expected to master this item (e.g., core vs optional)."
+        },
+        "audioPath": {
+          "$ref": "#/$defs/AudioPath"
+        }
+      }
+    },
+    "MarkdownText": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Markdown content used for inline emphasis such as italics and bolding."
+    },
+    "TextBlockType": {
+      "type": "string",
+      "enum": [
+        "p",
+        "h1",
+        "h2",
+        "h3"
+      ],
+      "description": "Supported markdown text block types."
+    },
+    "TextBlock": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "markdown"
+      ],
+      "properties": {
+        "type": {
+          "$ref": "#/$defs/TextBlockType"
+        },
+        "markdown": {
+          "$ref": "#/$defs/MarkdownText"
+        }
+      }
+    },
+    "SentenceBlock": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "item"
+      ],
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "sentence",
+          "description": "Discriminator for sentence blocks."
+        },
+        "item": {
+          "$ref": "#/$defs/BilingualItem"
+        }
+      }
+    },
+    "Block": {
+      "description": "A single lesson content block (tagged union).",
+      "oneOf": [
+        {
+          "$ref": "#/$defs/TextBlock"
+        },
+        {
+          "$ref": "#/$defs/SentenceBlock"
+        }
+      ]
+    }
+  }
+}

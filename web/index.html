@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tagalog Lite – Lesson Viewer</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="topbar__inner">
+      <div class="brand">
+        <div class="brand__title">Tagalog Lite</div>
+        <div class="brand__subtitle">Normalized lesson viewer</div>
+      </div>
+
+      <div class="controls">
+        <label class="file">
+          <input id="fileInput" type="file" accept="application/json" />
+          <span>Select JSON…</span>
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <main class="page">
+    <div id="status" class="status">
+      Load a file, or run a local server and use
+      `?file=normalized/lesson3.json`.
+    </div>
+
+    <article id="lesson" class="lesson" hidden>
+      <h1 id="lessonTitle" class="lesson__title"></h1>
+
+      <section class="section" id="vocabSection">
+        <h2>Vocabulary</h2>
+        <div id="vocab" class="grid"></div>
+      </section>
+
+      <section class="section" id="contentsSection">
+        <h2>Lesson</h2>
+        <div id="contents" class="contents"></div>
+      </section>
+
+      <section class="section" id="examplesSection">
+        <h2>Sample sentences</h2>
+        <div id="examples" class="grid"></div>
+      </section>
+    </article>
+  </main>
+
+  <script src="./viewer.js"></script>
+</body>
+
+</html>

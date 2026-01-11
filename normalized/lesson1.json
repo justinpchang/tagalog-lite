@@ -1,0 +1,529 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson1",
+  "title": "Lesson 1 - Pronunciation",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Although this is a grammar book, I include this lesson because I believe starting to learn a language without having a good base in pronunciation can lead to fossilized errors, which are hard to reverse in the future."
+    },
+    {
+      "type": "p",
+      "markdown": "My goal here is not to give a written description of all aspects of Tagalog pronunciation – that would fill too many pages. Instead, I will give you the basics and ask you to rely heavily on listening to audio and repeating as described below."
+    },
+    {
+      "type": "h1",
+      "markdown": "How to do this lesson"
+    },
+    {
+      "type": "p",
+      "markdown": "While reading through this lesson you will encounter Tagalog words with audio that are used to demonstrate certain aspects of pronunciation. As you go along, listen to the audio and repeat. Do one enough times to feel you are pronouncing it correctly, then move onto the next one. The English translations are for reference only; there is no need to memorize vocabulary at this point."
+    },
+    {
+      "type": "p",
+      "markdown": "After going through the whole lesson, go through it again, this time without reading any descriptions. Hide the English, look at the first Tagalog word, pronounce it, then listen to the audio. If your pronunciation is correct, go onto the next word. If not, keep doing it until you feel that you are pronouncing it correctly, then move on."
+    },
+    {
+      "type": "p",
+      "markdown": "Repeat the previous step until you feel that you are pronouncing them all correctly the first time with ease."
+    },
+    {
+      "type": "h2",
+      "markdown": "Stress"
+    },
+    {
+      "type": "p",
+      "markdown": "In a Tagalog word, a stressed vowel is one that is pronounced longer or louder than non-stressed vowels. In most cases, the stress is on the second to last vowel. Stress is not marked in normal writing."
+    },
+    {
+      "type": "p",
+      "markdown": "In some learning materials, stress is marked to demonstrate the correct pronunciation of a word. In this book, we use the official system for denoting stress (and glottal stops) the first time you encounter a word. **Stress is not marked on single syllable words. Stress is not marked if it occurs on the second-to-last vowel. Stress is marked with an acute accent mark (á) if it occurs in other locations** (when there is no glottal stop)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa",
+        "english": "(at) There are no marks because it is a single syllable word.",
+        "required": true,
+        "audioPath": "0d55a341-13c6-4f4d-9b4a-53294bd58360"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "babae",
+        "english": "(woman) There are no marks because stress occurs on the second-to-last vowel.",
+        "required": true,
+        "audioPath": "0909497f-f69d-4e6b-b8cc-c0e05de2114e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "gabí",
+        "english": "(night) There is an acute accent mark because stress does not occur on the second-to-last vowel.",
+        "required": true,
+        "audioPath": "4bb152ba-ca72-4600-b497-a473e330f14b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Using the correct stress is very important because incorrect stress may confuse native speakers, and sometimes change the meaning of the word:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "inumin",
+        "english": "(beverage)",
+        "required": true,
+        "audioPath": "79cb3838-027f-48b7-b3d3-2c665f6da0a7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "inumín",
+        "english": "(to drink something)",
+        "required": true,
+        "audioPath": "22d468f3-f634-4cf2-a176-21632cf0ccd4"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "Glottal Stop"
+    },
+    {
+      "type": "p",
+      "markdown": "When there is a glottal stop, the sound is somewhat shorter and ends abruptly, like in English after the “uh” in the exclamation “uh-oh”. There are three places where glottal stops occur that you should be aware of."
+    },
+    {
+      "type": "p",
+      "markdown": "First, sometimes they occur after the **last letter of a word if the word ends in a vowel**. These are not marked in normal writing. We are using the official system, so the first time you encounter a word in this book, **a glottal stop will be marked with a grave accent mark (à) if the vowel is unstressed, and a circumflex accent mark (â) if the vowel is stressed**:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "gurò",
+        "english": "(teacher) There is a grave accent mark because the “o” is unstressed.",
+        "required": true,
+        "audioPath": "dd25a648-8c2b-4b9b-a596-7c584ed04c55"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "walâ",
+        "english": "(nothing) There is a circumflex accent mark because the “a” is stressed.",
+        "required": true,
+        "audioPath": "821de6d6-1bf3-4eaa-8657-a7d9006eb337"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Note that these last letter glottal stops disappear if a suffix is added:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "waláng pera",
+        "english": "(no money) The glottal stop disappeared because the suffix ng was added to walâ.",
+        "required": true,
+        "audioPath": "315f305f-731b-4632-986f-8df6fc1e105d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Second, **when there are two or more adjacent vowels in a word, each will have a glottal stop after it except for the last one**. These are not marked:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "oo",
+        "english": "(yes) sounds like ô + o",
+        "required": true,
+        "audioPath": "fa5cb70d-3e15-4894-9668-4e1a5f15fdaf"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "taón",
+        "english": "(year) sounds like tà + on",
+        "required": true,
+        "audioPath": "9c59c6dd-6601-499d-b611-599d91e119a2"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Third, **when there is a hyphen (-) between a consonant and a vowel, there is a glottal stop after the consonant.** (Tip: If you pronounce the parts of a hyphenated word as two separate words, you will be pronouncing them correctly.) Notice the difference between the sound of the _g_ in these words:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mag-aral",
+        "english": "(to study) the g has a glottal stop",
+        "required": true,
+        "audioPath": "03acace7-9037-4987-b04a-12687e10541e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magandá",
+        "english": "(beautiful) the g has no glottal stop",
+        "required": true,
+        "audioPath": "861718a5-418b-4c17-a235-7afbc33be1bc"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "Alphabet"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A aso",
+        "english": "(dog) sounds like the a in father",
+        "required": true,
+        "audioPath": "1298d300-f11b-4d2c-9ec3-b25fd87b6586"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "B babae",
+        "english": "(girl; woman) sounds like the b in boy",
+        "required": true,
+        "audioPath": "e248e39d-2ca7-4724-b9d6-304b30821d33"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "D dito",
+        "english": "(here) sounds like the d in dog",
+        "required": true,
+        "audioPath": "9e7fa7a4-5712-4aed-87c6-5b8faba9fefb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "E estudyante",
+        "english": "(student) sounds like the e in egg",
+        "required": true,
+        "audioPath": "56121f9c-c277-428e-9031-084dbd953d75"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "G gurò",
+        "english": "(teacher) sounds like the g in game",
+        "required": true,
+        "audioPath": "1ab0bf8b-3c20-4072-a187-f0d8bcc26cf6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "H hindî",
+        "english": "(no) sounds like the h in heart",
+        "required": true,
+        "audioPath": "261e1898-8ef5-42d0-a9f8-7254aa8c11e5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "I ilán",
+        "english": "(how many) sounds like the i in it",
+        "required": true,
+        "audioPath": "215f46d1-2170-4723-afc1-74241b8426b0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "K* ka",
+        "english": "(you) sounds like the k in karate",
+        "required": true,
+        "audioPath": "cc16ffa9-220c-4bad-b627-86ab793bfb4b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "L lalaki",
+        "english": "(boy; man) sounds like the l in like",
+        "required": true,
+        "audioPath": "f356a014-5e58-412c-ad9e-aedc55cdf5d1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "M magandá",
+        "english": "(beautiful) sounds like the m in mom",
+        "required": true,
+        "audioPath": "29887c23-67cd-4e4e-9411-debd839525d8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "N na",
+        "english": "(already) sounds like the n in name",
+        "required": true,
+        "audioPath": "cf580969-3b78-4ac8-b3d4-04ed860b5a62"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "O** oo",
+        "english": "(yes) sounds like the o in old",
+        "required": true,
+        "audioPath": "f1ddea16-1996-449b-940e-4e5d16f83c4b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "P* pera",
+        "english": "(money) sounds like the p in pin",
+        "required": true,
+        "audioPath": "daf0d240-aa9a-4d68-88a3-d0689f4a1e3e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "R*** rin",
+        "english": "(also) -",
+        "required": true,
+        "audioPath": "15213d41-79e3-4b5d-80b8-2366c429c408"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "S sa",
+        "english": "(at) sounds like the s in so",
+        "required": true,
+        "audioPath": "fac6bd89-5e74-438a-aff7-b1c475d013e4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "T* taón",
+        "english": "(year) sounds like the t in tall",
+        "required": true,
+        "audioPath": "df316791-a48a-4d34-88f5-c8608f9be803"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "U umaga",
+        "english": "(morning) sounds like the oo in boot",
+        "required": true,
+        "audioPath": "e2fed8a9-a6ba-45c0-82e2-9c2a1594530a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "W walâ",
+        "english": "(nothing) sounds like the w in way",
+        "required": true,
+        "audioPath": "9ed6c439-654a-4a30-81ec-17bfe0bb2d23"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Y yun",
+        "english": "(that) sounds like the y in yes",
+        "required": true,
+        "audioPath": "61994813-c688-4eb8-bfda-70af9a285c2c"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "* _k, p _and _t_ are not aspirated in Tagalog, meaning you do not release a little puff of air when you pronounce them like you do in English."
+    },
+    {
+      "type": "p",
+      "markdown": "** _o _is shorter in Tagalog than English. If you start to pronounce _o _in English, but stop half-way through, it will sound like the Tagalog _o_."
+    },
+    {
+      "type": "p",
+      "markdown": "*** _r_ has no equivalent sound in English, but it is the same as the Spanish soft “r”. It sounds a bit like the “dd” in ladder."
+    },
+    {
+      "type": "p",
+      "markdown": "Variations – when _i _comes at the end of a word, it can be pronounced more like a Tagalog _e; k_ can sound like the “ch” in “loch” when surrounded by vowels."
+    },
+    {
+      "type": "p",
+      "markdown": "Loan letters _c, f, j, q, v, x, z_ sometimes appear, and they are normally pronounced the same as their English counterparts. But not always – for exceptions, see the section on Spanish Words below."
+    },
+    {
+      "type": "h2",
+      "markdown": "Combination letters"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "DIY/DY diyés",
+        "english": "(ten) sounds like the j in jam",
+        "required": true,
+        "audioPath": "c81bc7f7-8025-474f-bc42-dc0df0d56dcd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "NG ngayón",
+        "english": "(now) sounds like the ng in sang",
+        "required": true,
+        "audioPath": "d2ffc406-ff8b-4149-a93b-c40809333a10"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "NIY/NY niyá",
+        "english": "(his/hers) sounds like the ny in canyon",
+        "required": true,
+        "audioPath": "6395ce43-1859-430a-95b1-c5cfd9e13be3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "SIY/SY siyá",
+        "english": "(he/she) sounds like the sh in shot",
+        "required": true,
+        "audioPath": "9c66b110-524a-4973-b87b-6b15362701f6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "TS tsokolate",
+        "english": "(chocolate) sounds like the ch in chill",
+        "required": true,
+        "audioPath": "d19e9709-761c-463e-9fb0-25ef4602906b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Variations – _diy, niy _and _siy _can also be pronounced as their individual letters (meaning the _i _gets pronounced), or somewhere in between. For example, _diyes_ can be pronounced as “jes”, “di-yes” or “jyes”."
+    },
+    {
+      "type": "h2",
+      "markdown": "Spanish Spelling"
+    },
+    {
+      "type": "p",
+      "markdown": "Many Tagalog words come from Spanish, and most are spelled in Tagalog. Although Tagalog spelling is always possible, some words normally retain their Spanish spelling. These words are mostly proper nouns, but there are a few exceptions, such as _lechon_. Most are pronounced the same as their Spanish counterparts, but notice that the Spanish “ll”, which sounds like the “y” in “yes” in English, is pronounced _ly _in Tagalog. Also, “z”, which sounds like “s” in “so” in English, is normally pronounced _z_ in Tagalog."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "lechón",
+        "english": "(suckling pig) pronounced as letsón",
+        "required": true,
+        "audioPath": "13facac8-589d-4a44-a724-104c02ad534d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Parañaque",
+        "english": "(a city) pronounced as Paraniyake",
+        "required": true,
+        "audioPath": "abdcf1be-da61-4c4f-8d59-b2af8b4c09ed"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Castillo",
+        "english": "(a surname) pronounced as Kastilyo",
+        "required": true,
+        "audioPath": "a0d8bb03-fcdd-4cc3-bc83-f8ba67f0f7d6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Luzón",
+        "english": "(an island) pronounced as Luzón",
+        "required": true,
+        "audioPath": "c0d90b1c-d198-41ce-953e-4b45d763aa67"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Joaquin",
+        "english": "(a first name) pronounced as Huwakín or Wakín",
+        "required": true,
+        "audioPath": "23f21902-92c7-469e-8577-d4e72756d391"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "Names of letters"
+    },
+    {
+      "type": "p",
+      "markdown": "The names of letters A thru Z, and combination letters, are the same as English. _Ñ _is pronounced the same as Spanish (_enye_)."
+    },
+    {
+      "type": "h2",
+      "markdown": "Special words"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ng",
+        "english": "Pronounced nang (and roughly means “of”). Note that this is a word, not to be confused with the combination letters above.",
+        "required": true,
+        "audioPath": "670fbdc8-7302-4d3f-a644-be3caba32f05"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mga",
+        "english": "Pronounced mangá (a grammatical word used to make plurals).",
+        "required": true,
+        "audioPath": "ad0d67f6-d0bf-48fa-b137-20559ca47ce7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ninyó",
+        "english": "May be pronounced as spelt, but is often pronounced nyo in colloquial speech (ng form word for you (plural/singular respectful)).",
+        "required": true,
+        "audioPath": "9c6b7543-d048-41d0-96ad-b4d45ec00413"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "Sentence-level pronunciation."
+    },
+    {
+      "type": "p",
+      "markdown": "This lesson has covered pronunciation from single sounds up to entire words. After mastering that, the next step is to practice sentence-level pronunciation. At the end of each lesson, there are 10 Sample Sentences and a link to the Drills. For at least 10 minutes per day, listen to the audio of some of these sentences and repeat, trying to sound just like the audio. And that means not only hitting the right vowels and consonants, but also having the right stress, glottal stops and prosody. Take special care with your _k, p, t _and _o_’s. I encourage you to keep doing this practice until you feel you are pronouncing the sentences almost perfectly. This may take several weeks for beginners, but it is well worth it."
+    }
+  ],
+  "exampleSentences": []
+}
