@@ -1,0 +1,6 @@
+# Ignore downloaded audio assets
+/audio/*.mp3
+/audio/*.mp4
+/audio/*.m4a
+
+

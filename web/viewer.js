@@ -4,9 +4,87 @@ function $(id) {
   return el;
 }
 
+function $maybe(id) {
+  return document.getElementById(id);
+}
+
 function setStatus(text) {
   $("status").textContent = text;
 }
+
+const audioPlayer = new Audio();
+audioPlayer.preload = "none";
+
+let currentPlaying = { blobKey: null, btn: null };
+
+function setPlaying(btn, isPlaying) {
+  if (!btn) return;
+  btn.dataset.playing = isPlaying ? "true" : "false";
+  btn.textContent = isPlaying ? "❚❚" : "▶";
+}
+
+function createPlayButton(blobKey) {
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "playBtn";
+  btn.textContent = "▶";
+  btn.dataset.blobKey = blobKey;
+  btn.dataset.playing = "false";
+  btn.title = "Play audio";
+
+  btn.addEventListener("click", async () => {
+    const key = btn.dataset.blobKey;
+    if (!key) return;
+
+    // Toggle if clicking the same currently playing item.
+    if (currentPlaying.blobKey === key) {
+      if (!audioPlayer.paused) {
+        audioPlayer.pause();
+        setPlaying(btn, false);
+      } else {
+        try {
+          await audioPlayer.play();
+          setPlaying(btn, true);
+        } catch {
+          // ignore
+        }
+      }
+      return;
+    }
+
+    // Switch tracks.
+    if (currentPlaying.btn) setPlaying(currentPlaying.btn, false);
+    currentPlaying = { blobKey: key, btn };
+    setPlaying(btn, true);
+
+    const base = `../audio/${key}`;
+    const candidates = [`${base}.m4a`, `${base}.mp3`, `${base}.mp4`];
+
+    let played = false;
+    for (const src of candidates) {
+      audioPlayer.src = src;
+      try {
+        await audioPlayer.play();
+        played = true;
+        break;
+      } catch {
+        // try next extension
+      }
+    }
+
+    if (!played) {
+      setPlaying(btn, false);
+      setStatus(`Could not play audio for ${key}. (Did you download it into /audio?)`);
+    }
+  });
+
+  return btn;
+}
+
+audioPlayer.addEventListener("ended", () => {
+  if (currentPlaying.btn) setPlaying(currentPlaying.btn, false);
+  currentPlaying = { blobKey: null, btn: null };
+});
 
 function escapeHtml(s) {
   return String(s ?? "")
@@ -57,9 +135,17 @@ function renderBilingualGrid(container, items) {
     t.className = "tagalog";
     t.textContent = item.tagalog;
 
+    const actions = document.createElement("div");
+    actions.className = "card__actions";
+
     const pill = createPill(Boolean(item.required));
+    actions.appendChild(pill);
+    if (typeof item.audioPath === "string" && item.audioPath.trim()) {
+      actions.appendChild(createPlayButton(item.audioPath.trim()));
+    }
+
     top.appendChild(t);
-    top.appendChild(pill);
+    top.appendChild(actions);
 
     const e = document.createElement("div");
     e.className = "english";
@@ -89,6 +175,9 @@ function renderContents(container, blocks) {
 
       row.appendChild(left);
       row.appendChild(right);
+      if (typeof block.item?.audioPath === "string" && block.item.audioPath.trim()) {
+        row.appendChild(createPlayButton(block.item.audioPath.trim()));
+      }
       container.appendChild(row);
       continue;
     }
@@ -155,11 +244,14 @@ function init() {
     if (file) loadFromFile(file);
   });
 
-  $("loadDefaultBtn").addEventListener("click", () => {
-    loadFromUrl("../normalized/lesson3.json").catch((e) => {
-      setStatus(e instanceof Error ? e.message : String(e));
+  const loadDefaultBtn = $maybe("loadDefaultBtn");
+  if (loadDefaultBtn) {
+    loadDefaultBtn.addEventListener("click", () => {
+      loadFromUrl("../normalized/lesson3.json").catch((e) => {
+        setStatus(e instanceof Error ? e.message : String(e));
+      });
     });
-  });
+  }
 
   const params = new URLSearchParams(window.location.search);
   const file = params.get("file");

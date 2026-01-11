@@ -6,7 +6,7 @@
  *   node scripts/serve.js
  * Then open:
  *   http://localhost:5173/web/
- *   http://localhost:5173/web/?file=exports/lesson3.normalized.json
+ *   http://localhost:5173/web/?file=normalized/lesson3.json
  */
 const http = require("node:http");
 const fs = require("node:fs");
@@ -25,6 +25,7 @@ const MIME = {
   ".jpg": "image/jpeg",
   ".jpeg": "image/jpeg",
   ".mp3": "audio/mpeg",
+  ".m4a": "audio/mp4",
   ".mp4": "video/mp4",
 };
 
@@ -73,5 +74,3 @@ server.listen(port, "127.0.0.1", () => {
   // eslint-disable-next-line no-console
   console.log(`Server running at http://localhost:${port}/web/`);
 });
-
-

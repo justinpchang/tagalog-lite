@@ -8,7 +8,7 @@ This repo is an early prototype for turning **LanguageCrush Tagalog Lite** lesso
 - **Schema**: `lesson.schema.json` (normalized format)
 - **Converter**: `scripts/convert.js` (extracts `bodyRaw` from the HTML and normalizes it)
 - **Normalized output**: `normalized/*.json`
-- **Viewer**: `web/` (renders a normalized JSON in the browser; audio ignored)
+- **Viewer**: `web/` (renders a normalized JSON in the browser)
 
 ## Convert an exported lesson
 
@@ -38,3 +38,9 @@ Open:
 
 - `http://localhost:5173/web/`
 - or load a specific file: `http://localhost:5173/web/?file=normalized/lesson3.json`
+
+## Note: audio files
+
+- **Download audio**: `node scripts/download-audio.js` (scans `normalized/*.json` and downloads blobs into `audio/`)
+- **Playback in viewer**: the viewer looks for `audio/<blobKey>.m4a`, then `.mp3`, then `.mp4`
+- **Git**: audio media files under `audio/` are ignored via `.gitignore`
