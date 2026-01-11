@@ -325,7 +325,10 @@ function normalizeRawContentState(raw, { id, title }) {
       if (text && !suppressedSection && !isGrammarHeader) {
         contents.push({
           type: draftBlockTypeToSchemaTextType(type),
-          markdown: draftTextToMarkdown(block?.text ?? "", block?.inlineStyleRanges),
+          markdown: draftTextToMarkdown(
+            block?.text ?? "",
+            block?.inlineStyleRanges
+          ),
         });
       }
       continue;
@@ -338,7 +341,9 @@ function normalizeRawContentState(raw, { id, title }) {
       if (entityType !== "EXAMPLE" && entityType !== "QUESTION") continue;
 
       // blobKey only (no audio fetching in-app yet)
-      const audioPath = entity?.data?.blobKey ? String(entity.data.blobKey) : null;
+      const audioPath = entity?.data?.blobKey
+        ? String(entity.data.blobKey)
+        : null;
       const baseItem = entityToBilingualItem(entity, audioPath);
 
       if (suppressedSection === "vocabulary") {
@@ -376,7 +381,10 @@ function normalizeRawContentState(raw, { id, title }) {
 
     contents.push({
       type: draftBlockTypeToSchemaTextType(type),
-      markdown: draftTextToMarkdown(block?.text ?? "", block?.inlineStyleRanges),
+      markdown: draftTextToMarkdown(
+        block?.text ?? "",
+        block?.inlineStyleRanges
+      ),
     });
   }
 
@@ -393,7 +401,9 @@ function normalizeRawContentState(raw, { id, title }) {
 function main() {
   const args = process.argv.slice(2);
   if (args.length !== 1) {
-    console.error('Usage: node scripts/convert.js <key>   (example: "lesson3")');
+    console.error(
+      'Usage: node scripts/convert.js <key>   (example: "lesson3")'
+    );
     process.exit(2);
   }
 
@@ -434,5 +444,3 @@ function main() {
 }
 
 main();
-
-
