@@ -57,8 +57,12 @@ function createPlayButton(blobKey) {
     currentPlaying = { blobKey: key, btn };
     setPlaying(btn, true);
 
-    const base = `../audio/${key}`;
-    const candidates = [`${base}.m4a`, `${base}.mp3`, `${base}.mp4`];
+    const bases = [`../ios/tagalog-lite/raw/audio/${key}`, `../audio/${key}`];
+    const candidates = bases.flatMap((base) => [
+      `${base}.m4a`,
+      `${base}.mp3`,
+      `${base}.mp4`,
+    ]);
 
     let played = false;
     for (const src of candidates) {
@@ -247,7 +251,7 @@ function init() {
   const loadDefaultBtn = $maybe("loadDefaultBtn");
   if (loadDefaultBtn) {
     loadDefaultBtn.addEventListener("click", () => {
-      loadFromUrl("../normalized/lesson3.json").catch((e) => {
+      loadFromUrl("../ios/tagalog-lite/raw/normalized/lesson3.json").catch((e) => {
         setStatus(e instanceof Error ? e.message : String(e));
       });
     });

@@ -2,8 +2,8 @@
 /**
  * Download all audio blobs referenced by normalized lessons.
  *
- * Scans:   ./normalized/*.json
- * Writes:  ./audio/<blobKey>.mp3
+ * Scans:   ./ios/tagalog-lite/raw/normalized/*.json
+ * Writes:  ./ios/tagalog-lite/raw/audio/<blobKey>.mp3
  *
  * Usage:
  *   node scripts/download-audio.js
@@ -18,8 +18,9 @@ const fs = require("node:fs");
 const path = require("node:path");
 
 const ROOT = path.resolve(__dirname, "..");
-const NORMALIZED_DIR = path.join(ROOT, "normalized");
-const AUDIO_DIR = path.join(ROOT, "audio");
+const RAW_DIR = path.join(ROOT, "ios", "tagalog-lite", "raw");
+const NORMALIZED_DIR = path.join(RAW_DIR, "normalized");
+const AUDIO_DIR = path.join(RAW_DIR, "audio");
 const MANIFEST_PATH = path.join(AUDIO_DIR, "manifest.json");
 
 const BLOB_RE =

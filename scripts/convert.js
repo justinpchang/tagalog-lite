@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Convert an exported LanguageCrush lesson HTML (in ./exports) into a normalized lesson JSON (in ./normalized).
+ * Convert an exported LanguageCrush lesson HTML (in ./exports) into a normalized lesson JSON for the iOS app bundle.
  *
  * Usage:
  *   node scripts/convert.js lesson3
@@ -9,14 +9,14 @@
  *   exports/<key>.html
  *
  * It will write:
- *   normalized/<key>.json
+ *   ios/tagalog-lite/raw/normalized/<key>.json
  */
 const fs = require("node:fs");
 const path = require("node:path");
 
 const ROOT = path.resolve(__dirname, "..");
 const EXPORTS_DIR = path.join(ROOT, "exports");
-const NORMALIZED_DIR = path.join(ROOT, "normalized");
+const NORMALIZED_DIR = path.join(ROOT, "ios", "tagalog-lite", "raw", "normalized");
 
 function slugify(input) {
   const s = String(input ?? "")

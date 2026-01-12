@@ -6,7 +6,7 @@
  *   node scripts/serve.js
  * Then open:
  *   http://localhost:5173/web/
- *   http://localhost:5173/web/?file=normalized/lesson3.json
+ *   http://localhost:5173/web/?file=ios/tagalog-lite/raw/normalized/lesson3.json
  */
 const http = require("node:http");
 const fs = require("node:fs");

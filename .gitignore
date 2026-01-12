@@ -1,7 +1,14 @@
+.DS_Store
+
 # Ignore downloaded audio assets
 /audio/*.mp3
 /audio/*.mp4
 /audio/*.m4a
+
+# Ignore downloaded audio assets for the iOS bundle content directory
+/ios/tagalog-lite/raw/audio/*.mp3
+/ios/tagalog-lite/raw/audio/*.mp4
+/ios/tagalog-lite/raw/audio/*.m4a
 
 # --- iOS / Xcode ---
 # Build products / DerivedData (when they land in-repo)
