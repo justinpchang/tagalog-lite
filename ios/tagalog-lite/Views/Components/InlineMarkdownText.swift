@@ -32,7 +32,19 @@ struct InlineMarkdownText: View {
         // - Use Apple's markdown parser for **bold** and _italic_
         // - Special-case <u>...</u> and apply underline to the inner segment
         // (matches `web/viewer.js` behavior)
-        let s = markdown
+        // Fix common spacing issues produced by the exporter, e.g. "**word **next"
+        // which Apple's markdown parser won't treat as bold.
+        var s = markdown
+        s = s.replacingOccurrences(
+            of: #"\*\*\s*([^*]+?)\s*\*\*"#,
+            with: "**$1**",
+            options: .regularExpression
+        )
+        s = s.replacingOccurrences(
+            of: #"_\s*([^_]+?)\s*_"#,
+            with: "_$1_",
+            options: .regularExpression
+        )
         let pattern = #"<u>(.*?)</u>"#
 
         guard let re = try? NSRegularExpression(pattern: pattern, options: []) else {
