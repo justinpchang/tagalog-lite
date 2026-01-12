@@ -43,4 +43,5 @@ Open:
 
 - **Download audio**: `node scripts/download-audio.js` (scans `ios/tagalog-lite/raw/normalized/*.json` and downloads blobs into `ios/tagalog-lite/raw/audio/`)
 - **Playback in viewer**: the viewer looks for `ios/tagalog-lite/raw/audio/<blobKey>.m4a`, then `.mp3`, then `.mp4`
+- **Audio format note**: even if the remote URL ends with `audio.mp3`, the bytes are often an M4A container; the downloader auto-detects and saves as `.m4a` so iOS can play it.
 - **Git**: audio media files under `ios/tagalog-lite/raw/audio/` are ignored via `.gitignore`

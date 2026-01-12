@@ -67,8 +67,9 @@ final class AudioPlayerManager: NSObject, ObservableObject, AVAudioPlayerDelegat
 
     private func configureSession() throws {
         let session = AVAudioSession.sharedInstance()
-        // .ambient: respects silent switch and mixes with other audio (good for a language app).
-        try session.setCategory(.ambient, mode: .default, options: [.mixWithOthers])
+        // .playback: ignores the silent switch so lesson audio always plays.
+        // Keep mixWithOthers so we don't rudely stop background audio.
+        try session.setCategory(.playback, mode: .default, options: [.mixWithOthers])
         try session.setActive(true, options: [])
     }
 
