@@ -8,11 +8,26 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        LessonListView()
+  var body: some View {
+    TabView {
+      LessonListView()
+        .tabItem {
+          Label("Learn", systemImage: "book.fill")
+        }
+
+      PracticeView()
+        .tabItem {
+          Label("Practice", systemImage: "bolt.fill")
+        }
+
+      SettingsView()
+        .tabItem {
+          Label("Settings", systemImage: "gearshape.fill")
+        }
     }
+  }
 }
 
 #Preview {
-    ContentView()
+  ContentView()
 }
