@@ -1,6 +1,8 @@
 import SwiftUI
 
 struct LessonDetailView: View {
+    @Environment(\.dismiss) private var dismiss
+
     enum Tab: String, CaseIterable, Identifiable {
         case vocab = "Vocab"
         case lesson = "Lesson"
@@ -17,8 +19,6 @@ struct LessonDetailView: View {
             Theme.pageGradient.ignoresSafeArea()
 
             VStack(spacing: 12) {
-                titleCard
-
                 Picker("Section", selection: $tab) {
                     ForEach(Tab.allCases) { t in
                         Text(t.rawValue).tag(t)
@@ -39,26 +39,67 @@ struct LessonDetailView: View {
                 }
                 .tabViewStyle(.page(indexDisplayMode: .never))
             }
-            .padding(.top, 10)
+            .padding(.top, 6)
         }
-        .navigationBarTitleDisplayMode(.inline)
+        .navigationBarBackButtonHidden(true)
+        .toolbar(.hidden, for: .navigationBar)
+        .safeAreaInset(edge: .top) {
+            headerBar
+                .padding(.horizontal, 16)
+                .padding(.top, 8)
+                .padding(.bottom, 10)
+        }
     }
 
-    private var titleCard: some View {
-        VStack(alignment: .leading, spacing: 8) {
-            Text(lesson.title)
-                .font(.system(size: 24, weight: .heavy, design: .rounded))
+    private var headerBar: some View {
+        GlassHeaderBar {
+            HStack(alignment: .center, spacing: 12) {
+                Button {
+                    dismiss()
+                } label: {
+                    Image(systemName: "chevron.left")
+                        .font(.system(size: 14, weight: .bold))
+                        .foregroundStyle(.primary)
+                        .frame(width: 36, height: 36)
+                        .background(
+                            Circle().fill(Color.white.opacity(0.10))
+                        )
+                }
+                .buttonStyle(.plain)
+                .accessibilityLabel("Back")
 
-            HStack(spacing: 10) {
-                Label("\(lesson.vocabulary.count) vocab", systemImage: "book.fill")
-                Label("\(lesson.exampleSentences.count) examples", systemImage: "quote.bubble.fill")
+                VStack(alignment: .leading, spacing: 4) {
+                    Text(lesson.title)
+                        .font(.system(.headline, design: .rounded))
+                        .lineLimit(1)
+
+                    HStack(spacing: 10) {
+                        Label("\(lesson.vocabulary.count)", systemImage: "book.fill")
+                        Label("\(lesson.exampleSentences.count)", systemImage: "quote.bubble.fill")
+                    }
+                    .font(.system(size: 12, weight: .semibold, design: .rounded))
+                    .foregroundStyle(.secondary)
+                    .labelStyle(.titleAndIcon)
+                }
             }
-            .font(.system(.subheadline, design: .rounded))
-            .foregroundStyle(.secondary)
+        } trailing: {
+            NavigationLink {
+                StudyModeView(lesson: lesson)
+            } label: {
+                HStack(spacing: 8) {
+                    Image(systemName: "sparkles")
+                    Text("Study")
+                }
+                .font(.system(size: 13, weight: .bold, design: .rounded))
+                .foregroundStyle(.white)
+                .padding(.horizontal, 12)
+                .padding(.vertical, 8)
+                .background(
+                    Capsule().fill(Theme.accent)
+                )
+            }
+            .buttonStyle(.plain)
         }
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .tropicalCard()
-        .padding(.horizontal, 16)
     }
 }
 
