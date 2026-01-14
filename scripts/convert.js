@@ -16,7 +16,13 @@ const path = require("node:path");
 
 const ROOT = path.resolve(__dirname, "..");
 const EXPORTS_DIR = path.join(ROOT, "exports");
-const NORMALIZED_DIR = path.join(ROOT, "ios", "tagalog-lite", "raw", "normalized");
+const NORMALIZED_DIR = path.join(
+  ROOT,
+  "ios",
+  "tagalog-lite",
+  "raw",
+  "normalized"
+);
 
 function slugify(input) {
   const s = String(input ?? "")
@@ -310,7 +316,8 @@ function normalizeRawContentState(raw, { id, title }) {
   function sectionKindFromHeaderText(headerText) {
     const s = cleanText(headerText).toLowerCase();
     if (s === "vocabulary") return "vocabulary";
-    if (s === "sample sentences") return "sample";
+    if (s.startsWith("sample sentences") || s.startsWith("sample phrases"))
+      return "sample";
     if (s.startsWith("drills")) return "drills";
     return null;
   }
@@ -320,7 +327,9 @@ function normalizeRawContentState(raw, { id, title }) {
     const text = cleanText(block?.text ?? "");
 
     if (typeof type === "string" && type.startsWith("header-")) {
-      suppressedSection = sectionKindFromHeaderText(text);
+      if (suppressedSection !== "sample") {
+        suppressedSection = sectionKindFromHeaderText(text);
+      }
       const isGrammarHeader = cleanText(text).toLowerCase() === "grammar";
       if (text && !suppressedSection && !isGrammarHeader) {
         contents.push({

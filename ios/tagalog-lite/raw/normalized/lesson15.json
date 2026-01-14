@@ -1,0 +1,523 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson15",
+  "title": "Lesson 15 - Mag- verbs Intransitive, Directional and Papunta",
+  "vocabulary": [
+    {
+      "tagalog": "magtaním",
+      "english": "to plant (AF(DO))",
+      "required": true,
+      "audioPath": "63162d05-dcf9-4b36-b9bb-1a8a950deb46"
+    },
+    {
+      "tagalog": "mag-alalá",
+      "english": "to worry (about) (AF(I))",
+      "required": true,
+      "audioPath": "e31932b2-bb4a-4aa2-b407-b598ada50291"
+    },
+    {
+      "tagalog": "maglakád",
+      "english": "to walk (AF(D))",
+      "required": true,
+      "audioPath": "b4c88e37-0aa2-40a3-8896-84da716d2f61"
+    },
+    {
+      "tagalog": "magbisikleta",
+      "english": "to ride a bicycle (AF(D))",
+      "required": true,
+      "audioPath": "22e45d40-b5cd-4fd9-a963-d9b8258b773a"
+    },
+    {
+      "tagalog": "magmaneho",
+      "english": "to drive (AF(O) & AF(D))",
+      "required": true,
+      "audioPath": "ee640a3f-6a72-4f2a-a930-d95f6aa0bdcb"
+    },
+    {
+      "tagalog": "papuntá",
+      "english": "bound for, headed to",
+      "required": true,
+      "audioPath": "4c542225-9237-415a-9b20-a9d3d298903e"
+    },
+    {
+      "tagalog": "bisikleta",
+      "english": "bicycle",
+      "required": true,
+      "audioPath": "dd1f2d57-464c-439a-9a48-8012b5c8f040"
+    },
+    {
+      "tagalog": "tungkól",
+      "english": "about",
+      "required": true,
+      "audioPath": "d4622496-bc32-494d-be06-b4b55f15b4db"
+    },
+    {
+      "tagalog": "magpuntá",
+      "english": "to go (AF(D))",
+      "required": false,
+      "audioPath": "b8c360a7-aaa6-4d20-a4b8-321727238f83"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson will cover _mag_- verb intransitive and directional variants, _tungkol _and _papunta_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Overview of Variants</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "If you will recall:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence = Verb + Actor + Object + X"
+    },
+    {
+      "type": "p",
+      "markdown": "The standard sentence can take on several different forms, depending on what X is and if an object is allowed. In this book, we call these different forms “variants”. Here are all possible variants for AF and OF:"
+    },
+    {
+      "type": "p",
+      "markdown": "Double Object (DO) verbs can take two objects; X is IO:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(DO) = Verb + Actor + Object + IO"
+    },
+    {
+      "type": "p",
+      "markdown": "Single Object (O) verbs only take one object; there is no X:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(O) = Verb + Actor + Object"
+    },
+    {
+      "type": "p",
+      "markdown": "Intransitive (I) verbs have no objects, but may include a cause; X is the cause:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(I) = Verb + Actor + cause"
+    },
+    {
+      "type": "p",
+      "markdown": "Directional (D) verbs have no objects, but may include a directional complement (dc); X is the dc:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(D) = Verb + Actor + dc"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Variants for AF Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here are those same standard sentences, for AF verbs, with the forms called out for the complement after the actor:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(DO) = Verb + Actor + Object(**_ng _form**) + IO"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(O) = Verb + Actor + Object(**_ng _form**)"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(I) = Verb + Actor + cause(**_sa _form**)"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(D) = Verb + Actor + dc(**_sa _form**)"
+    },
+    {
+      "type": "p",
+      "markdown": "The most important thing to take away from variants is what form the object/cause/dc takes. And _ng _is by far the most common with _mag_- verbs. So, if you **just memorize which AF verbs take _sa _when you encounter a new one**, you can probably forget about variants for the time being."
+    },
+    {
+      "type": "p",
+      "markdown": "That being said, understanding variants will clear some things up later, so for that reason and the sake of completeness, we include information about them."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>AF(I) - Intransitive AF Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You have seen _mag_- verbs that take objects, or “transitive” verbs. AF(I) verbs are “intransitive” actor focus verbs. Intransitive verbs do not take any objects. Here is a comparison:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex1: Nag-aral ako ng Tagalog.",
+        "english": "I studied Tagalog. (AF(O))",
+        "required": true,
+        "audioPath": "fceb9a89-73d9-4aaa-8865-19ef7fdd5f3e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex2: Nagsapatos ako sa eskwelahan.",
+        "english": "I wore shoes in school. (AF(I))",
+        "required": true,
+        "audioPath": "0a8a2bae-3b33-4d76-b4f8-cea2c76fce94"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex3: Nag-alala ako sa manok.",
+        "english": "I worried about the chicken. (AF(I))",
+        "required": true,
+        "audioPath": "102a100f-714a-414c-95a8-143a0a287b95"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Note that _nag-alala ako ng manok _is invalid because _mag-alala_ does not take an object. It does not mean “I worried a chicken” or “I caused a chicken to worry”; that meaning is covered by a different verb in Tagalog."
+    },
+    {
+      "type": "p",
+      "markdown": "An object is a noun or pronoun that is directly acted upon by a verb. In English, objects can immediately follow the verb without any prepositions."
+    },
+    {
+      "type": "p",
+      "markdown": "In Ex1, “Tagalog” is the object because it follows the verb “studied” without prepositions, which means _mag-aral_ is transitive."
+    },
+    {
+      "type": "p",
+      "markdown": "In Ex2, “shoes” is the object of the English sentence, but it is contained within the Tagalog verb, so an object is not needed and _magsapatos _is intransitive."
+    },
+    {
+      "type": "p",
+      "markdown": "In Ex3, “chicken” is not an object because it requires the preposition “about”, so _mag-alala_ is intransitive."
+    },
+    {
+      "type": "p",
+      "markdown": "All that being said, it may be easier for you just to memorize whether the complement after the Tagalog actor takes _ng _or _sa _form. Here is the AF version of the intransitive standard sentence derived above:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence(AF(I)) = **Verb **+ Actor + cause"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Actor takes _ang _form, cause takes _sa_ form. **"
+    },
+    {
+      "type": "p",
+      "markdown": "There are not too many _mag_- AF(I) verbs, and _mag-alala_ is the only high frequency one."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aalala si Mrs. Cruz.",
+        "english": "Mrs. Cruz will worry.",
+        "required": true,
+        "audioPath": "c4f2a5c0-cfd2-45b5-9029-159f4b8d2759"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aalala po ba kayo sa pera?",
+        "english": "Do you worry about money? (resp.)",
+        "required": true,
+        "audioPath": "d68db911-6152-4407-ad08-f9b547575114"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-alala ang anak niya.",
+        "english": "Her child worried.",
+        "required": true,
+        "audioPath": "cc1a37aa-f1fb-4bd7-8afd-cb01d2f0f4f7"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Tungkol</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Tungkol _is a preposition that roughly means “about” as in “regarding”. It is followed by _sa_ + noun. Compare these:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aalala po ba kayo sa eskwelahan?",
+        "english": "Do you worry in school? (resp.)",
+        "required": true,
+        "audioPath": "4f2ff1f7-478d-434c-8b75-00ec68c5414b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This can also mean “Do you worry about school”, so to keep it from being ambiguous we will use _tungkol _as shown:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aalala po ba kayo tungkol sa eskwelahan?",
+        "english": "Do you worry about school? (resp.)",
+        "required": true,
+        "audioPath": "81b5ef4e-175d-4a93-a491-9cc7f2a10a61"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Tungkol _is needed here to differentiate between worrying in or about school. However, when it is obvious that _sa _means “about”, we will not use _tungkol_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aalala po ba kayo sa pera?",
+        "english": "Do you worry about money? (resp.)",
+        "required": true,
+        "audioPath": "331aaa20-d9b4-4aab-ae8a-ccb748a7a0b4"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Although it is ok to include it, _tungkol _is not needed here because worrying “on” money, like you are standing on a 1000 peso note while worrying, sounds nonsensical."
+    },
+    {
+      "type": "p",
+      "markdown": "There is more about _tungkol _in a later lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>AF(D) - Directional AF Verbs and Papunta</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Sometimes a verb takes a directional complement (dc) instead of an object. Let’s compare:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagmaneho ako ng sasakyan.",
+        "english": "I drove a car. (AF(O))",
+        "required": true,
+        "audioPath": "3ac86c3d-6160-4098-bf8d-a5e519edb86b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagpunta ako sa Maynila.",
+        "english": "I went to Manila. (AF(D))",
+        "required": true,
+        "audioPath": "a612adef-bcbc-4d94-98aa-70a6e18375e9"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Applying the same rule of thumb used in intransitive verbs above to the English verbs here, “driving cars” is possible, so “cars” is an object. But “going Manila” does not work. The “to”, or something like it, that indicates direction/motion, is always needed. So “Manila” is not an object, and since _magpunta _has a strong nuance of direction or movement to it, we would correctly identify it as a directional verb. Now take a look at this example:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagmaneho ako sa Maynila.",
+        "english": "I drove to Manila is possible here, but sa can mean many things, and “I drove in Manila” is the more common interpretation.",
+        "required": true,
+        "audioPath": "e1196d01-ea48-4e2a-aaef-e8be86a2a4ee"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It turns out that if you are using a directional verb that does not have _punta _as the root, you must use the phrase _papunta sa _to ensure that the meaning of “to” is captured."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagmaneho ako papunta sa Maynila.",
+        "english": "I drove to Manila.",
+        "required": true,
+        "audioPath": "61f493bf-e4dd-48db-bceb-cafec8f6aa25"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Note that _Nagpunta _ako sa Maynila above did not require _papunta_, because the verb root was _punta_."
+    },
+    {
+      "type": "p",
+      "markdown": "Here is the AF version of the directional standard sentence derived above:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence((AF(D)) = **Verb** + Actor + dc"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Actor takes _ang _form, object takes _ng _form, dc takes _sa _form. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magbibisikleta ka ba sa eskwelahan?",
+        "english": "Will you ride your bicycle in school?",
+        "required": true,
+        "audioPath": "8877210c-baf4-421b-9efa-da722f02e6e4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naglalakad si Maria sa gusaling yun.",
+        "english": "Maria is walking in that building.",
+        "required": true,
+        "audioPath": "824ced33-3309-4473-8edc-881b441eda7e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagmaneho siya.",
+        "english": "He drove.",
+        "required": true,
+        "audioPath": "c90bb786-252f-48fc-9ca8-021d37f7a8cf"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "**verb**... papunta sa destination (Tag) = verb to destination (eng)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Used only when the verb does not have _punta _as its root.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magbibisikleta ka ba papunta sa eskwelahan?",
+        "english": "Will you ride your bicycle to school?",
+        "required": true,
+        "audioPath": "0987f0e7-ee24-4332-9902-d3678c0b4975"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naglalakad si Maria papunta sa gusaling yun.",
+        "english": "Maria is walking to that building.",
+        "required": true,
+        "audioPath": "806cebf7-5a36-4f68-b11a-fbf7750ad2fe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagmaneho siya papunta sa bahay nila.",
+        "english": "He drove to their house.",
+        "required": true,
+        "audioPath": "d33b8b19-6d06-461d-85cf-352c936d9f9b"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>More on Papunta</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Papunta _is a word that means roughly “bound for” or “headed to”. You saw it as part of the adverb phrase _papunta sa_ above. Alone, it is an adjective:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang bus na papuntang Maynila",
+        "english": "the bus going to Maynila",
+        "required": true,
+        "audioPath": "2a74ef10-506d-4951-864d-a9089f120d62"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang lalaking papuntang bahay mo",
+        "english": "the man on the way to your house",
+        "required": true,
+        "audioPath": "b712d4ed-fd03-4daf-a5b7-fb6c207187a6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang sasakyang papuntang eskwelahan",
+        "english": "the car headed for school",
+        "required": true,
+        "audioPath": "7ce768cf-9b52-493b-b2d4-09f555a4ad96"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Hindi ako nagtanim ng puno dun.",
+      "english": "I did not plant a tree there.",
+      "required": true,
+      "audioPath": "cd0bb157-0138-4bcc-ab6a-9902feaf0b8b"
+    },
+    {
+      "tagalog": "Nag-aalala sina Angel at Maria sa bisikleta nila.",
+      "english": "Angel and Maria worry about their bicycle.",
+      "required": true,
+      "audioPath": "9994c3a9-47d4-49ff-807a-d2f6665d4a81"
+    },
+    {
+      "tagalog": "Maglalakad ang babae sa gusaling yun nang alas-dos ng hapon.",
+      "english": "The woman will walk to that building at 2pm.",
+      "required": true,
+      "audioPath": "90801a9d-796a-44bd-b955-0ebb040f3759"
+    },
+    {
+      "tagalog": "Hindi siya nagbisikleta sa tubig.",
+      "english": "He did not ride his bike in the water.",
+      "required": true,
+      "audioPath": "f021df89-956e-4bf5-91ad-5062a9dce8cd"
+    },
+    {
+      "tagalog": "Nagmamaneho ba si Luis papunta sa Parañaque?",
+      "english": "Does Luis drive to Parañaque?",
+      "required": true,
+      "audioPath": "90852105-18d8-4d5b-9b62-f81d68013b00"
+    },
+    {
+      "tagalog": "Magtatanim sila ng mga puno sa Luzon.",
+      "english": "They will plant trees in Luzon.",
+      "required": true,
+      "audioPath": "b8811c48-0956-49d5-8c43-aca1b3ff49d2"
+    },
+    {
+      "tagalog": "Hindi nag-alala ang bata tungkol sa kanila.",
+      "english": "The kid did not worry about them.",
+      "required": true,
+      "audioPath": "cf16b7f3-5e89-4fab-a6f7-fcba1a4df8a0"
+    },
+    {
+      "tagalog": "Naglalakad si Jasmine sa ikatlo niyang eskwelahan.",
+      "english": "Jasmine is walking to her third school.",
+      "required": true,
+      "audioPath": "64e01609-c44d-4d15-9651-1648f17d0456"
+    },
+    {
+      "tagalog": "Magbibisikleta po ba kayo papunta sa bahay namin?",
+      "english": "Will you bicycle to our (excl.) house? (resp.)",
+      "required": true,
+      "audioPath": "59945340-0177-4be9-826c-3abd5378ae95"
+    },
+    {
+      "tagalog": "Magmamaneho kami ng sasakyan nang mga alas-diyes ng gabi.",
+      "english": "We (excl.) will drive a car around 10pm.",
+      "required": true,
+      "audioPath": "65a8b667-ed65-4183-86f7-45d51c7a2871"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson5",
+  "title": "Lesson 5 – Ma- Adjectives",
+  "vocabulary": [
+    {
+      "tagalog": "masaráp",
+      "english": "delicious; satisfying",
+      "required": true,
+      "audioPath": "3affe251-0ac7-4c1c-834f-bbd9dd9733b4"
+    },
+    {
+      "tagalog": "magandá",
+      "english": "beautiful (people); good (things)",
+      "required": true,
+      "audioPath": "e59e8c03-e1e2-4a6b-a0d7-37bb6205198f"
+    },
+    {
+      "tagalog": "marami",
+      "english": "many; much",
+      "required": true,
+      "audioPath": "de36a38f-ff6c-4962-83d2-963f52dd65f3"
+    },
+    {
+      "tagalog": "masayá",
+      "english": "happy",
+      "required": true,
+      "audioPath": "f52031cf-a804-459a-bfde-080ab4bfc417"
+    },
+    {
+      "tagalog": "mainit",
+      "english": "hot",
+      "required": true,
+      "audioPath": "86dd3d4f-65c9-43c6-8253-8f79f9f59cfd"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "You have already seen unaffixed adjectives. This lesson covers _ma- _adjectives, which are by far the most common of the affixed adjectives. We will also start using the _ang _form personal pronouns, so please go to **Appendix A** and memorize them all (except for _ikaw_ – we will use that later) before attempting this lesson."
+    },
+    {
+      "type": "p",
+      "markdown": "To form _ma- _adjectives, just add the affix _ma-_ to the root."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: ma + sarap (tastiness) = masarap (delicious; satisfying)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: ma + ganda (beauty) = maganda (beautiful; good)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: ma + saya (happiness) = masaya (happy)"
+    },
+    {
+      "type": "p",
+      "markdown": "Usage is the same as unaffixed adjectives, except for plural modified nouns."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Plural Modified Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There are three ways to make _ma _adjective modified nouns plural. The first is the same as unaffixed adjectives; you just put _mga_ before the adjective."
+    },
+    {
+      "type": "h2",
+      "markdown": "mga + adj + linker + noun (Tag.) = adj nouns (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga masarap na pagkain",
+        "english": "delicious foods",
+        "required": true,
+        "audioPath": "1cce1e5f-f167-4ced-8c5b-f48235e9da24"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga magandang babae",
+        "english": "beautiful women",
+        "required": true,
+        "audioPath": "1104e771-ae8d-4b19-93b9-e605780ae5ac"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga masayang estudyante",
+        "english": "happy students",
+        "required": true,
+        "audioPath": "b9a52feb-eed6-4219-a533-2335b9b35622"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In the second way, instead of adding _mga_, you just duplicate (annotated as “dup1” in this book) the first syllable of the root when you pronounce the adjective."
+    },
+    {
+      "type": "h2",
+      "markdown": "adj(dup1) + linker + noun (Tag.) = adj nouns (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The adjective is modified by duplicating the first syllable of its root.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "masasarap na pagkain",
+        "english": "delicious foods",
+        "required": true,
+        "audioPath": "b3ee9c8a-7af4-4973-8bed-36983bccf865"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magagandang babae",
+        "english": "beautiful women",
+        "required": true,
+        "audioPath": "b2e8572a-29e2-49a7-a9c1-5033fceb682e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "masasayang estudyante",
+        "english": "happy students",
+        "required": true,
+        "audioPath": "4741481a-2f03-40c1-942c-f4c1c64aad2f"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "And the third way is to do both."
+    },
+    {
+      "type": "h2",
+      "markdown": "mga + adj(dup1) + linker + noun (Tag.) = adj nouns (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The adjective is modified by duplicating the first syllable of its root. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga masasarap na pagkain",
+        "english": "delicious foods",
+        "required": true,
+        "audioPath": "1960cd58-29c4-4452-bcc5-6ea35c6c7a40"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga magagandang babae",
+        "english": "beautiful women",
+        "required": true,
+        "audioPath": "e5f7aa77-5dce-473e-82e3-5bc4e9c992e7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga masasayang estudyante",
+        "english": "happy students",
+        "required": true,
+        "audioPath": "05471505-be37-4fe3-92a1-2e9135066f26"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "The third is a bit more common, plus it will give you practice in using both _mga_ and dup1, so we will use it from now on."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Marami</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Marami _is somewhat special when modifying nouns because it makes them plural without using dup1 or _mga_:"
+    },
+    {
+      "type": "h2",
+      "markdown": "maraming + noun (Tag.) = many nouns (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "maraming pagkain",
+        "english": "many foods; much food",
+        "required": true,
+        "audioPath": "61202c25-edb6-4cac-8542-eaddc924103b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "maraming babae",
+        "english": "many women",
+        "required": true,
+        "audioPath": "45bf9db1-78e8-4732-adc8-d30998ba4cd4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "maraming estudyante",
+        "english": "many students",
+        "required": true,
+        "audioPath": "a9289826-3544-407d-987e-a44ee3811b6c"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Personal Pronouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Where applicable, _ang _form personal pronouns can be used anywhere _ang_ form nouns are used. For example:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda ang babae.",
+        "english": "The woman is beautiful.",
+        "required": true,
+        "audioPath": "ca7d5f99-565a-4781-9c47-620ba6d65ffd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda siya.",
+        "english": "She is beautiful.",
+        "required": true,
+        "audioPath": "79b28523-2918-4af4-99ee-137966057186"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sikat at masaya ang mga lalaki.",
+        "english": "The men are famous and happy.",
+        "required": true,
+        "audioPath": "1ab4b329-f13d-46d9-94df-85df5085d842"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sikat at masaya sila.",
+        "english": "They are famous and happy.",
+        "required": true,
+        "audioPath": "89678e42-43c7-48b8-8b04-cc0066459ef2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tunay na pangulo si Mrs. Cruz.",
+        "english": "Mrs. Cruz is a real president.",
+        "required": true,
+        "audioPath": "bcadba8d-9866-4a90-9451-64a1bc28b32e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tunay na pangulo ka.",
+        "english": "You are a real president.",
+        "required": true,
+        "audioPath": "f271e0df-4802-4240-9fdd-28ad52b36a16"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ano ang masarap na pagkaing yun?",
+      "english": "What is that delicious food?",
+      "required": true,
+      "audioPath": "8fcc5e96-cacf-4277-a359-0677a5848076"
+    },
+    {
+      "tagalog": "Mga magagandang babae kayo.",
+      "english": "You(pl) are beautiful women.",
+      "required": true,
+      "audioPath": "283eb403-09f1-439c-9d0e-7193bdb0de99"
+    },
+    {
+      "tagalog": "Marami tayo.",
+      "english": "We(incl.) are many.",
+      "required": true,
+      "audioPath": "a6032a4f-2d6f-4f0b-8404-b2869e440399"
+    },
+    {
+      "tagalog": "Mga masasayang estudyante kami.",
+      "english": "We(excl.) are happy students.",
+      "required": true,
+      "audioPath": "8f9ab485-440d-4c49-aa59-80830b25590d"
+    },
+    {
+      "tagalog": "Mainit siya.",
+      "english": "He is hot.",
+      "required": true,
+      "audioPath": "d4bf6716-b57c-4d99-88aa-3484c9112db4"
+    },
+    {
+      "tagalog": "Mura ang mga masasarap na inumin.",
+      "english": "The delicious drinks are cheap.",
+      "required": true,
+      "audioPath": "438cb212-09f2-41a1-9e06-7efcf86aa9e2"
+    },
+    {
+      "tagalog": "Magandang babae ka.",
+      "english": "You are a beautiful woman.",
+      "required": true,
+      "audioPath": "178effaf-cc57-4e4f-be9e-95ae337b9361"
+    },
+    {
+      "tagalog": "Marami sila.",
+      "english": "They are many.",
+      "required": true,
+      "audioPath": "bc186306-0b36-4e71-870e-5c35fc8607eb"
+    },
+    {
+      "tagalog": "Masaya ako.",
+      "english": "I am happy.",
+      "required": true,
+      "audioPath": "460b1f0c-4bfa-40fd-a0b1-e83a225da2ff"
+    },
+    {
+      "tagalog": "Mainit ang mga puting sasakyan.",
+      "english": "The white cars are hot.",
+      "required": true,
+      "audioPath": "2e737ba9-d300-4144-87e6-f2a37d86bc38"
+    }
+  ]
+}

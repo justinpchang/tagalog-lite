@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson16",
+  "title": "Lesson 16 - Mag- verbs Imperative, Nga and Adj + Infinitive",
+  "vocabulary": [
+    {
+      "tagalog": "maghanáp",
+      "english": "to look for (AF(DO))",
+      "required": true,
+      "audioPath": "4aa8d53b-b232-40ef-9fe9-f28540175621"
+    },
+    {
+      "tagalog": "maglarô",
+      "english": "to play (AF(O))",
+      "required": true,
+      "audioPath": "064b451d-7ac5-4c99-8d4b-51ba34d7f1e9"
+    },
+    {
+      "tagalog": "maglutò",
+      "english": "to cook (AF(O))",
+      "required": true,
+      "audioPath": "6eeda599-427a-442c-9b16-765ff3371cb0"
+    },
+    {
+      "tagalog": "nga",
+      "english": "enclitic particle that softens or enlivens",
+      "required": true,
+      "audioPath": "204e6ce6-59a0-47ed-88c3-21f4fb7ceaa4"
+    },
+    {
+      "tagalog": "namán",
+      "english": "enclitic particle that softens, contrasts or enlivens",
+      "required": false,
+      "audioPath": "e8c34c33-eeae-4094-9232-cef896ce0e72"
+    },
+    {
+      "tagalog": "básketból",
+      "english": "basketball",
+      "required": true,
+      "audioPath": "d84127c9-285f-4d35-803f-02b317181f4a"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "After putting off using the infinitive for two lessons, we are going to use it in two different ways: the imperative, which uses the infinitive and (optionally) the particle _nga_, and adj + infinitive."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Imperative </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The imperative is used to command or instruct, and it is formed by using the infinitive plus a personal pronoun."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: The Imperative Sentence is just a Standard Sentence where the verb takes infinitive. For AF, the actor is either _ka, kayo _or _tayo, _and the object takes _ng_ form. All variants are possible, unless otherwise stated. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maghanap ka ng tubig!",
+        "english": "(you) Look for water!",
+        "required": true,
+        "audioPath": "41a3d5d0-cfd2-405c-9263-a120172b4529"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maglaro kayo ng basketbol.",
+        "english": "(you pl.) Play basketball.",
+        "required": true,
+        "audioPath": "cd917732-5668-4151-95e5-e89925d68b66"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magluto tayo dun.",
+        "english": "Let’s (incl.) cook over there.",
+        "required": true,
+        "audioPath": "976520c8-396a-4933-b814-7c50a5785fda"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Although we do not normally say the “you” in English, notice that in Tagalog the personal pronoun is used. Personal pronouns used with the imperative are _ka, kayo _or _tayo _for _mag_- verbs since the actor takes _ang_ form."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Enclitic Particle Nga</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Adding _nga _or _naman _can soften the phrase. They are enclitic particles, so let’s update the order of enclitic particles:"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Enclitic particles appear in a fixed order in the cluster. You have learned five so far, and they appear in this order: _na, nga, naman, po, ba_. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maghanap ka nga ng tubig!",
+        "english": "(you) Look for water! (soft)",
+        "required": true,
+        "audioPath": "43391079-f7fe-4dbe-b7a6-52e13aab10b0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maglaro naman kayo ng basketbol.",
+        "english": "(you pl.) Play basketball. (soft)",
+        "required": true,
+        "audioPath": "f23f9235-305a-457f-88a6-13f3d490c9b5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magluto nga po tayo dun.",
+        "english": "Let’s (incl.) cook over there. (soft)(resp.)",
+        "required": true,
+        "audioPath": "fc2b3c80-0687-445c-9614-e682798248cc"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In this usage, _nga _is a bit more common than _naman_, so we will only use nga in this way from now on. _Naman _will be used in other ways, which will be discussed in another lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Short Form Imperative</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There is a short form version of the imperative, which only requires the root of the verb:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hanap ka!",
+        "english": "(you) Search!",
+        "required": true,
+        "audioPath": "0f7d07f4-d5e9-4e49-839b-d4f70dc73c72"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Laro kayo!",
+        "english": "(you pl.) Play!",
+        "required": true,
+        "audioPath": "65a58ee9-866b-4ab0-93a1-9e20e2abadf4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Luto tayo!",
+        "english": "Let’s cook!",
+        "required": true,
+        "audioPath": "ac4d2f33-fa26-47d5-aca5-3e63b66e3e94"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You will definitely hear this in the wild, but it is very informal and can be somewhat harsh, so we will not use it in the sample sentences."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Adj + linker + Infinitive</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here is another structure that uses the infinitive:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Adj (+ linker) + **Verb** + object + X (Tag.) = It is adj to verb (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The verb takes infinitive. Use the linker if it -_ng _type, but omit it if it is _na_.**"
+    },
+    {
+      "type": "p",
+      "markdown": "Although the linker is optional here, native speakers will normally use it if can be an -_ng _type modification, but omit it where it would be _na_, so that is what we do in this book."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magandang magsabi ng totoo.",
+        "english": "It is good to tell the truth. Maganda takes an -ng type modification.",
+        "required": true,
+        "audioPath": "a0fcfe02-e85a-4d2b-9c1e-3e528c4cfa15"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Masarap magbisikleta.",
+        "english": "It is satisfying to bicycle. Masarap would need the plain na linker, so it is dropped here.",
+        "required": true,
+        "audioPath": "e2c405f5-6a14-4704-a9ae-29eee7e84a5b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magandang mag-aral nang alas-sais ng umaga.",
+        "english": "It is good to study at 6am.",
+        "required": true,
+        "audioPath": "7d1576f4-84ac-4d04-b569-e84608ebd65a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "These are simple statements of facts, with no actors. Of the adjectives you have learned so far, only _maganda _and _masarap _work in this construction. In the wild, let English be your guide. For example, _pagod maglaro ng basketbol_ does not work because it means “it is tired to play basketball”. You can say “it is tiring to play basketball” or “I am too tired to play basketball” instead, but these require different structures in Tagalog."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Magluto nga tayo ng adobo.",
+      "english": "Let’s cook adobo. (soft)",
+      "required": true,
+      "audioPath": "03b84890-1fed-45a7-9b16-7c087bd104c7"
+    },
+    {
+      "tagalog": "Masarap maglaro ng basketbol sa inyo.",
+      "english": "It is satisfying to play basketball at your (pl.) place.",
+      "required": true,
+      "audioPath": "bf426071-0fa9-4c61-8a7d-f017dad06a43"
+    },
+    {
+      "tagalog": "Maghanap nga po kayo ng sapatos.",
+      "english": "Look for shoes. (soft)(resp.)",
+      "required": true,
+      "audioPath": "7188d1af-1eb6-48ef-85dc-dcb4e736c19b"
+    },
+    {
+      "tagalog": "Magandang magtanim ng puno.",
+      "english": "It is good to plant trees.",
+      "required": true,
+      "audioPath": "197fbb73-df66-46ac-a70e-f7365a60b0a2"
+    },
+    {
+      "tagalog": "Magsabi ka nga ng petsa sa akin.",
+      "english": "Tell me a date. (soft)",
+      "required": true,
+      "audioPath": "498a387f-5af9-4173-844b-71b74748f0c8"
+    },
+    {
+      "tagalog": "Maghanap ka ng bisikleta. May bisikleta ka?",
+      "english": "Look for bicycles. Do you have a bicycle?",
+      "required": true,
+      "audioPath": "568b9095-736d-4781-b88a-ed00232b41ee"
+    },
+    {
+      "tagalog": "Maglaro tayo nang alas-tres y medya! Ayaw mo ba?",
+      "english": "Let’s play at half past three! Don’t you want to?",
+      "required": true,
+      "audioPath": "7993a671-fe08-470c-9e72-fb6bfc655d13"
+    },
+    {
+      "tagalog": "Magluto nga kayo ng sampung manok.",
+      "english": "(you pl.) Cook ten chickens. (soft)",
+      "required": true,
+      "audioPath": "2f3eff2f-d5ad-4d29-bd0a-dba925159872"
+    },
+    {
+      "tagalog": "Joaquin at Joshua! Maghanap kayo ng anim na lalaki.",
+      "english": "Joaquin and Joshua! Look for six men.",
+      "required": true,
+      "audioPath": "84dcc017-3cf1-4162-b432-685ee273f63b"
+    },
+    {
+      "tagalog": "Magandang magbigay ng murang bisikleta sa bata.",
+      "english": "It is good to give cheap bicycles to kids.",
+      "required": true,
+      "audioPath": "997138bd-e593-4683-9858-7d5000a9298f"
+    }
+  ]
+}

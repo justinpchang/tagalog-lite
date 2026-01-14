@@ -1,0 +1,523 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson7",
+  "title": "Lesson 7 - Ba, Hindi and Po; Helpful Words and Enclitics",
+  "vocabulary": [
+    {
+      "tagalog": "opò",
+      "english": "yes (respectful)",
+      "required": true,
+      "audioPath": "ce7b268d-9d71-4cb7-a37d-80f628a15841"
+    },
+    {
+      "tagalog": "ba",
+      "english": "question particle",
+      "required": true,
+      "audioPath": "e501dd6f-1044-4d5e-bdf2-1176a2b687c3"
+    },
+    {
+      "tagalog": "hindî",
+      "english": "no; not",
+      "required": true,
+      "audioPath": "17cdba05-419e-43f3-8feb-4c118a5d7812"
+    },
+    {
+      "tagalog": "pô",
+      "english": "respectful particle",
+      "required": true,
+      "audioPath": "a985f50c-307c-4ffc-9010-2562a36fedc6"
+    },
+    {
+      "tagalog": "hô",
+      "english": "respectful particle",
+      "required": false,
+      "audioPath": "3ab84791-6a35-461b-bab5-35b4d7a1f700"
+    },
+    {
+      "tagalog": "oo",
+      "english": "yes",
+      "required": true,
+      "audioPath": "dc1ab7e7-1949-4701-9a16-e34af3d8a7e5"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, we will cover three very common words to broaden your ability to make sentences, and introduce enclitics."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ba</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The particle _ba_ signals a question is being asked. Here is how to use it for simple “Is subject predicate?” type questions:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Q: **Predicate **+ ba + subject? (Tag.) = Is subject predicate? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro ba si Jasmine?",
+        "english": "Is Jasmine a teacher?",
+        "required": true,
+        "audioPath": "d144dd08-3fa4-4fb2-88bd-933b97df52bb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda ba ang babae?",
+        "english": "Is the woman beautiful?",
+        "required": true,
+        "audioPath": "e4b824b7-4587-46b5-80e7-01483d2845a3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puti ba ang sasakyan mo?",
+        "english": "Is your car white?",
+        "required": true,
+        "audioPath": "31c1a6b9-4fb5-4a81-8978-ddd61994aba3"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Here is how you answer in the affirmative:"
+    },
+    {
+      "type": "h2",
+      "markdown": "A: Oo, **predicate **+ subject. (Tag.) = Yes, subject is predicate. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject takes _ang _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo, guro si Jasmine.",
+        "english": "Yes, Jasmine is a teacher.",
+        "required": true,
+        "audioPath": "b5826eeb-80e7-45eb-8dba-5f92467ab05b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo, maganda ang babae.",
+        "english": "Yes, the woman is beautiful.",
+        "required": true,
+        "audioPath": "1e6ff5dc-0a73-4c5c-a0a3-d2da17aeedd5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo, puti ang sasakyan ko.",
+        "english": "Yes, my car is white.",
+        "required": true,
+        "audioPath": "8fd8b59c-fe1b-4be9-b2ad-fe74e853121e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Extra: Using Ba after a Question Word</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You can insert _ba _after a question word to add emphasis:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ba ang guro?",
+        "english": "Who on earth is the teacher?",
+        "required": true,
+        "audioPath": "ffeebd7a-eb35-41ea-9832-7c5e29191ed0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ba ang inuming yun?",
+        "english": "What is that drink? (I really want to know!)",
+        "required": true,
+        "audioPath": "8acd46d6-eb31-444f-a656-3e1e66df2d63"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ba?",
+        "english": "What the heck?",
+        "required": true,
+        "audioPath": "3cc8a326-5991-4724-a2c5-026edb4890ea"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is less common than plain question words, so we will not show this structure again."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Hindi</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You can negate a sentence using _hindi_, which roughly means “no” or “not”."
+    },
+    {
+      "type": "h2",
+      "markdown": "**Hindi **+ sentence. (Tag.) = Negated sentence. (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi guro si Maria.",
+        "english": "Maria is not a teacher.",
+        "required": true,
+        "audioPath": "f7bb19c1-6778-42be-8bb9-c997dfbadec5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi maganda ang gusali.",
+        "english": "The building is not pretty.",
+        "required": true,
+        "audioPath": "77ec78bb-8a84-4779-bb2e-5413d01869e4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi. Hindi puti ang sasakyan ko.",
+        "english": "No. My car is not white.",
+        "required": true,
+        "audioPath": "39a5b815-1adc-4312-96d4-ae3a274160f7"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Po/Ho</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You can make a sentence more respectful by using the particle _po _or _ho_. _Po _is more respectful and much more common, so we will not use _ho _from now on. Here is how to use it with some of the _ba _questions above:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Q: **Predicate **+ po + ba + subject? (Tag.) = Is subject predicate? (resp.) (Eng.)"
+    },
+    {
+      "type": "p",
+      "markdown": "Note: Subject takes _ang _form."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro po ba si Jasmine?",
+        "english": "Is Jasmine a teacher? (resp.)",
+        "required": true,
+        "audioPath": "a3aa9db2-ed4b-4241-a24f-faa19ca23f25"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda po ba ang babae?",
+        "english": "Is the woman beautiful? (resp.)",
+        "required": true,
+        "audioPath": "55e4c772-19ee-4342-97ee-665f6f73d984"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "When you use _po _you must also use the respectful form of “you”, which is the same as the plural form:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puti po ba ang sasakyan ninyo?",
+        "english": "Is your car white? (resp.)",
+        "required": true,
+        "audioPath": "52798aa3-c751-4d00-a789-16d959859c8b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "And the respectful form of “yes” is _opo_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Opo, guro po si Jasmine.",
+        "english": "Yes, Jasmine is a teacher. (resp.)",
+        "required": true,
+        "audioPath": "faa91964-d744-4f78-8f7b-ffffbeff7b1f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Opo, maganda po ang babae.",
+        "english": "Yes, the woman beautiful. (resp.)",
+        "required": true,
+        "audioPath": "f0178d70-ca78-4538-848a-51837e95c21e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Opo, puti po ang sasakyan ko.",
+        "english": "Yes, my car is white. (resp.)",
+        "required": true,
+        "audioPath": "623d0b1d-a6cd-409a-b8af-c78a348cf89f"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Introduction to Enclitics</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "An enclitic is a word that must follow a certain word in the phrase. The word it follows is called the “host”. _Ba _and _po _are enclitic particles. In the examples above, they follow the predicate, meaning the predicate is the host. But in _hindi _phrases, _hindi _is the host:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po ba guro si Maria?",
+        "english": "Isn’t Maria a teacher? (resp.)",
+        "required": true,
+        "audioPath": "bbad1821-71d7-4020-bc56-c58da3ccd2c0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po ba maganda ang babae?",
+        "english": "Isn’t the woman beautiful? (resp.)",
+        "required": true,
+        "audioPath": "b9f324f0-3958-4c42-9298-78bc9a6ba23d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po. Hindi puti ang sasakyan ko.",
+        "english": "No. (resp.) My car is not white.",
+        "required": true,
+        "audioPath": "abddd12c-e385-4345-b29a-6915ef590355"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Enclitics are either a) enclitic particles or b) _ang _or _ng _form personal pronouns (excluding _ikaw_). When more than one enclitic appears in a phrase, they form a group after the host which we will call the “enclitic cluster”. Hosts and enclitic clusters are pronounced together as one word. Personal pronouns normally come after enclitic particles in the enclitic cluster:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po ba siya guro?",
+        "english": "Isn’t she a teacher? (resp.)",
+        "required": true,
+        "audioPath": "7606a2fd-4eb8-476c-828d-74dfe395cc4e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po ba sila maganda?",
+        "english": "Aren’t they beautiful? (resp.)",
+        "required": true,
+        "audioPath": "249fb3db-2a8e-4bac-a46d-2d2c21fed3c9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po ba kayo pagod?",
+        "english": "Aren’t you tired? (resp.)",
+        "required": true,
+        "audioPath": "1ddb1e8e-1905-4169-ace1-6b6875e2d473"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But one-syllable personal pronouns, like _ka_, come before enclitic particles in the enclitic cluster:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ka ba guro?",
+        "english": "Aren’t you a teacher?",
+        "required": true,
+        "audioPath": "797b7fb3-552b-4ab4-aecc-03a1ca3d90f2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ka ba maganda?",
+        "english": "Aren’t you beautiful?",
+        "required": true,
+        "audioPath": "fc4e0d59-1c8b-4d89-9e0d-c73ea3deb3a8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ka ba pagod?",
+        "english": "Aren’t you tired?",
+        "required": true,
+        "audioPath": "ed0863ed-8263-4f3c-9038-076808e6a20e"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that _hindi po ba _is pronounced _hindipoba_, and _hindi ka ba _is pronounced _hindikaba_."
+    },
+    {
+      "type": "h2",
+      "markdown": "enclitic cluster = (one-syllable pp’s) + (enclitic particles) + (two-syllable pp’s)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: _Po _always comes before _ba_. The hosts are BOLD in the Structure Equations.**"
+    },
+    {
+      "type": "p",
+      "markdown": "You can find all the Structure Equations in **Appendix L**, where **hosts are shown in bold**. Now you know why certain words were made bold in previous lessons. For example, the question words _sino _and _ano _are hosts in these examples:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino po ang guro?",
+        "english": "Who is the teacher? (resp.)",
+        "required": true,
+        "audioPath": "8d0df0cf-de27-46b7-bd11-1e8eb09415b8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano po ang inuming yun?",
+        "english": "What is that drink? (resp.)",
+        "required": true,
+        "audioPath": "9484138f-d9d7-42a5-b6ae-5d49ab4bcd62"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Usually the host is the first word in the phrase, but not always, so be sure to memorize what it is for each type of phrase."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Hindi behaves like a host for Ito and Yun</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ang _form demonstrative pronouns _ito _and _yun_ are technically not enclitics, but they can optionally be placed at the end of the enclitic cluster. Colloquially, in sentences that start with hindi, native speakers will normally do this, so we will too."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ito manok.",
+        "english": "This is not a chicken.",
+        "required": true,
+        "audioPath": "243fd106-ae2a-44a0-8d23-4d058114f24d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi yun maganda.",
+        "english": "That is not pretty.",
+        "required": true,
+        "audioPath": "35ccf523-9dbf-4224-84e4-236d8f8243fc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ito puti.",
+        "english": "It is not white.",
+        "required": true,
+        "audioPath": "3df7e29f-4ee0-4cd4-baa5-f8d1559189cb"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is not all for enclitics. We will continue to add to your knowledge until there is enough information for a lesson that covers them more thoroughly."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sino po ang anak ni Mrs. Cruz?",
+      "english": "Who is Mrs. Cruz's child? (resp.)",
+      "required": true,
+      "audioPath": "0a8b8144-6e1b-4088-a12c-4776a597a824"
+    },
+    {
+      "tagalog": "Hindi po ba manok ang masarap ninyong pagkain?",
+      "english": "Isn't your delicious food chicken?",
+      "required": true,
+      "audioPath": "6da57471-3aac-42c4-8059-e26a2c0d4a79"
+    },
+    {
+      "tagalog": "Ano po ang gusaling ito?",
+      "english": "What is this building? (resp.)",
+      "required": true,
+      "audioPath": "1be368ba-ae53-421f-93f7-55897301d0d9"
+    },
+    {
+      "tagalog": "Hindi ka ba pangulo?",
+      "english": "Aren't you a president?",
+      "required": true,
+      "audioPath": "11558b2f-8f49-4bc3-90cb-31168f21f2bb"
+    },
+    {
+      "tagalog": "Mainit ba ang mga piso natin?",
+      "english": "Are our (incl.) pesos hot?",
+      "required": true,
+      "audioPath": "b0286521-0bf3-4e87-872f-b863a3a88cfa"
+    },
+    {
+      "tagalog": "Hindi ito ang mga piso natin.",
+      "english": "These are not our (incl.) pesos.",
+      "required": true,
+      "audioPath": "94d80545-befa-443e-b37e-013216edd25c"
+    },
+    {
+      "tagalog": "Hindi po ba siya estudyante?",
+      "english": "Isn't she a student? (resp.)",
+      "required": true,
+      "audioPath": "000cd3ad-932b-45de-809b-3fb1388d6fc9"
+    },
+    {
+      "tagalog": "Oo! Maraming magandang puting eskwelahan.",
+      "english": "Yes! Many beautiful, white schools.",
+      "required": true,
+      "audioPath": "4f779f5e-8329-453a-8bfa-4863162bea1a"
+    },
+    {
+      "tagalog": "Opo, marami po sila.",
+      "english": "Yes, there (Lit they) are many. (resp.)",
+      "required": true,
+      "audioPath": "b2df83da-c9da-4881-8ab0-b2643e3d5465"
+    },
+    {
+      "tagalog": "Hindi ka ba masaya?",
+      "english": "Aren't you happy?",
+      "required": true,
+      "audioPath": "747bb37f-36d2-49b2-a121-d1082e35b782"
+    }
+  ]
+}

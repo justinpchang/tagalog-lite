@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson13",
+  "title": "Lesson 13 - Ayaw; Dislike and Not Want",
+  "vocabulary": [
+    {
+      "tagalog": "ayaw",
+      "english": "to dislike; not want",
+      "required": true,
+      "audioPath": "ee1204d9-de94-4586-873a-765ff0e7f14a"
+    },
+    {
+      "tagalog": "baso",
+      "english": "drinking glass",
+      "required": true,
+      "audioPath": "c97f7eaf-d93c-4ab0-96b3-e60805b8cd1b"
+    },
+    {
+      "tagalog": "punò",
+      "english": "tree",
+      "required": true,
+      "audioPath": "867a9b8d-d4ab-4d14-b20d-0340187273c2"
+    },
+    {
+      "tagalog": "sapatos",
+      "english": "shoe",
+      "required": true,
+      "audioPath": "ca092b77-f7bb-46f0-a4a3-d4fccce4f742"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson will show you how to say that you dislike or do not want a noun using _ayaw_. How to do this with verbs will be covered in a future lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ayaw...sa - to dislike something indefinite. </u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Ayaw **+ experiencer + indefinite object. (Tag.) = Experiencer dislikes something indefinite. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: The experiencer is the one who dislikes, and takes _ng _form. The indefinite object is the thing that is disliked and takes _sa _form. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw niya sa sapatos.",
+        "english": "She dislikes shoes.",
+        "required": true,
+        "audioPath": "57f3415a-97ef-4137-aa76-e1868d6ed72e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw ni Diego sa tubig.",
+        "english": "Diego dislikes water.",
+        "required": true,
+        "audioPath": "ea8e90ae-03fd-4e28-bd27-7310c7be600c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw nila sa puno.",
+        "english": "They dislike trees.",
+        "required": true,
+        "audioPath": "41ca44a2-62e4-4189-8a7d-407c62702392"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ayaw...ng - to not want something indefinite. </u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Ayaw **+ experiencer + indefinite object. (Tag.) = Experiencer does not want something indefinite. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: The experiencer is the one who does not want, and takes _ng _form. The indefinite object is the thing that is not wanted and takes _ng _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw niya nun.",
+        "english": "She does not want that.",
+        "required": true,
+        "audioPath": "75c03134-be19-41d4-8d63-4563fff7e7bd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw ni Diego ng tsokolate.",
+        "english": "Diego does not want chocolate.",
+        "required": true,
+        "audioPath": "dcb6cc13-df06-471f-ac53-f6739d212db3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw nila ng sasakyan.",
+        "english": "They do not want cars.",
+        "required": true,
+        "audioPath": "50600746-2710-4931-99ed-000d387a9e11"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ayaw...ang - to dislike or not want something definite. </u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Ayaw **+ experiencer + definite object. (Tag.) = Experiencer dislikes/does not want definite object. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: The experiencer is the one who dislikes/does not want, and takes _ng _form. The definite object takes _ang _form. **"
+    },
+    {
+      "type": "p",
+      "markdown": "In theory, the _ayaw_…_ang _construction can mean “dislike” or “not want”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw ni David ang tsokolate.",
+        "english": "David does not want/like the chocolate.",
+        "required": true,
+        "audioPath": "de4b4b80-faf5-4410-8945-464e7ea672a9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw niya ang basong ito.",
+        "english": "She does not want/like this glass.",
+        "required": true,
+        "audioPath": "44a203fe-bd16-4ad5-9062-4ba5a7e50044"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw namin ang sasakyang nila.",
+        "english": "We (excl.) do not want/like their car.",
+        "required": true,
+        "audioPath": "e61ad2b3-8132-4394-b163-4f2696b1a0fa"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But in the case of proper nouns and personal pronouns, it is pretty unusual to mean “not want”, so the meaning normally defaults to “dislike”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw niya ang Maynila.",
+        "english": "She dislikes Manila.",
+        "required": true,
+        "audioPath": "73f46b25-c7dc-43c7-92b2-c76a462e9ec7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw kita.",
+        "english": "I dislike you.",
+        "required": true,
+        "audioPath": "ce5dbe6e-121b-4ce1-8a98-0a11421a97bc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw ni Analyn kina Angel at Maria.",
+        "english": "Analyn dislikes Angel and Maria.",
+        "required": true,
+        "audioPath": "4e1606ce-fe96-406c-8e82-66b1e84bedca"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ayaw mo ba sa puno?",
+      "english": "Do you dislike trees?",
+      "required": true,
+      "audioPath": "b038e966-df55-4eec-b2e2-a4bc9553407d"
+    },
+    {
+      "tagalog": "Ayaw ni Sir Bautista ng maraming baso.",
+      "english": "Mr. Bautista does not want a lot of glasses.",
+      "required": true,
+      "audioPath": "34038836-c6a6-4dc9-a9e1-0c734ac7c299"
+    },
+    {
+      "tagalog": "Ayaw po ni Joshua kay David.",
+      "english": "Joshua does not like David. (resp.)",
+      "required": true,
+      "audioPath": "c3c46a4e-431d-4a3f-a8c5-983e15267668"
+    },
+    {
+      "tagalog": "Ayaw na ba niya ang Maynila?",
+      "english": "Does she already dislike Manila?",
+      "required": true,
+      "audioPath": "5d92c4ac-adee-43bc-bdde-083d1891646a"
+    },
+    {
+      "tagalog": "Ayaw ng anak nila ang punong yun.",
+      "english": "Their child does not like that tree.",
+      "required": true,
+      "audioPath": "ae88caaf-3527-40c9-9a7f-f45cee0f57d4"
+    },
+    {
+      "tagalog": "Ayaw nila sa puting sapatos.",
+      "english": "They do not like white shoes.",
+      "required": true,
+      "audioPath": "7a7fda29-6832-4d88-ad62-3a9c24513663"
+    },
+    {
+      "tagalog": "Ayaw ni Mark kina Jasmine at Luis.",
+      "english": "Mark does not like Jasmine and Luis.",
+      "required": true,
+      "audioPath": "818b2bc8-ca3a-432a-862b-e134ef1621cb"
+    },
+    {
+      "tagalog": "Ayaw natin ang tatlo nilang bahay.",
+      "english": "We (incl.) do not like their three houses.",
+      "required": true,
+      "audioPath": "ddab43fb-f23e-4d74-8f61-11213845657f"
+    },
+    {
+      "tagalog": "Ayaw ni Maria ang baso ni Angel.",
+      "english": "Maria does not want Angel's glass.",
+      "required": true,
+      "audioPath": "884c71aa-e07a-4bc4-b650-dbb335b6e9f6"
+    },
+    {
+      "tagalog": "Ayaw ba ninyo ng magandang sapatos?",
+      "english": "Do you (pl.) not want pretty shoes?",
+      "required": true,
+      "audioPath": "e804630f-c75e-4122-8666-8bb6b3f54dd8"
+    }
+  ]
+}

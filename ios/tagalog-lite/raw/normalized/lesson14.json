@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson14",
+  "title": "Lesson 14 - Mag- verbs Transitive",
+  "vocabulary": [
+    {
+      "tagalog": "magbigáy",
+      "english": "to give (AF(DO))",
+      "required": true,
+      "audioPath": "0580edbb-edc8-431f-84f1-be594b0b46f9"
+    },
+    {
+      "tagalog": "maglagáy",
+      "english": "to put (AF(O))",
+      "required": true,
+      "audioPath": "eaea0d48-a9d7-4bb3-9b97-e376d14f2fc4"
+    },
+    {
+      "tagalog": "magturò",
+      "english": "to teach (AF(DO))",
+      "required": true,
+      "audioPath": "fa4d3ee1-cdc6-43f5-a1a3-38932595cad8"
+    },
+    {
+      "tagalog": "magsabi",
+      "english": "to say; tell (AF(DO))",
+      "required": true,
+      "audioPath": "673f3099-0dd4-43c9-b066-0107c32e0d9a"
+    },
+    {
+      "tagalog": "mag-aral",
+      "english": "to study (AF(O))",
+      "required": true,
+      "audioPath": "490243c3-f339-419e-a66b-b294f87b73c1"
+    },
+    {
+      "tagalog": "totoó",
+      "english": "truth (noun); true (adj); truly (adv)",
+      "required": true,
+      "audioPath": "fd265fd3-df2a-45b1-92d7-454a00d4e497"
+    },
+    {
+      "tagalog": "magkain",
+      "english": "to devour (AF(!))",
+      "required": false,
+      "audioPath": "57cc4a33-6fd1-4ccd-9a17-e260b28f764c"
+    },
+    {
+      "tagalog": "magsapatos",
+      "english": "to wear shoes (AF(I))",
+      "required": false,
+      "audioPath": "0507a79c-ea30-41cc-9a71-b19658c08986"
+    },
+    {
+      "tagalog": "*para",
+      "english": "for",
+      "required": false,
+      "audioPath": "b2f2c24e-baef-4fc1-91dc-fd1fa39522cd"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Congratulations, you have gotten to the verbs - the very heart of the grammar! Please read about aspect in **Appendix F**, focus in **Appendix G**, standard sentences in **Appendix H**, and verb affixes in **Appendix I **before attempting this lesson. Also, please memorize the _sa _form demonstrative pronouns in **Appendix A**."
+    },
+    {
+      "type": "p",
+      "markdown": "_Mag_- verbs belong to the big six. Because these are the first verbs covered, some information that applies to all verbs needs to be included, so they span three lessons."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of _mag_- verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Mag_- verbs are all AF (actor-focus). AF means attention is drawn to the actor or doer of the action and it takes _ang_ form."
+    },
+    {
+      "type": "p",
+      "markdown": "Possible variants are AF(D), AF(DO), AF(I), AF(O). The nuance AF(!) is possible but rare."
+    },
+    {
+      "type": "p",
+      "markdown": "_MagY _normally means “to do Y”, but can also mean to “use/be/wear Y” and, in the case of AF(!), “to do Y intensely”."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag + bigay (give) = to give; an example of “to do Y”"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag + sapatos (shoe) = to wear shoes; an example of “to wear Y”; these are not high frequency, so we will not cover them any further."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag + kain (eat) = to devour; an example of “to do Y intensely”; these are quite rare, so we will not cover them any further."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To form the infinitive, add the prefix _mag_- to the root. If the root starts with a vowel, use a dash (–):"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag + aral => mag-aral to study"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag + bigay => magbigáy\tto give"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag + turo => magturò to teach"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Completed Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "From the infinitive, change _m _to _n_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mag-aral",
+        "english": "> nag-aral studied",
+        "required": true,
+        "audioPath": "6021aec1-9615-4c8d-b091-766c8783374e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magbigáy",
+        "english": "> nagbigáy gave",
+        "required": true,
+        "audioPath": "2acbff6f-0a5a-4677-b4a1-0abadbb26963"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magturò",
+        "english": "> nagturò taught",
+        "required": true,
+        "audioPath": "4dd9e537-6779-43bc-ab94-417b7942ffa0"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Uncompleted Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "From the infinitive, change the _m _to _n _and repeat the first syllable of the root:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mag-aral",
+        "english": "> nag-aaral studying; studies",
+        "required": true,
+        "audioPath": "be2b6afd-b0e5-40af-9f6d-8b7fbefd682a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magbigáy",
+        "english": "> nagbíbigáy giving; gives",
+        "required": true,
+        "audioPath": "39b7efd9-bfc0-434b-9cdd-ee30e1526126"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magturò",
+        "english": "> nagtuturò teaching; teaches",
+        "required": true,
+        "audioPath": "bbcb389d-6af1-4fce-b5d3-8bbbf66d6d16"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Contemplated Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "From the infinitive, repeat the first syllable of the root:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mag-aral",
+        "english": "> mag-aaral will study",
+        "required": true,
+        "audioPath": "a9b2cf81-cf0e-475c-a728-5adca2231dd7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magbigáy",
+        "english": "> magbíbigáy will give",
+        "required": true,
+        "audioPath": "24c09267-bf92-4bac-bed1-f3c5cab1cf19"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magturò",
+        "english": "> magtuturò will teach",
+        "required": true,
+        "audioPath": "4f1cde21-3481-47c5-b49b-666601ecde9b"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Stress Patterns in Infinitive and Aspects</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You may be wondering how to determine the stress patterns for these. For infinitives, there are no rules; you just have to memorize them. You can memorize the stress for each aspect of each verb too if you want, but there are fixed stress patterns that make remembering them much easier. The rules for _mag_- verbs apply to five of the Big Six verbs: _mag_-, -_an_, -_um_-, _ma_- and _i_-."
+    },
+    {
+      "type": "p",
+      "markdown": "For all aspects, the stress stays on the same vowel in the root as in the infinitive."
+    },
+    {
+      "type": "p",
+      "markdown": "For uncompleted and contemplated aspects, if the first vowel in the root is unstressed, the vowel before it is stressed. If the first vowel in the root is stressed, the vowel before it is unstressed."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magbigáy (infinitive)",
+        "english": "> nagbíbigáy (uncompleted), magbíbigáy (contemplated). The first vowel in the root is unstressed, so the vowel before it is stressed.",
+        "required": true,
+        "audioPath": "72dcf188-b2d2-4678-984b-aea6995f9b24"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mag-aral (infinitive)",
+        "english": "> nag-aaral (uncompleted), mag-aaral (contemplated). The first vowel in the root is stressed, so the vowel before it is unstressed.",
+        "required": true,
+        "audioPath": "8f148b2b-7232-4c90-9150-f43db776d755"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "In **Appendix H**, the standard sentence is defined as follows:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence = Verb + Actor + Object + X"
+    },
+    {
+      "type": "h3",
+      "markdown": "+ location + time"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Location takes _sa _form. **"
+    },
+    {
+      "type": "p",
+      "markdown": "Note that I made “+ location + time” a little smaller than the rest of the standard sentence. They are not shown in the appendix. They can always be tacked on to the end, so we omit them from now on for brevity."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Transitive Verbs, AF(DO) and AF(O)*</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "While the standard sentence can be used for most verbs and focuses in this book, let’s get more specific. The five verbs in this lesson are transitive. Transitive verbs take objects, and intransitive verbs do not."
+    },
+    {
+      "type": "p",
+      "markdown": "AF(DO) verbs take two objects, the (direct) object and the indirect object (IO), so X is the IO in this case:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence(AF(DO)) = _Verb _+ Actor + Object + IO"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Actor takes **ang **form, object takes _ng _form, IO takes _sa _form. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay si David ng pera kay John sa bahay nang alas otso.",
+        "english": "David gave money to John at home at 8 o’clock.",
+        "required": true,
+        "audioPath": "f1e217c4-5794-4e75-a2d2-6f50beedfccd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagsasabi ako ng totoo sa kaniya.",
+        "english": "I am telling her the truth.",
+        "required": true,
+        "audioPath": "bebac699-548b-4ee6-8cc6-a4cb4911bee6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magtuturo si Jasmine ng Tagalog sa kanila.",
+        "english": "Jasmine will teach them Tagalog.",
+        "required": true,
+        "audioPath": "75810844-8268-484d-a197-15617db0d6fc"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Above, the focus is in italics in the English translations, and will be for all standard sentence examples and sample sentences. You can think of focus as something like emphasis, meaning it is often the thing you would emphasize in English. In the sentences above, a possible context is that you are responding to the questions:"
+    },
+    {
+      "type": "p",
+      "markdown": "Who gave money to John at 8 o’clock?"
+    },
+    {
+      "type": "p",
+      "markdown": "Who is telling her the truth?"
+    },
+    {
+      "type": "p",
+      "markdown": "Who will teach them Tagalog?"
+    },
+    {
+      "type": "p",
+      "markdown": "That being said, focus is not exactly the same as emphasis. You will see some differences in future lessons."
+    },
+    {
+      "type": "p",
+      "markdown": "AF(O) verbs take only one object, so there is no IO in this case:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence(AF(O)) = Verb + Actor + Object"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Actor takes _ang _form, object takes _ng _form **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aral ang babae.",
+        "english": "The girl studied.",
+        "required": true,
+        "audioPath": "24a2e9f6-ce9a-41da-963c-a299c6278276"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aaral ako ng Tagalog.",
+        "english": "I am studying Tagalog.",
+        "required": true,
+        "audioPath": "f7e0a556-1924-4b6a-b3cc-9a75e99c82d8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aaral si David sa bahay.",
+        "english": "David will study at home.",
+        "required": true,
+        "audioPath": "54e1df31-00d9-4ac1-8f5c-f63649827913"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For negated sentences, recall that _hindi _is the host for enclitics:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po siya nagbigay ng pera kay John.",
+        "english": "He did not give money to John. (resp.)",
+        "required": true,
+        "audioPath": "d74cca60-30ad-4a34-a23e-c7431386846e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ako nag-aaral.",
+        "english": "I am not studying.",
+        "required": true,
+        "audioPath": "44650859-59c8-4459-922c-57549a6c5039"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi siya magtuturo ng Tagalog dun.",
+        "english": "She will not teach Tagalog there.",
+        "required": true,
+        "audioPath": "0f3ff86d-c208-440b-83f6-628e2098f633"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>*Extra – the difference between DO and O verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here is a little review of English grammar. A direct object, which we call “**object**” in this book, is the thing that is directly acted upon by a verb."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay ako ng limang piso.",
+        "english": "I gave five pesos. Object = pesos.",
+        "required": true,
+        "audioPath": "1c6b59dd-9a19-4f3c-80ce-201a72d4cbed"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagturo ako ng Tagalog",
+        "english": "I taught Tagalog. Object = Tagalog.",
+        "required": true,
+        "audioPath": "cf6cea3c-1692-4e5c-9147-a06df4ec287d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagsabi ako ng totoo.",
+        "english": "I told the truth. Object = truth.",
+        "required": true,
+        "audioPath": "302c82b9-1c3f-42f6-9793-e67ff9f76e0a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naglagay ako ng manok sa sasakyan.",
+        "english": "I put a chicken in the car. Object = chicken.",
+        "required": true,
+        "audioPath": "ab9ee452-33ce-4e5a-8dd6-10885ffb21d5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In addition to an object, some verbs can take an indirect object, which we call “**IO**” in this book. IOs do not receive the action of the verb; they receive the object. In English, IOs can be put between the verb and object without prepositions."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay ako ng limang piso sa kaniya.",
+        "english": "I gave him five pesos. IO = him.",
+        "required": true,
+        "audioPath": "35ab7848-c6df-4d24-95b3-066b539377f0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagturo ako ng Tagalog kay Joe.",
+        "english": "I taught Joe Tagalog. IO = Joe.",
+        "required": true,
+        "audioPath": "207875c4-cf7a-4fee-a584-344aaea2f097"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naglagay ako ng manok sa sasakyan.",
+        "english": "I put a chicken in the car. “Car” is not an IO because you cannot say “I put car chicken”.",
+        "required": true,
+        "audioPath": "10f04faa-5d3a-4f68-8007-d44365ccc67d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aral ako ng Tagalog para sa guro.",
+        "english": "I studied Tagalog for the teacher. “Teacher” is not an IO because you cannot put it between the verb and object without prepositions. You cannot say “I studied teacher Tagalog”.",
+        "required": true,
+        "audioPath": "0a4a1d7a-5591-4145-94c4-96167a7ad130"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Therefore, _magbigay _& _magturo _are AF(DO), and _maglagay _& _mag-aral_ are AF(O)."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Nagbigay na tayo ng maraming pera kay Maria.",
+      "english": "We (incl.) already gave Maria a lot of money.",
+      "required": true,
+      "audioPath": "671282e6-6c07-47c4-98d2-eb3fcc9b2be2"
+    },
+    {
+      "tagalog": "Naglalagay si David ng tsokolate sa baso.",
+      "english": "David is putting chocolate in the glass.",
+      "required": true,
+      "audioPath": "2ada0cc3-97f3-46b1-91fd-91d043c73b7b"
+    },
+    {
+      "tagalog": "Magtuturo si Sir Santos ng Tagalog sa atin.",
+      "english": "Mr. Santos will teach us (incl.) Tagalog.",
+      "required": true,
+      "audioPath": "0524d9a7-5a11-4bfb-a78e-a5d536654448"
+    },
+    {
+      "tagalog": "Hindi kami nagsabi ng totoo sa inyo.",
+      "english": "We (excl.) did not tell you (pl.) the truth.",
+      "required": true,
+      "audioPath": "395a2bbb-3307-46a7-b1db-8aa286504a90"
+    },
+    {
+      "tagalog": "Nag-aaral ka ba? Wala ka bang guro?",
+      "english": "Do you study? Don’t you have a teacher?",
+      "required": true,
+      "audioPath": "9f32b032-b52a-41e5-9b98-9da00262d083"
+    },
+    {
+      "tagalog": "Magbibigay sina Luis at Joshua ng mga sapatos sa amin.",
+      "english": "Luis and Joshua will give us (excl.) shoes.",
+      "required": true,
+      "audioPath": "161fa7d4-75c3-4c76-8b39-c128e357f31e"
+    },
+    {
+      "tagalog": "Naglagay ang anak niya ng puno dito.",
+      "english": "Her child put a tree here.",
+      "required": true,
+      "audioPath": "a04bbaa5-eb89-4d02-ad01-e6f82cf39476"
+    },
+    {
+      "tagalog": "Hindi po totoo. Hindi po nagtuturo si Jasmine.",
+      "english": "It is not true. Jasmine does not teach. (resp.)",
+      "required": true,
+      "audioPath": "3cd71ca0-4430-449f-aad6-08c71aa5f8e0"
+    },
+    {
+      "tagalog": "Magsasabi ako ng oras sa kanila.",
+      "english": "I will tell them the time.",
+      "required": true,
+      "audioPath": "71175315-7bf3-4db1-9e75-0cf75c1a5cd4"
+    },
+    {
+      "tagalog": "Nag-aral sila dun nang alas-nuwebe ng umaga",
+      "english": "They studied there at 9am..",
+      "required": true,
+      "audioPath": "63025379-4669-4633-9e03-e99e63b95a58"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson11",
+  "title": "Lesson 11 - Telling Time part 2 and Date",
+  "vocabulary": [
+    {
+      "tagalog": "petsa",
+      "english": "date",
+      "required": true,
+      "audioPath": "4edabcbb-ac6c-45c1-87a1-981345a553fa"
+    },
+    {
+      "tagalog": "gabí",
+      "english": "night; evening",
+      "required": true,
+      "audioPath": "9bb0a45d-2c02-4194-a2c8-311eecf79335"
+    },
+    {
+      "tagalog": "umaga",
+      "english": "morning",
+      "required": true,
+      "audioPath": "9d0761bc-783b-402f-9cbf-24c4c19c057b"
+    },
+    {
+      "tagalog": "hapon",
+      "english": "afternoon",
+      "required": true,
+      "audioPath": "9e8efdf4-fd48-46a8-a0d1-d275b12dee36"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, we will finish talking about telling time, and also cover the date. If you are not familiar with the months, which are borrowed from Spanish, please go to **Appendix E** at this time and memorize them."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Period of the Day</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Period of the day, such as morning or evening, can be added to times using the possessive _ng_."
+    },
+    {
+      "type": "h2",
+      "markdown": "time + ng + period (Tag.) = time in the period (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lunes ng gabi.",
+        "english": "Monday in the evening or Monday evening.",
+        "required": true,
+        "audioPath": "3b717222-e9fb-452b-a625-8a67e26636f5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Martes nang alas-tres diyes ng umaga.",
+        "english": "Tuesday at 3:10 a.m.",
+        "required": true,
+        "audioPath": "6accf191-9171-42e0-ae22-df1f1653ee68"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabado nang ala-una ng hapon.",
+        "english": "Saturday at one in the afternoon.",
+        "required": true,
+        "audioPath": "eb9c4011-2c56-46a9-85fe-06d5c181f4c7"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>The Date</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here is how you ask the date in Tagalog:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Anong **petsa **na? (Tag.) = What date is it? (Eng.)"
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that _ano _takes a linker, changing it to _anong_, in this sentence. This is how you answer it using Tagalog numbers:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Ordinal number + ng + **Month**. (Tag.) = Ordinal number of Month. (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikalabinlima ng Mayo.",
+        "english": "(The) fifteenth of May.",
+        "required": true,
+        "audioPath": "c289d0ff-0106-4268-a867-a2b594643a99"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikadalawampu’t isa ng Agosto.",
+        "english": "Twenty-first of August.",
+        "required": true,
+        "audioPath": "3e2553e8-23ea-480a-96a3-d65d067ddefc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikaapat ng Hulyo.",
+        "english": "Fourth of July.",
+        "required": true,
+        "audioPath": "a3fa77d5-a651-409f-bd9b-af7f7e5a1c3b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "That Structure Equation works for Spanish numbers too, but we will only use Tagalog numbers for this in order to give you more practice with them. But the first day of the month is an exception:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Unang araw ng + **Month**. (Tag.) = 1st (day) of Month. (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Unang araw ng Mayo.",
+        "english": "1st of May or 1st day of May.",
+        "required": true,
+        "audioPath": "4b4112d7-18d1-4af9-b133-92fd56b55185"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Unang araw ng Agosto.",
+        "english": "1st of August.",
+        "required": true,
+        "audioPath": "e4550596-00e0-48db-9c48-5c864e8b0c13"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Unang araw ng Hulyo.",
+        "english": "1st of July.",
+        "required": true,
+        "audioPath": "d00bcfd6-4980-42b1-a9fd-3c91f0a0d97a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Similarly:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Huling araw ng + **Month**. (Tag.) = Last day of Month. (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huling araw ng Mayo.",
+        "english": "Last day of May.",
+        "required": true,
+        "audioPath": "84d8c960-62c0-41cc-89ec-a6c54412852c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huling araw ng Agosto.",
+        "english": "Last day of August.",
+        "required": true,
+        "audioPath": "6c16e884-5914-4a5d-bd7d-756a27eba529"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huling araw ng Hulyo.",
+        "english": "Last day of July.",
+        "required": true,
+        "audioPath": "1b375de7-b443-4b1e-84b2-ef66906978d8"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Including a Year</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You can add a year if you would like:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Date + taong + year. (Tag) = Date, year. (Eng)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: _Taong _is just _taon _+ linker.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikalabinlima ng Mayo taong dalawang libo't lima.",
+        "english": "15th of May, 2005.",
+        "required": true,
+        "audioPath": "a4470e93-6135-4105-8966-8e516c136d65"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikadalawampu ng Nobyembre taong isang libo, siyam na raan, walumpu't pito.",
+        "english": "20th of November, 1987.",
+        "required": true,
+        "audioPath": "d2f3b131-19a5-44d5-8fae-e16a94f1ffe9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Unang araw ng Enero taong dalawang libo.",
+        "english": "1st of January, 2000.",
+        "required": true,
+        "audioPath": "87035970-5c7e-46a7-ac11-d546c5839766"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Combining Time and Date</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here is how you add a day and time to a date:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Day + ang + date + taong + year + time. (Tag.) = Time, day the date, year. (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Linggo ang ikalabinlima ng Mayo taong dalawang libo't lima nang alas-dos.",
+        "english": "2 o’clock, Sunday the 15th of May, 2005.",
+        "required": true,
+        "audioPath": "950c0a7d-975b-49eb-a375-72ea2da62719"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Biyernes ang ikadalawampu ng Nobyembre taong isang libo, siyam na raan, walumpu't pito nang alas-sais ng umaga.",
+        "english": "6 am, Friday the 20th of November, 1987.",
+        "required": true,
+        "audioPath": "23a91d56-bfc5-4c65-abb6-06977298b918"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabado ang unang araw ng Enero taong dalawang libo nang alas-diyes.",
+        "english": "Ten o’clock, Saturday the first of January, 2000.",
+        "required": true,
+        "audioPath": "fc458c11-7cdf-4b19-8ae2-25cb040a4e8e"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Linggo ng umaga.",
+      "english": "Sunday in the morning.",
+      "required": true,
+      "audioPath": "440c6380-30fd-4bbf-8665-4b6337d0759d"
+    },
+    {
+      "tagalog": "Huling araw ng Marso taong isang libo, limang daan, dalawampu't isa.",
+      "english": "Last day of March, 1521.",
+      "required": true,
+      "audioPath": "437bfe5e-d023-4aba-b45c-1be85f63163d"
+    },
+    {
+      "tagalog": "Anong petsa na po?",
+      "english": "What is the date today? (resp.)",
+      "required": true,
+      "audioPath": "398f9cce-203c-4a14-844d-008d68c75554"
+    },
+    {
+      "tagalog": "Hindi ang ikasampu ng Hunyo.",
+      "english": "Not the 10th of June.",
+      "required": true,
+      "audioPath": "9892766d-df62-44a2-8e84-1b9577b53adb"
+    },
+    {
+      "tagalog": "Biyernes ang ikadalawampu’t lima ng Disyembre taong dalawang libo't dalawampu nang mga alas-nuwebe.",
+      "english": "About 9 o'clock, Friday the 25th of December, 2020.",
+      "required": true,
+      "audioPath": "325dd388-4336-4687-b916-b350051fa815"
+    },
+    {
+      "tagalog": "Martes ng gabi.",
+      "english": "Tuesday in the evening.",
+      "required": true,
+      "audioPath": "1b9d7a98-da6b-402b-8996-91950f04e5c4"
+    },
+    {
+      "tagalog": "Unang araw ng Pebrero ba?",
+      "english": "The 1st of February?",
+      "required": true,
+      "audioPath": "8824da37-4d3c-40ee-ad7d-14383e514c1f"
+    },
+    {
+      "tagalog": "Ikasiyam ng Setyembre taong isang libo, siyam na raan, siyamnapu't apat.",
+      "english": "September 9, 1994.",
+      "required": true,
+      "audioPath": "573a63ff-24be-49f0-ab4f-5e991fd8ce51"
+    },
+    {
+      "tagalog": "Huwebes nang alas-tres y medya ng hapon.",
+      "english": "Thursday at half past three in the afternoon.",
+      "required": true,
+      "audioPath": "27399003-a993-4a9e-908c-7a19ebf554d4"
+    },
+    {
+      "tagalog": "Lunes ng gabi, ikatatlumpu’t isa ng Oktubre taong dalawang libo't lima.",
+      "english": "Monday evening, the 31st of October, 2005.",
+      "required": true,
+      "audioPath": "e40b93f8-d04b-4992-930b-b5e1bcf6c3cb"
+    }
+  ]
+}

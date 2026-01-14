@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson17",
+  "title": "Lesson 17 - Adverbs 1",
+  "vocabulary": [
+    {
+      "tagalog": "ngayón",
+      "english": "today; now",
+      "required": true,
+      "audioPath": "e4cc4180-43ff-404c-be97-b09fec65c04b"
+    },
+    {
+      "tagalog": "bukas",
+      "english": "tomorrow",
+      "required": true,
+      "audioPath": "a7ad93fd-45e3-4a43-b860-f6f7b21d874e"
+    },
+    {
+      "tagalog": "kahapon",
+      "english": "yesterday",
+      "required": true,
+      "audioPath": "15011f17-8b24-4590-8a9f-4fd62c242911"
+    },
+    {
+      "tagalog": "araw",
+      "english": "day; sun",
+      "required": true,
+      "audioPath": "57be357d-a8ff-43fe-842c-544c4da00746"
+    },
+    {
+      "tagalog": "áraw-araw",
+      "english": "every day",
+      "required": true,
+      "audioPath": "866a6206-f8f1-4bd0-bdfa-c59c8f659380"
+    },
+    {
+      "tagalog": "tuwíng",
+      "english": "every",
+      "required": true,
+      "audioPath": "fed1936c-a647-458f-a293-9ccaad344b25"
+    },
+    {
+      "tagalog": "nun",
+      "english": "when, while, during (past actions)",
+      "required": false,
+      "audioPath": "47d75621-5d8c-4933-a2d5-a765230defb6"
+    },
+    {
+      "tagalog": "*noón",
+      "english": "when, while, during (past actions)",
+      "required": false,
+      "audioPath": "669fa269-9231-4add-9c8b-1ed1353faaa9"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Tagalog adverbs have many uses. This is the first of two lessons on adverbs. In this lesson, we will show some ways they are used to modify verbs. The second lesson, which you will see later on in the book, will cover adverbs in general."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Duration: nang + adv</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You can often put _nang _+ adv on the end of a sentence to indicate the duration of an action."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-alala ako nang dalawang araw.",
+        "english": "I worried for two days.",
+        "required": true,
+        "audioPath": "78f057f9-b102-4f8d-8dae-fa22053d130c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aaral si Maria nang limang oras.",
+        "english": "Maria will study for five hours.",
+        "required": true,
+        "audioPath": "13796d92-3f3a-4cf2-a7ba-1ea4d8092af0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbisikleta siya nang labintatlong segundo.",
+        "english": "She bicycled for 13 seconds.",
+        "required": true,
+        "audioPath": "185d7dbd-c1d4-4f88-9d56-fa83cd72a4e3"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But be careful because sometimes a period of time is just an object, rather than a duration of the action:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magbibigay ako ng dalawang oras.",
+        "english": "I will give two hours.",
+        "required": true,
+        "audioPath": "2d0ef21d-2397-4442-aa5d-19a0da642a56"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magbibigay ako nang dalawang oras.",
+        "english": "I will give for (a duration of) two hours.",
+        "required": true,
+        "audioPath": "79427467-1ea8-4f1d-83ee-f264312d9b15"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Period: adv</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "For some adverbs that indicate the period an action takes place, you can put the plain adverb on the end of a sentence without using a particle."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naghanap si Jason ng guro kahapon.",
+        "english": "Jason looked for a teacher yesterday.",
+        "required": true,
+        "audioPath": "3c6fe34e-4dc4-4979-ba42-5a55ceb9eaab"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naghahanap si Jason ng guro ngayon.",
+        "english": "Jason is looking for a teacher today.",
+        "required": true,
+        "audioPath": "39f05b42-b1b7-455d-ad68-0d069b9dcd7a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naghahanap si Jason ng guro araw-araw.",
+        "english": "Jason looks for a teacher every day.",
+        "required": true,
+        "audioPath": "c18025ec-1775-475d-90c9-4564a11d1456"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naghahanap si Jason ng guro bawat umaga.",
+        "english": "Jason looks for a teacher each morning.",
+        "required": true,
+        "audioPath": "a162ade7-c11f-403d-8a32-f9a7726bc52a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maghahanap si Jason ng guro bukas.",
+        "english": "Jason will look for a teacher tomorrow.",
+        "required": true,
+        "audioPath": "bda7819a-55df-4fc2-84b6-a5c6666a2bbb"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Period: sa/tuwing/nung + adv</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "For some adverbs that indicate the period an action takes place, you will need to put _sa/tuwing/nung _+ adv on the end of the sentence, as shown in these examples. _Nung _is just _nun _+ linker."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magluluto kami ng manok sa gabi.",
+        "english": "We (excl.) will cook chicken at night. Note that sa indicates a future event.",
+        "required": true,
+        "audioPath": "f9858a22-0067-4ea1-a654-1d594f9180d0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naglalaro sila ng basketbol tuwing Miyerkules.",
+        "english": "They play basketball every Wednesday. Note that tuwing indicates a repeating or habitual event.",
+        "required": true,
+        "audioPath": "96309753-d1f7-48ed-8a5f-741d50979882"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi nagbisikleta si Jasmine papunta sa Maynila nung taong dalawang libo't dalawampu.",
+        "english": "Jasmine did not bicycle to Manila in 2020. Note that nung indicates a past event.",
+        "required": true,
+        "audioPath": "935e40b8-ab5f-4a3b-8757-0a4b5650c44e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Beses: nang + adj + linker + beses</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Beses _can be used to form an adverb of frequency:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagmaneho ka sa Maynila nang maraming beses.",
+        "english": "You have driven in Manila many times.",
+        "required": true,
+        "audioPath": "a1dc4b5d-0655-477c-9187-332d14ed5796"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi magtuturo si Sir Santos kay Angel nang dalawang beses.",
+        "english": "Mr. Santos will not teach Angel twice.",
+        "required": true,
+        "audioPath": "25f9e20b-7fc5-4940-8343-356015dd07c9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naglagay na ako ng pagkain dito nang sandaang beses.",
+        "english": "I put some food here one hundred times already.",
+        "required": true,
+        "audioPath": "4cbbab63-7642-4f03-86fd-11e7a2385200"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Mag-aral ka nang kalahating araw.",
+      "english": "Study for half a day.",
+      "required": true,
+      "audioPath": "753904d2-758c-4b80-911f-e44e3b6130f9"
+    },
+    {
+      "tagalog": "Nag-alala ako sa kaniya nang maraming beses nung Miyerkules.",
+      "english": "I worried about him many times on Wednesday.",
+      "required": true,
+      "audioPath": "4987a475-39b7-4a47-a41d-bddf63a29005"
+    },
+    {
+      "tagalog": "Nagbibisikleta ba siya papunta dun ngayon ?",
+      "english": "Is he bicycling (to) there now?",
+      "required": true,
+      "audioPath": "08ffa8c4-e8ea-4d50-8d33-541af636ee54"
+    },
+    {
+      "tagalog": "Maghahanap kami ng mga tunay na babae bawat araw.",
+      "english": "We (excl.) will look for real women each day.",
+      "required": true,
+      "audioPath": "436643b9-3fc7-44c4-af7d-78723b70a323"
+    },
+    {
+      "tagalog": "Magmaneho nga kayo ng puting sasakyan bukas.",
+      "english": "(you pl.) Drive a white car tomorrow. (soft)",
+      "required": true,
+      "audioPath": "be1c82f9-f4d3-4dcb-8694-45e4c558d184"
+    },
+    {
+      "tagalog": "Hindi naglalaro ang anak nila tuwing Martes.",
+      "english": "Their child does not play on Tuesdays.",
+      "required": true,
+      "audioPath": "280affe8-2dc3-4640-94e7-10c8b9ac2f98"
+    },
+    {
+      "tagalog": "Nagluto na po sila ng adobo nang anim na beses kahapon, hindi tatlo.",
+      "english": "They already cooked adobo six times yesterday, not three. (resp.)",
+      "required": true,
+      "audioPath": "14f2c01b-5986-4db5-8cd0-f9e0ffe969aa"
+    },
+    {
+      "tagalog": "Magtuturo si Mrs. Castillo araw-araw sa Enero.",
+      "english": "Mrs. Castillo will teach every day in January.",
+      "required": true,
+      "audioPath": "9bbad365-42ba-4b47-8f0a-7970df1a6d1e"
+    },
+    {
+      "tagalog": "Maglalakad si Luis papunta sa Maynila bukas.",
+      "english": "Luis will walk to Manila tomorrow.",
+      "required": true,
+      "audioPath": "44eba93e-dfef-44e8-97dd-268d8195ef0e"
+    },
+    {
+      "tagalog": "Maglagay tayo ng mga sapatos dun sa umaga.",
+      "english": "Let's put some shoes there in the morning.",
+      "required": true,
+      "audioPath": "931da1ba-e27d-4e52-9dce-b8f3ff85b5dc"
+    }
+  ]
+}

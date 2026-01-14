@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson6",
+  "title": "Lesson 6 - Possessive Phrases",
+  "vocabulary": [
+    {
+      "tagalog": "manók",
+      "english": "chicken",
+      "required": true,
+      "audioPath": "f448890d-c3f8-4af2-a9d3-1fe48e38aa54"
+    },
+    {
+      "tagalog": "tsokolate",
+      "english": "chocolate (noun or adj)",
+      "required": true,
+      "audioPath": "af2b771a-c48a-4884-a511-28d64084a583"
+    },
+    {
+      "tagalog": "bahay",
+      "english": "house",
+      "required": true,
+      "audioPath": "6555ebbf-8dfd-4d12-9870-5ebbfb001494"
+    },
+    {
+      "tagalog": "anák",
+      "english": "child (son or daughter)",
+      "required": true,
+      "audioPath": "f1b3fa73-ea0d-442f-bc17-b92218f8f5ed"
+    },
+    {
+      "tagalog": "gusali",
+      "english": "building",
+      "required": true,
+      "audioPath": "acd2d488-a535-47a8-9d58-91ce3969b36d"
+    }
+  ],
+  "contents": [
+    {
+      "type": "h3",
+      "markdown": "<u>Possessive Phrases using ng form</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are of the form “noun of noun”; _ng _means something like “of” in this construction."
+    },
+    {
+      "type": "h2",
+      "markdown": "possession + possessor (Tag.) = possessor’s possession (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Possessor takes _ng _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "manok ko",
+        "english": "my chicken (chicken of me)",
+        "required": true,
+        "audioPath": "70487bd8-71fc-4b3c-b326-5f64f97851b9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "piso ng lalaki",
+        "english": "man’s peso (peso of man)",
+        "required": true,
+        "audioPath": "86bbc897-ba9f-4548-ab82-26d05c3e946a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tsokolate ni Maria",
+        "english": "Maria’s chocolate (chocolate of Maria)",
+        "required": true,
+        "audioPath": "5cd0e37b-07ce-4436-ba62-5187f11fbb3c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga bahay nina Jessica at Joshua",
+        "english": "Jessica and Joshua’s houses (houses of Jessica and Joshua, which they own together)",
+        "required": true,
+        "audioPath": "b637e5b7-43a1-4837-ade7-4de4fcc54347"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Keep in mind that the result is a noun phrase and can be used anywhere a noun is used."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Possessive Phrases using sa form</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There is an alternate way of forming possessive phrases when the possessor is a personal pronoun (pp):"
+    },
+    {
+      "type": "h2",
+      "markdown": "pp + linker + possession (Tag.) = possessor’s possession (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Pp takes _sa _form without the _sa_. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "aking manok",
+        "english": "my chicken",
+        "required": true,
+        "audioPath": "6df29235-c325-484e-8df3-21f0a332fd54"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kanilang anak",
+        "english": "their child",
+        "required": true,
+        "audioPath": "e06c808d-da5e-4708-9421-7e7196f02b0b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Warning: _sa _possessive phrases are much less common than _ng_, so your goal should be to recognize and understand these when you encounter them, but I recommend you do not use these in colloquial speech when starting out. You will not be wrong or misunderstood if you do, but you will not be talking like a native if you frequently use these. And because native English speakers often find these easier to produce due to their English-like “Possessor’s Possession” structure, there is a great temptation to do just that. So to discourage that habit, I will limit their use to this lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Chaining Possessive Phrases</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "We know how to say “president’s chicken”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "manok ng pangulo",
+        "english": "president’s chicken",
+        "required": true,
+        "audioPath": "09d8b2a5-3479-421b-be3f-180c77258747"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "And “my president”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pangulo ko",
+        "english": "my president",
+        "required": true,
+        "audioPath": "25f06130-8824-405b-bfab-0910c6d989db"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But how do we say “my president’s chicken”? Remember that these noun phrases can be used anywhere a noun is. So, I will take the first phrases and replace the noun _pangulo _with the noun phrase _pangulo ko_."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "manok ng (pangulo ko)",
+        "english": "my president’s chicken",
+        "required": true,
+        "audioPath": "c86a4ee7-5828-40ac-ac6b-c32b63cbfb58"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In other words:"
+    },
+    {
+      "type": "h2",
+      "markdown": "noun1 + noun2 + noun3 +... = chain of possessive phrases"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun2 and on take _ng _form. **"
+    },
+    {
+      "type": "p",
+      "markdown": "Remember that pronouns are a class of nouns, so they can also be used in the equation above."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "bahay ng manok ng pangulo ko",
+        "english": "my president’s chicken’s house",
+        "required": true,
+        "audioPath": "3937e9c5-1b59-48d3-9ca3-2cbe9f1b4d46"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "That is literally “the house of the chicken of my president”."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Personal Pronoun Possessive Phrases with Adjectives</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Consider the phrase:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magandang manok ni Maria",
+        "english": "Maria’s beautiful chicken",
+        "required": true,
+        "audioPath": "804cea74-ff68-46eb-9f76-d5ed11c0f1e1"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is fine, but if I try this with a personal pronoun, as in:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: magandang manok ko = my beautiful chicken"
+    },
+    {
+      "type": "p",
+      "markdown": "The word order is not very common. So, for personal pronoun possessive phrases with adjectives, please use this order:"
+    },
+    {
+      "type": "h2",
+      "markdown": "adj + pp + linker + possession (Tag.) = possessor adj possession (Eng.)"
+    },
+    {
+      "type": "p",
+      "markdown": "Note: Pp takes _ng _form."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "maganda kong manok",
+        "english": "my beautiful chicken",
+        "required": true,
+        "audioPath": "82d1a786-901c-4f54-96e0-9ec0f95b100e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tunay niyang piso",
+        "english": "his real peso",
+        "required": true,
+        "audioPath": "7d41bc6a-c025-4296-8419-1ee170a01525"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mura nilang tsokolate",
+        "english": "their cheap chocolate",
+        "required": true,
+        "audioPath": "9d3f58fc-f059-4e31-9729-7ec7ce59cae0"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sino ang iyong anak?",
+      "english": "Who is your child? (sa possessive)",
+      "required": true,
+      "audioPath": "e2eef20c-87bc-4a8d-b9a3-e8109105a223"
+    },
+    {
+      "tagalog": "Ano ang sasakyan ng pangulo mo?",
+      "english": "What is your president's car?",
+      "required": true,
+      "audioPath": "2839e6f8-cdc5-4b7a-95ff-180e92063975"
+    },
+    {
+      "tagalog": "Ito ang puti niyang bahay.",
+      "english": "It is his white house.",
+      "required": true,
+      "audioPath": "c9951043-66a9-4980-9b7a-6085e9fb7c83"
+    },
+    {
+      "tagalog": "Masarap na tsokolate ang pagkain nila.",
+      "english": "Their food is delicious chocolate.",
+      "required": true,
+      "audioPath": "d9877fb1-95fd-4eef-b17b-e8f32b8378ee"
+    },
+    {
+      "tagalog": "Ito ang aking maganda at pagod na manok.",
+      "english": "This is my beautiful and tired chicken. (sa possessive)",
+      "required": true,
+      "audioPath": "d32fee24-86b4-4a5e-a72f-f75b1206e9db"
+    },
+    {
+      "tagalog": "Yun ang mga piso at tsokolate ng anak ko.",
+      "english": "Those are my child's pesos and chocolates.",
+      "required": true,
+      "audioPath": "80a35766-b81d-4d23-a8cb-c50eedd4abf1"
+    },
+    {
+      "tagalog": "Sino ang guro nina Angel at Maria?",
+      "english": "Who is Angel and Maria's teacher?",
+      "required": true,
+      "audioPath": "7f02ab3c-789a-4376-89ad-ba07a00b7b1c"
+    },
+    {
+      "tagalog": "Ito ang masaya naming manok.",
+      "english": "This is our happy chicken.",
+      "required": true,
+      "audioPath": "ff2d36e4-5b22-4759-a52e-7a7af2b59d5f"
+    },
+    {
+      "tagalog": "Marami ang mga piso ng estudyante ni Nanay.",
+      "english": "Mother's student's pesos are many.",
+      "required": true,
+      "audioPath": "a7a2d6d7-1730-4dd7-81df-4a26aab11a8b"
+    },
+    {
+      "tagalog": "Yun ang kaniyang murang bahay at sikat na gusali.",
+      "english": "That is his cheap house and famous building. (sa possessive)",
+      "required": true,
+      "audioPath": "c8bf92fe-b227-4a0f-8ec3-7e414afd54fa"
+    }
+  ]
+}

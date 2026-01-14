@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson4",
+  "title": "Lesson 4 – Unaffixed Adjectives",
+  "vocabulary": [
+    {
+      "tagalog": "sikát",
+      "english": "famous; popular",
+      "required": true,
+      "audioPath": "41e29daa-3b2f-4d49-bc1e-01379ad4382c"
+    },
+    {
+      "tagalog": "putî",
+      "english": "white",
+      "required": true,
+      "audioPath": "1c0ce0a4-c7b9-4221-ba15-a3bf8b705090"
+    },
+    {
+      "tagalog": "sasakyán",
+      "english": "car",
+      "required": true,
+      "audioPath": "19f4de05-0343-40dd-9518-634803e08944"
+    },
+    {
+      "tagalog": "mura",
+      "english": "cheap",
+      "required": true,
+      "audioPath": "72d02a56-7545-44af-9916-b8d74dd405c7"
+    },
+    {
+      "tagalog": "pagód",
+      "english": "tired",
+      "required": true,
+      "audioPath": "5db1dec7-d282-4420-8ec7-f617930c575f"
+    },
+    {
+      "tagalog": "tunay",
+      "english": "genuine; real",
+      "required": true,
+      "audioPath": "a30ce477-a3a3-4ebe-a8d9-be3d910807f4"
+    },
+    {
+      "tagalog": "eskwelahán",
+      "english": "school",
+      "required": true,
+      "audioPath": "5e8ed44c-cd1d-4656-ba6e-6496c245cf71"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Adjectives are plentiful in Tagalog, and they can be single words or phrases. We will cover certain adjective phrases in later lessons."
+    },
+    {
+      "type": "p",
+      "markdown": "Single word adjectives are either affixed or unaffixed. Please read **Appendix C** at this point if you are not familiar with Tagalog roots and affixes. In this lesson, we will cover unaffixed adjectives, which are just bare roots with the appropriate stress/glottal stops."
+    },
+    {
+      "type": "p",
+      "markdown": "Adjectives have three main functions in Tagalog: 1) to make a statement about a subject 2) to modify a noun and 3) to be used as a noun. We will cover 3) in a later lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Making Statements about the Subject</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Adj** + Subject. (Tag.) = Subject is adj. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mura ang mga sasakyan.",
+        "english": "The cars are cheap.",
+        "required": true,
+        "audioPath": "9b36baab-7c19-49b4-bacd-b26813f5c953"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sikat ang pangulo.",
+        "english": "The president is famous.",
+        "required": true,
+        "audioPath": "67db3daf-c82d-4cf1-88f1-bf29a52c1e63"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagod ang lalaki.",
+        "english": "The man is tired.",
+        "required": true,
+        "audioPath": "5c9539e5-90a8-4aff-a9ff-6602903b5978"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Modifying Nouns</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "adj + linker + noun (Tag.) = adj noun (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "murang sasakyan",
+        "english": "cheap car",
+        "required": true,
+        "audioPath": "c1bd731d-2b3c-4318-8918-c9ea1246df00"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sikat na pangulo",
+        "english": "famous president",
+        "required": true,
+        "audioPath": "87905bb7-23af-4ea2-bed4-663125a923ef"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagod na lalaki",
+        "english": "tired man",
+        "required": true,
+        "audioPath": "39357b17-4ebf-4d00-a07c-a182f69efa12"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is also ok to reverse the adjective and noun:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sasakyang mura",
+        "english": "cheap car",
+        "required": true,
+        "audioPath": "240c6544-f146-40c7-bbc6-b2768faf9354"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pangulong sikat",
+        "english": "famous president",
+        "required": true,
+        "audioPath": "2ad9b9fd-ca2c-489a-b655-b0ab4260164b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "lalaking pagod",
+        "english": "tired man",
+        "required": true,
+        "audioPath": "0e356604-4379-48b6-9101-5b5107003721"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But to be consistent, we will use the adjective first from here on."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Plural Modified Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To make unaffixed adjective modified nouns plural, you just put _mga_ before the adjective."
+    },
+    {
+      "type": "h2",
+      "markdown": "mga + adj + linker + noun (Tag.) = adj nouns (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga murang sasakyan",
+        "english": "cheap cars",
+        "required": true,
+        "audioPath": "4e114b94-6f9a-4d9e-a5c2-88608f5e3cc4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga sikat na pangulo",
+        "english": "famous presidents",
+        "required": true,
+        "audioPath": "99d34ddb-026d-479d-b360-e5a16ee0b994"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga pagod na lalaki",
+        "english": "tired men",
+        "required": true,
+        "audioPath": "b1d6833a-dab9-4acf-8d0d-6b9b3ce2e7f4"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is also ok to put _mga_ after the adjective, but this changes the nuance a bit:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga murang sasakyan",
+        "english": "(a bunch of) cheap cars",
+        "required": true,
+        "audioPath": "c18809f7-00c7-4e78-aeb3-9e9db2f3f017"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "murang mga sasakyan",
+        "english": "cheap (bunch of) cars",
+        "required": true,
+        "audioPath": "21a347d1-d48e-4699-a82c-a988e95396e8"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This nuance usually does not matter, but it is less common, so we will put mga before the adjective with the exception of a certain adjective covered in the next lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Multiple Adjectives</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To use more than one adjective in the above constructions, you can replace the single adjective with _adj1 at adj2 at adj3_, etc. For example, for two adjectives:"
+    },
+    {
+      "type": "h2",
+      "markdown": "adj1 at adj2 (Tag.) = adj1 and adj2 (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: When _at _follows a word that ends in a vowel it normally changes to _’t_.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mura’t puti ang sasakyan.",
+        "english": "The car is cheap and white.",
+        "required": true,
+        "audioPath": "037663d1-8b13-4cca-9527-b5ab12506166"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mura’t puting sasakyan",
+        "english": "cheap and white car",
+        "required": true,
+        "audioPath": "420e4077-5f11-4231-b36b-6396a67ae707"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga mura’t puting sasakyan",
+        "english": "cheap and white cars",
+        "required": true,
+        "audioPath": "adb633e6-74aa-4e32-84a3-5b3acb1cc95d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "When modifying a noun, another option is to replace the single adjective with _adj1 linker adj2 linker adj3_, etc. For example, for two adjectives:"
+    },
+    {
+      "type": "h2",
+      "markdown": "adj1 + linker + adj2 + linker + noun (Tag.) = adj1, adj2 noun(Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagod na sikat na pangulo",
+        "english": "tired, famous president",
+        "required": true,
+        "audioPath": "1b4d2aa7-5914-4033-aa0c-33a0ebaf25e8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "murang puting sasakyan",
+        "english": "cheap, white car",
+        "required": true,
+        "audioPath": "d7455a3c-36b1-4604-b7fe-8f25d59209c0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga murang puting sasakyan",
+        "english": "cheap, white cars",
+        "required": true,
+        "audioPath": "1b7351ab-5257-41e3-8dc5-c92501d9cbd6"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sikat ang sasakyan.",
+      "english": "The car is famous..",
+      "required": true,
+      "audioPath": "05987ad0-3f5e-41f0-84b1-38e25db03349"
+    },
+    {
+      "tagalog": "Sino ang pagod na guro?",
+      "english": "Who is the tired teacher?",
+      "required": true,
+      "audioPath": "f7296791-e654-46e9-8a23-e01ef6362f1d"
+    },
+    {
+      "tagalog": "Mura't sikat ang adobo.",
+      "english": "Adobo is cheap and popular.",
+      "required": true,
+      "audioPath": "6dd13232-8f17-4d38-a985-4a29fca727d2"
+    },
+    {
+      "tagalog": "Sikat na puting eskwelahan yun.",
+      "english": "That is a famous white school.",
+      "required": true,
+      "audioPath": "e45854bd-90a6-4c7e-90f3-5b40428251ce"
+    },
+    {
+      "tagalog": "Tunay ang mga sasakyan.",
+      "english": "The cars are real.",
+      "required": true,
+      "audioPath": "72852754-683d-4346-92e9-668026477137"
+    },
+    {
+      "tagalog": "Sikat na pangulo si nanay.",
+      "english": "Mother is a famous president.",
+      "required": true,
+      "audioPath": "c500efa4-de25-4f50-9ff2-f04b99cfeb11"
+    },
+    {
+      "tagalog": "Puti ang tubig na ito!",
+      "english": "This water is white!",
+      "required": true,
+      "audioPath": "d624087c-5008-4c90-87ab-c6c71f7a3368"
+    },
+    {
+      "tagalog": "Ano ang mga murang pagkaing yun?",
+      "english": "What are those cheap foods?",
+      "required": true,
+      "audioPath": "0b3989b0-cfa2-45f4-b275-9634bb2ed722"
+    },
+    {
+      "tagalog": "Pagod ang estudyante.",
+      "english": "The student is tired.",
+      "required": true,
+      "audioPath": "133f2c32-49ec-4d9e-9b60-9887d1df8a55"
+    },
+    {
+      "tagalog": "Ito ang mga tunay na eskwelahan.",
+      "english": "These are the real schools.",
+      "required": true,
+      "audioPath": "152b2b16-0891-4c6d-bd75-71b2c5ffc542"
+    }
+  ]
+}

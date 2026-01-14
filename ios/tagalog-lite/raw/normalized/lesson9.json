@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson9",
+  "title": "Lesson 9 - Numbers",
+  "vocabulary": [
+    {
+      "tagalog": "ilán",
+      "english": "how many",
+      "required": true,
+      "audioPath": "a71f54b6-999f-41ad-acd9-f390a871051c"
+    },
+    {
+      "tagalog": "taón",
+      "english": "year",
+      "required": true,
+      "audioPath": "891e31e9-a5be-4430-91c4-cbd6ed7fd705"
+    },
+    {
+      "tagalog": "na",
+      "english": "enclitic particle that means already or now",
+      "required": true,
+      "audioPath": "89fa7886-98be-492d-9896-fc7908810187"
+    },
+    {
+      "tagalog": "magkano",
+      "english": "how much (money)",
+      "required": true,
+      "audioPath": "7effb9c7-1d7f-4f22-98e7-4d071c32df20"
+    },
+    {
+      "tagalog": "beses",
+      "english": "times",
+      "required": true,
+      "audioPath": "b2d105d9-df74-4ae4-a55b-65a950532b44"
+    },
+    {
+      "tagalog": "bawat",
+      "english": "each; per",
+      "required": false,
+      "audioPath": "bf6659d2-cfde-49eb-97a7-59858fe64011"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "If you do not have Tagalog numbers memorized, or need a refresher, please go to **Appendix D** and make a first pass at memorizing pure Tagalog numbers, ordinal numbers and fractions before attempting this lesson. You are shown how to form them in Appendix D, and the numbers are listed out there too. This lesson is meant to show you how to put them to use."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Cardinal numbers (one, two, three, etc.)</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Cardinal numbers are very flexible. Here are a few examples. You can use them with age:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Q : Ilang + **taon**_ _+ na + subject? (Tag.) = How old is subject? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject takes _ang _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ilang taon ka na?",
+        "english": "How old are you?",
+        "required": true,
+        "audioPath": "746a7189-1936-44da-9757-745e6b548e97"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ilang taon na siya?",
+        "english": "How old is he/she?",
+        "required": true,
+        "audioPath": "6cb66a8d-db2a-4af2-85d9-9beb084050d8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ilang taon na po ang lalaki?",
+        "english": "How old is the man? (resp.)",
+        "required": true,
+        "audioPath": "b3d31980-9f32-4c8a-9ed9-fcf9893c29f6"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that _ilan _takes a linker, changing it to _ilang_, before nouns. There is a _na_ in the sentence too, but it is not the linker. It is an enclitic particle that adds the meaning “already” or “now”. When you ask someone their age, remember to use it because it sounds unnatural not to."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: _Na _is an enclitic particle. Enclitic particles appear in a fixed order. You have learned three so far, and they appear in this order: _na, po, ba_. **"
+    },
+    {
+      "type": "p",
+      "markdown": "Remember that short personal pronouns like _ka _come before enclitic particles like _na_. Here is how to answer “how old” questions:"
+    },
+    {
+      "type": "h2",
+      "markdown": "A: Number + _taon _+ na + subject. (Tag.) = Subject is number years old now. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Subject takes _ang _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Dalawampu’t isang taon na ako.",
+        "english": "I am twenty-one years old.",
+        "required": true,
+        "audioPath": "552fa50f-2a2e-428f-a458-432517b93a36"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Shorter Ans: Dalawampu’t isa. = Twenty-one."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Labinlimang taon na siya.",
+        "english": "He is fifteen years old.",
+        "required": true,
+        "audioPath": "1086f61d-a1fd-47ad-bf4e-fad4dad6591d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Apatnapu't tatlong taon na po ang lalaki.",
+        "english": "The man is forty-three years old. (resp.)",
+        "required": true,
+        "audioPath": "8e3625be-0177-4777-9154-d903d05a3bfe"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the numbers take linkers before the noun _taon_. That is because they are merely adjectives modifying the noun, as seen previously."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Numbers are adjectives, and should be treated as such, but they do not require the plural marker _mga_.**"
+    },
+    {
+      "type": "p",
+      "markdown": "_Mga _is normally dropped with numbers, and so that is what we will do in this book."
+    },
+    {
+      "type": "p",
+      "markdown": "You can count with cardinal numbers:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda ang dalawang sasakyan ko.",
+        "english": "My two cars are beautiful.",
+        "required": true,
+        "audioPath": "9df5d6d5-7273-44a1-b77f-d9c40be55fd1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang pitong babae?",
+        "english": "Who are the seven women?",
+        "required": true,
+        "audioPath": "e45b0f0e-e7b9-4137-af94-2d8743de7a05"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ito ang sampung manok ko.",
+        "english": "These are my ten chickens.",
+        "required": true,
+        "audioPath": "4340d8fb-8f6a-458c-9a45-083a0dd187ee"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Cardinal numbers are also handy for buying stuff:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magkano ang mga manok?",
+        "english": "How much are the chickens?",
+        "required": true,
+        "audioPath": "c1300e14-513e-46df-bbdd-7931404aaa97"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Limampung piso bawat kilo.",
+        "english": "Fifty pesos per kilo.",
+        "required": true,
+        "audioPath": "71b5a54c-e050-4c0c-9909-fcdb07162fe1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magkano ang sasakyan?",
+        "english": "How much is the car?",
+        "required": true,
+        "audioPath": "55012b37-14e3-4ed2-a8c0-c3c4c6878164"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Animnapung libong piso.",
+        "english": "Sixty thousand pesos.",
+        "required": true,
+        "audioPath": "e528127d-059c-45d6-bf2e-1e038db3b202"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ordinal numbers (first, second, third, etc.)</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Tagalog ordinal numbers are not used very often, but you will hear them from time to time:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikatlong anak siya.",
+        "english": "She is the third child.",
+        "required": true,
+        "audioPath": "5f9ac4ec-c653-4dbc-b0ac-23ce0fb313b5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ito ang unang beses.",
+        "english": "This is the first time.",
+        "required": true,
+        "audioPath": "d33a127c-7bb1-4c20-8b8e-515f3dbbf447"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang pangatlong gusali?",
+        "english": "What is the third building?",
+        "required": true,
+        "audioPath": "9f7b2fc8-7be9-4ded-90a9-c7784963c163"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Fractions</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As noted in **Appendix D**, the only Tagalog fraction that is often used in colloquial speech is _kalahati_, which means “half”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Isa’t kalahating taon.",
+        "english": "One and a half years.",
+        "required": true,
+        "audioPath": "54688c07-b229-412e-88b5-bc31911f2fcd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kalahating tsokolate at kalahating tubig ang inumin.",
+        "english": "The drink is half chocolate and half water.",
+        "required": true,
+        "audioPath": "06f96b28-d2f3-46b7-a6e4-ec2f54b2699b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kalahating puti ang anak niya.",
+        "english": "Her child is half white.",
+        "required": true,
+        "audioPath": "ddfc081c-3dae-444e-9fb4-17eea5c09134"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ilang taon na ang pagod na babaeng yun?",
+      "english": "How old is that tired woman?",
+      "required": true,
+      "audioPath": "97fbb0f6-6d3e-4c61-9b4a-9837a95d854f"
+    },
+    {
+      "tagalog": "Walumpu't siyam na taon na siya at walang pera.",
+      "english": "She is eighty-nine years old and has no money.",
+      "required": true,
+      "audioPath": "2d75fb3d-4e6e-40c3-acdc-fdb509477490"
+    },
+    {
+      "tagalog": "Magkano ang dalawa mong tsokolateng bahay?",
+      "english": "How much are your two chocolate houses?",
+      "required": true,
+      "audioPath": "3f17f744-b775-45f6-a2ac-b0de31bafb01"
+    },
+    {
+      "tagalog": "Ito ang ikaanim na beses.",
+      "english": "This is the sixth time.",
+      "required": true,
+      "audioPath": "7bce40c1-8992-4a9b-9d71-a82416e567e6"
+    },
+    {
+      "tagalog": "May kalahating manok ka ba?",
+      "english": "Do you have half a chicken?",
+      "required": true,
+      "audioPath": "b73844cb-cf3f-46e3-9e2c-32632bf979c1"
+    },
+    {
+      "tagalog": "Ilang taon na po kayo?",
+      "english": "How old are you? (resp.)",
+      "required": true,
+      "audioPath": "c9f080f9-5ea2-45d7-ab3e-003a5741a47b"
+    },
+    {
+      "tagalog": "Magkano ang mga mainit ninyong inumin?",
+      "english": "How much are your hot drinks?",
+      "required": true,
+      "audioPath": "ac78323e-2f51-4f93-94a0-6394d5b4d4da"
+    },
+    {
+      "tagalog": "Apatnapu't pitong piso po ang bawat inumin namin.",
+      "english": "Each of our drinks is forty-seven pesos. (resp.)",
+      "required": true,
+      "audioPath": "6294c5b8-0b3f-4e50-b624-643ede9487c9"
+    },
+    {
+      "tagalog": "Ito ang ikalawa kong murang sasakyan.",
+      "english": "This is my second, cheap car.",
+      "required": true,
+      "audioPath": "8822ba5a-dc93-4c7c-8cf1-3d479d75b5b1"
+    },
+    {
+      "tagalog": "Hindi kalahating adobo at kalahating tubig ang pagkain natin!",
+      "english": "Our (incl.) food is not half adobo and half water!",
+      "required": true,
+      "audioPath": "aaf26c3c-7d52-4625-9955-c8aadd82b9a9"
+    }
+  ]
+}

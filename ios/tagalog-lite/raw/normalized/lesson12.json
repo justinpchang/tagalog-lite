@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson12",
+  "title": "Lesson 12 - Mahilig and Gusto; Like and Want",
+  "vocabulary": [
+    {
+      "tagalog": "mahilig",
+      "english": "like",
+      "required": true,
+      "audioPath": "314a9f4c-a85d-4d29-98ae-7f9fdafbf3ce"
+    },
+    {
+      "tagalog": "gustó",
+      "english": "like, want",
+      "required": true,
+      "audioPath": "e4ca2b1c-7f3c-44e4-a66d-7a7b37fe98c0"
+    },
+    {
+      "tagalog": "batà",
+      "english": "kid",
+      "required": true,
+      "audioPath": "385b206b-b7f5-441d-8d7d-9c44005fd996"
+    },
+    {
+      "tagalog": "Maynilà",
+      "english": "Manila",
+      "required": true,
+      "audioPath": "c1401305-a86a-4920-9eec-2b7f3965befa"
+    },
+    {
+      "tagalog": "ibig",
+      "english": "like, want",
+      "required": false,
+      "audioPath": "55a90564-5ea5-4282-a774-a6e12ea7dc0f"
+    },
+    {
+      "tagalog": "*nais",
+      "english": "like, want",
+      "required": false,
+      "audioPath": "f147c4d3-d3f0-42e1-a75b-5060bd1f7a77"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson will show you how to say that you like or want a noun using _mahilig _or _gusto_. How to do this with verbs will be covered in a future lesson. If you do not know it already, please go to **Appendix A** and memorize _kita _before attempting this lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "Mahilig"
+    },
+    {
+      "type": "p",
+      "markdown": "Use _mahilig _to say you like something *indefinite, or in general."
+    },
+    {
+      "type": "h2",
+      "markdown": "**Mahilig **+ experiencer + indefinite object. (Tag.) = Experiencer likes indefinite object. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: The experiencer is the one who likes, and takes _ang _form. The indefinite object is the thing that is liked, and takes _sa _form. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahilig ako sa adobo.",
+        "english": "I like adobo.",
+        "required": true,
+        "audioPath": "5e0899e1-030f-4e5e-9159-a1e7d1101edb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahilig si Luis sa pera.",
+        "english": "Luis likes money.",
+        "required": true,
+        "audioPath": "7be6eeeb-8033-44d8-ae36-3af143e33914"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "*Ex: Mahilig sila sa tsokolate.",
+        "english": "They like chocolate.",
+        "required": true,
+        "audioPath": "8be9975a-936d-44fd-8508-bdfef2e6e60c"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "Gusto"
+    },
+    {
+      "type": "p",
+      "markdown": "_Gusto _means to want or to like, depending on the context."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Gusto...ng - to want something indefinite. </u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Gusto **+ experiencer + indefinite object. (Tag.) = Experiencer wants indefinite object. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: The experiencer is the one who wants, and takes _ng _form. The indefinite object is the thing that is wanted and takes _ng _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ng adobo.",
+        "english": "I want adobo.",
+        "required": true,
+        "audioPath": "e18a5ada-0ac0-46d1-828f-a740f81391ad"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto po ni Luis ng pera.",
+        "english": "Luis wants money. (resp.)",
+        "required": true,
+        "audioPath": "f7ae74b5-e23e-48d7-9530-f0834cc46e0b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "*Ex: Gusto nila ng tsokolate.",
+        "english": "They want chocolate.",
+        "required": true,
+        "audioPath": "98cfed50-7e65-43d4-a130-02770e9eb213"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Gusto...ang - to like or want something *definite, or specific. </u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Gusto **+ experiencer + definite object. (Tag.) = Experiencer likes/wants definite object. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: The experiencer is the one who likes/wants, and takes _ng _form. The definite object takes _ang _form.**"
+    },
+    {
+      "type": "p",
+      "markdown": "In theory, the gusto…ang construction can mean “like” or “want”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "*Ex: Gusto ko ang mga tsokolateng ito.",
+        "english": "I like/want these chocolates.",
+        "required": true,
+        "audioPath": "aa1f992a-a3f6-4351-b5de-4f01dcf457e1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ni Analyn ang eskwelahan nila.",
+        "english": "Analyn likes/wants their school.",
+        "required": true,
+        "audioPath": "ae26f266-851b-4ce6-a86a-9863a8fe1f59"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto nila ang masayang bata.",
+        "english": "They like/want the happy kid.",
+        "required": true,
+        "audioPath": "c5464ae0-d896-43fa-bc6d-c9155cc2e92b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But in the case of proper nouns and personal pronouns, it is pretty unusual to mean “want”, so the meaning normally defaults to “like”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ang Maynila.",
+        "english": "I like Manila (not “I want Manila”).",
+        "required": true,
+        "audioPath": "bee758b6-bfb8-4782-a5dd-27c7b0199ea1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto kita.",
+        "english": "I like you (not normally “I want you”, although it is possible).",
+        "required": true,
+        "audioPath": "ff44c484-664a-4f83-839b-767689cb2eb0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ni David sina Maria at Angel.",
+        "english": "David likes Maria and Angel (not normally “David wants Maria and Angel”).",
+        "required": true,
+        "audioPath": "2fa4079f-395f-49fa-8308-095eef9d293a"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>*More on Definite vs Indefinite. </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Previously, you learned that dps can make something definite. It turns out that possessive phrases, proper nouns and pps are definite. Definite objects can be any of those, and take _ang _form. Indefinite objects cannot be any of those things, and take _ng _form."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ang adobong yun.",
+        "english": "I want/like that adobo. (definite)",
+        "required": true,
+        "audioPath": "36108722-389f-4e67-80aa-e613f1bfa5ba"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ang adobo.",
+        "english": "I want/like the adobo. (definite – this can also mean indefinite “I like adobo”, but we are using mahilig to like something indefinite in this book)",
+        "required": true,
+        "audioPath": "a276846a-8a67-44b2-914f-7fb45d88cb07"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ang adobo mo.",
+        "english": "I want/like your adobo. (definite)",
+        "required": true,
+        "audioPath": "9a4b481b-efbb-490a-806c-c84150c6b532"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko si Maria.",
+        "english": "I like Maria. (definite)",
+        "required": true,
+        "audioPath": "612c5202-beb3-4154-803e-5aeba13c1930"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko siya.",
+        "english": "I like her. (definite)",
+        "required": true,
+        "audioPath": "7bfe8afb-b43d-490c-9602-e30028b98ed5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ng adobo.",
+        "english": "I want adobo. (indefinite)",
+        "required": true,
+        "audioPath": "5447daa9-c440-414e-a6c7-08260ef9b165"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>**More about mga. </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "It may surprise you to know that sometimes plural items do not take _mga_. The Definite vs Indefinite distinction comes into play again here. When you are talking about a definite group of things, you should use _mga_. But when you are talking about something indefinite, it should be omitted:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ni Mark ang mga sasakyang yun.",
+        "english": "Mark likes those cars. Mark likes a specific, or definite, group of cars, so mga is used.",
+        "required": true,
+        "audioPath": "2800295d-9cb9-433b-b794-9be27dfe5dea"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahilig si Mark sa sasakyan.",
+        "english": "Mark likes cars. Mark likes cars in general, or indefinitely, so mga is not used.",
+        "required": true,
+        "audioPath": "8c2b6422-1d8b-4d63-87a0-04ea9574af3e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ibig and Nais</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ibig _and _nais _are generally interchangeable with _gusto _in this usage, but less common. _Ibig _is actually used quite often in some other structures, but sounds bookish or formal when functioning as _gusto _does above, in colloquial conversation. _Nais _is even less common. Therefore, we will not use these in this way."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Mahilig tayo sa pera!",
+      "english": "We (incl.) like money!",
+      "required": true,
+      "audioPath": "92a24275-149a-49fd-ba8e-569e7ee285a1"
+    },
+    {
+      "tagalog": "Gusto nila ng sasakyan at bahay.",
+      "english": "They want cars and houses.",
+      "required": true,
+      "audioPath": "3e4d24ba-472b-4864-8e02-13f90f3e6d1a"
+    },
+    {
+      "tagalog": "Gusto niya ako at meron siyang pera.",
+      "english": "She likes me and she has money. (meron)",
+      "required": true,
+      "audioPath": "3d0667c2-2831-4cd7-af91-a70d8bb77d2f"
+    },
+    {
+      "tagalog": "Gusto nina nanay at Jessica ang Maynila.",
+      "english": "Mother and Jessica like Manila.",
+      "required": true,
+      "audioPath": "24422b72-683f-4eea-8556-442a503815b3"
+    },
+    {
+      "tagalog": "Gusto mo ba ang unang petsang ito?",
+      "english": "Do you like this first date? (on the calendar)",
+      "required": true,
+      "audioPath": "28281fe2-1771-4cbc-ab88-75ea905c168e"
+    },
+    {
+      "tagalog": "Mahilig ang mga bata sa tsokolate.",
+      "english": "The kids like chocolate.",
+      "required": true,
+      "audioPath": "53c744dc-66e6-4296-a55b-05f05816ba0f"
+    },
+    {
+      "tagalog": "Gusto po ng bata ng pera.",
+      "english": "The kid wants money. (resp.)",
+      "required": true,
+      "audioPath": "05b4b534-2716-4e06-baad-00542c6855c1"
+    },
+    {
+      "tagalog": "Oo, gusto kita.",
+      "english": "Yes, I like you.",
+      "required": true,
+      "audioPath": "109fb82b-9889-44c3-8afa-008b062fa40b"
+    },
+    {
+      "tagalog": "Gusto ko ang Cebu.",
+      "english": "I like Cebu.",
+      "required": true,
+      "audioPath": "5d691931-3ab6-46f4-bb4b-fc3778b925e1"
+    },
+    {
+      "tagalog": "Gusto niya ang mga masasarap niyang inumin.",
+      "english": "He likes his delicious drinks.",
+      "required": true,
+      "audioPath": "970fb0c9-6ba9-4eec-a284-d73cc68a71e7"
+    }
+  ]
+}

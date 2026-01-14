@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson10",
+  "title": "Lesson 10 - Telling Time part 1",
+  "vocabulary": [
+    {
+      "tagalog": "oras",
+      "english": "hour",
+      "required": true,
+      "audioPath": "29cc1d7a-b4f6-46ff-8c31-68c0b596040f"
+    },
+    {
+      "tagalog": "mga",
+      "english": "approximately",
+      "required": true,
+      "audioPath": "ef5d0b5c-5c82-4837-a6d9-4fb5a522e1a9"
+    },
+    {
+      "tagalog": "nang",
+      "english": "at",
+      "required": true,
+      "audioPath": "f24b3a8c-7624-45e1-97d3-57a6987c7631"
+    },
+    {
+      "tagalog": "segundo",
+      "english": "second",
+      "required": true,
+      "audioPath": "0056ce1f-24f3-4fc5-9e30-9ca36792796d"
+    },
+    {
+      "tagalog": "minuto",
+      "english": "minute",
+      "required": false,
+      "audioPath": "3ca0e530-01da-4089-8e1f-e40ef4dfac01"
+    },
+    {
+      "tagalog": "y medya",
+      "english": "half past",
+      "required": true,
+      "audioPath": "7639b421-7492-41f4-9b59-f76d5df11aa7"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, we will begin to discuss telling time, and we will finish it in the next lesson. If you do not know the cardinal numbers borrowed from Spanish, please go to **Appendix D **and memorize them now. Also, if you are not familiar with the hours and days, which are also borrowed from Spanish, go to **Appendix E** at this time and make a first pass at memorizing them."
+    },
+    {
+      "type": "p",
+      "markdown": "It is possible to tell time with all three numbering systems in Tagalog. It is not very common with pure Tagalog numbers, and we are not here to learn English, so we use the Tagalog version of Spanish numbers to tell time in this book. This is how you ask the time:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Anong **oras** na? (Tag.) = What time is it? (Eng.)"
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that _ano _takes a linker, changing it to _anong_, in this sentence. And this is how you answer it:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Hr** + na. (Tag.) = Hr o’clock./It is hr o’clock./It is hour o’clock already. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: “Hr” stands for “hour of day” from this point on. For example, _alas-singko_ in Tagalog or “five” in English. See Appendix N for all abbreviations used in Structure Equations. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alas-singko na.",
+        "english": "Five o’clock./It is five o’clock./It is five o’clock already.",
+        "required": true,
+        "audioPath": "a95d53bb-5c86-4f98-bee3-d80b79917641"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ala-una na.",
+        "english": "One o’clock./It is one o’clock. /It is one o’clock already.",
+        "required": true,
+        "audioPath": "6e566bc2-09fa-49cb-a105-6a6cc6f4a734"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alas-dose na.",
+        "english": "Twelve o’clock./It is twelve o’clock. /It is twelve o’clock already.",
+        "required": true,
+        "audioPath": "60a0d5c9-2dfa-4a87-bc66-28f6ea24f075"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Approximately</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You have seen _mga _used to make things plural, but it can also be used to add the nuance of approximately with a time. It goes in front of the hour."
+    },
+    {
+      "type": "h2",
+      "markdown": "mga + hr (Tag.) = about hr o’clock (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The word _mga _can be a plural indicator, or it can mean “approximately”, depending on the context, but it is always pronounced _mangá _as mentioned in the pronunciation lesson.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga alas-nuwebe",
+        "english": "about 9 o’clock",
+        "required": true,
+        "audioPath": "9dcaa4fa-da47-4a8d-9201-42307fcbc7d3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga alas-otso",
+        "english": "about 8 o’clock",
+        "required": true,
+        "audioPath": "edd9f345-1d5f-479d-ad26-a25e0fb97c75"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga alas-onse",
+        "english": "about 11 o’clock",
+        "required": true,
+        "audioPath": "507a5fe5-02b2-43f9-9659-6c5dee6edf7e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Including Day of the Week</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You can add on a day of the week to your response. Note that the word _nang _is used to join it."
+    },
+    {
+      "type": "h2",
+      "markdown": "Day + nang + **hr**. (Tag.) = Day at hr o’clock. (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Linggo nang alas-kuwatro.",
+        "english": "Sunday at 4 o’clock.",
+        "required": true,
+        "audioPath": "d3bc42ae-db9d-4264-8082-9bd0fbdb6ecc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Martes nang mga alas-tres.",
+        "english": "Tuesday at about 3 o’clock.",
+        "required": true,
+        "audioPath": "dd7b0aa9-ff35-4fe4-a198-0e2541753b9d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwebes nang alas-dos.",
+        "english": "Thursday at 2 o’clock.",
+        "required": true,
+        "audioPath": "858406ec-84c3-4c01-bc5b-1691f10ad15e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Including Minutes and Seconds</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Minutes and seconds can be added in this format:"
+    },
+    {
+      "type": "h2",
+      "markdown": "hr + X (min.) + at + Y + segundo (Tag.) = X min and Y sec past hr o’clock (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alas-tres diyes.",
+        "english": "3:10/Ten minutes past three o’clock.",
+        "required": true,
+        "audioPath": "cb0284c0-d2a4-41e9-8f43-571782f8e36d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alas-tres diyes at treynta segundo.",
+        "english": "3:10:30/Ten minutes and thirty seconds past three o’clock.",
+        "required": true,
+        "audioPath": "cc75d7e0-7f3a-49e0-be87-04eb06244795"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Martes nang mga alas-tres diyes at treynta segundo.",
+        "english": "Tuesday at about 3 o’clock 10 minutes and 30 seconds.",
+        "required": true,
+        "audioPath": "a517b5a9-8c14-42a2-9aaf-43c9e790b07d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the word for minutes, _minuto_, is normally dropped when telling time in Tagalog. It is used for things other than telling time though. For example, if someone asks how long it will take you, you can answer:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sampung minuto.",
+        "english": "10 minutes.",
+        "required": true,
+        "audioPath": "9b75b099-6216-44a9-8fad-d1e29ffa0ab4"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You are not telling time in this example, so a pure Tagalog number is used to be consistent with the rest of this book."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Half Past</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Just like in English, you can choose to say “five thirty” or “half past five” in Tagalog. We will use _y medya_, which is borrowed from Spanish, to mean “half past”:"
+    },
+    {
+      "type": "h2",
+      "markdown": "hr + y medya (Tag.) = half past hr (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-nuwebe treynta",
+        "english": "9:30/nine thirty",
+        "required": true,
+        "audioPath": "0f61a181-6079-4d5f-a132-d731fc0fecd9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-nuwebe y medya",
+        "english": "half past nine",
+        "required": true,
+        "audioPath": "a651e8c4-c994-437a-b52b-5e2b0f212022"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alas-singko y medya na.",
+        "english": "It is half past five o’clock.",
+        "required": true,
+        "audioPath": "a81f09ab-50c1-4a94-9ed3-fd625417b082"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga alas-otso y medya",
+        "english": "about half past eight",
+        "required": true,
+        "audioPath": "d554818b-f972-4375-b38e-77df70929831"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Anong oras na?",
+      "english": "What time is it?",
+      "required": true,
+      "audioPath": "35108278-eeff-4686-81a0-b11b374f9313"
+    },
+    {
+      "tagalog": "Mga ala-una.",
+      "english": "About one o'clock.",
+      "required": true,
+      "audioPath": "d9eadd52-044d-463b-8a1a-addc7da16366"
+    },
+    {
+      "tagalog": "Sabado nang mga alas-dos.",
+      "english": "Saturday at about two o'clock.",
+      "required": true,
+      "audioPath": "4f0c07ff-df87-48e7-b2af-08a7057cf335"
+    },
+    {
+      "tagalog": "Alas-kuwatro singko at sais segundo.",
+      "english": "4:05:06.",
+      "required": true,
+      "audioPath": "ff47c07a-54dc-41c5-aa32-b9a6bb2af8d7"
+    },
+    {
+      "tagalog": "Hindi alas-siyete y medya.",
+      "english": "Not half past seven.",
+      "required": true,
+      "audioPath": "29bfd7a3-b632-42b9-b4ac-b0b950b566b3"
+    },
+    {
+      "tagalog": "Lunes nang alas-otso diyes.",
+      "english": "Monday at 8:10.",
+      "required": true,
+      "audioPath": "8f7630b8-422e-406d-b8b6-6bc3168ba33b"
+    },
+    {
+      "tagalog": "Mga alas-onse po.",
+      "english": "About 11 o'clock. (resp.)",
+      "required": true,
+      "audioPath": "7feded35-076a-4c9c-9b16-f410653fbe0a"
+    },
+    {
+      "tagalog": "Miyerkules nang mga alas-dose ba?",
+      "english": "Wednesday at about 12 o'clock?",
+      "required": true,
+      "audioPath": "4c202b72-7c90-4757-8dfb-8994fcf79872"
+    },
+    {
+      "tagalog": "Ala-una kinse.",
+      "english": "1:15.",
+      "required": true,
+      "audioPath": "ae3d4e56-ac28-4dbd-9d74-bd1c76a2f659"
+    },
+    {
+      "tagalog": "Alas-dos y medya.",
+      "english": "Half past two.",
+      "required": true,
+      "audioPath": "faf800b2-819d-4b9d-bc2a-8068e4e6e52b"
+    }
+  ]
+}

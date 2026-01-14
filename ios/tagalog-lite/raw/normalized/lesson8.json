@@ -1,0 +1,397 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson8",
+  "title": "Lesson 8 - Have, Exist or Not Have; May, Meron, Wala",
+  "vocabulary": [
+    {
+      "tagalog": "may/*me",
+      "english": "have; exist",
+      "required": true,
+      "audioPath": "659a67f7-8aee-4544-9e1d-f90cc0764c87"
+    },
+    {
+      "tagalog": "meron/*mayroón",
+      "english": "have; exist",
+      "required": true,
+      "audioPath": "ca3a9167-4693-4969-8f3e-ffdf94770644"
+    },
+    {
+      "tagalog": "walâ",
+      "english": "not have; not exist",
+      "required": true,
+      "audioPath": "3d60f63f-d90e-44c1-9db0-1f9c691f7741"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "_May _and _meron _roughly mean “have” or “exist”. These are negated with _wala_, which roughly means not have or not exist. Anything you can express with may you can also express with meron, but they use different grammar. _Wala _uses the same grammar as meron. If you do not know them, or need a refresher, please go to **Appendix A** and memorize _sa _form noun markers."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>May</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_May _means “have” or “exist” and is more common than its short form _me_, so we will use only may from now on. It needs to come immediately before an object."
+    },
+    {
+      "type": "h2",
+      "markdown": "May + **object **+ possessor/location. (Tag.) = Possessor has object/There is object in location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Possessor takes _ang _form, location takes _sa _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "May sasakyan ka ba?",
+        "english": "Do you have a car?",
+        "required": true,
+        "audioPath": "e2f321f2-8d6d-41e3-bdb5-559aaaca44e6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "May estudyante sa eskwelahan.",
+        "english": "There is a student in the school.",
+        "required": true,
+        "audioPath": "7008786f-104a-4a78-ac70-bf86fa73ed71"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "May tsokolate ba ang babae sa bahay mo?",
+        "english": "Does the woman in your house have chocolate?",
+        "required": true,
+        "audioPath": "4b71afc0-a812-4966-b2d4-c961caeb6079"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Here are some possible positive responses:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo, may sasakyan ako.",
+        "english": "Yes, I have a car.",
+        "required": true,
+        "audioPath": "1d290a61-f0d8-40b2-808e-6f50686937ea"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Opo. May estudyante sa eskwelahan.",
+        "english": "Yes. There is a student in the school. (resp.)",
+        "required": true,
+        "audioPath": "0db736a3-ca89-4413-94b2-591d9274398d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo. May tsokolate ang babae.",
+        "english": "Yes. The woman has chocolate.",
+        "required": true,
+        "audioPath": "ea703589-376b-42b0-b5a3-d6be027d48d0"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Meron</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Meron _means “have” or “exist” and is more common than its long form _mayroon_, so we will use only _meron _from now on. Unlike _may_, it does not need to come immediately before an object."
+    },
+    {
+      "type": "h2",
+      "markdown": "**Meron **+ linker + object + possessor/location. (Tag.) = Possessor has object/There is object in location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Possessor takes _ang _form, location takes _sa _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Meron ka bang sasakyan?",
+        "english": "Do you have a car?",
+        "required": true,
+        "audioPath": "cf3d5938-c5e5-4dc2-a5eb-4ffda08f5557"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Merong estudyante sa eskwelahan.",
+        "english": "There is a student in the school.",
+        "required": true,
+        "audioPath": "cec5abed-d600-4aa3-ae0d-3fc9ea6ff328"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Meron bang tsokolate ang babae sa bahay mo?",
+        "english": "Does the woman in your house have chocolate?",
+        "required": true,
+        "audioPath": "52ed65f6-ae8d-4d31-a648-d804d98d9c87"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Here are some possible positive answers:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo, meron akong sasakyan.",
+        "english": "Yes, I have a car.",
+        "required": true,
+        "audioPath": "7f965937-6d56-4b18-a7f0-362f704e058b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Opo. Meron pong estudyante sa eskwelahan.",
+        "english": "Yes. There is a student in the school. (resp.)",
+        "required": true,
+        "audioPath": "fcd63866-3322-43b4-932a-96323fa1ea60"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo. Meron siyang tsokolate.",
+        "english": "Yes. She has chocolate.",
+        "required": true,
+        "audioPath": "8eeb48fc-6e2a-4f40-9b9c-93d50a03abf4"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is also ok to just say:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Meron.",
+        "english": "I have/there is/etc.",
+        "required": true,
+        "audioPath": "8b022026-8fd0-422c-8c07-9545f2eb8c8d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "However, you cannot just state _may_, because _may _requires an object. That is a major difference between _meron _and _may_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Wala</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Wala _means “not have” or “not exist”, and is used to give negative statements or negative answers to _may/meron _questions. _Wala _uses the same grammar as _meron _and it does not need to come before an object."
+    },
+    {
+      "type": "h2",
+      "markdown": "**Wala **+ linker + object + possessor/location. (Tag.) = Possessor does not have object/There is no object in location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Possessor takes _ang _form, location takes _sa _form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Wala kang sasakyan.",
+        "english": "You do not have a car.",
+        "required": true,
+        "audioPath": "8724ad98-27dd-461a-b60b-973a4e311a15"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Walang estudyante sa eskwelahan.",
+        "english": "There are no students in the school.",
+        "required": true,
+        "audioPath": "efe20ed4-ee8c-43c1-8501-888e60764bfc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Wala siyang tsokolate.",
+        "english": "She has no chocolate.",
+        "required": true,
+        "audioPath": "3999f220-41d4-41f3-87ab-461561fcb6b4"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is also ok to just say:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Wala.",
+        "english": "There are none/you do not have/etc.",
+        "required": true,
+        "audioPath": "defdbe93-92f4-4051-ae0f-f8b3dc762b19"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ang May/Walang</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "If you put _ang _before _may/walang _it means roughly “the one who has/does not have”. _Ang merong_ also works, but it is less common, so we will not use it."
+    },
+    {
+      "type": "h2",
+      "markdown": "ang + may/walang + noun (Tag.) = the one who/that has/does not have (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang may sasakyan",
+        "english": "the one who has a car",
+        "required": true,
+        "audioPath": "f22fbb5e-45a2-42c9-9533-a408921d04b0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang walang tubig",
+        "english": "the one without water",
+        "required": true,
+        "audioPath": "a8baac73-c38c-4456-9e27-69dc672a55c4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi masaya ang walang pera.",
+        "english": "The one without money is not happy.",
+        "required": true,
+        "audioPath": "6c844bff-9cce-41f5-b04e-af85379120c0"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>More on Sa Form of Nouns and Personal Pronouns </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The _sa _form of a name or personal pronoun often implies “to someone”. But it can also mean “with someone”, and in the case of plural names or pps, “at someone’s place”, depending on the context."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kay Maria",
+        "english": "to Maria or with Maria",
+        "required": true,
+        "audioPath": "08b3c144-af2a-4826-84ce-9b9bd6484dba"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa kaniya",
+        "english": "to him/her or with him/her",
+        "required": true,
+        "audioPath": "764d9c38-2057-4206-951e-7e43c84bce7f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kina Joaquin at Joshua",
+        "english": "to Joaquin and Joshua, with Joaquin and Joshua or at Joaquin and Joshua’s",
+        "required": true,
+        "audioPath": "2f10ed0f-4c7b-4602-b182-ddf01d0e58ac"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa kanila",
+        "english": "to them, with them or at their place",
+        "required": true,
+        "audioPath": "7346bcee-04a9-45e2-b8a6-2cc25db9a92d"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sino ang may pera sa kanila?",
+      "english": "Who has money at their place?",
+      "required": true,
+      "audioPath": "719938f3-6581-4d2c-beab-0fa1988fcb74"
+    },
+    {
+      "tagalog": "Meron po ba kayong tunay na puting adobo?",
+      "english": "Do you have real white adobo? (resp.)(meron)",
+      "required": true,
+      "audioPath": "e7123787-eac9-449a-b567-982be9c13e95"
+    },
+    {
+      "tagalog": "Walang pera ang lalaki sa bahay niya.",
+      "english": "The man at her house has no money.",
+      "required": true,
+      "audioPath": "76946630-77a5-4114-bd8b-23af9cca756f"
+    },
+    {
+      "tagalog": "Hindi ako ang may bahay sa Parañaque.",
+      "english": "I am not the one with a house in Parañaque.",
+      "required": true,
+      "audioPath": "fd6a25b7-b46d-465d-9d74-336b8b2e6b2e"
+    },
+    {
+      "tagalog": "Masaya ang mga may tsokolate.",
+      "english": "The ones with chocolate are happy.",
+      "required": true,
+      "audioPath": "6e531068-324b-45a2-8a3b-de387e90689b"
+    },
+    {
+      "tagalog": "Wala po kaming inumin.",
+      "english": "We (excl.) don't have drinks. (resp.)",
+      "required": true,
+      "audioPath": "a2053ade-f4a5-4a5b-a0a0-4546cdab6fea"
+    },
+    {
+      "tagalog": "May pagod na mga estudyante sa amin.",
+      "english": "There are tired students at our (excl.) place.",
+      "required": true,
+      "audioPath": "b6ab94de-ac72-433d-a543-1367ae453f55"
+    },
+    {
+      "tagalog": "Meron tayong sikat nilang gusali.",
+      "english": "We (incl.) have their famous building. (meron)",
+      "required": true,
+      "audioPath": "36d53ba5-867d-43cb-96fb-98311946ad5c"
+    },
+    {
+      "tagalog": "Wala silang anak.",
+      "english": "They have no children.",
+      "required": true,
+      "audioPath": "d2b8cbe6-4b96-42a2-8c42-833bc031d754"
+    },
+    {
+      "tagalog": "Opo. Meron pong tubig sina Maria at Angel.",
+      "english": "Yes. Maria and Angel have water. (resp.)(meron)",
+      "required": true,
+      "audioPath": "e04f2d74-3124-45d0-99e4-846c2c448feb"
+    }
+  ]
+}
