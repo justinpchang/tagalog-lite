@@ -27,16 +27,17 @@ struct LessonDetailView: View {
                 .pickerStyle(.segmented)
                 .padding(.horizontal, 16)
 
-                Group {
-                    switch tab {
-                    case .vocab:
-                        VocabTabView(items: lesson.vocabulary)
-                    case .lesson:
-                        LessonTabView(blocks: lesson.contents)
-                    case .examples:
-                        ExamplesTabView(items: lesson.exampleSentences)
-                    }
+                TabView(selection: $tab) {
+                    VocabTabView(items: lesson.vocabulary)
+                        .tag(Tab.vocab)
+
+                    LessonTabView(blocks: lesson.contents)
+                        .tag(Tab.lesson)
+
+                    ExamplesTabView(items: lesson.exampleSentences)
+                        .tag(Tab.examples)
                 }
+                .tabViewStyle(.page(indexDisplayMode: .never))
             }
             .padding(.top, 10)
         }
