@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson20",
+  "title": "Lesson 20 - An verbs DF",
+  "vocabulary": [
+    {
+      "tagalog": "bigyán",
+      "english": "to give something to someone (DF(DO), root = bigay)",
+      "required": true,
+      "audioPath": "a58ab382-2c58-448b-bcb8-d7b6411065c9"
+    },
+    {
+      "tagalog": "lagyán",
+      "english": "to put something on/in something (DF(DO), root = lagay)",
+      "required": true,
+      "audioPath": "39433325-5592-4d33-8cca-deaf961ee479"
+    },
+    {
+      "tagalog": "turuan",
+      "english": "to teach something to someone (DF(DO), root = turo)",
+      "required": true,
+      "audioPath": "ed3ce203-3eaf-4e78-b5f7-e32038f80d10"
+    },
+    {
+      "tagalog": "puntahán",
+      "english": "to go somewhere; go to someone (DF(D), root = punta)",
+      "required": true,
+      "audioPath": "84f349ae-6d47-42c5-99c1-2a7af40ae0e7"
+    },
+    {
+      "tagalog": "tingnán",
+      "english": "to look at something (DF(D), root = tingin)",
+      "required": true,
+      "audioPath": "7b8c53f5-1fe7-4d7f-96d2-cf59c81b0200"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson covers DF -_an _verbs."
+    },
+    {
+      "type": "p",
+      "markdown": "Traits of DF -_an _verbs"
+    },
+    {
+      "type": "p",
+      "markdown": "•\tDF -_an _verbs are either DF(DO) or DF(D) (directional focus double object or directional)."
+    },
+    {
+      "type": "p",
+      "markdown": "•\tDF(DO) means attention is drawn to the IO and it takes _ang _form."
+    },
+    {
+      "type": "p",
+      "markdown": "•\tDF(D) means attention is drawn to the directional complement (dc), and it takes _ang _form."
+    },
+    {
+      "type": "p",
+      "markdown": "•\tThey often have the nuance of doing something in the direction of something."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>DF(DO) – Double Object DF Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "If you recall:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(DO) = Verb + Actor + Object + IO"
+    },
+    {
+      "type": "p",
+      "markdown": "We can tailor that to DF verbs:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence(DF(DO)) = **Verb **+ Actor + Object + IO"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Actor takes _ng _form, object takes _ng _form and IO takes _ang _form. For imperative, verb takes infinitive, actor is either _mo, ninyo _or _natin_. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bigyan mo siya ng manok.",
+        "english": "Give her a chicken.",
+        "required": true,
+        "audioPath": "77b7682e-7062-47a9-bb05-319145e7be84"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lalagyan ni Vanessa ng baso ang lamesa.",
+        "english": "Vanessa will put a glass on the table.",
+        "required": true,
+        "audioPath": "d8a995fd-8092-4a93-9e73-0d1298c8cd15"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tinuruan ng guro ng Ingles si Joe.",
+        "english": "The teacher taught English to Joe.",
+        "required": true,
+        "audioPath": "b974c2ef-38e5-4213-a66c-d189c9869d12"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the IO is in italics now, since it is the focus."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>DF(D) - Directional DF Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "If you recall:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(D) = Verb + Actor + dc"
+    },
+    {
+      "type": "p",
+      "markdown": "We can tailor that to DF verbs:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence(DF(D)) = **Verb **+ Actor + dc"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Actor takes _ng _form and dc takes _ang _form. For imperative, verb takes infinitive, actor is either _mo, ninyo _or _natin_. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pinupuntahan namin sila araw-araw.",
+        "english": "We (excl.) go to (visit) them every day.",
+        "required": true,
+        "audioPath": "ca0a0e26-bfaf-4579-8ebc-fd81b413c359"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tingnan ninyo yun!",
+        "english": "(You pl.) Look at that!",
+        "required": true,
+        "audioPath": "7cc0c88a-bd7e-478c-8a8c-5fec3a731bf9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pinuntahan ko ang Maynila.",
+        "english": "I went to Manila.",
+        "required": true,
+        "audioPath": "1085dd95-c9c9-4d82-8f98-48f532efdd8f"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Bigyan ninyo nga po sila ng pera sa gabi.",
+      "english": "(you pl.) Give them money at night. (soft)(resp.)",
+      "required": true,
+      "audioPath": "56507e18-e9cd-4f12-95ec-6e4359cc05aa"
+    },
+    {
+      "tagalog": "Nilagyan ng anak mo ng baso ang lamesa.",
+      "english": "Your kid put a glass on the table.",
+      "required": true,
+      "audioPath": "ae3e460b-b7c9-4b9e-8c04-3ca91db78288"
+    },
+    {
+      "tagalog": "Hindi kami tinuturuan ni Sir Santos ng Ingles, no?",
+      "english": "Mr. Santos does not teach us(excl.) English, does he?",
+      "required": true,
+      "audioPath": "12810ec8-2156-41b7-9326-c314b6f3ab83"
+    },
+    {
+      "tagalog": "Pupuntahan non ang Cebu nang tatlong beses sa Enero.",
+      "english": "That will go to Cebu three times in January.",
+      "required": true,
+      "audioPath": "03b986eb-e446-4fbb-8f7b-7cd59d265c67"
+    },
+    {
+      "tagalog": "Tingnan mo ang basketbol sa kalsada.",
+      "english": "Look at the basketball in the street.",
+      "required": true,
+      "audioPath": "f2cba72f-f7a1-4cec-bd13-4106dbeb79f8"
+    },
+    {
+      "tagalog": "Binigyan kita ng masarap na tsokolate kahapon, di ba?",
+      "english": "I gave you some delicious chocolate yesterday, right?",
+      "required": true,
+      "audioPath": "08040742-9701-49d7-a79d-fd70e57fe216"
+    },
+    {
+      "tagalog": "Nilalagyan namin ng bisikleta ang gusali araw-araw.",
+      "english": "We put a bicycle in the building every day.",
+      "required": true,
+      "audioPath": "a74b2fd8-f80a-40a3-8f1b-a723f34e75a7"
+    },
+    {
+      "tagalog": "Tuturuan sila ni Luis nang isang oras sa ikapito ng Mayo.",
+      "english": "Luis will teach them for one hour on the seventh of May.",
+      "required": true,
+      "audioPath": "0e80b884-7183-41af-a3d7-a439da35f036"
+    },
+    {
+      "tagalog": "Magandang puntahan ang Maynila sa hapon.",
+      "english": "It is good to go to Manila in the afternoon.",
+      "required": true,
+      "audioPath": "57b3b32b-01da-408e-a563-0091ae9cb4e3"
+    },
+    {
+      "tagalog": "Tinitingnan ng apat na bata ang pinto ngayon.",
+      "english": "Four kids are looking at the door now.",
+      "required": true,
+      "audioPath": "9926f77b-1423-47be-84db-27702da97ffe"
+    }
+  ]
+}

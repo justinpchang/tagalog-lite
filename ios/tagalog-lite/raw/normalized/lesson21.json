@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson21",
+  "title": "Lesson 21 – Para and Practice Changing Focus",
+  "vocabulary": [
+    {
+      "tagalog": "para",
+      "english": "for (preposition)",
+      "required": true,
+      "audioPath": "547451ea-d805-444f-8fc9-f863229931bb"
+    },
+    {
+      "tagalog": "tanimán",
+      "english": "to plant something somewhere (DF(DO), root = tanim)",
+      "required": true,
+      "audioPath": "f76d91ae-4291-4faa-b733-020f70774a28"
+    },
+    {
+      "tagalog": "sabihan",
+      "english": "to tell something to someone (DF(DO), root = sabi)",
+      "required": true,
+      "audioPath": "f534a278-32f4-4448-b90f-6ba006692f95"
+    },
+    {
+      "tagalog": "kainan",
+      "english": "to eat from something; eat somewhere (DF(DO), root = kain)",
+      "required": true,
+      "audioPath": "1b52d525-fab5-40b0-9cf3-1625c703b324"
+    },
+    {
+      "tagalog": "Pilipinas",
+      "english": "the Philippines",
+      "required": true,
+      "audioPath": "cae6589e-b7d1-4713-9848-45ae457a2de6"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, we will look at how to use the handy preposition _para_, and we will practice using all three focuses."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Para</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Para _roughly means “for” or “on behalf of”."
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence + para + **noun**. (Tag.) = Standard Sentence for noun. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun takes _sa _form. These are two phrase sentences; the hosts are the verb in the standard sentence, and the noun after _para_.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aral ako ng Tagalog para sa guro ko.",
+        "english": "I studied Tagalog for my teacher.",
+        "required": true,
+        "audioPath": "171da2a2-f6eb-4634-82f9-dc42cfbdba0a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Buksan mo ang pinto para kay Maria.",
+        "english": "Open the door for Maria.",
+        "required": true,
+        "audioPath": "496f4226-70eb-44c8-852e-173d109b1b79"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pupuntahan niya si David para sa pangulo.",
+        "english": "He will visit David for the president.",
+        "required": true,
+        "audioPath": "8e338721-ab4c-43c1-baa3-f437f4000d39"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "If an English verb takes the preposition “for”, the Tagalog verb takes _para_. The only exceptions to this are verbs that have “for” built into their meaning. _Maghanap _(to look for something) and _abangan _(to watch out for something) have “for” built into their meaning, as do BF verbs, which you will see later, so they do not take _para_. However, you can still add a _para _phrase to the end of a sentence with these verbs:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan ko ang sasakyan para kay Joe.",
+        "english": "I watched out for the car for Joe. The first “for” in the English sentence is built into the verb abangan; the second one requires para.",
+        "required": true,
+        "audioPath": "78c81a14-1ce6-4eac-940f-a223e4fed015"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "When you use English definitions to determine whether you need _para_, pay careful attention to DO verbs. The preposition might be hidden, depending on how you translate the sentence:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay ako ng manok sa iyo.",
+        "english": "“I gave you a chicken”, or “I gave a chicken to you”. This sentence does not require para because the English sentence takes “to”.",
+        "required": true,
+        "audioPath": "87bfb747-8256-41bb-a794-1596fefc0aa8"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Contrast this with:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay ako ng manok para sa iyo.",
+        "english": "“I gave a chicken for you”, or “I gave a chicken on your behalf”. No surprises there, but:",
+        "required": true,
+        "audioPath": "9372cfcc-8752-4178-a958-89fa17ab1c81"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagluto ako ng manok para sa iyo.",
+        "english": "“I cooked you a chicken” or “I cooked a chicken for you”. This sentence requires para because the English sentence takes “for”.",
+        "required": true,
+        "audioPath": "c7661f80-62d6-413b-ad30-81feb2104b00"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is not all for para. We are using it as a preposition here, but in a future lesson we will use it as a conjunction."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Practicing Choosing focus</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Well done – you now have the foundation required to begin practicing what many learners consider to be the most challenging, and interesting, quality of the grammar: choosing the correct focus and applying it!"
+    },
+    {
+      "type": "p",
+      "markdown": "Let’s do a quick recap. From our earlier discussions we know that we can focus on part of a sentence in English and Tagalog. In English, we normally do this by emphasizing the word we want to focus on. In Tagalog, we use the verb type and structure associated with the word’s part of speech – actor, object or X. So, learners need to hone this natural sense of what part of speech they are emphasizing, which leads to selecting the verb and producing the correct sentence."
+    },
+    {
+      "type": "p",
+      "markdown": "It is important to start trying this early, and to stick with it, since it is quite different from English grammar. Remember that we have put the focus in italics in the English translations. For the sample sentences, you have already learned the correct verbs in previous lessons. You will need to recall them, conjugate them and create the Tagalog sentences. Please do not give yourself a “pass” if you get the focus wrong. Go back and review if necessary, but the buck needs to stop here. Focus is very important. Here is that handy form pattern table again for reference:"
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Taniman natin ng puno ang kalsada para kina Maria at Angel.",
+      "english": "Let's plant a tree in the street for Maria and Angel.",
+      "required": true,
+      "audioPath": "ab2bb512-b7a3-4611-bfb7-ddb309237f5a"
+    },
+    {
+      "tagalog": "Magtuturo si Mrs. Castillo ng Ingles sa iyo nang mga alas-kuwatro ng hapon.",
+      "english": "Mrs. Castillo will teach you English at around four in the afternoon.",
+      "required": true,
+      "audioPath": "08316826-4439-46e1-8d29-cb414c64de1e"
+    },
+    {
+      "tagalog": "Hindi nila siya sinabihan para sa atin.",
+      "english": "They did not tell him for us (incl.).",
+      "required": true,
+      "audioPath": "68163c84-2521-4968-9bba-c23c11140b69"
+    },
+    {
+      "tagalog": "Kinakainan ni David ng adobo ang bahay nina Joaquin at Joshua.",
+      "english": "David eats adobo at Joaquin and Joshua’s house.",
+      "required": true,
+      "audioPath": "a0db6b3f-58a8-423b-8710-743847f8b0f4"
+    },
+    {
+      "tagalog": "Naglakad ang lalaki sa Parañaque nang tatlong araw para sa amin.",
+      "english": "The man walked to Parañaque for three days for us (excl.).",
+      "required": true,
+      "audioPath": "16d97274-cd0b-4230-b266-dd1d7cab1404"
+    },
+    {
+      "tagalog": "Abangan mo nga ang basketbol nang limang segundo para kay Mark.",
+      "english": "Watch out for the basketball for five seconds for Mark. (soft)",
+      "required": true,
+      "audioPath": "994b8e82-659e-47bf-8f19-44832394a1bd"
+    },
+    {
+      "tagalog": "Tinaniman po namin ng mga puno ang bahay.",
+      "english": "We planted some trees at home. (resp.)",
+      "required": true,
+      "audioPath": "5186f285-1f83-49ef-be34-328d955ff803"
+    },
+    {
+      "tagalog": "Sinasabihan kita ng totoo araw-araw para sa kaniya.",
+      "english": "I tell you the truth every day for him.",
+      "required": true,
+      "audioPath": "467cc3f9-86fc-4604-99d9-54ea9f364b0c"
+    },
+    {
+      "tagalog": "Kakainan ba ng manok ang lamesa bukas?",
+      "english": "Will the chicken eat from the table tomorrow?",
+      "required": true,
+      "audioPath": "61e416d6-6e18-4f93-978e-60e70d863700"
+    },
+    {
+      "tagalog": "Magandang magtanim ng puno sa Pilipinas, di ba?",
+      "english": "It is good to plant trees in the Philippines, isn't it?",
+      "required": true,
+      "audioPath": "a6369614-9f7c-43e5-9edd-c9d3d61520bc"
+    }
+  ]
+}

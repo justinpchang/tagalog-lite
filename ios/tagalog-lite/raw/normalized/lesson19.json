@@ -1,0 +1,422 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson19",
+  "title": "Lesson 19 - An verbs OF",
+  "vocabulary": [
+    {
+      "tagalog": "subukan",
+      "english": "to try something (OF(O), root = subok)",
+      "required": true,
+      "audioPath": "0249cc64-886a-4aa8-8fe8-9a1b7ce0ef6f"
+    },
+    {
+      "tagalog": "hayaan",
+      "english": "to allow something; to let something be (OF(O), root = haya)",
+      "required": true,
+      "audioPath": "d6204f27-ed08-4bee-8173-5d59a31f3524"
+    },
+    {
+      "tagalog": "buksán",
+      "english": "to open something; turn something on (OF(O), root = bukas)",
+      "required": true,
+      "audioPath": "7ab465e2-b6ed-4d56-a96a-cec83e542ec4"
+    },
+    {
+      "tagalog": "simulán",
+      "english": "to begin something (OF(O), root = simula)",
+      "required": true,
+      "audioPath": "d5792602-c08c-46d9-9377-7306153ac2e9"
+    },
+    {
+      "tagalog": "abangán",
+      "english": "to watch out for something (OF(O), root = abang)",
+      "required": true,
+      "audioPath": "ac9b66fd-09ce-4d90-933a-3d97d918e516"
+    },
+    {
+      "tagalog": "lagyán",
+      "english": "to put something on something (root = lagay)",
+      "required": false,
+      "audioPath": "3c0d5ec2-f67a-4798-9b54-0c152ba677ec"
+    },
+    {
+      "tagalog": "puntahán",
+      "english": "to go somewhere (root = punta)",
+      "required": false,
+      "audioPath": "a20dff49-f34d-4e88-983e-c6563f18e3ce"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, we introduce -_an _verbs, another member of the Big Six. They can be AF, OF or DF, but AF -_an _verbs are pretty rare, so we will not cover them. Please memorize the _ng _form demonstrative pronouns in **Appendix A**. You may want to review **Appendix G** at this point if you need a refresher on focus. Other than discussing infinitive and aspect, which apply to all -_an _verbs, this lesson will cover OF -_an _verbs. Next lesson will cover DF -_an _verbs."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of OF -an verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "•\tAll OF -_an _verbs are OF(O) (object focus single object). OF means attention is drawn to the object and it takes _ang _form."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive*</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "All -<u>an </u>verbs end with -_an_. Unfortunately, deriving the infinitive from the root is not usually as easy as adding -_an _to it. That is why I recommend memorizing the infinitive and generic root. These are sufficient to derive all the aspects."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>*Extra – Deriving the Infinitive</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Alternatively, you could memorize rules like \"if the root ends in a consonant or glottal stop, you add -_an_, otherwise add -_han_\" and \"when you add a suffix to a root that has an _o _in the final syllable, the _o _usually morphs to a _u_\". These work sometimes:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: subók => subukan (-_an _is added since _subok _ends in a consonant, and the _o _morphs into a _u _since the final syllable of _subok _contains an _o_)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: hayà => hayaan (-_an _is added since _hayá _ends in a glottal stop)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: abáng => abangán (-_an _is added since _abang _ends in a consonant)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: puntá => puntahán (-_han _is added since _punta _ends in a vowel without a glottal stop)"
+    },
+    {
+      "type": "p",
+      "markdown": "But notice that these verbs do not follow those rules:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: bukás => buksán (_a _is shifted after the _s _and _n _is added)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: simulâ => simulán\t(_n _is added)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: lagáy => lagyán (_a _is shifted after the _y _and _n _is added)"
+    },
+    {
+      "type": "p",
+      "markdown": "In addition, the rules do not predict stress, even of the verbs that “work”. You can probably see now why I recommend that you memorize, rather than derive, the infinitive."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Completed Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add _in _before the first vowel of the infinitive (see _mag_- verbs for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "subukan",
+        "english": "> sinubukan",
+        "required": true,
+        "audioPath": "cde4eca6-b618-4cf3-9443-09c849ffdaf6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "buksán",
+        "english": "> binuksán",
+        "required": true,
+        "audioPath": "17315bee-893d-4f8a-aa2a-a1b2ca962c57"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Exception - If the root begins with _l, r, w _or _y_, it is more common to put _ni _in front of the root in the infinitive:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "lagyán",
+        "english": "> nilagyán",
+        "required": true,
+        "audioPath": "21445f7e-265c-41cb-8b7b-263d6c6c35fd"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Uncompleted Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "From the infinitive, repeat the first syllable then insert in before the first vowel (see _mag_- verbs for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "subukan",
+        "english": "> sinúsubukan",
+        "required": true,
+        "audioPath": "58e18e7d-e4b3-40a5-b9f9-b8091e54b23f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "buksán",
+        "english": "> binúbuksán",
+        "required": true,
+        "audioPath": "f83dce9e-2719-47d2-8137-b0ca5094aff8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "lagyán",
+        "english": "> nilálagyán",
+        "required": true,
+        "audioPath": "28e8c07b-b0de-4b5d-b35c-97464da67680"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Contemplated Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add the first syllable of the root to the infinitive (see _mag_- verbs for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "su + subukan",
+        "english": "> súsubukan",
+        "required": true,
+        "audioPath": "53fa1938-0fd2-47c0-8934-af77c59da0c0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "bu + buksán",
+        "english": "> búbuksán",
+        "required": true,
+        "audioPath": "cdccc189-db69-4125-9155-cffc51785053"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "la + lagyán",
+        "english": "> lálagyán",
+        "required": true,
+        "audioPath": "0924314d-fbf2-4d44-9e81-13762c2c133a"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "If you recall:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence(O) = Verb + Actor + Object"
+    },
+    {
+      "type": "p",
+      "markdown": "We can tailor that to OF verbs:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence(OF(O)) = **Verb **+ Actor + Object"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Actor takes _ng _form, object takes _ang _form. For imperative, verb takes infinitive, actor is either _mo, ninyo _or _natin_. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Subukan mo ito.",
+        "english": "Try this.",
+        "required": true,
+        "audioPath": "54a42e06-54b7-4074-ab7a-78860a95c4cf"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binubuksan niya ang ikalawang pinto.",
+        "english": "He is opening the second door.",
+        "required": true,
+        "audioPath": "3d6190af-d365-4fdf-ac6c-a1d6780dcd10"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan ni Maria si Jason sa Kalsada.",
+        "english": "Maria watched out for Jason in the street.",
+        "required": true,
+        "audioPath": "6738622f-0586-48d7-8410-ac06a3a5547e"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the object is in italics now, since it is the focus."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Change of Word Order due to Enclitics</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The verb in the standard sentence structure equation is bold, meaning it is the host for enclitics. It turns out that _ng _personal pronouns (pps), or _kita_, come before _ang _pps in the enclitic cluster, so let’s update the definition:"
+    },
+    {
+      "type": "h2",
+      "markdown": "enclitic cluster = (one-syllable pps) + (enclitic particles) + (ng form two-syllable pps or kita) + (ang form two-syllable pps)"
+    },
+    {
+      "type": "p",
+      "markdown": "As long as you stick to the standard order (verb, actor, object), _ng _pps coming before _ang _pps will not affect word order."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan ni Mark si Jessica.",
+        "english": "Mark kept an eye out for Jessica.",
+        "required": true,
+        "audioPath": "a616fe3f-de40-48bc-a71c-01ca3add3de3"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Switching to pps:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan niya siya.",
+        "english": "He kept an eye out for her.",
+        "required": true,
+        "audioPath": "72d56968-6b60-4536-ad9c-80e783d143dd"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But if you use the order (verb, object, actor)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan si Jessica ni Mark.",
+        "english": "Mark kept an eye out for Jessica.",
+        "required": true,
+        "audioPath": "32729d7f-f249-4ba2-937e-412b3d76a270"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Switching to pps, you would need to put the actor before the object because _niya _must come before _siya_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan niya siya.",
+        "english": "He kept an eye out for her.",
+        "required": true,
+        "audioPath": "f707a1db-870a-424a-b7cf-8fad667538f8"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "So please stick to the standard order. The other thing to remember is that if you just turn _si Jessica _into _siya_, _siya _needs to go after the verb, which is the host."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan siya ni Mark.",
+        "english": "Mark kept an eye out for her.",
+        "required": true,
+        "audioPath": "476f670f-ba90-4402-9da4-6d3e17636552"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This type of word order change does not happen in AF standard sentences, because AF objects cannot be pps, per **Appendix H**."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Hayaan mo na ito.",
+      "english": "Let it go already.",
+      "required": true,
+      "audioPath": "30b8e72e-0367-4fdd-a03f-da30dd99ab51"
+    },
+    {
+      "tagalog": "Sinubukan ko ang murang sapatos, di ba?",
+      "english": "I tried the cheap shoes, didn't I?",
+      "required": true,
+      "audioPath": "7fe40f82-91cf-4c5c-b5f1-b121ff66dff9"
+    },
+    {
+      "tagalog": "Binubuksan namin ang walong ilaw tuwing Sabado.",
+      "english": "We turn on the eight lights on Saturdays.",
+      "required": true,
+      "audioPath": "e45b9e60-3e29-4e30-8164-7198cb0df1e4"
+    },
+    {
+      "tagalog": "Sisimulan ni Joshua ang araw.",
+      "english": "Joshua will start the day.",
+      "required": true,
+      "audioPath": "f6dd2d5c-f3b9-4b8b-bf29-6774659fe645"
+    },
+    {
+      "tagalog": "Meron ba kayong pera? Subukan ninyo ang bisikleta.",
+      "english": "Do you (pl.) have (meron) money? Try the bicycle.",
+      "required": true,
+      "audioPath": "cc8b2cbd-9507-4ac8-9a26-4e373c56a917"
+    },
+    {
+      "tagalog": "Inabangan siya ni Jasmine kahapon nang alas-sais ng umaga.",
+      "english": "Jasmine looked out for him at 6am.",
+      "required": true,
+      "audioPath": "541c3c8c-a1ff-488b-b551-313c3a77e838"
+    },
+    {
+      "tagalog": "Hindi niya hinahayaan yun, no?",
+      "english": "She does not allow that, right?",
+      "required": true,
+      "audioPath": "cadd2426-2be0-4cc1-8c94-bac4f898e767"
+    },
+    {
+      "tagalog": "Bubuksan nito ang pinto ng eskwelahan!",
+      "english": "It will open the school's door!",
+      "required": true,
+      "audioPath": "22975546-e0e4-4e47-9b6f-c888f226ff3c"
+    },
+    {
+      "tagalog": "Simulan natin ito ngayon.",
+      "english": "Let's start it now.",
+      "required": true,
+      "audioPath": "bf868356-975e-4cc2-8c5f-c24ea2062ed9"
+    },
+    {
+      "tagalog": "Inaabangan kita sa lamesa araw-araw.",
+      "english": "I look out for you at the table every day.",
+      "required": true,
+      "audioPath": "cb88fe69-eebc-4675-be62-7ac83e67e2d1"
+    }
+  ]
+}

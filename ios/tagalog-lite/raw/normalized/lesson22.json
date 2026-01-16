@@ -1,0 +1,459 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson22",
+  "title": "Lesson 22 – Using Enclitics",
+  "vocabulary": [
+    {
+      "tagalog": "na",
+      "english": "enclitic particle that means already or now",
+      "required": false,
+      "audioPath": "cd6c83d3-36f8-4d1e-8952-2be310553113"
+    },
+    {
+      "tagalog": "pa",
+      "english": "enclitic particle that means yet, still or else",
+      "required": true,
+      "audioPath": "90a6600e-c6f9-43b9-8df9-e93bba87dde3"
+    },
+    {
+      "tagalog": "nga",
+      "english": "enclitic particle that softens",
+      "required": false,
+      "audioPath": "cd9a1a8b-bce0-42dd-91f7-30fd902c9023"
+    },
+    {
+      "tagalog": "din/rin",
+      "english": "enclitic particle that means also",
+      "required": true,
+      "audioPath": "aac6ba75-a4ab-44bd-ba73-2f4820d4e932"
+    },
+    {
+      "tagalog": "lang/**lamang",
+      "english": "enclitic particle that means only or just",
+      "required": true,
+      "audioPath": "c2405706-6a61-4134-923d-7c3068592456"
+    },
+    {
+      "tagalog": "namán",
+      "english": "enclitic particle that contrasts or enlivens",
+      "required": true,
+      "audioPath": "bffe68e0-d05c-4638-8808-28e2be5fbcb0"
+    },
+    {
+      "tagalog": "pô",
+      "english": "enclitic particle that adds respect",
+      "required": false,
+      "audioPath": "3238f1c1-15fb-4ff2-9242-6adfa325ab0d"
+    },
+    {
+      "tagalog": "ba",
+      "english": "enclitic particle that indicates a question",
+      "required": false,
+      "audioPath": "6d43929c-16c1-489c-af06-9d24a8fd757c"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Earlier in the book you were given an introduction to enclitics, and told that eventually there would be a lesson that covers them more thoroughly. This is that lesson. First read **Appendix J**, which contains a re-cap and general information about all enclitics. Although there are 21 enclitic particles in all, we are only going to use the nine listed above, the most common ones, in enclitic clusters from here on. Two more will be introduced later. That should get you used to them without overwhelming you. After that, you should be able to pick up new ones when you encounter them."
+    },
+    {
+      "type": "p",
+      "markdown": "In this lesson we will introduce _pa, din/rin _and _lang_. _Nga, po _and _ba _were covered sufficiently in previous lessons, but additional information for _na _and _naman _is given below. Finally, you will practice building sentences with all nine."
+    },
+    {
+      "type": "p",
+      "markdown": "One thing you will notice below is that there are often multiple translations for each enclitic particle, and combinations may lead to unexpected results. The definitions given in the vocabulary list above are overly simplified – they are just there as memory hooks."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Na and Pa</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Na _and _pa _are related, and they both indicate that the sentence contains new information. But _na _indicates information that is completely new, while _pa _indicates new information that continues from previous events."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro na siya.",
+        "english": "She is a teacher now. She was not a teacher before but she is now.",
+        "required": true,
+        "audioPath": "f8774774-0cdb-4aa7-90bf-9946ab1e8713"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro pa siya.",
+        "english": "She is still a teacher. She was a teacher before and continues to be one.",
+        "required": true,
+        "audioPath": "857f175c-21d5-43cd-a60c-c2066de98640"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi na siya guro.",
+        "english": "She is not a teacher anymore. She was a teacher before but now she is not.",
+        "required": true,
+        "audioPath": "a9d54c55-c083-497c-b633-b01c37e984ce"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi pa siya guro.",
+        "english": "She is not a teacher yet. She was not a teacher before and continues not to be one.",
+        "required": true,
+        "audioPath": "782187a8-1fb0-4175-8b19-bd691e01d61e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aral ka na.",
+        "english": "Go study now. You were not studying before but I want you to study now.",
+        "required": true,
+        "audioPath": "fc584f2e-2b09-4a2d-a7d4-ef40b4492fe3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aral ka pa.",
+        "english": "Study some more. You were already studying but I want you to study more.",
+        "required": true,
+        "audioPath": "0f4f57c0-3847-4dac-9f69-074c01493163"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Din/Rin</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "In its simplest contexts, _din/rin_ adds the nuance of “also”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro rin siya.",
+        "english": "She is also a teacher.",
+        "required": true,
+        "audioPath": "5ba84240-fa10-42eb-8040-c0884aa8be80"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But _din/rin _can also intensify certain other enclitic particles, such as _pa_."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro pa rin siya.",
+        "english": "She is still a teacher. She has been a teacher for a while and was expected to not be one anymore at some point but the situation persists.",
+        "required": true,
+        "audioPath": "4e9b538f-86bf-46a7-a012-61623b791bde"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi pa rin siya guro.",
+        "english": "She is still not a teacher. We have been waiting for her to become one for a while, but she still is not one.",
+        "required": true,
+        "audioPath": "f37fc4ff-10f4-4bd6-8c0c-9dcc7155ecc3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aral ka pa rin.",
+        "english": "Study some more. You have already been studying but finals are coming up and I fear you are not yet prepared.",
+        "required": true,
+        "audioPath": "10fa9086-e3dd-428a-81bf-8c7740110d10"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that this intensification does not occur with na."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro na rin siya.",
+        "english": "She is also a teacher now.",
+        "required": true,
+        "audioPath": "6f7eab6b-910a-494e-a2d5-023fc79df374"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi na rin siya guro.",
+        "english": "She is not a teacher now either.",
+        "required": true,
+        "audioPath": "4c2c68eb-c66c-40e9-9bbd-b23b489ea2be"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aral ka na rin.",
+        "english": "Go study now too.",
+        "required": true,
+        "audioPath": "9b30523a-f88a-4cb9-b82f-b649b7bb8c30"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Lang</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Lamang _is the formal version of _lang_, and is far less common, so we will not use it from now on. _Lang_ normally adds the nuance of “only” or “just”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro lang siya.",
+        "english": "She is only a teacher.",
+        "required": true,
+        "audioPath": "9dd68b12-12ff-4fa8-ade5-d6c55f34fc0e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi lang siya guro.",
+        "english": "She is not only a teacher.",
+        "required": true,
+        "audioPath": "fd4dce81-13b3-42c0-b327-d9e47af0414f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aral ka lang.",
+        "english": "Just study.",
+        "required": true,
+        "audioPath": "455e9493-9b47-4ee9-b124-27e29c98802f"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In addition to the expected nuance of “just” or “now just”, _na lang_ can also be used to confirm a choice."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro na lang siya.",
+        "english": "She is just a teacher. She had additional work before, but now she is just a teacher.",
+        "required": true,
+        "audioPath": "66f9da79-83d9-4adc-8fc7-96eb0c61029a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aral ka na lang.",
+        "english": "Just study.",
+        "required": true,
+        "audioPath": "d7c9edfc-7fd0-4a92-9e3e-01e4c488f2bd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tsokolate na lang.",
+        "english": "Chocolate. You were asked if you want chocolate or vanilla.",
+        "required": true,
+        "audioPath": "4785e73b-18cb-4f9e-9a08-acab12251d15"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Naman</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As mentioned before, although _naman _is often interchangeable with _nga_, we will not use it to soften sentences in order to keep it separate from _nga_."
+    },
+    {
+      "type": "p",
+      "markdown": "It can also be used to show contrast."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naglalaro si Maria sa eskwelahan, ako naman sa kalsada.",
+        "english": "Maria plays at school, whereas I play in the street.",
+        "required": true,
+        "audioPath": "bed7dbd8-6225-489d-8d9e-639082129f1b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magmamaneho naman ako.",
+        "english": "I will drive (for a change).",
+        "required": true,
+        "audioPath": "0f8242e7-cd06-4cf8-a8e1-0a6ad607f58a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi naman siya maganda.",
+        "english": "(in contrast) She is not pretty.",
+        "required": true,
+        "audioPath": "bb08c3e2-f74f-41de-a9b2-2f3f8516c76d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "And it can enliven a sentence by showing energy, irritation, disgust, etc."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo naman!",
+        "english": "Yeah, for sure!",
+        "required": true,
+        "audioPath": "985cbc94-bda8-4aff-ad1e-a569572aa9d4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magmaneho ka naman!",
+        "english": "Drive already!",
+        "required": true,
+        "audioPath": "d89ce5e6-84fb-4fd4-9bc2-6fd76f8c1314"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Totoo naman ito!",
+        "english": "It is absolutely true!",
+        "required": true,
+        "audioPath": "f9ea1b2b-53d9-4010-a318-f8fab220416d"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Some Enclitic Particles can give sentences multiple Meanings.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Most enclitic particles apply to the entire clause, but _din/rin, lang _and _naman_(contrast) do not, which may make you wonder what a sentence actually means. Let’s take:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aral rin siya ng Tagalog.",
+        "english": "She also studied Tagalog.",
+        "required": true,
+        "audioPath": "b8554496-6f55-41e8-91db-961e1cabd2ff"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Does this mean “she studied and listened to it” (applied to verb), “she studied Tagalog and French” (applied to the object) or “she and her friend studied Tagalog” (applied to the focus)? It turns out the first two interpretations are ok, but not the third. In this book we call these “focus sensitive” enclitic particles, and they do not apply to the focus of standard sentences. Here are a couple more examples:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binubuksan lang nila ang pinto.",
+        "english": "They are only opening the door.",
+        "required": true,
+        "audioPath": "c9a2e9f5-0f37-44ac-9aef-f58cab5db0ee"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "“Only” does not apply to “door” here. For example, this can mean they are only opening it and not slamming it, or only they are opening it and not Joe, but it cannot mean only the door and not the window."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tuturuan naman ni Vanessa ang mga estudyante.",
+        "english": "In contrast, Vanessa will teach the students.",
+        "required": true,
+        "audioPath": "3128ad58-a70a-4be1-9831-a4321620ed60"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "“In contrast” does not apply to “students” here. For example, this can mean in contrast to singing with them, she will teach them, or in contrast to Joshua, Vanessa will teach them. But it cannot mean in contrast to the parents she will teach the students."
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that if you emphasize the focus while reading the English sentences above, it seems like “also/only/in contrast” should apply to the focus. But it does not. This is an example of how focus differs from emphasis. We will discuss ways to apply these enclitic particles to focuses in a later lesson."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sino po ang pangulo?",
+      "english": "Who is the president? (resp.)",
+      "required": true,
+      "audioPath": "5f642fa3-084b-41cc-b08c-398d897dd7fa"
+    },
+    {
+      "tagalog": "Pagod din ang anak natin, di ba?",
+      "english": "Our (incl.) child is also tired, isn't he?",
+      "required": true,
+      "audioPath": "b55577a7-8455-41fe-a504-c3fbc149b73f"
+    },
+    {
+      "tagalog": "Ang mga ito lang ba ang mga sikat nilang puting sapatos?",
+      "english": "Are these their only famous white shoes?",
+      "required": true,
+      "audioPath": "4c635efa-70f7-4801-868c-19fb8d292650"
+    },
+    {
+      "tagalog": "Magtuturo pa naman si Sir Santos ng Tagalog sa Sabado.",
+      "english": "In contrast, Mr. Santos will still teach Tagalog on Saturday.",
+      "required": true,
+      "audioPath": "dab64000-3d15-431f-abd5-adcfbebfadf7"
+    },
+    {
+      "tagalog": "Ano naman po ang inuming yun?",
+      "english": "What (on the other hand) is that drink? (resp.)",
+      "required": true,
+      "audioPath": "9af3888d-c253-48e7-aa12-90ef205db544"
+    },
+    {
+      "tagalog": "Mahilig ka pa ba sa ilaw?",
+      "english": "Do you still like lights?",
+      "required": true,
+      "audioPath": "36d56357-b956-45c4-af47-c5ad53dae2dc"
+    },
+    {
+      "tagalog": "Buksan nga rin po ninyo ang pinto nang pitong oras para sa akin.",
+      "english": "Open the door for me for seven hours too. (resp.)",
+      "required": true,
+      "audioPath": "042bb609-8f13-422b-b0bf-adab7c795e37"
+    },
+    {
+      "tagalog": "Hindi ko lang binigyan ng pera si Joe.",
+      "english": "I did not only give Joe money.",
+      "required": true,
+      "audioPath": "eee778e3-d6be-4ac6-b3a3-8a01ae785b5a"
+    },
+    {
+      "tagalog": "Gusto lang naman namin ang sandaang piso!",
+      "english": "We (excl.) only want one hundred pesos! (irritated)",
+      "required": true,
+      "audioPath": "ec8d8689-fb1e-4d8f-8e7a-adfe5e02b6ad"
+    },
+    {
+      "tagalog": "Sinusubukan pa niya ang bawat basketbol nang maraming beses.",
+      "english": "He still tries each basketball many times.",
+      "required": true,
+      "audioPath": "182b2b85-67b4-4d67-adba-0134f5d601f7"
+    }
+  ]
+}

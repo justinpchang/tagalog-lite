@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson23",
+  "title": "Lesson 23 - Um-verbs; Infinitive & Completed",
+  "vocabulary": [
+    {
+      "tagalog": "kumain",
+      "english": "to eat; ate (AF(O))",
+      "required": true,
+      "audioPath": "728c2210-f22b-4a48-b919-a0f6386085f8"
+    },
+    {
+      "tagalog": "lumakí",
+      "english": "to become big/grow up; became big/grew up (AF(I))",
+      "required": true,
+      "audioPath": "58599935-99c6-4e71-a6d7-25f2afe87885"
+    },
+    {
+      "tagalog": "umakyát",
+      "english": "to climb; climbed (AF(O))",
+      "required": true,
+      "audioPath": "13d76f14-a4c0-4f9f-a216-bf60d130651a"
+    },
+    {
+      "tagalog": "sumakáy",
+      "english": "to ride; rode (AF(O))",
+      "required": true,
+      "audioPath": "7bc4bcd0-5b7f-49b8-b966-18a07a834cff"
+    },
+    {
+      "tagalog": "pumuntá",
+      "english": "to go; went (AF(D))",
+      "required": true,
+      "audioPath": "3db9d214-9029-4a7b-909f-90e69a206134"
+    },
+    {
+      "tagalog": "mag-akyát",
+      "english": "to bring something upstairs",
+      "required": false,
+      "audioPath": "1895a04a-d9b6-405f-8256-5955fba6944d"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "-_Um_- verbs are another member of the Big Six. They are AF, so we will do a comparison with _mag_- verbs. The infinitive and completed aspect are covered in this lesson, and the remaining aspects in the next."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of -_um_- verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "AF, with possible variants of AF(D), AF(DO), AF(I) and AF(O)."
+    },
+    {
+      "type": "p",
+      "markdown": "Some are used for natural actions."
+    },
+    {
+      "type": "p",
+      "markdown": "Some are used to denote becoming something."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: kain = food => kumain = to eat; an example of a natural action"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: laki = big => lumakí = to get big; an example of becoming something"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive and Completed Aspects</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "For -_um_- verbs only, the infinitive is the same as completed aspect. This is why _kumain _can mean either “to eat” or “ate” (see vocabulary list). Form the infinitive/completed aspect by putting -_um_- before the first vowel in the root:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: akyat => umakyát"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: sakay => sumakáy"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: punta => pumuntá"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Comparing Mag- and -Um- verbs.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Many roots have both _mag _and _um _verbs. Their meanings are sometimes very different:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag-akyat = to bring something upstairs"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: umakyat = to climb"
+    },
+    {
+      "type": "p",
+      "markdown": "But sometimes very similar:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: magpunta = to go"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pumunta = to go"
+    },
+    {
+      "type": "p",
+      "markdown": "So, you may wonder why there are two AF verbs with the same root. In the dictionary, their second and third definitions are probably not the same. With time and exposure, you will learn which context requires which verb."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are AF verbs, so as a reminder:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Umakyat si Maria ng puno.",
+        "english": "Maria climbed a tree.",
+        "required": true,
+        "audioPath": "8e7a3007-0c31-43d7-a8da-e7975ad0a253"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sumakay kami ng bus.",
+        "english": "We (excl.) rode a bus.",
+        "required": true,
+        "audioPath": "e5539fe1-52aa-4693-89e6-b39c5156add4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pumunta kayo sa bahay ni Joshua.",
+        "english": "(you pl.) Go to Joshua’s house or (you pl.) went to Joshua’s house.",
+        "required": true,
+        "audioPath": "2daf70bb-a7a1-4c0c-a167-7d7b2b619e7a"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Verbs that take Ng and Sa</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There are quite a few -_um_- verbs that seem to take objects in both _ng _and _sa _forms. While both forms are often acceptable, there may be a subtle difference in meaning:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Umakyat siya ng puno.",
+        "english": "She climbed a tree.",
+        "required": true,
+        "audioPath": "96c48bf7-840d-4464-aeb4-3d2d43c5553e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Umakyat siya sa puno.",
+        "english": "She climbed on the tree.",
+        "required": true,
+        "audioPath": "a9f04ed9-37d0-437b-a19c-8bc94d60ee0b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sumakay si Joe ng bus.",
+        "english": "Joe rode a bus.",
+        "required": true,
+        "audioPath": "895e8d81-d950-4706-bd55-e031fb65eb04"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sumakay si Joe sa bus.",
+        "english": "Joe rode on the bus.",
+        "required": true,
+        "audioPath": "8bfc347d-12b0-462c-9527-8f7b5c6071b0"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For these verbs, it is best to assume that _sa_ is marking a location, rather than an object."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Oo. Masarap kumain ng manok.",
+      "english": "Yes. It is satisfying to eat chicken.",
+      "required": true,
+      "audioPath": "ee4663da-b832-49fb-a2c4-4f92ca60f5a4"
+    },
+    {
+      "tagalog": "Lumaki rin ang anak nila sa Luzon.",
+      "english": "Their child also grew up in Luzon.",
+      "required": true,
+      "audioPath": "01cdc454-d2f6-4293-a4dd-ae2352cdbc3e"
+    },
+    {
+      "tagalog": "Umakyat lang kayo sa gusaling yun nang kalahating oras.",
+      "english": "(you pl.) Just climb on that building for a half hour.",
+      "required": true,
+      "audioPath": "d8b17d7c-deb4-4269-afd4-8d92500e3f3f"
+    },
+    {
+      "tagalog": "Hindi naman kami sumakay ng bus papunta sa Maynila nung gabi.",
+      "english": "In contrast, we (excl.) did not ride a bus to Manila at night.",
+      "required": true,
+      "audioPath": "09e931fa-a7af-4563-8d1b-de385d4c214c"
+    },
+    {
+      "tagalog": "Pumunta ang bawat babae sa eskwelahan nung taong dalawang libo't anim.",
+      "english": "Each woman went to the school in the year 2006.",
+      "required": true,
+      "audioPath": "75f2c177-228c-4a26-ab93-10f7bfdd4f5b"
+    },
+    {
+      "tagalog": "Kumain kayo ng masarap na tsokolate sa Biyernes.",
+      "english": "(you pl.) Eat some delicious chocolate on Friday",
+      "required": true,
+      "audioPath": "eceaa51f-6bbd-4fba-816a-6cefa2cbe600"
+    },
+    {
+      "tagalog": "Lumaki sina Jessica at Mark sa Pilipinas, di ba?",
+      "english": "Jessica and Mark grew up in the Philippines, right?",
+      "required": true,
+      "audioPath": "2326d683-5eff-4cba-ba70-f0439fa82614"
+    },
+    {
+      "tagalog": "Umakyat tayo ng puno ngayon. Merong ilaw.",
+      "english": "Let's climb a tree now. There is a light. (meron)",
+      "required": true,
+      "audioPath": "8744e736-4cc7-49f3-bda6-fb1baebe2d1a"
+    },
+    {
+      "tagalog": "Opo. Sumakay nga rin po kayo ng sasakyan para sa kanila.",
+      "english": "Yes. You ride a car for them too. (soft)(resp.)",
+      "required": true,
+      "audioPath": "47b9449d-6d44-4d46-90a1-b73a7b45bfeb"
+    },
+    {
+      "tagalog": "Pumunta si David sa kalsada kahapon nang alas kuwatro y medya.",
+      "english": "David went to the street yesterday at half past four.",
+      "required": true,
+      "audioPath": "2aca9a8e-07b0-4119-b449-d99d5d99881f"
+    }
+  ]
+}

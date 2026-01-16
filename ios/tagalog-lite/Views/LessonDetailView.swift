@@ -3,102 +3,543 @@ import SwiftUI
 struct LessonDetailView: View {
   @Environment(\.dismiss) private var dismiss
 
-  enum Tab: String, CaseIterable, Identifiable {
-    case vocab = "Vocab"
-    case lesson = "Lesson"
-    case examples = "Examples"
-
-    var id: String { rawValue }
-  }
-
   let lesson: Lesson
-  @State private var tab: Tab = .vocab
+
+  // Global visibility controls
+  @State private var showEnglish: Bool = true
+  @State private var showTagalog: Bool = true
+
+  // Per-item overrides (when global visibility is off)
+  @State private var revealedEnglishKeys: Set<String> = []
+  @State private var revealedTagalogKeys: Set<String> = []
 
   var body: some View {
     ZStack {
       Theme.pageGradient.ignoresSafeArea()
 
-      VStack(spacing: 12) {
-        Picker("Section", selection: $tab) {
-          ForEach(Tab.allCases) { t in
-            Text(t.rawValue).tag(t)
-          }
+      ScrollView {
+        VStack(alignment: .leading, spacing: 14) {
+          VocabularySection(
+            lessonId: lesson.id,
+            items: lesson.vocabulary,
+            showEnglish: showEnglish,
+            showTagalog: showTagalog,
+            revealedEnglishKeys: $revealedEnglishKeys,
+            revealedTagalogKeys: $revealedTagalogKeys
+          )
+          .padding(.horizontal, 16)
+
+          GrammarSection(
+            lessonId: lesson.id,
+            blocks: lesson.contents,
+            showEnglish: showEnglish,
+            showTagalog: showTagalog,
+            revealedEnglishKeys: $revealedEnglishKeys,
+            revealedTagalogKeys: $revealedTagalogKeys
+          )
+          .padding(.horizontal, 16)
+
+          ExamplesSection(
+            lessonId: lesson.id,
+            items: lesson.exampleSentences,
+            showEnglish: showEnglish,
+            showTagalog: showTagalog,
+            revealedEnglishKeys: $revealedEnglishKeys,
+            revealedTagalogKeys: $revealedTagalogKeys
+          )
+          .padding(.horizontal, 16)
         }
-        .pickerStyle(.segmented)
-        .padding(.horizontal, 16)
-
-        TabView(selection: $tab) {
-          VocabTabView(items: lesson.vocabulary)
-            .tag(Tab.vocab)
-
-          LessonTabView(blocks: lesson.contents)
-            .tag(Tab.lesson)
-
-          ExamplesTabView(items: lesson.exampleSentences)
-            .tag(Tab.examples)
-        }
-        .tabViewStyle(.page(indexDisplayMode: .never))
+        .padding(.bottom, 18)
       }
-      .padding(.top, 6)
     }
     .navigationBarBackButtonHidden(true)
     .toolbar(.hidden, for: .navigationBar)
     .safeAreaInset(edge: .top) {
-      headerBar
-        .padding(.horizontal, 16)
-        .padding(.top, 8)
-        .padding(.bottom, 10)
+      header
     }
   }
 
-  private var headerBar: some View {
-    GlassHeaderBar {
-      HStack(alignment: .center, spacing: 12) {
+  private var header: some View {
+    VStack(alignment: .leading, spacing: 10) {
+      HStack(alignment: .top, spacing: 12) {
         Button {
           dismiss()
         } label: {
           Image(systemName: "chevron.left")
-            .font(.system(size: 14, weight: .bold))
+            .font(.system(size: 18, weight: .bold))
             .foregroundStyle(.primary)
             .frame(width: 36, height: 36)
-            .background(
-              Circle().fill(Color.white.opacity(0.10))
-            )
         }
         .buttonStyle(.plain)
         .accessibilityLabel("Back")
 
         VStack(alignment: .leading, spacing: 4) {
-          Text(lesson.title)
-            .font(.system(.headline, design: .rounded))
-            .lineLimit(1)
+          Text(
+            lesson.title.replacingOccurrences(
+              of: lesson.numericOrder.map { "Lesson \($0) - " } ?? "",
+              with: ""
+            )
+          )
+          .font(.system(size: 22, weight: .heavy, design: .rounded))
+          .foregroundStyle(.primary)
+          .multilineTextAlignment(.leading)
+          .lineLimit(nil)
+          .lineSpacing(2)
+        }
+        .padding(.top, 2)
 
-          HStack(spacing: 10) {
-            Label("\(lesson.vocabulary.count)", systemImage: "book.fill")
-            Label("\(lesson.exampleSentences.count)", systemImage: "quote.bubble.fill")
-          }
-          .font(.system(size: 12, weight: .semibold, design: .rounded))
+        Spacer(minLength: 0)
+      }
+
+      HStack(spacing: 12) {
+        Text(lesson.numericOrder.map { "Lesson \($0)" } ?? "Lesson")
+          .font(.system(.subheadline, design: .rounded).weight(.semibold))
           .foregroundStyle(.secondary)
-          .labelStyle(.titleAndIcon)
-        }
+        Spacer(minLength: 0)
+        VisibilityPill(title: "English", isOn: $showEnglish)
+        VisibilityPill(title: "Tagalog", isOn: $showTagalog)
       }
-    } trailing: {
-      NavigationLink {
-        StudyModeView(lesson: lesson)
-      } label: {
-        HStack(spacing: 8) {
-          Image(systemName: "sparkles")
-          Text("Study")
-        }
-        .font(.system(size: 13, weight: .bold, design: .rounded))
-        .foregroundStyle(.secondary)
-        .padding(.horizontal, 12)
-        .padding(.vertical, 8)
-        .background(
-          Capsule().fill(Theme.accent)
-        )
-      }
-      .buttonStyle(.plain)
     }
+    .padding(.horizontal, 16)
+    .padding(.vertical, 8)
+    .padding(.bottom, 10)
+    .background(
+      Color.white
+        .ignoresSafeArea(edges: .top)
+    )
+  }
+}
+
+private struct VisibilityPill: View {
+  let title: String
+  @Binding var isOn: Bool
+
+  var body: some View {
+    Button {
+      isOn.toggle()
+    } label: {
+      HStack(spacing: 8) {
+        Image(systemName: isOn ? "eye" : "eye.slash")
+        Text(title)
+      }
+      .font(.system(.subheadline, design: .rounded).weight(.semibold))
+      .foregroundStyle(.primary)
+      .padding(.horizontal, 14)
+      .padding(.vertical, 9)
+      .background(
+        RoundedRectangle(cornerRadius: 14, style: .continuous)
+          .fill(isOn ? Theme.tropicalTeal.opacity(0.14) : Color.white.opacity(0.85))
+      )
+      .overlay(
+        RoundedRectangle(cornerRadius: 14, style: .continuous)
+          .strokeBorder(
+            isOn ? Theme.tropicalTeal.opacity(0.22) : Color.black.opacity(0.06), lineWidth: 1)
+      )
+      .shadow(color: Color.black.opacity(0.06), radius: 10, x: 0, y: 6)
+    }
+    .buttonStyle(.plain)
+  }
+}
+
+private struct BilingualRevealCard: View {
+  let tagalog: String
+  let english: String
+  let audioKey: String?
+  let showEnglish: Bool
+  let showTagalog: Bool
+  let isEnglishRevealed: Bool
+  let isTagalogRevealed: Bool
+  let onToggleReveal: () -> Void
+
+  private var effectiveShowEnglish: Bool { showEnglish || isEnglishRevealed }
+  private var effectiveShowTagalog: Bool { showTagalog || isTagalogRevealed }
+  private var shouldShowTapHint: Bool {
+    (!showEnglish && !isEnglishRevealed) || (!showTagalog && !isTagalogRevealed)
+  }
+
+  var body: some View {
+    VStack(alignment: .leading, spacing: 6) {  // less spacing overall
+      HStack(alignment: .top, spacing: 8) {  // tighter spacing
+        VStack(alignment: .leading, spacing: 4) {  // less vertical gap between lines
+          if effectiveShowTagalog {
+            Text(tagalog)
+              .font(.system(size: 16, weight: .regular, design: .rounded))  // smaller, not bold
+              .foregroundStyle(.primary)
+              .fixedSize(horizontal: false, vertical: true)
+          }
+
+          if effectiveShowEnglish {
+            Text(english)
+              .font(.system(size: 14, weight: .regular, design: .rounded))  // a bit smaller, not bold
+              .foregroundStyle(.secondary)
+              .fixedSize(horizontal: false, vertical: true)
+          }
+
+          if !effectiveShowTagalog && !effectiveShowEnglish {
+            Text("Tap to reveal")
+              .font(.system(.subheadline, design: .rounded).weight(.semibold))
+              .foregroundStyle(.secondary)
+              .padding(.vertical, 6)
+          }
+        }
+
+        Spacer(minLength: 4)
+
+        if let audioKey {
+          SpeakerButton(audioKey: audioKey)
+        }
+      }
+
+      if shouldShowTapHint && (effectiveShowTagalog || effectiveShowEnglish) {
+        Text("Tap to reveal")
+          .font(.system(.caption, design: .rounded))
+          .foregroundStyle(.secondary)
+      }
+    }
+    .padding(10)  // less padding for a smaller card
+    .background(
+      RoundedRectangle(cornerRadius: 14, style: .continuous)  // smaller corner radius
+        .fill(Color.white.opacity(0.92))
+    )
+    .overlay(
+      RoundedRectangle(cornerRadius: 14, style: .continuous)
+        .strokeBorder(Color.black.opacity(0.06), lineWidth: 1)
+    )
+    .shadow(color: Color.black.opacity(0.06), radius: 8, x: 0, y: 5)  // smaller shadow
+    .contentShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+    .gesture(
+      TapGesture().onEnded {
+        guard !showEnglish || !showTagalog else { return }
+        onToggleReveal()
+      },
+      including: .gesture
+    )
+  }
+}
+
+private struct SpeakerButton: View {
+  @EnvironmentObject private var audio: AudioPlayerManager
+  let audioKey: String
+
+  @State private var showError = false
+  @State private var errorMessage = ""
+
+  private var isActive: Bool {
+    audio.currentKey == audioKey && audio.isPlaying
+  }
+
+  var body: some View {
+    Button {
+      audio.togglePlay(key: audioKey)
+      if let msg = audio.lastErrorMessage, !msg.isEmpty {
+        errorMessage = msg
+        showError = true
+      }
+    } label: {
+      ZStack {
+        Circle()
+          .fill(isActive ? Theme.tropicalTeal : Color.white.opacity(0.95))
+          .overlay(
+            Circle()
+              .strokeBorder(
+                isActive ? Theme.tropicalTeal.opacity(0.35) : Color.black.opacity(0.10),
+                lineWidth: 1
+              )
+          )
+
+        Image(systemName: isActive ? "pause.fill" : "speaker.wave.2.fill")
+          .font(.system(size: 14, weight: .bold))
+          .foregroundStyle(isActive ? .white : Theme.tropicalTeal)
+      }
+      .frame(width: 36, height: 36)
+      .accessibilityLabel(isActive ? "Pause audio" : "Play audio")
+    }
+    .buttonStyle(.plain)
+    .alert("Audio", isPresented: $showError) {
+      Button("OK", role: .cancel) {}
+    } message: {
+      Text(errorMessage)
+    }
+  }
+}
+
+private struct VocabularySection: View {
+  let lessonId: String
+  let items: [BilingualItem]
+  let showEnglish: Bool
+  let showTagalog: Bool
+  @Binding var revealedEnglishKeys: Set<String>
+  @Binding var revealedTagalogKeys: Set<String>
+
+  var body: some View {
+    VStack(alignment: .leading, spacing: 10) {
+      HStack(alignment: .firstTextBaseline, spacing: 10) {
+        Text("Vocabulary")
+          .font(.system(size: 28, weight: .heavy, design: .rounded))
+        Text("(\(items.count) words)")
+          .font(.system(.headline, design: .rounded))
+          .foregroundStyle(.secondary)
+      }
+      .padding(.top, 6)
+
+      VStack(spacing: 12) {
+        ForEach(Array(items.enumerated()), id: \.offset) { i, item in
+          let key = "\(lessonId)-vocab-\(i)"
+          BilingualRevealCard(
+            tagalog: item.tagalog,
+            english: item.english,
+            audioKey: item.audioKey,
+            showEnglish: showEnglish,
+            showTagalog: showTagalog,
+            isEnglishRevealed: revealedEnglishKeys.contains(key),
+            isTagalogRevealed: revealedTagalogKeys.contains(key),
+            onToggleReveal: {
+              if !showEnglish { toggleKey(key, in: &revealedEnglishKeys) }
+              if !showTagalog { toggleKey(key, in: &revealedTagalogKeys) }
+            }
+          )
+        }
+      }
+    }
+  }
+
+  private func toggleKey(_ key: String, in set: inout Set<String>) {
+    if set.contains(key) { set.remove(key) } else { set.insert(key) }
+  }
+}
+
+private struct ExamplesSection: View {
+  let lessonId: String
+  let items: [BilingualItem]
+  let showEnglish: Bool
+  let showTagalog: Bool
+  @Binding var revealedEnglishKeys: Set<String>
+  @Binding var revealedTagalogKeys: Set<String>
+
+  var body: some View {
+    VStack(alignment: .leading, spacing: 10) {
+      Text("Example Sentences")
+        .font(.system(.title2, design: .rounded).weight(.heavy))
+        .padding(.top, 6)
+
+      VStack(spacing: 12) {
+        ForEach(Array(items.enumerated()), id: \.offset) { i, item in
+          let key = "\(lessonId)-example-\(i)"
+          BilingualRevealCard(
+            tagalog: item.tagalog,
+            english: item.english,
+            audioKey: item.audioKey,
+            showEnglish: showEnglish,
+            showTagalog: showTagalog,
+            isEnglishRevealed: revealedEnglishKeys.contains(key),
+            isTagalogRevealed: revealedTagalogKeys.contains(key),
+            onToggleReveal: {
+              if !showEnglish { toggleKey(key, in: &revealedEnglishKeys) }
+              if !showTagalog { toggleKey(key, in: &revealedTagalogKeys) }
+            }
+          )
+        }
+      }
+    }
+  }
+
+  private func toggleKey(_ key: String, in set: inout Set<String>) {
+    if set.contains(key) { set.remove(key) } else { set.insert(key) }
+  }
+}
+
+private struct GrammarSection: View {
+  let lessonId: String
+  let blocks: [LessonBlock]
+  let showEnglish: Bool
+  let showTagalog: Bool
+  @Binding var revealedEnglishKeys: Set<String>
+  @Binding var revealedTagalogKeys: Set<String>
+
+  private enum Chunk: Equatable {
+    case h1Group([TextBlock])
+    case bodyGroup([TextBlock])
+    case sentence(key: String, item: BilingualItem)
+  }
+
+  private var chunks: [Chunk] {
+    var out: [Chunk] = []
+    var buf: [TextBlock] = []
+    var bufIsH1: Bool?
+    var sentenceIndex: Int = 0
+
+    func flush() {
+      guard let isH1 = bufIsH1, !buf.isEmpty else { return }
+      out.append(isH1 ? .h1Group(buf) : .bodyGroup(buf))
+      buf.removeAll(keepingCapacity: true)
+      bufIsH1 = nil
+    }
+
+    for b in blocks {
+      switch b {
+      case .text(let tb):
+        let isH1 = (tb.type == .h1)
+        if let cur = bufIsH1, cur != isH1 { flush() }
+        bufIsH1 = isH1
+        buf.append(tb)
+      case .sentence(let sb):
+        flush()
+        let key = "\(lessonId)-grammar-sentence-\(sentenceIndex)"
+        sentenceIndex += 1
+        out.append(.sentence(key: key, item: sb.item))
+      }
+    }
+    flush()
+    return out
+  }
+
+  var body: some View {
+    VStack(alignment: .leading, spacing: 12) {
+      Text("Grammar")
+        .font(.system(.title2, design: .rounded).weight(.heavy))
+        .padding(.top, 8)
+
+      VStack(alignment: .leading, spacing: 12) {
+        ForEach(Array(chunks.enumerated()), id: \.offset) { _, chunk in
+          switch chunk {
+          case .h1Group(let group):
+            H1Card(blocks: group)
+          case .bodyGroup(let group):
+            BodyCard(blocks: group)
+          case .sentence(let key, let item):
+            BilingualRevealCard(
+              tagalog: item.tagalog,
+              english: item.english,
+              audioKey: item.audioKey,
+              showEnglish: showEnglish,
+              showTagalog: showTagalog,
+              isEnglishRevealed: revealedEnglishKeys.contains(key),
+              isTagalogRevealed: revealedTagalogKeys.contains(key),
+              onToggleReveal: {
+                if !showEnglish { toggleKey(key, in: &revealedEnglishKeys) }
+                if !showTagalog { toggleKey(key, in: &revealedTagalogKeys) }
+              }
+            )
+          }
+        }
+      }
+    }
+  }
+
+  private func toggleKey(_ key: String, in set: inout Set<String>) {
+    if set.contains(key) { set.remove(key) } else { set.insert(key) }
+  }
+}
+
+// Reuse the existing grammar text card styles from LessonTabView.
+private struct H1Card: View {
+  @Environment(\.colorScheme) private var colorScheme
+  let blocks: [TextBlock]
+
+  var body: some View {
+    VStack(alignment: .leading, spacing: 10) {
+      ForEach(Array(blocks.enumerated()), id: \.offset) { _, block in
+        switch block.type {
+        case .h1:
+          InlineMarkdownText(markdown: block.markdown, style: .title1)
+            .padding(.top, 2)
+        case .h2:
+          HStack(alignment: .top, spacing: 10) {
+            Image(systemName: "leaf.fill")
+              .foregroundStyle(Theme.accent)
+              .font(.system(size: 14, weight: .bold, design: .rounded))
+              .padding(.top, 3)
+            InlineMarkdownText(markdown: block.markdown, style: .title2)
+              .frame(maxWidth: .infinity, alignment: .leading)
+              .layoutPriority(1)
+          }
+          .padding(.top, 6)
+        case .h3:
+          HStack(alignment: .top, spacing: 10) {
+            RoundedRectangle(cornerRadius: 999, style: .continuous)
+              .fill(Theme.accent.opacity(0.75))
+              .frame(width: 5)
+              .frame(height: 18)
+              .padding(.top, 3)
+            InlineMarkdownText(markdown: block.markdown, style: .title3)
+              .frame(maxWidth: .infinity, alignment: .leading)
+              .layoutPriority(1)
+          }
+          .padding(.top, 4)
+        case .p:
+          InlineMarkdownText(markdown: block.markdown, style: .body)
+            .foregroundStyle(.primary.opacity(0.92))
+            .lineSpacing(4)
+        }
+      }
+    }
+    .frame(maxWidth: .infinity, alignment: .leading)
+    .padding(EdgeInsets(top: 14, leading: 14, bottom: 14, trailing: 14))
+    .background(
+      RoundedRectangle(cornerRadius: 18, style: .continuous)
+        .fill(Theme.accent.opacity(colorScheme == .dark ? 0.18 : 0.10))
+    )
+    .overlay(
+      RoundedRectangle(cornerRadius: 18, style: .continuous)
+        .strokeBorder(Theme.accent.opacity(colorScheme == .dark ? 0.30 : 0.18), lineWidth: 1)
+    )
+    .shadow(color: Color.black.opacity(colorScheme == .dark ? 0.22 : 0.08), radius: 10, x: 0, y: 6)
+  }
+}
+
+private struct BodyCard: View {
+  @Environment(\.colorScheme) private var colorScheme
+  let blocks: [TextBlock]
+
+  var body: some View {
+    VStack(alignment: .leading, spacing: 10) {
+      ForEach(Array(blocks.enumerated()), id: \.offset) { _, block in
+        switch block.type {
+        case .h1:
+          InlineMarkdownText(markdown: block.markdown, style: .title1)
+            .padding(.top, 2)
+        case .h2:
+          HStack(alignment: .top, spacing: 10) {
+            Image(systemName: "leaf.fill")
+              .foregroundStyle(Theme.accent)
+              .font(.system(size: 14, weight: .bold, design: .rounded))
+              .padding(.top, 3)
+            InlineMarkdownText(markdown: block.markdown, style: .title2)
+              .frame(maxWidth: .infinity, alignment: .leading)
+              .layoutPriority(1)
+          }
+          .padding(.top, 6)
+          .padding(.leading, 0)
+        case .h3:
+          HStack(alignment: .top, spacing: 10) {
+            RoundedRectangle(cornerRadius: 999, style: .continuous)
+              .fill(Theme.accent.opacity(0.75))
+              .frame(width: 5)
+              .frame(height: 18)
+              .padding(.top, 3)
+            InlineMarkdownText(markdown: block.markdown, style: .title3)
+              .frame(maxWidth: .infinity, alignment: .leading)
+              .layoutPriority(1)
+          }
+          .padding(.top, 4)
+          .padding(.leading, 0)
+        case .p:
+          InlineMarkdownText(markdown: block.markdown, style: .body)
+            .foregroundStyle(.primary.opacity(0.92))
+            .lineSpacing(4)
+        }
+      }
+    }
+    .frame(maxWidth: .infinity, alignment: .leading)
+    .padding(EdgeInsets(top: 10, leading: 12, bottom: 12, trailing: 12))
+    .background(
+      RoundedRectangle(cornerRadius: 18, style: .continuous)
+        .fill(Theme.cardBackground(colorScheme))
+    )
+    .overlay(
+      RoundedRectangle(cornerRadius: 18, style: .continuous)
+        .strokeBorder(Theme.accent.opacity(colorScheme == .dark ? 0.22 : 0.12), lineWidth: 1)
+    )
+    .shadow(color: Color.black.opacity(colorScheme == .dark ? 0.18 : 0.06), radius: 10, x: 0, y: 6)
   }
 }

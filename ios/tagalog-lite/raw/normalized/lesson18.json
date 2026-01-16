@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson18",
+  "title": "Lesson 18 – Tag Questions Di ba and No",
+  "vocabulary": [
+    {
+      "tagalog": "lamesa",
+      "english": "table",
+      "required": true,
+      "audioPath": "598b02eb-ecaf-4020-8dc9-e11c403f98d0"
+    },
+    {
+      "tagalog": "ilaw",
+      "english": "light (lamp)",
+      "required": true,
+      "audioPath": "57fc4b49-be48-4737-b70f-6977067ec83f"
+    },
+    {
+      "tagalog": "pintô",
+      "english": "door",
+      "required": true,
+      "audioPath": "16f51793-2c62-49d5-958f-90843c77f8aa"
+    },
+    {
+      "tagalog": "kalsada",
+      "english": "street",
+      "required": true,
+      "audioPath": "e4bbec80-f433-495e-82d0-c97991e0b87f"
+    },
+    {
+      "tagalog": "Inglés",
+      "english": "English (language)",
+      "required": true,
+      "audioPath": "478c5f9b-8cb1-4237-87cb-b72de9d459fd"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In English we often add tag-questions to the end of sentences, for example, the “isn’t it?” at the end of “That is Mary, isn’t it?” This is also very common in Tagalog, so let’s see how this is done."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Di ba with Positive Statements</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "With positive statements, just add _hindi ba _or its abbreviation _di ba _to the end. _Di ba_ is much more common, so we will use it from now on."
+    },
+    {
+      "type": "h2",
+      "markdown": "Positive statement, di ba? (Tag.) = Positive statement, right? (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro si Joe, di ba?",
+        "english": "Joe is a teacher, isn’t he?",
+        "required": true,
+        "audioPath": "72592556-9d4b-4a7e-8c52-d985562e1af6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mainit po ang kalsada, di po ba?",
+        "english": "The road is hot, isn’t it? (resp.) Notice there are two phrases, so po is needed twice.",
+        "required": true,
+        "audioPath": "89acdc1c-77bf-4b8e-b719-56fa8dffae51"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ito ang lamesa mo, di ba?",
+        "english": "This is your table, right?",
+        "required": true,
+        "audioPath": "a4ace9d7-9a1f-46dd-a775-9fcb53b73aca"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You have already learned how to answer these. Here are some samples."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Agreeing ans: Oo, guro si Joe.",
+        "english": "Yes, Joe is a teacher.",
+        "required": true,
+        "audioPath": "3d703ab7-1c15-4316-8de8-e11c9a28588f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Disagreeing ans: Hindi. Hindi guro si Joe.",
+        "english": "No. Joe is not a teacher.",
+        "required": true,
+        "audioPath": "e0b88491-77dc-4a57-a673-73a2927de17a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You can add _di ba_ to the beginning of a sentence and it is still considered to be a tag-question in Tagalog."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Di ba guro si Joe?",
+        "english": "Isn’t Joe a teacher?",
+        "required": true,
+        "audioPath": "7e1365a6-174e-4961-aff7-e201a733be35"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But it is more common to put it on the end, so we will do that from now on."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>No with Negative Statements</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "With negative statements, just add _ano _or its abbreviation _no _to the end. _No _is much more common, so we will use it from now on."
+    },
+    {
+      "type": "h2",
+      "markdown": "Negative statement, no? (Tag.) = Negative statement, right? (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi guro si Joe, no?",
+        "english": "Joe is not a teacher, is he?",
+        "required": true,
+        "audioPath": "e9a45c76-f807-443d-8507-cda534cc4034"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi mainit ang kalsada, no?",
+        "english": "The road is not hot, is it?",
+        "required": true,
+        "audioPath": "590ad458-93a6-4e2f-a49a-f843b2f632f8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ito ang lamesa mo, no?",
+        "english": "This is not your table, right?",
+        "required": true,
+        "audioPath": "029ec964-dfff-482b-bab7-ac56394e73f9"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Here are some sample answers:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Agreeing ans: Oo, hindi guro si Joe.",
+        "english": "Yes, Joe is not a teacher.",
+        "required": true,
+        "audioPath": "3acfa095-4800-4d72-b84b-5b68445b09ae"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Disagreeing ans: Hindi, guro si Joe.",
+        "english": "No, Joe is a teacher.",
+        "required": true,
+        "audioPath": "4b5af5ab-e203-4681-9e83-04bdd82d85b5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Unlike _di ba_, you cannot add _no _to the beginning of sentences to make tag questions."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Yun ang maganda nating lamesa, di ba?",
+      "english": "That is our (incl.) beautiful table, isn't it?",
+      "required": true,
+      "audioPath": "1178e1fd-f2bb-4f21-aa1a-6646e93432af"
+    },
+    {
+      "tagalog": "Hindi masaya si Joshua dito, no?",
+      "english": "Joshua is not happy here, is he?",
+      "required": true,
+      "audioPath": "fb48847b-c5a8-4145-ae8a-26b2a6b91c37"
+    },
+    {
+      "tagalog": "Mahilig ka sa maraming ilaw sa bahay, di ba?",
+      "english": "You like a lot of lights in the house, don't you?",
+      "required": true,
+      "audioPath": "1ac11e46-f2cf-4c0d-b05a-cd3b258471d7"
+    },
+    {
+      "tagalog": "Hindi kayo nag-alala nung ikaapat ng Abril, no?",
+      "english": "You (pl.) were not worried on the fourth of April, were you?",
+      "required": true,
+      "audioPath": "394acd65-2e4a-4c8a-b596-a6fce84f3611"
+    },
+    {
+      "tagalog": "Opo. Nag-aaral na po tayo ng Ingles, di po ba?",
+      "english": "Yes. We (incl.) are already studying English, aren't we? (resp.)",
+      "required": true,
+      "audioPath": "b20980db-b393-4ee3-8a10-746baf1c6c5b"
+    },
+    {
+      "tagalog": "Magbibigay siya ng pinto sa lalaki bukas, di ba?",
+      "english": "He will give a door to the man tomorrow, right?",
+      "required": true,
+      "audioPath": "bc99d3ef-c595-4d25-a51b-da7d04fae14e"
+    },
+    {
+      "tagalog": "Gusto ni Mark si Jessica, di ba?",
+      "english": "Mark likes Jessica, doesn't he?",
+      "required": true,
+      "audioPath": "217d3464-f4c6-4163-8ddd-5ee1f66e9818"
+    },
+    {
+      "tagalog": "Hindi sila nagbisikleta sa kalsada nung taong isang libo, siyam na raan at pito no?",
+      "english": "They did not bicycle in the street in the year 1907, right?",
+      "required": true,
+      "audioPath": "d43bb6b4-c532-4d3b-bf70-bef2e4bccc20"
+    },
+    {
+      "tagalog": "Oo. Maghahanap ka ng manok nang labinlimang segundo, hindi sampu, di ba?",
+      "english": "Yes. You will look for chickens for 15 seconds, not ten, right?",
+      "required": true,
+      "audioPath": "5ade980e-ac54-4e42-a845-787b5db3fb23"
+    },
+    {
+      "tagalog": "Hindi ako naglalagay ng basketbol sa lamesa, no?",
+      "english": "I am not putting a basketball on the table, am I?",
+      "required": true,
+      "audioPath": "57752141-5867-483b-937e-2488792ca58b"
+    }
+  ]
+}

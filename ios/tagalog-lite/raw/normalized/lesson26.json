@@ -1,0 +1,426 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson26",
+  "title": "Lesson 26 - Ano Ang Verb, Word Order, Verbs as Nouns 2",
+  "vocabulary": [
+    {
+      "tagalog": "aso",
+      "english": "dog",
+      "required": true,
+      "audioPath": "cebac04d-39ee-4c16-be00-3fcb62b9db7e"
+    },
+    {
+      "tagalog": "pusà",
+      "english": "cat",
+      "required": true,
+      "audioPath": "09c449f9-1a21-4e93-9822-171ac1433549"
+    },
+    {
+      "tagalog": "mabilis",
+      "english": "fast",
+      "required": true,
+      "audioPath": "1ceaa2ac-d822-435c-b2db-3febccbf4691"
+    },
+    {
+      "tagalog": "tindahan",
+      "english": "store",
+      "required": true,
+      "audioPath": "f9c16e1b-fc89-47f5-832b-c1484f3b4c55"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, we discuss word order in standard sentences. For a table of structure equations, which shows word order for all structures in this book, please see **Appendix L**. We also discuss _Ano ang _+ phrase, which gives us “what is he cooking” type constructions. Finally, we finish discussing using verbs as nouns."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Word Order</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "If you recall:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence = Verb + actor + object + X."
+    },
+    {
+      "type": "p",
+      "markdown": "The order of the three complements is generally flexible, but:"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Order may be determined by Enclitics </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The order can be fixed, and be forced to deviate from the default above, due to enclitics. You have seen this before, but here is a quick review for completeness."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan ni Mark si Maria.",
+        "english": "Mark kept an eye out for Maria. But:",
+        "required": true,
+        "audioPath": "2c3f342b-52bc-4bf8-86b6-2b2e686a8aa5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inabangan siya ni Mark.",
+        "english": "Mark kept an eye out for her.",
+        "required": true,
+        "audioPath": "34fe30e3-6a05-45de-a4f0-7067800ce95a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagluluto ako ng manok.",
+        "english": "I am cooking chicken. But:",
+        "required": true,
+        "audioPath": "04108b15-de33-42b7-8018-536a0bb1445f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ako nagluluto ng manok.",
+        "english": "I am not cooking chicken.",
+        "required": true,
+        "audioPath": "9a7a247f-6737-4529-a63e-b988a4db7d69"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hahayaan ng guro sina Joshua at Luis.",
+        "english": "The teacher will let Joshua and Luis be. But:",
+        "required": true,
+        "audioPath": "8e0b5b43-9929-42de-a08e-f5959a2444e0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hahayaan sila ng guro.",
+        "english": "The teacher will let them be.",
+        "required": true,
+        "audioPath": "36f69fc5-fdb4-49bd-b3e6-50d31bd75285"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Order may be determined by Ang/Ng/Sa Phrases</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The order of ang, ng or sa phrases can affect the meaning of a sentence, and therefore a specific order may be required to get the correct nuance. In theory, the combination of any two phrases could cause ambiguity or change the meaning, but most likely only the following two will require attention in real life."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Ang (common noun only) + Sa can cause Ambiguity**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Aabangan ni Maria ang pusa sa kalsada.",
+        "english": "Maria will watch out for the cat in the street or Maria will watch out for the street-cat. This is ambiguous, but:",
+        "required": true,
+        "audioPath": "a869d1a8-adc7-4ca3-a3b4-cd6bcfcc1fc8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Aabangan ni Maria sa kalsada ang pusa.",
+        "english": "Maria will watch out for the cat in the street. This is not ambiguous, because the sa + ang order is not ambiguous. Now let’s use a proper noun:",
+        "required": true,
+        "audioPath": "66f15b38-d2af-47ad-9259-4d4650fbfae8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Aabangan ni Maria si David sa kalsada.",
+        "english": "Maria will watch out for David in the street. This is not ambiguous, because “David in the street” does not really sound like a noun phrase. The ang + sa order is only ambiguous with common nouns.",
+        "required": true,
+        "audioPath": "057aaf6f-477f-42bb-83f3-9f7307baebb7"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You will see later that there are other situations where _ang + sa_ phrases do not cause ambiguity. We will not change the order unless it causes ambiguity, since most native speakers prefer this."
+    },
+    {
+      "type": "p",
+      "markdown": "In casual speech, one could optionally pause before the _sa _phrase during conversation to clarify. But in this book, we will change the order as required to avoid ambiguity."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Ang + Ng can Change the Meaning (non AF only)**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binuksan ni Joshua ang pinto.",
+        "english": "Joshua opened the door.",
+        "required": true,
+        "audioPath": "9bf99cf7-4769-4d8d-99b4-fe407d4a66ba"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is the standard sentence recommended order, and unambiguous. But because word order is flexible, here is a different order which has a very different meaning:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binuksan ang pinto ni Joshua.",
+        "english": "Joshua’s door opened.",
+        "required": true,
+        "audioPath": "02d9bb07-4e61-46c0-81f9-2b2f6953cdfc"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You can think of _ng _possessive phrases as being dominant; this sentence would almost never be interpreted as “Joshua opened the door”, so it is essentially unambiguous, but may not be what you want. So stick with the standard sentence order unless you actually want the other meaning. But the _ng _phrase dominance is rarely a problem in AF:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bumili ang bata ng aso.",
+        "english": "The kid bought a dog.",
+        "required": true,
+        "audioPath": "51576816-d585-4948-876e-7b80bebe93eb"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is the standard sentence recommended order, and even though it uses the ang + ng order, it would almost never be interpreted as “The dog’s kid bought (something)”. This is the case for most AF sentences, because AF actors are usually unable to hypothetically belong to their objects. So you only need to be careful about the ang + ng phrase order for non AF clauses."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ano ang Verb</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ano ang _verb sentences have a construction similar to _sino ang _verb sentences. But _ano _indicates we are asking about a thing, so only verbs that allow a thing to be their focus will work. Many -_an _verbs work, but only a few _mag_- and -_um_- verbs."
+    },
+    {
+      "type": "h2",
+      "markdown": "**Ano** + ang + Noun Clause? (Tag.) = What is sentence? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The host _ano _is for enclitic particles only. If there are pps in the noun clause, the verb is their host. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q1: Ano po ang tinitingnan mo?",
+        "english": "What are you looking at? (resp.)",
+        "required": true,
+        "audioPath": "afa7ca67-db35-4aea-b9e5-86014dcbf53e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q2: Ano ang lumaki sa bahay nila?",
+        "english": "What grew up in their house?",
+        "required": true,
+        "audioPath": "7c557ded-7a38-4ee0-8679-966048d9313f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q3: Ano ang sisimulan ni Luis bukas?",
+        "english": "What will Luis start tomorrow?",
+        "required": true,
+        "audioPath": "cb61d854-989b-4970-9d1f-f7b0772b86e5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Just like _sino ang _questions, they are answered:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Focus **+ ang + Noun Clause. (Tag.) = Focus is sentence. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The focus takes _ang _form and is the host for enclitic particles only. If there are pps in the noun clause, the verb is their host. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A1: Ang tindahan po ang tinitingnan ko.",
+        "english": "I am looking at the store. (resp.) Or you can shorten your answer:",
+        "required": true,
+        "audioPath": "9f26180e-be17-4f95-9780-4cf2dc77b536"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A2: Ang pusa.",
+        "english": "The cat. For the same reasons mentioned in the sino ang lesson, it is best not to use a standard sentence to answer these, and keep the focus up front:",
+        "required": true,
+        "audioPath": "fbd433bd-92fb-4d50-adb3-7160f3a59a16"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A3: Ito ang sisimulan ni Luis bukas.",
+        "english": "Luis will start this tomorrow.",
+        "required": true,
+        "audioPath": "137c752c-d843-41f0-b779-745f104c3f1d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "From this point on, we will only demonstrate one way to answer a given question in grammar explanations, since you have already learned alternate ways."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>More on using Verbs as Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You have already seen sentences of the type:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang kumakain ng lechon?",
+        "english": "Who is the one eating roasted pig?",
+        "required": true,
+        "audioPath": "d9d984ea-9506-4f71-87aa-d6f88df5d5c7"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Instead of the general “the **one **eating roasted pig” you can say something more specific, like “the **man **eating roasted pig”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang lalaking kumakain ng lechon?",
+        "english": "Who is the man eating roasted pig?",
+        "required": true,
+        "audioPath": "851e2338-cad6-4c20-b532-327c02652e29"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "All we did there was to add the noun and linker before the noun clause. When you think about it, it is as if we pulled the focus out of the sentence _kumakain ang lalaki ng lechon_. So let’s define:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Focus Noun Clause = Focus + Linker + Noun Clause"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: “Focus” here is the item in focus.**"
+    },
+    {
+      "type": "p",
+      "markdown": "You can make these out of any standard sentence, and they are very handy."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ito ang pangalan ng babaeng nag-alala sa anak niya.",
+        "english": "This is the name of the woman who worried about her child.",
+        "required": true,
+        "audioPath": "76837a9f-6347-4615-87aa-d61977083bcd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Subukan mo ito para sa basong tataniman.",
+        "english": "Try this for the glass to plant in.",
+        "required": true,
+        "audioPath": "e2365ce1-16d2-4917-88da-90b41606f042"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ang mga manggang tinitingnan natin.",
+        "english": "I want the mangoes we (incl.) are looking at.",
+        "required": true,
+        "audioPath": "642f0963-3ed9-42e4-b1dc-7a7ca2564581"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ano ang lumaki sa kalsada? Aso ba?",
+      "english": "What grew up in the streets? A dog?",
+      "required": true,
+      "audioPath": "774fe999-6f74-4200-b8cc-01e5bedb0ec1"
+    },
+    {
+      "tagalog": "Gusto ko ang pangalan ng estudyanteng pinuntahan ni Maria.",
+      "english": "I like the name of the student Maria went to (see).",
+      "required": true,
+      "audioPath": "db767868-825d-48e6-8795-05534d0ff96c"
+    },
+    {
+      "tagalog": "Ano ang kinakainan ng mabilis na puting pusa?",
+      "english": "What is the fast white cat eating from?",
+      "required": true,
+      "audioPath": "7cd82094-46a3-4737-9f3c-7390619b6ab9"
+    },
+    {
+      "tagalog": "Masaya ang babaeng kumakain sa tindahan.",
+      "english": "The woman eating in the store is happy.",
+      "required": true,
+      "audioPath": "15072fb4-4409-4bf5-b9c3-21e79a08f44f"
+    },
+    {
+      "tagalog": "Ano pa ang sisimulan ni Mrs. Castillo sa Biyernes?",
+      "english": "What else will Mrs. Castillo start on Friday?",
+      "required": true,
+      "audioPath": "319ebb1a-6d73-4066-815f-32eebc6a914b"
+    },
+    {
+      "tagalog": "Hindi ako kumuha ng asong umaakyat sa sasakyan natin.",
+      "english": "I did not take a dog that was climbing on our (excl.) car.",
+      "required": true,
+      "audioPath": "3cdadc1a-b3db-47ef-9d1f-6e5cc3392357"
+    },
+    {
+      "tagalog": "Ano ang nilagyan mo ng mangga para kay Angel?",
+      "english": "What did you put a mango in for Angel?",
+      "required": true,
+      "audioPath": "0a4ca8f4-1493-46e0-b583-150fce356e15"
+    },
+    {
+      "tagalog": "Mabilis din ang pusang pumunta kina Analyn at Diego.",
+      "english": "The cat that went to Analyn and Diego was fast too.",
+      "required": true,
+      "audioPath": "1bb7818d-38d0-42f2-8e75-004cd89895d0"
+    },
+    {
+      "tagalog": "Ano ang sinubukan nila sa tindahan?",
+      "english": "What did they try in the store?",
+      "required": true,
+      "audioPath": "6d810a90-662d-4b9e-bb84-1288bd1efe45"
+    },
+    {
+      "tagalog": "Ayaw ko sa lalaking umuwi sa kuwarto niya nang mga alas singko.",
+      "english": "I do not like the man who went home to his room around 5 o'clock.",
+      "required": true,
+      "audioPath": "6592990c-f403-42c2-85ee-595a8bfd7088"
+    }
+  ]
+}

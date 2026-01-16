@@ -2,15 +2,19 @@ import SwiftUI
 
 struct LessonListView: View {
   @EnvironmentObject private var store: LessonStore
+  @EnvironmentObject private var completion: LessonCompletionStore
+
+  @State private var path: [String] = []
 
   var body: some View {
-    NavigationStack {
+    NavigationStack(path: $path) {
       ZStack {
         Theme.pageGradient.ignoresSafeArea()
 
         ScrollView {
           VStack(alignment: .leading, spacing: 14) {
             header
+            progressCard
 
             if let err = store.loadError {
               Text("Couldn’t load lessons: \(err)")
@@ -33,12 +37,12 @@ struct LessonListView: View {
             } else {
               LazyVStack(spacing: 12) {
                 ForEach(store.lessons) { lesson in
-                  NavigationLink {
-                    LessonDetailView(lesson: lesson)
-                  } label: {
-                    LessonCard(lesson: lesson)
-                  }
-                  .buttonStyle(.plain)
+                  LessonRow(
+                    lesson: lesson,
+                    isCompleted: completion.isCompleted(lesson.id),
+                    onToggleCompleted: { completion.toggleCompleted(lesson.id) },
+                    onOpen: { path.append(lesson.id) }
+                  )
                 }
               }
               .padding(.top, 6)
@@ -49,53 +53,114 @@ struct LessonListView: View {
       }
       .navigationBarTitleDisplayMode(.inline)
       .onAppear { store.loadFromBundle() }
+      .navigationDestination(for: String.self) { lessonId in
+        if let lesson = store.lessons.first(where: { $0.id == lessonId }) {
+          LessonDetailView(lesson: lesson)
+        } else {
+          Text("Lesson not found.")
+            .font(.system(.body, design: .rounded))
+            .foregroundStyle(.secondary)
+            .padding(16)
+        }
+      }
     }
   }
 
   private var header: some View {
     VStack(alignment: .leading, spacing: 6) {
-      HStack(spacing: 10) {
-        Image(systemName: "leaf.fill")
-          .foregroundStyle(Theme.accent)
-          .font(.system(size: 22, weight: .heavy, design: .rounded))
-        Text("Tagalog Lite")
-          .font(.system(size: 28, weight: .heavy, design: .rounded))
-      }
-      Text("Grammar lessons, vocab, and sample sentences.")
-        .font(.system(.subheadline, design: .rounded))
+      Text("Tagalog Lessons")
+        .font(.system(size: 34, weight: .heavy, design: .rounded))
+        .foregroundStyle(.primary)
+      Text("Learn Tagalog grammar step by step")
+        .font(.system(.title3, design: .rounded).weight(.medium))
         .foregroundStyle(.secondary)
     }
-    .tropicalCard()
+  }
+
+  private var progressCard: some View {
+    let total = max(store.lessons.count, 1)
+    let done = store.lessons.reduce(0) { partial, lesson in
+      partial + (completion.isCompleted(lesson.id) ? 1 : 0)
+    }
+    let progress = CGFloat(done) / CGFloat(total)
+
+    return VStack(alignment: .leading, spacing: 10) {
+      HStack {
+        Text("Progress")
+          .font(.system(.headline, design: .rounded))
+          .foregroundStyle(.secondary)
+        Spacer()
+        Text("\(done)/\(total) lessons")
+          .font(.system(.headline, design: .rounded).weight(.bold))
+          .foregroundStyle(.primary)
+      }
+
+      GeometryReader { geo in
+        let w = max(0, min(1, progress)) * geo.size.width
+        ZStack(alignment: .leading) {
+          Capsule().fill(Color.black.opacity(0.06))
+          Capsule().fill(Theme.tropicalTeal).frame(width: w)
+        }
+      }
+      .frame(height: 12)
+    }
+    .padding(14)
+    .background(
+      RoundedRectangle(cornerRadius: 18, style: .continuous)
+        .fill(Color.white.opacity(0.85))
+    )
+    .overlay(
+      RoundedRectangle(cornerRadius: 18, style: .continuous)
+        .strokeBorder(Color.black.opacity(0.06), lineWidth: 1)
+    )
+    .shadow(color: Color.black.opacity(0.08), radius: 12, x: 0, y: 8)
   }
 }
 
-private struct LessonCard: View {
+private struct LessonRow: View {
   let lesson: Lesson
+  let isCompleted: Bool
+  let onToggleCompleted: () -> Void
+  let onOpen: () -> Void
 
   var body: some View {
     HStack(alignment: .center, spacing: 12) {
-      ZStack {
-        RoundedRectangle(cornerRadius: 14, style: .continuous)
-          .fill(Theme.accent.opacity(0.20))
-        VStack(spacing: 2) {
-          Text("Lesson")
-            .font(.system(size: 11, weight: .semibold, design: .rounded))
-            .foregroundStyle(.secondary)
-          Text(lesson.numericOrder.map(String.init) ?? "–")
-            .font(.system(size: 18, weight: .heavy, design: .rounded))
-            .foregroundStyle(Theme.deepLeaf)
+      Button(action: onToggleCompleted) {
+        ZStack {
+          Circle()
+            .fill(
+              isCompleted
+                ? Theme.deepLeaf
+                : Theme.tropicalTeal.opacity(0.12)
+            )
+          if isCompleted {
+            Image(systemName: "checkmark")
+              .font(.system(size: 18, weight: .heavy))
+              .foregroundStyle(.white)
+          } else {
+            Text(lesson.numericOrder.map(String.init) ?? "–")
+              .font(.system(size: 18, weight: .heavy, design: .rounded))
+              .foregroundStyle(Theme.tropicalTeal)
+          }
         }
-        .padding(.vertical, 6)
+        .frame(width: 48, height: 48)
+        .accessibilityLabel(isCompleted ? "Mark lesson incomplete" : "Mark lesson completed")
       }
-      .frame(width: 64, height: 56)
+      .buttonStyle(.plain)
 
-      VStack(alignment: .leading, spacing: 4) {
-        Text(lesson.title)
-          .font(.system(.headline, design: .rounded))
-          .foregroundStyle(.primary)
-          .multilineTextAlignment(.leading)
+      VStack(alignment: .leading, spacing: 6) {
+        Text(
+          lesson.title.replacingOccurrences(
+            of: lesson.numericOrder.map { "Lesson \($0) - " } ?? "",
+            with: ""
+          )
+        )
+        .font(.system(.title3, design: .rounded).weight(.heavy))
+        .foregroundStyle(.primary)
+        .multilineTextAlignment(.leading)
+        .lineLimit(nil)
 
-        Text("\(lesson.vocabulary.count) vocab • \(lesson.exampleSentences.count) examples")
+        Text("\(lesson.vocabulary.count) words  •  \(lesson.exampleSentences.count) sentences")
           .font(.system(.subheadline, design: .rounded))
           .foregroundStyle(.secondary)
       }
@@ -103,9 +168,21 @@ private struct LessonCard: View {
       Spacer(minLength: 8)
 
       Image(systemName: "chevron.right")
-        .foregroundStyle(Theme.accent)
-        .font(.system(size: 14, weight: .bold))
+        .foregroundStyle(.secondary)
+        .font(.system(size: 16, weight: .semibold))
     }
-    .tropicalCard()
+    .padding(16)
+    .background(
+      RoundedRectangle(cornerRadius: 22, style: .continuous)
+        .fill(isCompleted ? Theme.deepLeaf.opacity(0.10) : Color.white.opacity(0.92))
+    )
+    .overlay(
+      RoundedRectangle(cornerRadius: 22, style: .continuous)
+        .strokeBorder(
+          isCompleted ? Theme.deepLeaf.opacity(0.25) : Color.black.opacity(0.06), lineWidth: 1)
+    )
+    .shadow(color: Color.black.opacity(0.08), radius: 14, x: 0, y: 10)
+    .contentShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
+    .onTapGesture(perform: onOpen)
   }
 }

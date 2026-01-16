@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson25",
+  "title": "Lesson 25 – Sino Ang Verb, Verbs as Nouns 1",
+  "vocabulary": [
+    {
+      "tagalog": "lechón",
+      "english": "roasted pig",
+      "required": true,
+      "audioPath": "e1052491-7ef6-4707-9c1a-8c70e037b6d3"
+    },
+    {
+      "tagalog": "manggá",
+      "english": "mango",
+      "required": true,
+      "audioPath": "e88f3ca4-36d4-4880-9c7b-6e50320ea58e"
+    },
+    {
+      "tagalog": "pangalan",
+      "english": "name",
+      "required": true,
+      "audioPath": "b113abb9-3705-46ad-afd5-07cc5cdcb8e0"
+    },
+    {
+      "tagalog": "kuwarto",
+      "english": "room",
+      "required": true,
+      "audioPath": "773cef1c-e12b-4932-81fa-d1ddc57c5015"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, you will learn how to say “who is verbing”, be introduced to using verbs as nouns, and learn a bit more about enclitic particles."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sino Ang Verb</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You have learned to use _sino _with nouns in questions like this:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang guro?",
+        "english": "Who is the teacher?",
+        "required": true,
+        "audioPath": "2d93b1e7-b2f3-4a6c-a792-03d8cf25a551"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang lalaki?",
+        "english": "Who is the man?",
+        "required": true,
+        "audioPath": "1a68ead2-46a0-42ac-99ba-0558179ccdcd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang pangulo?",
+        "english": "Who is the president?",
+        "required": true,
+        "audioPath": "9157203d-663c-4600-87a7-c72bef117d1a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "The structure is:"
+    },
+    {
+      "type": "p",
+      "markdown": "Sino + ang + noun? (Tag) = Who is noun? (Eng)"
+    },
+    {
+      "type": "p",
+      "markdown": "This also works for verbs."
+    },
+    {
+      "type": "p",
+      "markdown": "Sino + ang + verb? (Tag) = Who is the one that verb? (Eng)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex1: Sino ang nagbigay?",
+        "english": "Who is the one that gave?",
+        "required": true,
+        "audioPath": "d2973fc5-5b5e-4b48-a844-a66492aa5c78"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex2: Sino ang kumakain?",
+        "english": "Who is the one eating?",
+        "required": true,
+        "audioPath": "abffc4ec-9b30-433e-83cc-3963c6ba4e1b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex3: Sino ang aabangan?",
+        "english": "Who is the one that will be watched out for?",
+        "required": true,
+        "audioPath": "4feac594-687a-4cdf-bf26-bfb7be94514f"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Sino _indicates we are asking about a person, and when you use a verb this way the meaning represents its focus, so only verbs that allow a person to be its focus will work. All _mag_- and -_um_- verbs work, but only some -_an _verbs."
+    },
+    {
+      "type": "p",
+      "markdown": "As mentioned in a previous lesson, noun phrases can normally be used anywhere a noun is used:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang guro?",
+        "english": "Who is the teacher?",
+        "required": true,
+        "audioPath": "fb6c3b14-8edb-42de-a6d0-d9b957e6562d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "We can replace _guro _with _mga magagandang gurong yun_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang mga magagandang gurong yun?",
+        "english": "Who are those pretty teachers?",
+        "required": true,
+        "audioPath": "be2ebf93-fe91-4e50-817c-16b4ae24a108"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This works for noun clauses too. A clause is a phrase that has a verb, so a noun clause is a phrase that has a verb that acts as, and can be substituted for, a noun. In this book, let’s define:"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Noun Clause = Standard Sentence with the Focus removed.**"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Sino **+ ang + Noun Clause? (Tag.) = Who is sentence? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The host _sino _is for enclitic particles only. If there are pps in the noun clause, the verb is their host. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q1: Sino po ang nagbigay ng mangga sa bata?",
+        "english": "Who is the one that gave a mango to the kid? = Who gave the kid a mango? (resp.) Notice how enclitic particle po follows sino.",
+        "required": true,
+        "audioPath": "1b48c872-6a4a-4b05-acc1-1c736168c2de"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q2: Sino ang kumakain ng lechon ngayon?",
+        "english": "Who is the one eating roasted pig now? = Who is eating roasted pig now?",
+        "required": true,
+        "audioPath": "67c5cd08-104e-4f2d-bca1-0cd647824c7f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q3: Sino ang aabangan mo sa kuwarto mo?",
+        "english": "Who is the one that you will watch out for in your room? = Who will you watch out for in your room? Notice how pp mo follows the verb.",
+        "required": true,
+        "audioPath": "7c4f0d7c-7497-4afd-afda-acb28d091788"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Compare with Ex1-3 above. Noun clauses are underlined. They are answered:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Focus **+ ang + Noun Clause. (Tag.) = Focus is sentence. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The focus takes _ang _form and is the host for enclitic particles only. If there are pps in the noun clause, the verb is their host. **"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A1: Si Luis po ang nagbigay ng mangga sa bata.",
+        "english": "Luis is the one who gave the kid a mango. (resp.) Notice that po goes after Si Luis. Or you can shorten your answer:",
+        "required": true,
+        "audioPath": "6a70bff2-668f-44fa-91a5-dd03ffe88dfd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A2: Si Maria.",
+        "english": "Maria. It is sometimes possible to answer these with a standard sentence:",
+        "required": true,
+        "audioPath": "f29f7786-4a2e-4741-ab7e-5bf36775520c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A3: Aabangan ko si Joe sa kuwarto ko.",
+        "english": "I will watch out for Joe in my room. But it is not recommended to get in the habit of answering sino ang questions like this because it does not work for focus sensitive particles:",
+        "required": true,
+        "audioPath": "3b9bbd35-20ac-4d17-b00b-c51a23d94cce"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q: Sino rin ang kumakain ng lechon?",
+        "english": "Who is also eating roasted pig? If I try this:",
+        "required": true,
+        "audioPath": "dd5d0e79-4007-4c5d-abf4-115f065e0079"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumakain din si Maria ng lechon.",
+        "english": "Maria is also eating roasted pig. Per Appendix J, din is focus sensitive, so this sentence cannot mean “Maria, in addition to others, is eating roasted pig”, so it is not a valid answer. You need to put the focus up front:",
+        "required": true,
+        "audioPath": "aca24a82-23b4-4d35-a957-08c8dfe8c1c3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A: Si Maria rin ang kumakain ng lechon.",
+        "english": "Maria is the one eating lechon. In this book we will always answer ang questions in this way.",
+        "required": true,
+        "audioPath": "4537c8c3-ed81-40e0-873c-ea241ee64945"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Introduction to using Verbs as Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There is a lot of overlap between verbs and nouns in Tagalog. As you have seen with _sino ang _phrases, verbs can sometimes be used as nouns. It is possible to use them in other structures, and with other noun markers (not just _ang_):"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ito ba ang pangalan ng nag-alala?",
+        "english": "Is this the name of the one who worried?",
+        "required": true,
+        "audioPath": "23e064bc-e707-4bcc-85e4-746a8ef41d5d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Subukan mo ito para sa tataniman ng puno.",
+        "english": "Try this for the place a tree will be planted.",
+        "required": true,
+        "audioPath": "bc9a679e-c996-4e52-a591-ee35c70d441e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ang mga tinitingnan natin araw-araw.",
+        "english": "I like the ones we look at every day.",
+        "required": true,
+        "audioPath": "0f8c77a2-e023-46ef-a325-21b1b71a495d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "As stated previously, when you use a verb this way the meaning represents its focus."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "para sa tataniman ng puno",
+        "english": "for the place a tree will be planted (DF), but:",
+        "required": true,
+        "audioPath": "e00e704a-5b5e-4f8e-921a-4db12412d766"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "para sa magtatanim ng puno",
+        "english": "for the one who will plant a tree (AF).",
+        "required": true,
+        "audioPath": "f850bce0-9a3c-4e2b-afef-d478f21f0370"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is not all – there will be more on using verbs as nouns in the next lesson."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sino pa ang kumakain ng lechon sa Nobyembre?",
+      "english": "Who still eats roasted pork in November?",
+      "required": true,
+      "audioPath": "3b6b15eb-b063-4ea7-97b9-2f8de424cf18"
+    },
+    {
+      "tagalog": "Ayaw ni Joshua sa mga kumukuha ng mangga dun.",
+      "english": "Joshua hates the ones who get mangoes over there.",
+      "required": true,
+      "audioPath": "ffd2c152-8397-4d86-8657-a823be9d32e8"
+    },
+    {
+      "tagalog": "Sino rin ang nagsabi ng pangalan?",
+      "english": "Who also said a name?",
+      "required": true,
+      "audioPath": "47f53f5a-2fbb-425e-8123-bab4760d5230"
+    },
+    {
+      "tagalog": "Tinitingnan lang ng umaakyat ang puno ko.",
+      "english": "The one who climbs is just looking at my tree.",
+      "required": true,
+      "audioPath": "7caa4ac8-3338-438e-91ee-428918b63552"
+    },
+    {
+      "tagalog": "Sino ang pupuntahan mo sa kuwarto niya?",
+      "english": "Who will you go to see in her room?",
+      "required": true,
+      "audioPath": "eb48ddbc-f008-49ac-ab3b-9a919f2bd3f0"
+    },
+    {
+      "tagalog": "Gumawa naman si Angel ng lechon para sa sumasakay ng bus.",
+      "english": "In contrast, Angel made roasted pig for those riding a bus.",
+      "required": true,
+      "audioPath": "9a4e1ac9-e91c-47f2-828a-c95c9f0b1b80"
+    },
+    {
+      "tagalog": "Sino ang bibili ng mangga para sa amin?",
+      "english": "Who will buy mangoes for us (excl.)?",
+      "required": true,
+      "audioPath": "1ff4fb4d-dbf5-42f3-9116-f0c8ee608c7e"
+    },
+    {
+      "tagalog": "Hindi ako ang sinabihan niya ng pangalan.",
+      "english": "I am not the one who he told a name to.",
+      "required": true,
+      "audioPath": "54f54a3a-0ae1-42b4-a172-68fe944a44de"
+    },
+    {
+      "tagalog": "Sino ang umalis sa kuwarto ni Jessica?",
+      "english": "Who left Jessica's room?",
+      "required": true,
+      "audioPath": "ea788f3d-130d-488d-88da-9547cfab6da0"
+    },
+    {
+      "tagalog": "Ito ang hinayaan natin nang sampung segundo.",
+      "english": "This is what we (incl.) allowed for 10 seconds.",
+      "required": true,
+      "audioPath": "48a3a953-a12f-4ad9-9f2e-cc4013fc1120"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson24",
+  "title": "Lesson 24 - Um-verbs; Uncompleted & Contemplated",
+  "vocabulary": [
+    {
+      "tagalog": "gumawâ",
+      "english": "to do/make; did/made (AF(DO))",
+      "required": true,
+      "audioPath": "b3cc2491-0ca1-4358-9d42-d22064d14f32"
+    },
+    {
+      "tagalog": "kumuha",
+      "english": "to get/take; got/took (AF(DO))",
+      "required": true,
+      "audioPath": "61d57a68-30a5-4bb1-8b37-97a827b806e4"
+    },
+    {
+      "tagalog": "bumilí",
+      "english": "to buy; bought (AF(DO))",
+      "required": true,
+      "audioPath": "67c79c30-0327-4280-9240-e8cf051ee76e"
+    },
+    {
+      "tagalog": "umuwî",
+      "english": "to go home; went home (AF(D))",
+      "required": true,
+      "audioPath": "4cc226b5-46ad-4ce8-a23d-e62a5084888d"
+    },
+    {
+      "tagalog": "umalís",
+      "english": "to leave; left (AF(O))",
+      "required": true,
+      "audioPath": "45e41011-81d0-41ab-91d0-8377e79f21c7"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In the previous lesson, we covered the infinitive and completed aspect of -_um_- verbs, which happens to be the same. Now we will cover the other aspects."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Uncompleted Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add the first two syllables of the infinitive to the root (see _mag_- verbs for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "gumawâ",
+        "english": "> guma + gawâ = gumágawâ",
+        "required": true,
+        "audioPath": "c2cc8951-0f48-49d5-ba84-66bd8b0b7a6f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kumuha",
+        "english": "> kumu + kuha = kumukuha",
+        "required": true,
+        "audioPath": "db3580e9-90d3-41ca-9c17-5999b1c360fe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "bumilí",
+        "english": "> bumi + bilí = bumíbilí",
+        "required": true,
+        "audioPath": "d318caea-0bd1-424b-b2c8-75caf196ae59"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Contemplated Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add the first syllable of the root to the root (see _mag_- verbs for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ga + gawâ",
+        "english": "gágawâ",
+        "required": true,
+        "audioPath": "5c5a9370-4d4b-4eec-880f-f4a48eb6ff57"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ku + kuha",
+        "english": "kukuha",
+        "required": true,
+        "audioPath": "f7be1371-191b-46fe-a391-92996e04c664"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "bi + bilí",
+        "english": "bíbilí",
+        "required": true,
+        "audioPath": "efb2de4e-e80a-4e6f-b916-8b2996fc655b"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence Examples</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gagawa sila ng adobo.",
+        "english": "They will make adobo.",
+        "required": true,
+        "audioPath": "9c1b7efc-4d9d-4828-b80c-4a169d38e612"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumukuha si David ng pera.",
+        "english": "David is getting money.",
+        "required": true,
+        "audioPath": "84137a17-540f-45fa-9eea-738b41bd1a1a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ako bibili ng sasakyan para sa iyo.",
+        "english": "I will not buy a car for you.",
+        "required": true,
+        "audioPath": "9bc10f39-db77-4e65-b376-a76ef53493b2"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Gumagawa pa si Jessica ng adobo para kina Mark at Joshua.",
+      "english": "Jessica is still making adobo for Mark and Joshua.",
+      "required": true,
+      "audioPath": "a021fc51-5a91-4f72-b546-f66db97bc54c"
+    },
+    {
+      "tagalog": "Kumukuha siya ng petsa para sa atin.",
+      "english": "She is getting a (calendar) date for us (incl.).",
+      "required": true,
+      "audioPath": "24e74e23-70ff-492a-85e3-2808d0ec03fd"
+    },
+    {
+      "tagalog": "Hindi po bibili si David ng mga baso bukas.",
+      "english": "David will not buy (drinking) glasses tomorrow. (resp.)",
+      "required": true,
+      "audioPath": "facea721-c2ff-40e5-b7f9-88f237d3db64"
+    },
+    {
+      "tagalog": "Uuwi sila sa Pilipinas sa ikasampu ng Hulyo.",
+      "english": "They will go home to the Philippines on the 10th of July.",
+      "required": true,
+      "audioPath": "cb45bd8d-acc1-4971-bf90-c4d365415b82"
+    },
+    {
+      "tagalog": "Hindi pa umaalis ang pagod na guro.",
+      "english": "The tired teacher is not leaving yet.",
+      "required": true,
+      "audioPath": "a4b320d5-4c54-4325-ac3d-bf7c36c4adb3"
+    },
+    {
+      "tagalog": "Gagawa ka rin ba ng sasakyan sa Seattle?",
+      "english": "Will you also make cars in Seattle?",
+      "required": true,
+      "audioPath": "43e8388d-cab5-4968-9d4d-24def5046c87"
+    },
+    {
+      "tagalog": "Kukuha si Maria ng tubig para sa inyo sa umaga.",
+      "english": "Maria will get water for you (pl.) in the morning.",
+      "required": true,
+      "audioPath": "a3ef8b95-8054-4e91-a37d-219bc4b7add0"
+    },
+    {
+      "tagalog": "Bumibili lang kami ng apat na bisikleta bawat araw.",
+      "english": "We (excl.) only buy four bicycles per day.",
+      "required": true,
+      "audioPath": "ef2da098-f325-4a50-8101-75a5e6542908"
+    },
+    {
+      "tagalog": "Umuuwi na sila, no?",
+      "english": "They are already going home, aren't they?",
+      "required": true,
+      "audioPath": "dd4b8857-067d-4203-a084-84a4fc610784"
+    },
+    {
+      "tagalog": "Aalis naman si Joe sa Agosto.",
+      "english": "Joe will leave in August. (contrast)",
+      "required": true,
+      "audioPath": "a8ae35e2-f01b-4cdf-8e69-d52594c87711"
+    }
+  ]
+}
