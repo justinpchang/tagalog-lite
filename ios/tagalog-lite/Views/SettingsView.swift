@@ -25,6 +25,12 @@ enum AppTheme: String, CaseIterable, Identifiable {
 
 struct SettingsView: View {
     @AppStorage("appTheme") private var appThemeRaw: String = AppTheme.system.rawValue
+    @AppStorage("srsDailyNewLimit") private var srsDailyNewLimit: Int = 20
+    @AppStorage("srsDailyReviewLimit") private var srsDailyReviewLimit: Int = 200
+    @AppStorage("srsAllowReviewAhead") private var srsAllowReviewAhead: Bool = false
+  @EnvironmentObject private var srs: SRSStateStore
+
+  @State private var showResetSrsConfirm: Bool = false
 
     private var selectedTheme: Binding<AppTheme> {
         Binding(
@@ -46,6 +52,44 @@ struct SettingsView: View {
                             }
                         }
                         .pickerStyle(.segmented)
+                    }
+
+                    Section("SRS") {
+                        Stepper(value: $srsDailyNewLimit, in: 0...200, step: 5) {
+                            HStack {
+                                Text("Daily new limit")
+                                Spacer()
+                                Text("\(srsDailyNewLimit)")
+                                    .foregroundStyle(.secondary)
+                            }
+                        }
+
+                        Stepper(value: $srsDailyReviewLimit, in: 0...1000, step: 10) {
+                            HStack {
+                                Text("Daily review limit")
+                                Spacer()
+                                Text("\(srsDailyReviewLimit)")
+                                    .foregroundStyle(.secondary)
+                            }
+                        }
+
+                        Toggle("Allow review ahead", isOn: $srsAllowReviewAhead)
+                    }
+
+                    Section("Danger Zone") {
+                        Button(role: .destructive) {
+                            showResetSrsConfirm = true
+                        } label: {
+                            Text("Reset flashcard progress")
+                        }
+                        .alert("Reset flashcard progress?", isPresented: $showResetSrsConfirm) {
+                            Button("Cancel", role: .cancel) {}
+                            Button("Reset", role: .destructive) {
+                                srs.removeAll()
+                            }
+                        } message: {
+                            Text("This will delete all SRS scheduling data on this device. This cannot be undone.")
+                        }
                     }
 
                     Section("Credits") {

@@ -12,6 +12,7 @@ struct tagalog_liteApp: App {
     @StateObject private var store = LessonStore()
     @StateObject private var audio = AudioPlayerManager()
     @StateObject private var completion = LessonCompletionStore()
+    @StateObject private var srs = SRSStateStore()
     @AppStorage("appTheme") private var appThemeRaw: String = AppTheme.system.rawValue
 
     var body: some Scene {
@@ -20,6 +21,7 @@ struct tagalog_liteApp: App {
                 .environmentObject(store)
                 .environmentObject(audio)
                 .environmentObject(completion)
+                .environmentObject(srs)
                 .preferredColorScheme((AppTheme(rawValue: appThemeRaw) ?? .system).colorScheme)
         }
     }

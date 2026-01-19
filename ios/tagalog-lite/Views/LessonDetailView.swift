@@ -2,6 +2,7 @@ import SwiftUI
 
 struct LessonDetailView: View {
   @Environment(\.dismiss) private var dismiss
+  @Environment(\.colorScheme) private var colorScheme
 
   let lesson: Lesson
 
@@ -75,10 +76,15 @@ struct LessonDetailView: View {
 
         VStack(alignment: .leading, spacing: 4) {
           Text(
-            lesson.title.replacingOccurrences(
-              of: lesson.numericOrder.map { "Lesson \($0) - " } ?? "",
-              with: ""
-            )
+            lesson.title
+              .replacingOccurrences(
+                of: lesson.numericOrder.map { "Lesson \($0) - " } ?? "",
+                with: ""
+              )
+              .replacingOccurrences(
+                of: lesson.numericOrder.map { "Lesson \($0) – " } ?? "",
+                with: ""
+              )
           )
           .font(.system(size: 22, weight: .heavy, design: .rounded))
           .foregroundStyle(.primary)
@@ -104,13 +110,14 @@ struct LessonDetailView: View {
     .padding(.vertical, 8)
     .padding(.bottom, 10)
     .background(
-      Color.white
+      Theme.cardBackground(colorScheme)
         .ignoresSafeArea(edges: .top)
     )
   }
 }
 
 private struct VisibilityPill: View {
+  @Environment(\.colorScheme) private var colorScheme
   let title: String
   @Binding var isOn: Bool
 
@@ -128,20 +135,30 @@ private struct VisibilityPill: View {
       .padding(.vertical, 9)
       .background(
         RoundedRectangle(cornerRadius: 14, style: .continuous)
-          .fill(isOn ? Theme.tropicalTeal.opacity(0.14) : Color.white.opacity(0.85))
+          .fill(
+            isOn
+              ? Theme.tropicalTeal.opacity(colorScheme == .dark ? 0.22 : 0.14)
+              : Theme.cardBackground(colorScheme)
+          )
       )
       .overlay(
         RoundedRectangle(cornerRadius: 14, style: .continuous)
           .strokeBorder(
-            isOn ? Theme.tropicalTeal.opacity(0.22) : Color.black.opacity(0.06), lineWidth: 1)
+            isOn
+              ? Theme.tropicalTeal.opacity(colorScheme == .dark ? 0.35 : 0.22)
+              : (colorScheme == .dark ? Color.white.opacity(0.10) : Color.black.opacity(0.06)),
+            lineWidth: 1
+          )
       )
-      .shadow(color: Color.black.opacity(0.06), radius: 10, x: 0, y: 6)
+      .shadow(
+        color: Color.black.opacity(colorScheme == .dark ? 0.22 : 0.06), radius: 10, x: 0, y: 6)
     }
     .buttonStyle(.plain)
   }
 }
 
 private struct BilingualRevealCard: View {
+  @Environment(\.colorScheme) private var colorScheme
   let tagalog: String
   let english: String
   let audioKey: String?
@@ -199,13 +216,15 @@ private struct BilingualRevealCard: View {
     .padding(10)  // less padding for a smaller card
     .background(
       RoundedRectangle(cornerRadius: 14, style: .continuous)  // smaller corner radius
-        .fill(Color.white.opacity(0.92))
+        .fill(Theme.cardBackground(colorScheme))
     )
     .overlay(
       RoundedRectangle(cornerRadius: 14, style: .continuous)
-        .strokeBorder(Color.black.opacity(0.06), lineWidth: 1)
+        .strokeBorder(
+          colorScheme == .dark ? Color.white.opacity(0.10) : Color.black.opacity(0.06), lineWidth: 1
+        )
     )
-    .shadow(color: Color.black.opacity(0.06), radius: 8, x: 0, y: 5)  // smaller shadow
+    .shadow(color: Color.black.opacity(colorScheme == .dark ? 0.20 : 0.06), radius: 8, x: 0, y: 5)  // smaller shadow
     .contentShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
     .gesture(
       TapGesture().onEnded {
@@ -219,6 +238,7 @@ private struct BilingualRevealCard: View {
 
 private struct SpeakerButton: View {
   @EnvironmentObject private var audio: AudioPlayerManager
+  @Environment(\.colorScheme) private var colorScheme
   let audioKey: String
 
   @State private var showError = false
@@ -238,11 +258,13 @@ private struct SpeakerButton: View {
     } label: {
       ZStack {
         Circle()
-          .fill(isActive ? Theme.tropicalTeal : Color.white.opacity(0.95))
+          .fill(isActive ? Theme.tropicalTeal : Theme.cardBackground(colorScheme))
           .overlay(
             Circle()
               .strokeBorder(
-                isActive ? Theme.tropicalTeal.opacity(0.35) : Color.black.opacity(0.10),
+                isActive
+                  ? Theme.tropicalTeal.opacity(colorScheme == .dark ? 0.45 : 0.35)
+                  : (colorScheme == .dark ? Color.white.opacity(0.14) : Color.black.opacity(0.10)),
                 lineWidth: 1
               )
           )

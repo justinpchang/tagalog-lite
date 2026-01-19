@@ -3,6 +3,7 @@ import SwiftUI
 struct LessonListView: View {
   @EnvironmentObject private var store: LessonStore
   @EnvironmentObject private var completion: LessonCompletionStore
+  @Environment(\.colorScheme) private var colorScheme
 
   @State private var path: [String] = []
 
@@ -98,7 +99,8 @@ struct LessonListView: View {
       GeometryReader { geo in
         let w = max(0, min(1, progress)) * geo.size.width
         ZStack(alignment: .leading) {
-          Capsule().fill(Color.black.opacity(0.06))
+          Capsule().fill(
+            colorScheme == .dark ? Color.white.opacity(0.10) : Color.black.opacity(0.06))
           Capsule().fill(Theme.tropicalTeal).frame(width: w)
         }
       }
@@ -107,17 +109,20 @@ struct LessonListView: View {
     .padding(14)
     .background(
       RoundedRectangle(cornerRadius: 18, style: .continuous)
-        .fill(Color.white.opacity(0.85))
+        .fill(Theme.cardBackground(colorScheme))
     )
     .overlay(
       RoundedRectangle(cornerRadius: 18, style: .continuous)
-        .strokeBorder(Color.black.opacity(0.06), lineWidth: 1)
+        .strokeBorder(
+          colorScheme == .dark ? Color.white.opacity(0.10) : Color.black.opacity(0.06), lineWidth: 1
+        )
     )
-    .shadow(color: Color.black.opacity(0.08), radius: 12, x: 0, y: 8)
+    .shadow(color: Color.black.opacity(colorScheme == .dark ? 0.22 : 0.08), radius: 12, x: 0, y: 8)
   }
 }
 
 private struct LessonRow: View {
+  @Environment(\.colorScheme) private var colorScheme
   let lesson: Lesson
   let isCompleted: Bool
   let onToggleCompleted: () -> Void
@@ -150,10 +155,16 @@ private struct LessonRow: View {
 
       VStack(alignment: .leading, spacing: 6) {
         Text(
-          lesson.title.replacingOccurrences(
-            of: lesson.numericOrder.map { "Lesson \($0) - " } ?? "",
-            with: ""
-          )
+          // Remove either "Lesson N - " or "Lesson N – " (with or without en/em dash)
+          lesson.title
+            .replacingOccurrences(
+              of: lesson.numericOrder.map { "Lesson \($0) - " } ?? "",
+              with: ""
+            )
+            .replacingOccurrences(
+              of: lesson.numericOrder.map { "Lesson \($0) – " } ?? "",
+              with: ""
+            )
         )
         .font(.system(.title3, design: .rounded).weight(.heavy))
         .foregroundStyle(.primary)
@@ -174,14 +185,22 @@ private struct LessonRow: View {
     .padding(16)
     .background(
       RoundedRectangle(cornerRadius: 22, style: .continuous)
-        .fill(isCompleted ? Theme.deepLeaf.opacity(0.10) : Color.white.opacity(0.92))
+        .fill(
+          isCompleted
+            ? Theme.deepLeaf.opacity(colorScheme == .dark ? 0.18 : 0.10)
+            : Theme.cardBackground(colorScheme)
+        )
     )
     .overlay(
       RoundedRectangle(cornerRadius: 22, style: .continuous)
         .strokeBorder(
-          isCompleted ? Theme.deepLeaf.opacity(0.25) : Color.black.opacity(0.06), lineWidth: 1)
+          isCompleted
+            ? Theme.deepLeaf.opacity(colorScheme == .dark ? 0.40 : 0.25)
+            : (colorScheme == .dark ? Color.white.opacity(0.10) : Color.black.opacity(0.06)),
+          lineWidth: 1
+        )
     )
-    .shadow(color: Color.black.opacity(0.08), radius: 14, x: 0, y: 10)
+    .shadow(color: Color.black.opacity(colorScheme == .dark ? 0.22 : 0.08), radius: 14, x: 0, y: 10)
     .contentShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
     .onTapGesture(perform: onOpen)
   }
