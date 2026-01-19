@@ -25,7 +25,7 @@
   "contents": [
     {
       "type": "p",
-      "markdown": "_May _and _meron _roughly mean “have” or “exist”. These are negated with _wala_, which roughly means not have or not exist. Anything you can express with may you can also express with meron, but they use different grammar. _Wala _uses the same grammar as meron. If you do not know them, or need a refresher, please go to **Appendix A** and memorize _sa _form noun markers."
+      "markdown": "_May_ and _meron_ roughly mean “have” or “exist”. These are negated with _wala_, which roughly means not have or not exist. Anything you can express with may you can also express with meron, but they use different grammar. _Wala_ uses the same grammar as meron. If you do not know them, or need a refresher, please go to **Appendix A** and memorize _sa_ form noun markers."
     },
     {
       "type": "h3",
@@ -33,15 +33,15 @@
     },
     {
       "type": "p",
-      "markdown": "_May _means “have” or “exist” and is more common than its short form _me_, so we will use only may from now on. It needs to come immediately before an object."
+      "markdown": "_May_ means “have” or “exist” and is more common than its short form _me_, so we will use only may from now on. It needs to come immediately before an object."
     },
     {
       "type": "h2",
-      "markdown": "May + **object **+ possessor/location. (Tag.) = Possessor has object/There is object in location. (Eng.)"
+      "markdown": "May + \\*\\*object\\*\\*+ possessor/location. (Tag.) = Possessor has object/There is object in location. (Eng.)"
     },
     {
       "type": "h3",
-      "markdown": "**Notes: Possessor takes _ang _form, location takes _sa _form.**"
+      "markdown": "**Notes: Possessor takes _ang_ form, location takes _sa_ form.**"
     },
     {
       "type": "sentence",
@@ -107,15 +107,15 @@
     },
     {
       "type": "p",
-      "markdown": "_Meron _means “have” or “exist” and is more common than its long form _mayroon_, so we will use only _meron _from now on. Unlike _may_, it does not need to come immediately before an object."
+      "markdown": "_Meron_ means “have” or “exist” and is more common than its long form _mayroon_, so we will use only _meron_ from now on. Unlike _may_, it does not need to come immediately before an object."
     },
     {
       "type": "h2",
-      "markdown": "**Meron **+ linker + object + possessor/location. (Tag.) = Possessor has object/There is object in location. (Eng.)"
+      "markdown": "\\*\\*Meron\\*\\*+ linker + object + possessor/location. (Tag.) = Possessor has object/There is object in location. (Eng.)"
     },
     {
       "type": "h3",
-      "markdown": "**Notes: Possessor takes _ang _form, location takes _sa _form.**"
+      "markdown": "**Notes: Possessor takes _ang_ form, location takes _sa_ form.**"
     },
     {
       "type": "sentence",
@@ -190,7 +190,7 @@
     },
     {
       "type": "p",
-      "markdown": "However, you cannot just state _may_, because _may _requires an object. That is a major difference between _meron _and _may_."
+      "markdown": "However, you cannot just state _may_, because _may_ requires an object. That is a major difference between _meron_ and _may_."
     },
     {
       "type": "h3",
@@ -198,15 +198,15 @@
     },
     {
       "type": "p",
-      "markdown": "_Wala _means “not have” or “not exist”, and is used to give negative statements or negative answers to _may/meron _questions. _Wala _uses the same grammar as _meron _and it does not need to come before an object."
+      "markdown": "_Wala_ means “not have” or “not exist”, and is used to give negative statements or negative answers to _may/meron_ questions. _Wala_ uses the same grammar as _meron_ and it does not need to come before an object."
     },
     {
       "type": "h2",
-      "markdown": "**Wala **+ linker + object + possessor/location. (Tag.) = Possessor does not have object/There is no object in location. (Eng.)"
+      "markdown": "\\*\\*Wala\\*\\*+ linker + object + possessor/location. (Tag.) = Possessor does not have object/There is no object in location. (Eng.)"
     },
     {
       "type": "h3",
-      "markdown": "**Notes: Possessor takes _ang _form, location takes _sa _form.**"
+      "markdown": "**Notes: Possessor takes _ang_ form, location takes _sa_ form.**"
     },
     {
       "type": "sentence",
@@ -254,7 +254,7 @@
     },
     {
       "type": "p",
-      "markdown": "If you put _ang _before _may/walang _it means roughly “the one who has/does not have”. _Ang merong_ also works, but it is less common, so we will not use it."
+      "markdown": "If you put _ang_ before _may/walang_ it means roughly “the one who has/does not have”. _Ang merong_ also works, but it is less common, so we will not use it."
     },
     {
       "type": "h2",
@@ -293,7 +293,7 @@
     },
     {
       "type": "p",
-      "markdown": "The _sa _form of a name or personal pronoun often implies “to someone”. But it can also mean “with someone”, and in the case of plural names or pps, “at someone’s place”, depending on the context."
+      "markdown": "The _sa_ form of a name or personal pronoun often implies “to someone”. But it can also mean “with someone”, and in the case of plural names or pps, “at someone’s place”, depending on the context."
     },
     {
       "type": "sentence",

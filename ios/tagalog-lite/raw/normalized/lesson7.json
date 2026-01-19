@@ -55,7 +55,7 @@
     },
     {
       "type": "h2",
-      "markdown": "Q: **Predicate **+ ba + subject? (Tag.) = Is subject predicate? (Eng.)"
+      "markdown": "Q: \\*\\*Predicate\\*\\*+ ba + subject? (Tag.) = Is subject predicate? (Eng.)"
     },
     {
       "type": "h3",
@@ -94,11 +94,11 @@
     },
     {
       "type": "h2",
-      "markdown": "A: Oo, **predicate **+ subject. (Tag.) = Yes, subject is predicate. (Eng.)"
+      "markdown": "A: Oo, \\*\\*predicate\\*\\*+ subject. (Tag.) = Yes, subject is predicate. (Eng.)"
     },
     {
       "type": "h3",
-      "markdown": "**Note: Subject takes _ang _form.**"
+      "markdown": "**Note: Subject takes _ang_ form.**"
     },
     {
       "type": "sentence",
@@ -133,7 +133,7 @@
     },
     {
       "type": "p",
-      "markdown": "You can insert _ba _after a question word to add emphasis:"
+      "markdown": "You can insert _ba_ after a question word to add emphasis:"
     },
     {
       "type": "sentence",
@@ -176,7 +176,7 @@
     },
     {
       "type": "h2",
-      "markdown": "**Hindi **+ sentence. (Tag.) = Negated sentence. (Eng.)"
+      "markdown": "\\*\\*Hindi\\*\\*+ sentence. (Tag.) = Negated sentence. (Eng.)"
     },
     {
       "type": "sentence",
@@ -211,15 +211,15 @@
     },
     {
       "type": "p",
-      "markdown": "You can make a sentence more respectful by using the particle _po _or _ho_. _Po _is more respectful and much more common, so we will not use _ho _from now on. Here is how to use it with some of the _ba _questions above:"
+      "markdown": "You can make a sentence more respectful by using the particle _po_ or _ho_._ Po _is more respectful and much more common, so we will not use_ ho_ from now on. Here is how to use it with some of the _ba_ questions above:"
     },
     {
       "type": "h2",
-      "markdown": "Q: **Predicate **+ po + ba + subject? (Tag.) = Is subject predicate? (resp.) (Eng.)"
+      "markdown": "Q: \\*\\*Predicate\\*\\*+ po + ba + subject? (Tag.) = Is subject predicate? (resp.) (Eng.)"
     },
     {
       "type": "p",
-      "markdown": "Note: Subject takes _ang _form."
+      "markdown": "Note: Subject takes _ang_ form."
     },
     {
       "type": "sentence",
@@ -241,7 +241,7 @@
     },
     {
       "type": "p",
-      "markdown": "When you use _po _you must also use the respectful form of “you”, which is the same as the plural form:"
+      "markdown": "When you use _po_ you must also use the respectful form of “you”, which is the same as the plural form:"
     },
     {
       "type": "sentence",
@@ -289,7 +289,7 @@
     },
     {
       "type": "p",
-      "markdown": "An enclitic is a word that must follow a certain word in the phrase. The word it follows is called the “host”. _Ba _and _po _are enclitic particles. In the examples above, they follow the predicate, meaning the predicate is the host. But in _hindi _phrases, _hindi _is the host:"
+      "markdown": "An enclitic is a word that must follow a certain word in the phrase. The word it follows is called the “host”. _Ba_ and _po_ are enclitic particles. In the examples above, they follow the predicate, meaning the predicate is the host. But in _hindi_ phrases, _hindi_ is the host:"
     },
     {
       "type": "sentence",
@@ -320,7 +320,7 @@
     },
     {
       "type": "p",
-      "markdown": "Enclitics are either a) enclitic particles or b) _ang _or _ng _form personal pronouns (excluding _ikaw_). When more than one enclitic appears in a phrase, they form a group after the host which we will call the “enclitic cluster”. Hosts and enclitic clusters are pronounced together as one word. Personal pronouns normally come after enclitic particles in the enclitic cluster:"
+      "markdown": "Enclitics are either a) enclitic particles or b) _ang_ or _ng_ form personal pronouns (excluding _ikaw_). When more than one enclitic appears in a phrase, they form a group after the host which we will call the “enclitic cluster”. Hosts and enclitic clusters are pronounced together as one word. Personal pronouns normally come after enclitic particles in the enclitic cluster:"
     },
     {
       "type": "sentence",
@@ -382,7 +382,7 @@
     },
     {
       "type": "p",
-      "markdown": "Notice that _hindi po ba _is pronounced _hindipoba_, and _hindi ka ba _is pronounced _hindikaba_."
+      "markdown": "Notice that _hindi po ba_ is pronounced _hindipoba_, and _hindi ka ba_ is pronounced _hindikaba_."
     },
     {
       "type": "h2",
@@ -390,11 +390,11 @@
     },
     {
       "type": "h3",
-      "markdown": "**Notes: _Po _always comes before _ba_. The hosts are BOLD in the Structure Equations.**"
+      "markdown": "**Notes: _Po_ always comes before _ba_. The hosts are BOLD in the Structure Equations.**"
     },
     {
       "type": "p",
-      "markdown": "You can find all the Structure Equations in **Appendix L**, where **hosts are shown in bold**. Now you know why certain words were made bold in previous lessons. For example, the question words _sino _and _ano _are hosts in these examples:"
+      "markdown": "You can find all the Structure Equations in **Appendix L**, where **hosts are shown in bold**. Now you know why certain words were made bold in previous lessons. For example, the question words _sino_ and _ano_ are hosts in these examples:"
     },
     {
       "type": "sentence",
@@ -424,7 +424,7 @@
     },
     {
       "type": "p",
-      "markdown": "_Ang _form demonstrative pronouns _ito _and _yun_ are technically not enclitics, but they can optionally be placed at the end of the enclitic cluster. Colloquially, in sentences that start with hindi, native speakers will normally do this, so we will too."
+      "markdown": "_Ang_ form demonstrative pronouns _ito_ and _yun_ are technically not enclitics, but they can optionally be placed at the end of the enclitic cluster. Colloquially, in sentences that start with hindi, native speakers will normally do this, so we will too."
     },
     {
       "type": "sentence",

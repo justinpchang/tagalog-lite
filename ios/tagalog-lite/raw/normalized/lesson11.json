@@ -82,11 +82,11 @@
     },
     {
       "type": "h2",
-      "markdown": "Anong **petsa **na? (Tag.) = What date is it? (Eng.)"
+      "markdown": "Anong \\*\\*petsa\\*\\* na? (Tag.) = What date is it? (Eng.)"
     },
     {
       "type": "p",
-      "markdown": "Notice that _ano _takes a linker, changing it to _anong_, in this sentence. This is how you answer it using Tagalog numbers:"
+      "markdown": "Notice that _ano_ takes a linker, changing it to _anong_, in this sentence. This is how you answer it using Tagalog numbers:"
     },
     {
       "type": "h2",
@@ -203,7 +203,7 @@
     },
     {
       "type": "h3",
-      "markdown": "**Note: _Taong _is just _taon _+ linker.**"
+      "markdown": "**Note: _Taong_ is just _taon_+ linker.**"
     },
     {
       "type": "sentence",
