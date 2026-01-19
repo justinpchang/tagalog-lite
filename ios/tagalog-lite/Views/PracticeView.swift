@@ -10,6 +10,7 @@ struct PracticeView: View {
   @AppStorage("srsDailyReviewLimit") private var dailyReviewLimit: Int = 200
   @AppStorage("srsAllowReviewAhead") private var allowReviewAhead: Bool = false
 
+  @State private var path: [String] = []
   @State private var session: [Flashcard] = []
   @State private var index: Int = 0
   @State private var isRevealed: Bool = false
@@ -67,26 +68,39 @@ struct PracticeView: View {
   private var canUndo: Bool { !history.isEmpty }
 
     var body: some View {
-        ZStack {
-            Theme.pageGradient.ignoresSafeArea()
+    NavigationStack(path: $path) {
+      ZStack {
+        Theme.pageGradient.ignoresSafeArea()
 
-      VStack(spacing: 12) {
-        header
+        VStack(spacing: 12) {
+          header
 
-        if isEligibleEmpty {
-          emptyEligibleState
-        } else if session.isEmpty || currentCard == nil {
-          readyState
-        } else {
-          reviewState
+          if isEligibleEmpty {
+            emptyEligibleState
+          } else if session.isEmpty || currentCard == nil {
+            readyState
+          } else {
+            reviewState
+          }
+        }
+        .padding(16)
+      }
+      .toolbar(.hidden, for: .navigationBar)
+      .onAppear {
+        // Make sure lessons are available even if user lands on Practice first.
+        if store.lessons.isEmpty {
+          store.loadFromBundle()
         }
       }
-      .padding(16)
-    }
-    .onAppear {
-      // Make sure lessons are available even if user lands on Practice first.
-      if store.lessons.isEmpty {
-        store.loadFromBundle()
+      .navigationDestination(for: String.self) { lessonId in
+        if let lesson = store.lessons.first(where: { $0.id == lessonId }) {
+          LessonDetailView(lesson: lesson)
+        } else {
+          Text("Lesson not found.")
+            .font(.system(.body, design: .rounded))
+            .foregroundStyle(.secondary)
+            .padding(16)
+        }
       }
     }
   }
@@ -180,26 +194,7 @@ struct PracticeView: View {
         reviewCard(card)
 
         if isRevealed {
-          if let key = card.audioKey {
-            Button {
-              // Replay: if currently playing this key, toggle will pause; tapping again plays.
-              audio.togglePlay(key: key)
-            } label: {
-              HStack(spacing: 10) {
-                Image(systemName: "speaker.wave.2.fill")
-                Text("Replay audio")
-                  .fontWeight(.bold)
-              }
-              .font(.system(.headline, design: .rounded))
-              .foregroundStyle(.white)
-              .padding(.horizontal, 16)
-              .padding(.vertical, 12)
-              .frame(maxWidth: .infinity)
-              .background(
-                RoundedRectangle(cornerRadius: 16, style: .continuous).fill(Theme.tropicalTeal))
-            }
-            .buttonStyle(.plain)
-          }
+          revealedControlsRow(card: card)
 
           gradingRow(card: card)
         } else {
@@ -209,6 +204,84 @@ struct PracticeView: View {
         }
       }
     }
+  }
+
+  private func revealedControlsRow(card: Flashcard) -> some View {
+    HStack(spacing: 10) {
+      lessonJumpButton(card: card)
+        .frame(maxWidth: .infinity)
+
+      if let key = card.audioKey {
+        secondaryButton(title: "Replay audio", systemImage: "speaker.wave.2.fill") {
+          // Replay: if currently playing this key, toggle will pause; tapping again plays.
+          audio.togglePlay(key: key)
+        }
+        .frame(maxWidth: .infinity)
+      } else {
+        // Keep the left button half-width when there is no audio.
+        Spacer()
+          .frame(maxWidth: .infinity)
+      }
+    }
+  }
+
+  private func lessonJumpButton(card: Flashcard) -> some View {
+    let lessonId = lessonIdForCard(card)
+    let title = lessonLabelForCard(card)
+
+    return secondaryButton(title: title, systemImage: "book.fill") {
+      guard let lessonId else { return }
+      path.append(lessonId)
+    }
+    .disabled(lessonId == nil)
+  }
+
+  private func secondaryButton(title: String, systemImage: String, action: @escaping () -> Void)
+    -> some View
+  {
+    Button(action: action) {
+      HStack(spacing: 10) {
+        Image(systemName: systemImage)
+        Text(title)
+          .fontWeight(.semibold)
+      }
+      .font(.system(.headline, design: .rounded))
+      .foregroundStyle(.secondary)
+      .padding(.horizontal, 14)
+      .padding(.vertical, 12)
+      .frame(maxWidth: .infinity)
+      .background(
+        RoundedRectangle(cornerRadius: 16, style: .continuous)
+          .fill(.ultraThinMaterial)
+      )
+      .overlay(
+        RoundedRectangle(cornerRadius: 16, style: .continuous)
+          .strokeBorder(Color.primary.opacity(0.08), lineWidth: 1)
+      )
+    }
+    .buttonStyle(.plain)
+  }
+
+  private func lessonIdForCard(_ card: Flashcard) -> String? {
+    if let r = card.id.range(of: "-vocab-") {
+      return String(card.id[..<r.lowerBound])
+    }
+    if let r = card.id.range(of: "-example-") {
+      return String(card.id[..<r.lowerBound])
+    }
+    return nil
+  }
+
+  private func lessonLabelForCard(_ card: Flashcard) -> String {
+    guard let lessonId = lessonIdForCard(card),
+      let lesson = store.lessons.first(where: { $0.id == lessonId })
+    else {
+      return "Lesson"
+    }
+    if let n = lesson.numericOrder {
+      return "Lesson \(n)"
+    }
+    return "Lesson"
   }
 
   private func reviewCard(_ card: Flashcard) -> some View {
