@@ -66,9 +66,9 @@ struct PracticeView: View {
 
   private var canUndo: Bool { !history.isEmpty }
 
-  var body: some View {
-    ZStack {
-      Theme.pageGradient.ignoresSafeArea()
+    var body: some View {
+        ZStack {
+            Theme.pageGradient.ignoresSafeArea()
 
       VStack(spacing: 12) {
         header
@@ -116,10 +116,10 @@ struct PracticeView: View {
   }
 
   private var emptyEligibleState: some View {
-    VStack(spacing: 10) {
+            VStack(spacing: 10) {
       Image(systemName: "checkmark.circle")
         .font(.system(size: 30, weight: .heavy, design: .rounded))
-        .foregroundStyle(Theme.accent)
+                    .foregroundStyle(Theme.accent)
 
       Text("No cards yet")
         .font(.system(.title3, design: .rounded).weight(.heavy))
@@ -150,8 +150,8 @@ struct PracticeView: View {
         Text("Ready to review")
           .font(.system(.title3, design: .rounded).weight(.heavy))
         Text("Tap start to begin. Reveal the Tagalog, then grade yourself.")
-          .font(.system(.subheadline, design: .rounded))
-          .foregroundStyle(.secondary)
+                    .font(.system(.subheadline, design: .rounded))
+                    .foregroundStyle(.secondary)
       }
 
       Button {
@@ -170,8 +170,8 @@ struct PracticeView: View {
         .background(RoundedRectangle(cornerRadius: 16, style: .continuous).fill(Theme.accent))
       }
       .buttonStyle(.plain)
-    }
-    .tropicalCard()
+            }
+            .tropicalCard()
   }
 
   private var reviewState: some View {
