@@ -8,6 +8,21 @@
 import SwiftUI
 
 struct ContentView: View {
+  @AppStorage("hasSeenOnboarding") private var hasSeenOnboarding: Bool = false
+  @AppStorage("showOnboardingNow") private var showOnboardingNow: Bool = false
+
+  private var isOnboardingPresented: Binding<Bool> {
+    Binding(
+      get: { !hasSeenOnboarding || showOnboardingNow },
+      set: { newValue in
+        if !newValue {
+          hasSeenOnboarding = true
+          showOnboardingNow = false
+        }
+      }
+    )
+  }
+
   var body: some View {
     TabView {
       LessonListView()
@@ -29,6 +44,12 @@ struct ContentView: View {
         .tabItem {
           Label("Settings", systemImage: "gearshape.fill")
         }
+    }
+    .sheet(isPresented: isOnboardingPresented) {
+      OnboardingView {
+        hasSeenOnboarding = true
+        showOnboardingNow = false
+      }
     }
   }
 }

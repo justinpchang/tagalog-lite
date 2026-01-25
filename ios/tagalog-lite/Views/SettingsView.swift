@@ -28,6 +28,7 @@ struct SettingsView: View {
     @AppStorage("srsDailyNewLimit") private var srsDailyNewLimit: Int = 20
     @AppStorage("srsDailyReviewLimit") private var srsDailyReviewLimit: Int = 200
     @AppStorage("srsAllowReviewAhead") private var srsAllowReviewAhead: Bool = false
+    @AppStorage("showOnboardingNow") private var showOnboardingNow: Bool = false
   @EnvironmentObject private var srs: SRSStateStore
   @EnvironmentObject private var completion: LessonCompletionStore
 
@@ -124,6 +125,14 @@ struct SettingsView: View {
                             .font(.system(.subheadline, design: .rounded))
                         }
                         .padding(.vertical, 6)
+                    }
+
+                    Section("Help") {
+                        Button {
+                            showOnboardingNow = true
+                        } label: {
+                            Text("Replay onboarding")
+                        }
                     }
                 }
                 .scrollContentBackground(.hidden)

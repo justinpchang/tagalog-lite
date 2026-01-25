@@ -8,7 +8,7 @@ struct LessonListView: View {
   @State private var path: [String] = []
 
   private var lessonsOnly: [Lesson] {
-    store.lessons.filter { !isAppendix($0) }
+    store.lessons.filter { !isAppendix($0) && !isIntro($0) }
   }
 
   var body: some View {
@@ -128,6 +128,12 @@ struct LessonListView: View {
     let id = lesson.id.lowercased()
     let title = lesson.title.lowercased()
     return id.hasPrefix("appendix") || title.hasPrefix("appendix")
+  }
+
+  private func isIntro(_ lesson: Lesson) -> Bool {
+    let id = lesson.id.lowercased()
+    let title = lesson.title.lowercased()
+    return id.hasPrefix("intro") || title.hasPrefix("intro")
   }
 }
 
