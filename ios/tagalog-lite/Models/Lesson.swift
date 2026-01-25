@@ -34,23 +34,10 @@ struct Lesson: Decodable, Identifiable, Equatable {
 }
 
 extension Lesson {
-  /// Study deck: vocab (in order) then examples (in order).
+  /// Study deck: examples only (in order).
   var flashcards: [Flashcard] {
     var out: [Flashcard] = []
-    out.reserveCapacity(vocabulary.count + exampleSentences.count)
-
-    for (i, v) in vocabulary.enumerated() {
-      out.append(
-        Flashcard(
-          id: "\(id)-vocab-\(i)",
-          kind: .vocab,
-          frontText: v.english,
-          backText: v.tagalog,
-          audioKey: v.audioKey,
-          showsOptionalNotice: !v.required
-        )
-      )
-    }
+    out.reserveCapacity(exampleSentences.count)
 
     for (i, e) in exampleSentences.enumerated() {
       out.append(
