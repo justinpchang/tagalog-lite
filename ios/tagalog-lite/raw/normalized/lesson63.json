@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson63",
+  "title": "Lesson 63 - Practice Changing Focus",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "h1",
+      "markdown": "*Vocabulary"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magbigáy/ibigáy/bigyán",
+        "english": "to give",
+        "required": true,
+        "audioPath": "a4050fcd-b05b-422d-b73f-c7633f53bf20"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "maglagáy/ilagáy/lagyán",
+        "english": "to put",
+        "required": true,
+        "audioPath": "e3d89533-c24f-44e7-8549-dd4f64038de1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magturò/iturò/turuan",
+        "english": "to teach",
+        "required": true,
+        "audioPath": "02499fe1-7355-4a2d-b83d-bfa6d343ee0d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magtaním/itaním/tanimán",
+        "english": "to plant",
+        "required": true,
+        "audioPath": "6a332dc6-7d89-426d-8c96-a0ac812647d6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magsabi/sabihin/sabihan",
+        "english": "to say; tell",
+        "required": true,
+        "audioPath": "e23a979d-bb29-4d76-acaf-069b9453f6b6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "maghanáp/hanapin/ihanap",
+        "english": "to seek",
+        "required": true,
+        "audioPath": "867d4865-2da5-4efd-a1a8-dc3769ee82a2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kumain/kainin/kainan",
+        "english": "to eat",
+        "required": true,
+        "audioPath": "257f2ff0-e617-4c57-b753-fa3ad2fff4fa"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "gumawâ/gawín/igawâ",
+        "english": "to do; make",
+        "required": true,
+        "audioPath": "47043d18-022b-4bfc-bfcb-61ba5656042b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kumuha/kunin/ikuha",
+        "english": "to get",
+        "required": true,
+        "audioPath": "27d92370-d476-494d-b09b-de8bc80cd9a7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "bumilí/bilhín/ibilí",
+        "english": "to buy",
+        "required": true,
+        "audioPath": "9e7764ca-a910-4a5a-8c61-0c3569a7ce91"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "*You have seen these before; they are here for easy reference. They are listed in (AF/OF/DF or BF) order. The definition shown is the AF definition."
+    },
+    {
+      "type": "p",
+      "markdown": "This is a review lesson designed to improve your ability to change focus. You will be given an English sentence and asked to produce three Tagalog sentences; one each for AF, OF and DF/BF. The verb infinitives are provided in the vocabulary above in case you get stuck."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: She gave me a/the mango."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "AF: Nagbigay siya ng mangga sa akin.",
+        "english": "She gave me a mango.",
+        "required": true,
+        "audioPath": "26d5e017-a8fc-4eca-a371-b5a7ded39592"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "OF: Ibinigay niya ang mangga sa akin.",
+        "english": "She gave me the mango.",
+        "required": true,
+        "audioPath": "3b67b828-c07e-4081-80a2-518bc1cbb7ba"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "DF: Binigyan niya ako ng mangga.",
+        "english": "She gave me a mango.",
+        "required": true,
+        "audioPath": "36e8e623-0958-4539-a1e0-cce439b45fbd"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "If you are wondering about the “a/the”, please review the section titled “More on Complements – Definite vs Indefinite” in **Appendix H**."
+    },
+    {
+      "type": "p",
+      "markdown": "Here is the reminder table for you:"
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "(missing)",
+      "english": "Mark will give Angel a/the drink.",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "Put a/the cat in the CR.",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "The women made a/the halo-halo for us (incl.).",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "I can get a/the chocolate for Maria.",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "Are you looking for a/the chicken for him?",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "Tell her what you know.",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "We (excl.) ate some/the adobo at home.",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "Mr. Santos will teach me Tagalog.",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "She is buying David a/the mango.",
+      "required": true,
+      "audioPath": null
+    },
+    {
+      "tagalog": "(missing)",
+      "english": "Joshua wants to plant a/the tree outside his room.",
+      "required": true,
+      "audioPath": null
+    }
+  ]
+}

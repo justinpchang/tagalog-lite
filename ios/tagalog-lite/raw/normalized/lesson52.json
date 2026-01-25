@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson52",
+  "title": "Lesson 52 - Same, Similar, As, Like This; Pareho, Kasing, Parang, Ganito",
+  "vocabulary": [
+    {
+      "tagalog": "pareho",
+      "english": "same (adj); both (adv)",
+      "required": true,
+      "audioPath": "a57f3204-088d-4512-a573-fa3c887f913d"
+    },
+    {
+      "tagalog": "kasíng",
+      "english": "equally",
+      "required": true,
+      "audioPath": "54239678-4602-4ff0-9578-e5e37726c84a"
+    },
+    {
+      "tagalog": "parang",
+      "english": "similar to (adj); seems(adv)",
+      "required": true,
+      "audioPath": "dcffeb5a-a823-4a98-a8ed-1d4607333412"
+    },
+    {
+      "tagalog": "tulad",
+      "english": "similar",
+      "required": false,
+      "audioPath": "d3670142-a5cd-4bda-ae9e-9b3272c96692"
+    },
+    {
+      "tagalog": "gaya",
+      "english": "similar",
+      "required": false,
+      "audioPath": "56beae97-20f6-4c59-a0e3-a458ad39b090"
+    },
+    {
+      "tagalog": "mukhá",
+      "english": "similar to; seems; face",
+      "required": false,
+      "audioPath": "d30720fc-e7e6-45d7-99ce-31fc628afcc0"
+    },
+    {
+      "tagalog": "ganitó",
+      "english": "like this (adj); in this way (adv)",
+      "required": true,
+      "audioPath": "7ea7963c-6eda-4045-8888-d605bce49b46"
+    },
+    {
+      "tagalog": "ganún",
+      "english": "like that (adj); in that way (adv)",
+      "required": true,
+      "audioPath": "41308e24-4038-47f9-9150-3fcc39782756"
+    },
+    {
+      "tagalog": "ganyán",
+      "english": "like that (adj); in that way (adv) (near listener)",
+      "required": false,
+      "audioPath": "3f2b76b0-45aa-4749-9dca-5378f9a8934e"
+    },
+    {
+      "tagalog": "ganoón",
+      "english": "like that (adj); in that way (adv) (far from both speaker and listener)",
+      "required": false,
+      "audioPath": "f28b2345-c687-4341-a196-732bade5812f"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Just like in English, there are many ways to say items are the same or similar in Tagalog. In this lesson we will cover some of the most colloquial ones."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Same as a Noun: Pareho</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As an adjective, _pareho_ roughly means “the same”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto namin ang parehong sasakyan.",
+        "english": "We like the same car.",
+        "required": true,
+        "audioPath": "ff087374-a6ef-4952-98cf-9f621570b7f5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi tayo pareho.",
+        "english": "We (incl.) are not the same.",
+        "required": true,
+        "audioPath": "229b9253-6e89-4e67-9d83-427d9bf30d60"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inaabangan nila ang parehong lalaki.",
+        "english": "They are looking out for the same man.",
+        "required": true,
+        "audioPath": "e19f70b4-37a5-494b-9304-87be3b1814c6"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "As an adverb used before an adjective, _pareho_ roughly means “both”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Parehong masaya ang aso at pusa.",
+        "english": "The cat and dog are both happy.",
+        "required": true,
+        "audioPath": "4fbf7475-8fca-41cf-a4d1-fcd5c88e6aa5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Parehong mura ang mga yun.",
+        "english": "Those are both cheap.",
+        "required": true,
+        "audioPath": "34133dff-71b5-4648-b790-ea178793a2bc"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that _pareho_ is a host when placed before an adjective."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ko alam, kasi pareho silang maganda.",
+        "english": "I do not know, because they are both pretty.",
+        "required": true,
+        "audioPath": "10d1e1e3-f12f-4774-8e3d-75a81e620c3f"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>As Adjective as: Kasing</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Kasing_ is an adverb that modifies adjectives to roughly mean “as adjective as”."
+    },
+    {
+      "type": "h2",
+      "markdown": "Kasing + **adj root** + noun1+ noun2. (Tag.) = Noun 1 is as adjective as noun2. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun1 takes _ng_ form; noun2 takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kasing ganda rin ni Angel si Maria.",
+        "english": "Maria is also as beautiful as Angel.",
+        "required": true,
+        "audioPath": "c0df7489-de8f-4272-8fd2-40d2fcd19126"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po kasing init ng sasakyan ang pagkain.",
+        "english": "The food is not as hot as the car. (resp.)",
+        "required": true,
+        "audioPath": "cd03fe9b-4357-4e6c-9fa3-8a8c09c2b268"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kasing mura ng mangga ang halo-halong inilagay ko sa lamesa.",
+        "english": "The halo-halo that I put on the table is as cheap as the mango.",
+        "required": true,
+        "audioPath": "eee6978d-7262-485f-9c37-2d2d69702f13"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Similar: Parang</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As an adjective, _parang_ is used before nouns to roughly mean “similar to” or “like”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Parang si Jasmine si Maria.",
+        "english": "Maria is like Jasmine.",
+        "required": true,
+        "audioPath": "2c1fbbdd-0699-4c74-9d73-a89579ed7f36"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi parang pizza ang pagkaing binili niya.",
+        "english": "The food he bought is not similar to pizza.",
+        "required": true,
+        "audioPath": "9a832ca3-a6f3-43af-97ad-b6566b67fa2a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Parang guro ang babaeng iyon.",
+        "english": "That lady is like a teacher.",
+        "required": true,
+        "audioPath": "26ccd45e-a958-468b-98c6-cc4701ce1d28"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "As an adverb, _parang_ is used before adjectives and verbs to roughly mean “seems” or “it seems like”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Parang gumawa si David ng halo-halo.",
+        "english": "It seems like David made halo-halo.",
+        "required": true,
+        "audioPath": "631040d6-fe4e-4e36-af07-543106bada64"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Parang hindi siya pagod.",
+        "english": "It seems she is not tired.",
+        "required": true,
+        "audioPath": "27ad924d-91e7-4e58-bf9b-e1d0bf29dce3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Parang ibibigay mo ang pera kay Joe.",
+        "english": "It looks like you will give the money to Joe.",
+        "required": true,
+        "audioPath": "e5cf160d-2640-49c9-b75d-9d96588fad77"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Tulad_(adj), _gaya_(adj) and _mukha_(adv) are fairly commonly used words that can have the same meanings as _parang_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tulad ni Jasmine si Maria.",
+        "english": "Maria is like Jasmine.",
+        "required": true,
+        "audioPath": "c87c60c4-00c2-42e6-a3e3-46cf3ec43423"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi gaya ng pizza ang pagkaing binili niya.",
+        "english": "The food he bought is not similar to pizza.",
+        "required": true,
+        "audioPath": "9387bced-bb2e-48e4-8794-da1f862ffc9e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mukhang gumawa si David ng halo-halo.",
+        "english": "It seems like David made halo-halo.",
+        "required": true,
+        "audioPath": "785b6edd-1112-47ac-ad40-019b20b54902"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But they are not as common as _parang_, so we will not use them any further."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Like This/That: Ganito/Ganun</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ganito/ganun_ can be used as adjectives or adverbs. As adjectives they mean “like this/that”, and as adverbs they mean “in this/that way”. Note that in this book, for the same reasons listed for _iyan/iyon_, we have reduced _ganiyan/ganoon_ to _ganun_."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ganito siya.",
+        "english": "She is like this.",
+        "required": true,
+        "audioPath": "9fb71405-8bb1-4ee0-84fa-9e6bc24d52f4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lumaki ito nang ganun.",
+        "english": "It grew in that way.",
+        "required": true,
+        "audioPath": "2a63568c-8f92-4d7f-8cec-9fdbd64bff7b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ko alam na magiging ganito.",
+        "english": "I did not know it would be like this.",
+        "required": true,
+        "audioPath": "0f27baa1-d79c-4779-a1f6-f83bbde74799"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "When _ganito/ganun_ are used with adjectives:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**ganito/ganun** + (ka + adj root) (Tag.) = this/that adjective (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ganun ba siya kapagod?",
+        "english": "Is she that tired?",
+        "required": true,
+        "audioPath": "55907ab1-bfae-46a9-98a5-afc4e679f53b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ganun kabilis ang sasakyan.",
+        "english": "The car is not that fast.",
+        "required": true,
+        "audioPath": "070590b9-dc34-4aac-91c0-276d187184bc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ganito sila kahirap.",
+        "english": "They are this poor.",
+        "required": true,
+        "audioPath": "7ee10e5e-7e1a-4ab6-9092-10c052955a62"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Kailangang mamili ang parehong babae ng mga murang bagay.",
+      "english": "The same woman has to shop for cheap things.",
+      "required": true,
+      "audioPath": "ee6b5e82-83fa-4dc5-a8ec-e0d5a579896d"
+    },
+    {
+      "tagalog": "Kasing saya kami ng nagkatrabaho.",
+      "english": "We (excl.) were as happy as the one who acquired the job.",
+      "required": true,
+      "audioPath": "a238df4c-7f49-4b89-b262-7a8407e91564"
+    },
+    {
+      "tagalog": "Parang igagawa ba ni David non ang sarili niya?",
+      "english": "Does it seem like David will make that for himself?",
+      "required": true,
+      "audioPath": "f66d215a-02a8-40e6-930d-b82e3dddcba4"
+    },
+    {
+      "tagalog": "Ganito rin ang meron siya sa bahay niya nung ikasiyam ng Disyembre.",
+      "english": "The one he had at his house on the 9th of December was like this too.",
+      "required": true,
+      "audioPath": "1c3df478-32ba-4c50-ac32-554919b30b1b"
+    },
+    {
+      "tagalog": "Sinabi ni Jessicang hindi ganun kainit sa Seattle.",
+      "english": "Jessica said that it was not that hot in Seattle.",
+      "required": true,
+      "audioPath": "110a5cd6-532b-4e75-8139-6fdd81e746a9"
+    },
+    {
+      "tagalog": "Parehong nakakainis ang mga babaeng namamasyal sa kalsada",
+      "english": "The women taking a walk in the street are both annoying..",
+      "required": true,
+      "audioPath": "66f0fea9-04c1-4485-83df-833ba67f0afb"
+    },
+    {
+      "tagalog": "Hindi po kasing sarap ng mangga ang halo-halo.",
+      "english": "The halo-halo is not as delicious as the mango. (resp.)",
+      "required": true,
+      "audioPath": "ab313d4d-6ebc-4398-844f-490b2f9eace4"
+    },
+    {
+      "tagalog": "Parang bata ang lalaking nagkaroon ng walong aso.",
+      "english": "The man who had eight dogs is like a kid.",
+      "required": true,
+      "audioPath": "fbeaf463-78df-49ad-b5f9-defa96f5e01a"
+    },
+    {
+      "tagalog": "Naniniwala akong hindi ganito kabilis ang sasakyan.",
+      "english": "I believe that the car is not this fast.",
+      "required": true,
+      "audioPath": "07b64676-6ea3-42f1-a777-0a7b7627c060"
+    },
+    {
+      "tagalog": "Wala akong masabi kapag nangyayari ito nang ganun.",
+      "english": "I have nothing to say when it happens like that.",
+      "required": true,
+      "audioPath": "481ef6c4-2cf3-4a48-a45b-a6cb4d00213f"
+    }
+  ]
+}

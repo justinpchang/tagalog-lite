@@ -1,0 +1,354 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson47",
+  "title": "Lesson 47 – With; Personal Pronouns, Kasama & Reflexive; Sarili",
+  "vocabulary": [
+    {
+      "tagalog": "kasama",
+      "english": "companion (noun); with (adverb)",
+      "required": true,
+      "audioPath": "7038a220-b497-482d-aef9-cb55fbc085a2"
+    },
+    {
+      "tagalog": "sarili",
+      "english": "self (noun); own (adjective)",
+      "required": true,
+      "audioPath": "5c0bf2ab-f6de-4ea2-9937-07eb8832f4b3"
+    },
+    {
+      "tagalog": "mismo",
+      "english": "same",
+      "required": false,
+      "audioPath": "f6a0ff34-3c11-4aa9-bb2f-91252420db5a"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson we will discuss the concept of “with” or “and”, in expressions like “with Joe”, “my wife and I”, “she and Maria”. We will also discuss the reflexive using sarili."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sa</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As was mentioned in a previous lesson, _sa_ and _sa_ form personal pronouns, may have the meaning of “with”, depending on context."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naglaro ang bata sa aso.",
+        "english": "The child played with the dog. “On/at/in the dog” are also possible, but unlikely.",
+        "required": true,
+        "audioPath": "057f9013-2f63-4f28-b391-998707039e7b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "May aso sa bata.",
+        "english": "There is a dog with the kid. “On the kid” is also possible.",
+        "required": true,
+        "audioPath": "0947b26c-e5a6-4d15-9534-56b29646a2aa"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Walang aso kay Maria.",
+        "english": "There is not a dog with Maria. “On Maria” is also possible.",
+        "required": true,
+        "audioPath": "0980b193-eea4-4b6f-b29b-53958d1716ca"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Merong aso sa kanila.",
+        "english": "There is a dog with them. “At/in their place” and “on them” are also possible.",
+        "required": true,
+        "audioPath": "f71775af-e730-4b9e-96cd-10ea338dbc9b"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>X and Y using Plural Personal Pronouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Suppose you want to say “my wife and I” in Tagalog. Here are three possibilities:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex1: ako at ang asawa ko",
+        "english": "(lit. I and my wife)",
+        "required": true,
+        "audioPath": "0010072a-cdea-4300-9f6d-7eb11e07f09f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex2: ako kasama ang asawa ko",
+        "english": "(lit. I together with my wife)",
+        "required": true,
+        "audioPath": "f322e803-6f77-4a86-a0c8-e4c2801224ca"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex3: kami ng asawa ko",
+        "english": "(lit. we of my wife)",
+        "required": true,
+        "audioPath": "02bdc9d7-8c50-4b5c-9154-4ee7c8ddd1e9"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Ex1 is used in ay sentences, which are to be avoided for reasons stated earlier, and Ex2 is a bit rare. If you want to say “X and Y” for two people and at least one of them is a personal pronoun, you should use the construction in Ex3."
+    },
+    {
+      "type": "h2",
+      "markdown": "plural personal pronoun + Y (Tag.) = X and Y (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: X and Y are both people and one is a personal pronoun. Y takes _ng_ form. If the plural personal pronoun is _ang_ or _ng_ form, the entire phrase is enclitic.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pupunta sila ni Maria sa Maynila.",
+        "english": "He/She/They and Maria will go to Manila.",
+        "required": true,
+        "audioPath": "f77c07d8-8284-4ed5-a465-d2e714e6cbc0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ba ninyo ni Joe buksan ang pinto?",
+        "english": "Do you and Joe want to close the door?",
+        "required": true,
+        "audioPath": "5a9fc7a5-8532-40d5-a986-ac65d020a6d1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ginagawa niya ang halo-halo para sa amin ni David.",
+        "english": "She is making the halo-halo for David and us (excl.).",
+        "required": true,
+        "audioPath": "b65caaff-8202-4121-ae1f-a2c9a1febd14"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Kasama</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "In Ex2 above, _kasama_ is used as an adverb that roughly means “with”. It is not as common as Ex3 for people, so we will not use _kasama_ as an adverb anymore in this book. But we will use it as a noun. It roughly means “something that goes with something else”, and is often translated as “companion”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang kasama mo?",
+        "english": "Who is your companion? Who is with you?",
+        "required": true,
+        "audioPath": "e359d6a3-418c-4550-a2de-f9d7e141200c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tagasaan ang kasama ni Joshua?",
+        "english": "Where is Joshua’s companion from?",
+        "required": true,
+        "audioPath": "22011334-d5df-468f-85a7-a73227034e7c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tinanong ako ng kasama ko.",
+        "english": "My companion questioned me.",
+        "required": true,
+        "audioPath": "33b89bd0-f6f3-459d-a023-da825264dc2f"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sarili</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Sarili_ can mean “own”, as in “my own”, “their own”, etc. In this case, sarili is an adjective, so the following is just the _ng_ possessive with adjective structure that you learned earlier:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*sarili\\*\\*+ linker + possession + possessor = possessor’s own possession"
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Note: Possessor takes _ng_ form.\\*\\*"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binuksan niya ang sarili niyang pinto.",
+        "english": "She opened her own door.",
+        "required": true,
+        "audioPath": "602661dc-d3a4-4232-8e0c-405da8b20123"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ito ang sariling sasakyan ni Analyn.",
+        "english": "This is Analyn’s own car.",
+        "required": true,
+        "audioPath": "e2063aeb-19ac-4997-9950-321d586cb86b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahilig sila sa sarili nilang pagkain.",
+        "english": "They like their own food.",
+        "required": true,
+        "audioPath": "5446825b-d52b-425a-b502-e91beabcd4c7"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It can also mean “self”, as in “myself”, “themselves”, etc. This is how the reflexive is formed in Tagalog:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binuksan ko ang pinto sa sarili ko.",
+        "english": "I opened the door myself.",
+        "required": true,
+        "audioPath": "b505da39-cf8b-4802-89f6-9f037e100784"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tinitingan ni Analyn ang sarili niya.",
+        "english": "Analyn looked at herself.",
+        "required": true,
+        "audioPath": "94080c6f-c601-404d-b304-4fe845a8df16"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magluluto sila para sa sarili nila.",
+        "english": "They will cook for themselves.",
+        "required": true,
+        "audioPath": "d61eb9f2-2055-4734-953b-ce9641dd1aa0"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "These are just _ng_ possessives, so remember that they may also be expressed as sa possessives:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binuksan ko ang pinto sa aking sarili.",
+        "english": "I opened the door myself.",
+        "required": true,
+        "audioPath": "6a97a230-4d3a-483e-bea1-7dc6b62d1241"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "As stated previously, this is less common so we will only use the _ng_ possessive form."
+    },
+    {
+      "type": "p",
+      "markdown": "It is possible to use the adverb _mismo_ instead of _sarili_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binuksan ko mismo ang pinto.",
+        "english": "I opened the door myself.",
+        "required": true,
+        "audioPath": "4b28a89e-616b-4b45-96a2-44f6fcbe26c8"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But _mismo_ is less common than _sarili_, so we will not use it anymore."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Alin ang lugar na pinuntahan ninyo ng asawa mo?",
+      "english": "Which is the place you and your wife went to?",
+      "required": true,
+      "audioPath": "c8f9d92f-0307-4d01-9c7d-4f925a446917"
+    },
+    {
+      "tagalog": "Hindi ko tinuturuan ng Ingles ang kasama ko kasi mahirap ito.",
+      "english": "I do not teach my companion English, because it is hard.",
+      "required": true,
+      "audioPath": "31d7f114-2e43-4b51-91a7-42ccad7938b2"
+    },
+    {
+      "tagalog": "Bibigyan kita ng trabaho, kaya huwag kang mag-alala sa sarili mo.",
+      "english": "I will give you work, so do not worry about yourself.",
+      "required": true,
+      "audioPath": "3a921dd7-2a93-40d1-8e2a-2696bff76b8d"
+    },
+    {
+      "tagalog": "Tiningnan mo ba sila ni Maria, o ang bagay sa tabi nila?",
+      "english": "Are you looking at Maria and him, or the thing next to them?",
+      "required": true,
+      "audioPath": "38541c2a-643c-44c0-addb-68c95645377a"
+    },
+    {
+      "tagalog": "Kumakain ang kasama ni Diego sa sarili niyang kuwarto, pero hindi yun alam ni Diego.",
+      "english": "Diego's companion eats in his own room, but Diego does not know that.",
+      "required": true,
+      "audioPath": "4b7c0fed-25a6-4da4-b57a-ed19d7ca810a"
+    },
+    {
+      "tagalog": "Sa tingin ko, kailangan mo siyang sabihan nang sarili mo.",
+      "english": "I think you need to tell him yourself.",
+      "required": true,
+      "audioPath": "d29263fd-062f-4f50-8a1f-48c2f3bfbd0e"
+    },
+    {
+      "tagalog": "Sabi nila ni Joaquin, “Ilang taon na ang anak mo?”",
+      "english": "They and Joaquin said \"How old is your child?\"",
+      "required": true,
+      "audioPath": "7bd96dc9-f507-44e2-94c0-c89f72921ed1"
+    },
+    {
+      "tagalog": "Tataniman ng kasama ni Luis ng puno ang labas ng bahay nang mga alas tres y medya.",
+      "english": "Luis's companion will plant a tree outside the house around half past three.",
+      "required": true,
+      "audioPath": "b6c6682b-4d0c-458c-81ba-bedfc336eaa3"
+    },
+    {
+      "tagalog": "Opo, nagmaneho sila para sa sarili nila nang dalawampung segundo sa ulan.",
+      "english": "Yes, they drove for themselves, for twenty seconds, in the rain. (resp.)",
+      "required": true,
+      "audioPath": "fbf221ad-7f94-4b73-a828-f66c3b24dbce"
+    },
+    {
+      "tagalog": "Kumakain sila ng lalaki nang marami, para lumaki nang mabilis.",
+      "english": "She and the man eat a lot, in order to get big quickly.",
+      "required": true,
+      "audioPath": "e2e0e5e7-d9d0-478f-b167-2b3c7a6b669a"
+    }
+  ]
+}

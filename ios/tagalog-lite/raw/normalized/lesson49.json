@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson49",
+  "title": "Lesson 49 - Naka- and Nakaka- Adjectives",
+  "vocabulary": [
+    {
+      "tagalog": "nakatirá",
+      "english": "residing",
+      "required": true,
+      "audioPath": "c6b12bcc-f065-4446-b2e9-6103690c6de3"
+    },
+    {
+      "tagalog": "nakasapatos",
+      "english": "wearing shoes",
+      "required": true,
+      "audioPath": "08a4b744-51cb-4436-bdeb-2300359c808a"
+    },
+    {
+      "tagalog": "nakatutok",
+      "english": "concentrating; focused",
+      "required": true,
+      "audioPath": "502f031c-1afb-45ec-8bdf-b42318541c7e"
+    },
+    {
+      "tagalog": "nakákatakot",
+      "english": "frightening",
+      "required": true,
+      "audioPath": "cd7f2e14-ac4e-47b0-9d4b-a0e505d3387d"
+    },
+    {
+      "tagalog": "nakakainís",
+      "english": "annoying",
+      "required": true,
+      "audioPath": "698863d4-dd00-436f-929f-68542d600804"
+    },
+    {
+      "tagalog": "nakakatuwâ",
+      "english": "entertaining; fun",
+      "required": true,
+      "audioPath": "e68c94fb-0a02-417f-957a-55b51d14dfb6"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "While not as common as unaffixed or _ma_- adjectives, _naka_- and _nakaka_- adjectives are still fairly frequently used. Be careful not to get these confused with the completed/uncompleted forms of _maka_- verbs. For example:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nakatutok",
+        "english": "concentrating (adj)",
+        "required": true,
+        "audioPath": "f732989a-5161-429b-bf46-62b32556c3d9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nakatutok",
+        "english": "was able to concentrate (completed form of makatutok)",
+        "required": true,
+        "audioPath": "74b8ca1f-a008-42df-a8dd-38c07f644562"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nakakainís",
+        "english": "annoying (adj)",
+        "required": true,
+        "audioPath": "c8a90b6a-97d6-425e-93a4-cfdec8ee0e6c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nakákainís",
+        "english": "annoys; annoying (uncompleted form of makainis)",
+        "required": true,
+        "audioPath": "e5498587-0a86-4764-bb79-27694b83fb5d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Sometimes the stress is different, but other times you will have to rely on context to tell these apart."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Naka- Adjectives</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Naka_- brings the nuance of “in the condition of” or “wearing” the root word."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: tirá = reside => nakatirá = residing"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: sapatos = shoes => nakasapatos = wearing shoes"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: tutok = focus => nakatutok = concentrating"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakatira ang babae sa Cebu.",
+        "english": "The woman lives in Cebu.",
+        "required": true,
+        "audioPath": "720cd186-6b03-468e-aa4d-5ce4140f5071"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Marami ang hindi nakasapatos na mga bata dito.",
+        "english": "There are many kids not wearing shoes here.",
+        "required": true,
+        "audioPath": "b275514c-3108-49c8-bc65-72a092baf810"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagod ang nakatutok sa trabaho.",
+        "english": "The one who is concentrating on work is tired.",
+        "required": true,
+        "audioPath": "643f8805-0875-4c18-a210-fe694c783942"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Nakaka- Adjectives</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Nakaka_- brings the nuance of “feeling like” the root word."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: takot = fear => nakákatakot = scary"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: inís = annoyance => nakakainís = annoying"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: tuwâ = joy => nakakatuwâ = entertaining"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakakatakot ang pangulo.",
+        "english": "The president is scary.",
+        "required": true,
+        "audioPath": "44a99988-0970-42d9-80b1-eda679a35bcf"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakakainis ang asong yun.",
+        "english": "That dog is annoying.",
+        "required": true,
+        "audioPath": "7665e54f-9c4a-4570-bf95-8d3b6e31378a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahilig ako sa mga nakakatuwa!",
+        "english": "I like the fun ones!",
+        "required": true,
+        "audioPath": "2c4f9fe3-d6cb-4760-856b-a9b562297b59"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Nakatira kami ng kasama ko sa sarili naming lugar nang kalahating taon.",
+      "english": "My companion and I lived in our own place for half a year.",
+      "required": true,
+      "audioPath": "266f0b0a-7855-48b1-9d06-5b86ea3b095d"
+    },
+    {
+      "tagalog": "Sabi niya, wala dun ang mga nakasapatos.",
+      "english": "He said the ones wearing shoes are not there.",
+      "required": true,
+      "audioPath": "eb9fbd9a-11fc-4297-b5b6-32007a7d68df"
+    },
+    {
+      "tagalog": "Hindi nakakapag-aral si Joe, pero talagang nakatutok siya.",
+      "english": "Joe is not able to study, but he is really focused.",
+      "required": true,
+      "audioPath": "6ba31f9b-5c3f-4100-8c1b-a2949a817a2f"
+    },
+    {
+      "tagalog": "Alin ang nakakatakot na bagay sa kuwarto mo sa gabi?",
+      "english": "Which is the scary thing in your room at night?",
+      "required": true,
+      "audioPath": "a25a857b-f777-4419-83fd-063051a26244"
+    },
+    {
+      "tagalog": "Ayaw ni Analyn ang trabaho niya, kasi nakakainis ito.",
+      "english": "Analyn hates her job, because it is annoying.",
+      "required": true,
+      "audioPath": "7ce6cfc4-1484-4bae-8bb7-410c48e6d0c0"
+    },
+    {
+      "tagalog": "Sa tingin ko, nakakatuwa umakyat sa puno sa ibabaw ng eskwelahan.",
+      "english": "I think that it is fun to climb the tree above the school.",
+      "required": true,
+      "audioPath": "1abd2269-bdb9-4e1a-992d-6b84fca66496"
+    },
+    {
+      "tagalog": "Nasaan po ang babaeng nakatira dito nung taong isang libo, siyam na raan at lima?",
+      "english": "Where is the woman who lived here in the year 1905?",
+      "required": true,
+      "audioPath": "de896816-58e7-44cc-9833-0861f150c254"
+    },
+    {
+      "tagalog": "Nakapunta lang si Luis nung nakasapatos siya, di ba?",
+      "english": "Luis was only able to go when he was wearing shoes, wasn't he?",
+      "required": true,
+      "audioPath": "eed65450-86ef-48ce-91c5-b7f7bd226adc"
+    },
+    {
+      "tagalog": "Tagasaan ang estudyanteng nakatutok sa bisikleta?",
+      "english": "Where is the student focused on bicycles from?",
+      "required": true,
+      "audioPath": "d13ac47b-4f95-4be7-a241-de222abaf4f3"
+    },
+    {
+      "tagalog": "Nakakatakot ba para sa iyo, kapag wala sa bahay ang asawa mo?",
+      "english": "Is it scary, for you, when your husband is not home?",
+      "required": true,
+      "audioPath": "d86fabf6-7243-4cba-8e57-59936ced8428"
+    }
+  ]
+}

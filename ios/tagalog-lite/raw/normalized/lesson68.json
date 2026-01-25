@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson68",
+  "title": "Lesson 68 - More on Selecting Aspect",
+  "vocabulary": [
+    {
+      "tagalog": "sana",
+      "english": "enclitic particle that means hope",
+      "required": true,
+      "audioPath": "2030a15a-668c-4ce5-9d11-85abc88e4909"
+    },
+    {
+      "tagalog": "madalás",
+      "english": "often",
+      "required": false,
+      "audioPath": "f1ff2485-475b-4d15-8bae-4a4f142af9d6"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In the sample sentences you have done up to this point, it has been pretty clear which aspect, and/or infinitive, should be used. We have followed Table 1, and have clarified situations that were ambiguous."
+    },
+    {
+      "type": "p",
+      "markdown": "It is sometimes less clear in the wild. This lesson is meant to build on the information in **Appendix F** by giving you more tips for selecting the aspect. Be aware that the items below are not all, but just some of, the more common usages that might surprise a native English speaker."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Contemplated instead of uncompleted.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The contemplated aspect is sometimes used where you might expect uncompleted. You may need to think about certain structures differently to see them as contemplated. Here are some examples."
+    },
+    {
+      "type": "p",
+      "markdown": "Although “going to verb” in English can mean that you are physically on the way to go do something, it normally means “will verb”, meaning you will need to use the contemplated form of the verb instead of _pumupunta_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kakain ako.",
+        "english": "I am going to eat.",
+        "required": true,
+        "audioPath": "668f4667-f54e-4ddd-9ed4-5902ae3c9c25"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In “He is coming home tomorrow”, you probably already know not to use the uncompleted for “coming”, since it will happen tomorrow. So you should interpret this as “He **will come home** tomorrow” and use:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Uuwi siya bukas.",
+        "english": "He is coming home tomorrow.",
+        "required": true,
+        "audioPath": "9574bcdb-8a71-42dc-b750-ded33a32ddbe"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In “You can see a lot of trees there”, you might expect to use the uncompleted for “see”. But if you mean “You **will be able to see** a lot of trees there”, we use:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Makikita mo ang maraming puno doon.",
+        "english": "You can see a lot of trees there.",
+        "required": true,
+        "audioPath": "e0ed9c7c-f2f1-43f8-8f95-e5db6a220f14"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In “Maria is getting a house in the Philippines”, you might expect to use the uncompleted for “getting”. But if you mean “Maria **will get** a house in the Philippines”, we use:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magkakaroon si Maria ng bahay sa Pilipinas.",
+        "english": "Maria is getting a house in the Philippines.",
+        "required": true,
+        "audioPath": "17d4b205-916a-44e5-9f9f-c0f875a0a441"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive instead of uncompleted.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The infinitive is sometimes used where you might expect uncompleted. Remember that the English definition of the infinitive and uncompleted are sometimes the same:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aral kayo ngayon!",
+        "english": "Study now!",
+        "required": true,
+        "audioPath": "7d312c28-4254-4980-aaf1-52cace655997"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aaral sila araw-araw.",
+        "english": "They study every day.",
+        "required": true,
+        "audioPath": "3eabf33d-9ad9-4e09-a9ee-1dcc6e581626"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "So when a sentence contains “study”, used as a verb, without “to” in front of it, be careful not to assume that it is uncompleted. The infinitive can also share the meaning “studying”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos na siyang mag-aral.",
+        "english": "She finished studying.",
+        "required": true,
+        "audioPath": "298a3d4c-ac0b-4603-8b6c-07d2e95b463e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aaral siya ngayon.",
+        "english": "She is studying now.",
+        "required": true,
+        "audioPath": "a78d29ec-da24-4743-931c-d15e00b8f3d8"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You might notice that in the second sentence, the auxiliary verb “is” is needed. The auxiliary verb is associated with the uncompleted. Optionally, just memorize which constructions take the infinitive, rather than relying on the English definitions."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive instead of contemplated.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "If you use the adverbs _baka_ or _sana_ with a future action, it is more common to use the infinitive, rather than contemplated."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Baka manalo ka bukas.",
+        "english": "Maybe you will win tomorrow.",
+        "required": true,
+        "audioPath": "afea3e9b-8ade-4f6f-9f50-28a641f15f2d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sana bigyan ako ni Angel ng halo-halo.",
+        "english": "I hope Angel will give me halo-halo.",
+        "required": true,
+        "audioPath": "3105f048-4233-4245-875c-c55bdd7e06b0"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Completed instead of uncompleted.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "When _kapag_ is used to connect two clauses and the first clause is contemplated, you may hear the completed in the second clause when you expect to hear the uncompleted:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bubuksan ni Maria ang pinto kapag nag-aral siya.",
+        "english": "Maria will open the door when she has studied. You might think the English sentence sounds a bit awkward, and it could be simplified to “when she studies”:",
+        "required": true,
+        "audioPath": "82d7165e-3fb8-40b2-8b68-8648ea311c95"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bubuksan ni Maria ang pinto kapag nag-aaral siya.",
+        "english": "Maria will open the door when she studies.",
+        "required": true,
+        "audioPath": "d378eea0-4971-48d5-abf5-4436e383e290"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But notice if you do that it changes the nuance of the sentence. The first sentence does not sound awkward to native Tagalog speakers, so it is best to get comfortable with that form."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Extra: Optional variations.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here are some of the many optional variations that you may encounter in the wild. These will not be included in the sample sentences."
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Uncompleted instead of completed\\*\\*"
+    },
+    {
+      "type": "p",
+      "markdown": "_Hindi pa_ verb optionally triggers uncompleted."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi pa natin naranasan yun.",
+        "english": "We (incl.) have not yet experienced that.",
+        "required": true,
+        "audioPath": "5f0d57eb-c4e6-42da-b274-b2e4643ca188"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi pa natin nararanasan yun.",
+        "english": "We (incl.) have not yet experienced that.",
+        "required": true,
+        "audioPath": "89a280aa-dafa-492f-af76-2b5f41a83c16"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Infinitive instead of completed.**"
+    },
+    {
+      "type": "p",
+      "markdown": "_Nang_ may be used as a conjunction to roughly mean “when”, although it is less common than the other words you learned. If the first clause is completed, _nang_ optionally triggers the infinitive in the second clause."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nanalo si David nang maglaro siya.",
+        "english": "David won when he played.",
+        "required": true,
+        "audioPath": "b1d8b62f-73f5-4930-9b20-6c008f34eeb1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nanalo si David nang naglaro siya.",
+        "english": "David won when he played.",
+        "required": true,
+        "audioPath": "0106db10-0507-4ed1-a0bf-21644e64db7c"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Infinitive instead of uncompleted.**"
+    },
+    {
+      "type": "p",
+      "markdown": "_Madalas_ may be used as an adverb that roughly means “often”. When used before a verb it optionally triggers the infinitive."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Madalas magluto si Jasmine ng adobo.",
+        "english": "Jasmine often cooks adobo.",
+        "required": true,
+        "audioPath": "a6e24380-a772-45c0-a4e9-56d6a52b933b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Madalas nagluluto si Jasmine ng adobo.",
+        "english": "Jasmine often cooks adobo.",
+        "required": true,
+        "audioPath": "237bb008-d1ce-44d9-9c23-4b8065ed0824"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Bakit hindi_ optionally triggers the infinitive. Note that, unlike the infinitive, the uncompleted here takes on a scolding nuance, so be careful how you use it."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bakit hindi mo makita?",
+        "english": "Why don’t you see? (For what reason?)",
+        "required": true,
+        "audioPath": "277df9c6-1ce0-4b30-bc08-f55b504b8688"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bakit hindi mo nakikita?",
+        "english": "Why don’t you see? (What on Earth is wrong with you?)",
+        "required": true,
+        "audioPath": "8a792cc4-c1af-4555-b244-988b5cb9beca"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Isasama ko ang kaibigan ko sa liwasan.",
+      "english": "I am going to take my friend along to the park.",
+      "required": true,
+      "audioPath": "08ba7c26-6d8b-4c9c-bb5b-24c669e40bf8"
+    },
+    {
+      "tagalog": "Magugustuhan ni Mark kapag ikinopya mo siya nito.",
+      "english": "Mark will like it when you have copied it for him.",
+      "required": true,
+      "audioPath": "3c07ac73-7921-48d7-8fb7-477229ab5b7f"
+    },
+    {
+      "tagalog": "Mahihirapan siya bukas.",
+      "english": "She will be having a hard time tomorrow.",
+      "required": true,
+      "audioPath": "d293d324-b413-4d56-a91a-25a1b1f094bb"
+    },
+    {
+      "tagalog": "Sana mapuntahan ni Luis ang Pilipinas.",
+      "english": "I hope Luis will be able to go to the Philippines.",
+      "required": true,
+      "audioPath": "df25aa46-682b-4795-8b6a-0ae4c499ed54"
+    },
+    {
+      "tagalog": "Mararanasan mo ang maraming bagay dun.",
+      "english": "You can experience many things there.",
+      "required": true,
+      "audioPath": "91d45d8b-349d-4abb-9865-ffc42a3b359b"
+    },
+    {
+      "tagalog": "Baka mamili kami ng pagkain sa tindahan.",
+      "english": "Maybe we (excl.) will shop for food in the store.",
+      "required": true,
+      "audioPath": "7abce4fa-1a3d-443c-8cb2-b73a33451c1d"
+    },
+    {
+      "tagalog": "Magkakaroon si Mrs. Castillo ng sasakyan sa Luzon.",
+      "english": "Mrs. Castillo is getting a car in Luzon.",
+      "required": true,
+      "audioPath": "c8598e75-e2c6-446c-9b0e-91f6df9e06e9"
+    },
+    {
+      "tagalog": "Maniniwala ako dito kapag nangyari ito.",
+      "english": "I will believe in it when it has happened.",
+      "required": true,
+      "audioPath": "91c03b2f-bed5-4ecf-a159-4972cf950ef2"
+    },
+    {
+      "tagalog": "Tapos na manood ang karamihan sa mga kaklase ko nito.",
+      "english": "Most of my classmates are finished watching it.",
+      "required": true,
+      "audioPath": "ca2e8913-cf5f-4a3d-b86f-10df165777d1"
+    },
+    {
+      "tagalog": "Sana pagsandukan niya ako ng adobo.",
+      "english": "I hope he will scoop me some adobo.",
+      "required": true,
+      "audioPath": "1bfada55-fb2d-4855-ab53-c2c4bacddd10"
+    }
+  ]
+}

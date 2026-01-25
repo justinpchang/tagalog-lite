@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson55",
+  "title": "Lesson 55 - Pag-...-An Verbs",
+  "vocabulary": [
+    {
+      "tagalog": "pag-usapan",
+      "english": "to have a discussion about something (RFF)",
+      "required": true,
+      "audioPath": "3803a876-be58-42c2-9141-aaf6555de680"
+    },
+    {
+      "tagalog": "pag-aralan",
+      "english": "to study something (OF(O))",
+      "required": true,
+      "audioPath": "b0ffbe59-e123-4464-803c-0bd9fb473461"
+    },
+    {
+      "tagalog": "pagtawanán",
+      "english": "to laugh at/mock something/someone (DF(D))",
+      "required": true,
+      "audioPath": "dda29cb0-119b-4b7c-a059-910821c13bcb"
+    },
+    {
+      "tagalog": "paglutuan",
+      "english": "to cook something somewhere (LF)",
+      "required": true,
+      "audioPath": "a542f6c4-a673-421c-a0fa-7dcf2d844e69"
+    },
+    {
+      "tagalog": "pagsandukán",
+      "english": "to scoop something to give to something/someone (DF(DO))",
+      "required": true,
+      "audioPath": "a165e7b0-b19f-418b-be31-8415e986885e"
+    },
+    {
+      "tagalog": "kawalì",
+      "english": "pan",
+      "required": true,
+      "audioPath": "5ba97f3e-f7e6-4454-8ca1-cce625973b00"
+    },
+    {
+      "tagalog": "mag-usap",
+      "english": "to discuss (AF(O))",
+      "required": false,
+      "audioPath": "b23836d7-7d6d-466d-9aba-cb7227d3abc4"
+    },
+    {
+      "tagalog": "*lutuan",
+      "english": "to cook something to give to someone (DF(DO))",
+      "required": false,
+      "audioPath": "fc63c71f-a56e-41a2-aed0-7d80db7cb3e5"
+    },
+    {
+      "tagalog": "*ipagluto",
+      "english": "to cook something for someone (BF)",
+      "required": false,
+      "audioPath": "0e348d1c-978a-44c1-8e75-6cc06a17a7f0"
+    },
+    {
+      "tagalog": "*isandok",
+      "english": "to scoop something for something/someone (BF)",
+      "required": false,
+      "audioPath": "2ef6abcf-ec12-4ce5-a6bb-8bfe5cf67cc5"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "_Pag-...-an_ verbs are second tier verbs that I included because some can be used to form RFF and LF sentences – two focuses that you have not encountered up to this point."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of Pag-...-an Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Used to form DF(D), DF(DO), LF, OF(O) or RFF sentences. LF and RFF have no symbols in parentheses after them because they can go with any variant."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add _pag_ before the root, like you did for _mag_- verbs. As with _mag_- verbs, insert the “–” if the root starts with a vowel. Add _an_ after the root, like you did for -_an_ verbs. Sometimes there is morphing, but all aspects are derived from the infinitive, so memorizing the infinitive is enough."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: usap => pag-usapan"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: aral => pag-aralan"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: luto => paglutuan"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: tawa => pagtawanán"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: sandok => pagsandukán"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Completed Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Take the infinitive and change the _pag_ into _pinag_. The rules for stress, for all aspects, are the same as for _mag_- verbs."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pag-usapan",
+        "english": "> pinag-usapan",
+        "required": true,
+        "audioPath": "4a5b8e48-c168-4eec-a577-44cfeb73d6f0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pag-aralan",
+        "english": "> pinag-aralan",
+        "required": true,
+        "audioPath": "28238e59-0be3-40de-9012-1adccc7807c5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "paglutuan",
+        "english": "> pinaglutuan",
+        "required": true,
+        "audioPath": "b7a82a6f-5bb9-4f1c-909c-d663a8882d4c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagtawanán",
+        "english": "> pinagtawanán",
+        "required": true,
+        "audioPath": "aa973278-a6d7-4972-a244-0a8452102506"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagsandukán",
+        "english": "> pinagsandukán",
+        "required": true,
+        "audioPath": "742f0364-6490-4c10-becf-344b0edbef80"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Uncompleted Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Take the infinitive, change the _pag_ into _pinag_ and repeat the first syllable of the root."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pag-usapan",
+        "english": "> pinag-úusapan",
+        "required": true,
+        "audioPath": "dd68ca14-4616-4967-89c2-6c9d9a96d9c5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pag-aralan",
+        "english": "> pinag-áaralan",
+        "required": true,
+        "audioPath": "cd47893d-eda7-43d0-9416-85509cd5ed9c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "paglutuan",
+        "english": "> pinaglúlutuan",
+        "required": true,
+        "audioPath": "737322b0-b11e-459b-a04f-0cc3299d661d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagtawanán",
+        "english": "> pinagtátawanán",
+        "required": true,
+        "audioPath": "4d89f460-0f93-41b4-89b7-7923623e019e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagsandukán",
+        "english": "> pinagsásandukán",
+        "required": true,
+        "audioPath": "8a6b60ad-a5ff-450f-b33e-d6d7bbb4cc29"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Contemplated Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Take the infinitive and duplicate the first syllable of the root."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pag-usapan",
+        "english": "> pag-úusapan",
+        "required": true,
+        "audioPath": "c6beed2f-fa19-469e-bc80-986a891a0fe3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pag-aralan",
+        "english": "> pag-áaralan",
+        "required": true,
+        "audioPath": "b801ac7f-ee76-47f5-920d-a2199cfb2783"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "paglutuan",
+        "english": "> paglúlutuan",
+        "required": true,
+        "audioPath": "06637ca1-fd7d-41cc-a4ed-258b71d444b2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagtawanán",
+        "english": "> pagtátawanán",
+        "required": true,
+        "audioPath": "38213e5c-0dc7-421a-9321-bac92e7363bf"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagsandukán",
+        "english": "> pagsásandukán",
+        "required": true,
+        "audioPath": "0fe5a632-78ac-464d-9155-09ccd42c568f"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Referential Focus (RFF)</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "RFF verbs all have something to do with communication, and add the nuance of “about” something. They correspond to _mag_- verbs, and take the same complements. But the _mag_- verbs have to use _tungkol sa_ to express the “about” nuance."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pag-usapan = to have a discussion about something, RFF"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pinag-usapan namin ang pera.",
+        "english": "We (excl.) discussed the money.",
+        "required": true,
+        "audioPath": "3c5dbe15-badb-41bd-bdbf-6f643d9e4514"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag-usap = to discus, AF(O)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-usap kami tungkol sa pera.",
+        "english": "We (excl.) discussed money.",
+        "required": true,
+        "audioPath": "f7d934f5-b046-432e-a349-1ff09679fd9b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "An RFF verb takes the same complements as its corresponding _mag_- verb. Referential Focus is pretty rare; it is only formed with a few _pag-...-an_ verbs, and no other affixes."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Locative Focus (LF)</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "\\*\\*LF verbs focus on the location\\*\\* in which an action occurs. They correspond to -_um_- or _mag_- verbs, and take the same complements. They have similarities to, and are sometimes confused with DF verbs. But unlike LF verbs, **DF verbs may focus on a direction/destination/goal** of an action. To show the grammatical difference, here is a comparison of double-object (DO) sentences in both focuses."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: lutuan = to cook something to give to someone (DF)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nilutuan niya sila ng adobo sa kawali.",
+        "english": "She cooked adobo for them in the pan. (DF)",
+        "required": true,
+        "audioPath": "25e679b0-c894-41a6-b285-fef4ff6410de"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: paglutuan = to cook something somewhere (LF)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pinaglutuan niya ng adobo ang kawali para sa kanila.",
+        "english": "She cooked adobo for them in the pan. (LF)",
+        "required": true,
+        "audioPath": "577ced40-e439-465e-a309-7878effc4102"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "An LF verb takes the same complements as its corresponding _mag_- verb. Locative Focus is also quite rare; it is only formed with three different affixes, of which _pag-...-an_ verbs are the most common."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Pareho silang mahirap pag-usapan.",
+      "english": "They are both hard to talk about.",
+      "required": true,
+      "audioPath": "fd0e9e36-543c-4fd8-ad80-28be2e7da81b"
+    },
+    {
+      "tagalog": "Pag-aaralan ni Joshua ang pinakanakakatuwa nang mga alas singko.",
+      "english": "Joshua will study the funnest one around five o'clock.",
+      "required": true,
+      "audioPath": "6a142ccb-994c-4bd4-9d58-6d276c1d73ce"
+    },
+    {
+      "tagalog": "Huwag mong pagtawanan ang sarili mo nang ganun.",
+      "english": "Do not laugh at yourself like that.",
+      "required": true,
+      "audioPath": "23f5654c-436f-4d68-84a0-17a52cc8def7"
+    },
+    {
+      "tagalog": "Paglulutuan ba ni Jasmine ng manok ang kawali para sa kanila, parang nanay nila?",
+      "english": "Will Jasmine cook adobo for them in the pan, like their mother?",
+      "required": true,
+      "audioPath": "a5b514e3-50ac-4f84-9b12-9c76b01cbfb0"
+    },
+    {
+      "tagalog": "Pagsandukan po ninyo ng adobo ang nakatira sa lugar ni Analyn.",
+      "english": "Scoop some adobo for the one living at Analyn's place. (resp.)",
+      "required": true,
+      "audioPath": "7cb2b5d2-e64d-466c-a7b4-e593b6c186df"
+    },
+    {
+      "tagalog": "Pinag-usapan namin ang lalaking may sobrang bilis na sasakyan.",
+      "english": "We discussed the man who has the very fast car.",
+      "required": true,
+      "audioPath": "f9ae1aa7-b1d9-49cb-a2bf-06db08cced29"
+    },
+    {
+      "tagalog": "Kasing hirap nito ang mga pinag-aaralan mo, di ba?",
+      "english": "The ones you are studying are just as difficult as this, right?",
+      "required": true,
+      "audioPath": "0d4ea974-52d1-466b-baf5-0ec8669c33ac"
+    },
+    {
+      "tagalog": "Mas gusto ni David na pagtawanan si Maria kaysa kay Angel.",
+      "english": "David likes to mock Maria more than Angel.",
+      "required": true,
+      "audioPath": "499dc037-2f41-4cc5-9e56-9905471a0366"
+    },
+    {
+      "tagalog": "Pinaglutuan niya ng manok ang kawali nang ganito.",
+      "english": "He cooked chicken in the pan like this.",
+      "required": true,
+      "audioPath": "a05ebbb6-282f-4f26-a85a-e9d92e28c0e0"
+    },
+    {
+      "tagalog": "Magkakaaso si Joe, kaya pinagsandukan ko siya ng tubig.",
+      "english": "Joe will have a dog, so I scooped him some water. (magka-)",
+      "required": true,
+      "audioPath": "483db5b3-98e2-4e85-a5d4-f569050fb399"
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson57",
+  "title": "Lesson 57 – The Remaining Question Words; Paano, Gaano, Kumusta, Bakit",
+  "vocabulary": [
+    {
+      "tagalog": "paano",
+      "english": "how; in which way",
+      "required": true,
+      "audioPath": "0ef025e4-727f-4b6a-a442-5a8201b6142f"
+    },
+    {
+      "tagalog": "gaano",
+      "english": "how; to what extent",
+      "required": true,
+      "audioPath": "d39de692-d018-4380-992b-6627f56f3995"
+    },
+    {
+      "tagalog": "kumustá",
+      "english": "how is; how are",
+      "required": true,
+      "audioPath": "a1178d6c-b69c-4034-a860-0ee9b72424e8"
+    },
+    {
+      "tagalog": "bakit",
+      "english": "why",
+      "required": true,
+      "audioPath": "17dcc606-7554-4511-8f1c-4cb4b0442dd7"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "**Appendix K** has a table of all the question words with definitions and example sentences. This lesson will cover the four words you have not seen yet: _paano, gaano, kumusta_ and _bakit_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Paano</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Paano_ roughly means “how” as in “in which way”. Like most of the other question words, it can start a question:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Paano\\*\\*+ phrase? (Tag.) = How phrase? (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Paano ka natulog?",
+        "english": "How did you fall asleep?",
+        "required": true,
+        "audioPath": "3bc78e60-1c66-4ccd-8507-2eb49392e5a4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Paano niya gusto ito?",
+        "english": "How does she like it?",
+        "required": true,
+        "audioPath": "6c9745c2-ea47-43e9-82a7-c7f1361dc567"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "And as mentioned in an earlier lesson, question words can be used in a non-question sentences after _kung_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ko nakita kung paano niya ginawa ito.",
+        "english": "I did not see how she did it.",
+        "required": true,
+        "audioPath": "7cc12fb2-5757-404f-866d-07617179b9b2"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Gaano</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Gaano_ roughly means “how” as in “to what extent”. It is used with adjective roots in a way similar to _ganito/ganun_:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*gaano\\*\\*+ (ka + adj root) (Tag.) = how adjective (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gaano ka kapagod?",
+        "english": "How tired are you?",
+        "required": true,
+        "audioPath": "a3e60b56-4f6a-47c7-b282-8bcef2a895c0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakita ko kung gaano siya kaganda.",
+        "english": "I saw how beautiful she was.",
+        "required": true,
+        "audioPath": "50c5e872-229e-4559-b4c4-d535b9af93e7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gaano siya kabilis magluto ng adobo?",
+        "english": "How fast does she cook adobo?",
+        "required": true,
+        "audioPath": "ff68f4d9-2a02-4723-a7ba-54a065568a8e"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You might have been expecting the uncompleted, _nagluluto_, in the previous example, but it takes the infinitive when the meaning is “in general”. When there is a time frame involved, the verb behaves as expected:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gaano siya kabilis nagluto ng adobo?",
+        "english": "How fast did she cook adobo?",
+        "required": true,
+        "audioPath": "b7f5c137-3870-46bc-ab62-b6caf639eabd"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Extra: Gaano (ba) Ang</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Another way to say “how much” is with _gaano (ba) ang:_"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gaano (ba) ang kailangan mo?",
+        "english": "How much do you need?",
+        "required": true,
+        "audioPath": "136fe3fc-e9b8-4918-9494-28bac2e18bef"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "As has been mentioned previously, _ba_ is optional after question words, and serves as sort of an intensifier. To avoid confusion with _gaano karami_, we will not use this construction; I just wanted you to know that you may hear this."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ilan vs Magkano vs Gaano</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These words sometimes have similar or overlapping meanings, so it is worth comparing them here."
+    },
+    {
+      "type": "p",
+      "markdown": "\\*\\*ilan\\*\\*– how many; some"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ilan ang mga mangga?",
+        "english": "How many mangoes are there?",
+        "required": true,
+        "audioPath": "73a70e55-f85c-411a-acda-b0bf403ddc4c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ilang mangga.",
+        "english": "Some mangoes.",
+        "required": true,
+        "audioPath": "18b227a4-0f7a-4368-a09a-c73b6c968ff9"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "\\*\\*magkano\\*\\*– how much (money)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magkano ang sasakyan?",
+        "english": "How much is the car?",
+        "required": true,
+        "audioPath": "d3ba9998-65a7-4a26-a9e5-92b261dbb000"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magkano ang mga mangga?",
+        "english": "How much are the mangoes?",
+        "required": true,
+        "audioPath": "f3d1b432-c8f4-4bd4-bb72-efba9cf17a90"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "\\*\\*gaano\\*\\*– how; to what extent"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gaano karaming pagkain?",
+        "english": "How much food?",
+        "required": true,
+        "audioPath": "fe15c637-df80-4822-bf5d-3221cde1ad59"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gaano karaming mangga?",
+        "english": "How many mangoes?",
+        "required": true,
+        "audioPath": "02458adc-47d5-41d7-a784-f5f865e6cb11"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Kumusta</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Kumusta_ roughly means “how is” or “how are”."
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*kumusta\\*\\*+ noun phrase (Tag.) = how is/are noun phrase (Eng.)"
+    },
+    {
+      "type": "p",
+      "markdown": "It can be a simple greeting."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumusta!",
+        "english": "Hi!",
+        "required": true,
+        "audioPath": "313142dc-0197-44b4-a7ed-9216f35bc2d9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumusta ka?",
+        "english": "How are you?",
+        "required": true,
+        "audioPath": "4da0923c-6bbe-47af-8f70-aa65b730f94c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumusta po kayo?",
+        "english": "How are you? (resp.)",
+        "required": true,
+        "audioPath": "9eb02c33-fd2c-4069-a89e-dcdba5ec46cf"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It can also be a normal interrogative."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumusta ang halo-halo mo?",
+        "english": "How is your halo-halo?",
+        "required": true,
+        "audioPath": "33bb81ca-2a42-4298-b564-82c056d43040"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumusta si Maria?",
+        "english": "How is Maria?",
+        "required": true,
+        "audioPath": "4f08098a-aaf4-41f9-b299-f2c0aaa0ddf9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alam ko kung kumusta siya.",
+        "english": "I know how she is.",
+        "required": true,
+        "audioPath": "ddfa2884-72d9-460f-9783-cb9acd90f99c"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Bakit </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Bakit_ roughly means “why”."
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Bakit\\*\\*+ phrase? (Tag.) = Why phrase? (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bakit hindi?",
+        "english": "Why not?",
+        "required": true,
+        "audioPath": "179d97eb-8aaa-4c3b-baf2-c00f10fe9336"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bakit ka naglalagay ng aso sa CR?",
+        "english": "Why are you putting a dog in the restroom?",
+        "required": true,
+        "audioPath": "7a376b6a-2a21-475c-9fa2-d039b21e01c7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tinanong niya kung bakit ako naglalagay ng aso sa CR.",
+        "english": "She asked why I am putting a dog in the restroom.",
+        "required": true,
+        "audioPath": "80848ced-26d6-46ae-a4b7-2f6ce5ae0f44"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Bakit behaves like a host for Ito and Yun</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Colloquially, in _bakit_ phrases, similar to _hindi_ and _huwag_, demonstrative pronouns _ito_ and _yun_ are normally placed at the end of the enclitic cluster by native speakers."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bakit nila ito gagawin?",
+        "english": "Why will they make it?",
+        "required": true,
+        "audioPath": "343d6add-cfbd-4472-96d2-ff221ae4fc6a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bakit niya yun sinabi?",
+        "english": "Why did he say that?",
+        "required": true,
+        "audioPath": "ec9b99d2-b318-42cf-890e-73347e1f0c76"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bakit ito umalis?",
+        "english": "Why did it leave?",
+        "required": true,
+        "audioPath": "b9497231-73ce-4a51-bc24-12ca30ece5ef"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Bakit po ninyo ito pinag-aaralan sa Seattle?",
+      "english": "Why are you (pl.) studying it in Seattle? (resp.)",
+      "required": true,
+      "audioPath": "b313bc3a-fd45-4c9d-a228-ee3f1f6eac70"
+    },
+    {
+      "tagalog": "Paano mo nakuha ang pinakamabilis mong sasakyan?",
+      "english": "How did you get your fastest car?",
+      "required": true,
+      "audioPath": "091ce342-551c-4f55-a3d4-f6e707016931"
+    },
+    {
+      "tagalog": "Hindi ko alam kung kumusta siya, kasi sobrang init dito.",
+      "english": "I do not know how she is, because it is very hot here.",
+      "required": true,
+      "audioPath": "e43c8e13-3fd9-46fd-b330-da9858895dca"
+    },
+    {
+      "tagalog": "Gaano kahirap ang lalaking pinag-usapan nila?",
+      "english": "How poor is the man that they were discussing?",
+      "required": true,
+      "audioPath": "cc8ec5ae-a38c-4d96-ad7e-fc1bd9a5e53d"
+    },
+    {
+      "tagalog": "Bakit mas masarap ang halo-halo kaysa sa tsokolate?",
+      "english": "Why is halo-halo more delicious than chocolate?",
+      "required": true,
+      "audioPath": "a30e1129-3ce9-4b97-b223-dbf28023e979"
+    },
+    {
+      "tagalog": "Alam ni Mark kung paano paglutuan ang kawali para sa kanila.",
+      "english": "Mark knows how to cook for them in the pan.",
+      "required": true,
+      "audioPath": "d6d4953c-7630-4650-ae63-bdbb5c793a87"
+    },
+    {
+      "tagalog": "Kumusta ka? Masaya, di ba? Kasing saya kita.",
+      "english": "How are you? Happy, right? I am just as happy as you.",
+      "required": true,
+      "audioPath": "53e1cd83-08bf-41a7-b8fa-35d759482149"
+    },
+    {
+      "tagalog": "Alam mo ba kung gaano kabilis ang sasakyang pinagtawanan mo?",
+      "english": "Do you know how fast the car you were laughing at is?",
+      "required": true,
+      "audioPath": "7966ea41-5b5e-4ecc-966f-023c22bbb5e4"
+    },
+    {
+      "tagalog": "Bakit hindi pareho ang mga yun? Bigyan mo ako ng kalahati!",
+      "english": "Why aren't those the same? Give me half!",
+      "required": true,
+      "audioPath": "49379815-ccf8-4230-88dd-e8fc12720e33"
+    },
+    {
+      "tagalog": "Paano sila pagsasandukan ni Sir Bautista ng adobo?",
+      "english": "How will Mr. Bautista scoop them adobo?",
+      "required": true,
+      "audioPath": "c53e4838-2afd-4da9-9111-83c290a374b6"
+    }
+  ]
+}

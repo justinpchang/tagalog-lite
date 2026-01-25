@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson44",
+  "title": "Lesson 44 - Ma-...-an Verbs",
+  "vocabulary": [
+    {
+      "tagalog": "malaman",
+      "english": "to find out/know something (OF(O), OF(a))",
+      "required": true,
+      "audioPath": "da5686a5-4dd4-488d-a44d-2ef6dc695544"
+    },
+    {
+      "tagalog": "magustuhán",
+      "english": "to like something (OF(O), OF(a))",
+      "required": true,
+      "audioPath": "9b6de208-003a-4a84-a496-09ea90e80275"
+    },
+    {
+      "tagalog": "maranasan",
+      "english": "to experience something (OF(O), OF(a))",
+      "required": true,
+      "audioPath": "ec9c1a75-d87f-4eff-88de-dac0e6ae275c"
+    },
+    {
+      "tagalog": "mahirapan",
+      "english": "to have difficulty (AF(I))",
+      "required": true,
+      "audioPath": "d4907252-6254-4ab5-b2ca-d4bb1936c3d2"
+    },
+    {
+      "tagalog": "mapuntahán",
+      "english": "to be able to go somewhere (DF(D), DF(a))",
+      "required": true,
+      "audioPath": "42715560-e715-420e-9d7a-211519a6f856"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "We will call verbs not in the big six “second tier”. _Ma-...-an_ is among the most frequently used second tier verb. They conjugate the same as _ma_- verbs, and they are closely related. _Ma-...-an_ verbs are either AF(I), OF or DF. A few are both AF and OF, but we will not cover those for simplicity."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of AF ma-...-an verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "They are all AF(I), meaning they form sentences without objects."
+    },
+    {
+      "type": "p",
+      "markdown": "Their actors are experiencers, and the verbs may express experiencing an emotion or something unintentionally."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of OF ma- verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The only variant is OF(O)."
+    },
+    {
+      "type": "p",
+      "markdown": "These do not form imperatives."
+    },
+    {
+      "type": "p",
+      "markdown": "They may have the nuance OF(a), which means “to be able” to do something, they may have the nuance of doing something unintentionally, and they may have neither of these nuances depending on context."
+    },
+    {
+      "type": "p",
+      "markdown": "Some are used for sensing something."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of DF ma-...-an verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The only variant is DF(D)."
+    },
+    {
+      "type": "p",
+      "markdown": "These do not form imperatives."
+    },
+    {
+      "type": "p",
+      "markdown": "They normally indicate doing something in the direction of something."
+    },
+    {
+      "type": "p",
+      "markdown": "They may have the nuance DF(a), which means “to be able” to do something in the direction of something."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ma-...-an Verb Aspects</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ma-...-an_ verbs aspects are formed as shown. Notice that they have the same aspect formation and stress pattern rules as _ma_- verbs."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "malaman",
+        "english": "> nalaman, nalalaman, malalaman",
+        "required": true,
+        "audioPath": "8d1c5442-a08b-4647-88f5-f4e009512fd3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magustuhán",
+        "english": "> nagustuhán, nagúgustuhán, magúgustuhán",
+        "required": true,
+        "audioPath": "a9731ae9-ba5b-4e80-b557-f7f4142dcba8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "maranasan",
+        "english": "> naranasan, naráranasan, maráranasan",
+        "required": true,
+        "audioPath": "f09e1db4-c388-4f05-93a8-2067e224ee36"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nalaman nila kung sino siya.",
+        "english": "They found out who she is.",
+        "required": true,
+        "audioPath": "3c9a43fa-be55-4567-8362-7038490d6fb3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Baka mararanasan mo ang mahirap na tanong.",
+        "english": "Maybe you will experience the difficult question.",
+        "required": true,
+        "audioPath": "2e809639-f6df-4767-b240-dcab317666df"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Gusto vs Magustuhan</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As mentioned in an earlier lesson, there are some verbs that can be used instead of pseudo verbs:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagugustuhan ni Joe si Maria. = Joe likes Maria.",
+        "english": "Joe likes Maria.",
+        "required": true,
+        "audioPath": "9b065b5d-c216-4423-a4a6-0f8d40e46cb0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ni Joe si Maria.",
+        "english": "Joe likes Maria.",
+        "required": true,
+        "audioPath": "8eca43de-8c3c-495f-b772-51aa45a62f7e"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Although the above sentence is simpler with the pseudo verb, the following aspects cannot be expressed with _gusto_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagustuhan ni Joe si Maria.",
+        "english": "Joe liked Maria.",
+        "required": true,
+        "audioPath": "66a5baee-213b-4f34-b9f8-8361933cc4fe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magugustuhan ni Joe si Maria.",
+        "english": "Joe will like Maria.",
+        "required": true,
+        "audioPath": "cf350d2b-c36d-4b6d-88d3-2979584930bb"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "To be consistent, we will not use _magustuhan_ in uncompleted aspect from now on."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Have you ever been to…?</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "It is pretty common to ask “have you ever been to” someplace. When you want the focus to be on the place, you can use _mapuntahan_. The enclitic particles are not very intuitive here, so it is better just to memorize the basic structure."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q: Napuntahan mo na ba ang Cebu?",
+        "english": "Have you ever been to Cebu?",
+        "required": true,
+        "audioPath": "9b6cea2d-524d-45dd-af67-85f201e508f7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "A: Hindi ko pa napupuntahan ang Cebu.",
+        "english": "I have not ever been to Cebu.",
+        "required": true,
+        "audioPath": "618ab18c-b61e-48a6-b0de-34124f37d5d8"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sabi ni Joe, nalaman niya kung sino ang guro nung mga alas-dos.",
+      "english": "Joe said he found out who the teacher was around two o'clock.",
+      "required": true,
+      "audioPath": "d032e943-e251-42e3-a077-44e043d96b23"
+    },
+    {
+      "tagalog": "Baka nagustuhan ni Diego si Analyn.",
+      "english": "Maybe Diego liked Analyn.",
+      "required": true,
+      "audioPath": "b5c6e534-9fbc-475f-84d3-7835303c52ca"
+    },
+    {
+      "tagalog": "Alam po ba ninyo kung ano ang nararanasan ni Jessica ngayon?",
+      "english": "Do you know what Jessica is experiencing now? (resp.)",
+      "required": true,
+      "audioPath": "47d32267-a54a-4e67-9593-00ec0ee821db"
+    },
+    {
+      "tagalog": "Talagang mahihirapan silang maglagay ng pusa sa CR.",
+      "english": "It will really be hard for them to put a cat in the restroom.",
+      "required": true,
+      "audioPath": "a50bdaa5-54c7-4883-bf98-a0b1fdfe1e35"
+    },
+    {
+      "tagalog": "Napuntahan na ba nila ang Pilipinas nung Setyembre?",
+      "english": "Have they ever been to the Philippines in September?",
+      "required": true,
+      "audioPath": "4a955927-95eb-4999-a838-13cfbd2609ac"
+    },
+    {
+      "tagalog": "Nalaman namin ang tungkol sa ikalima ng Abril.",
+      "english": "We (excl.) found out about the fifth of April.",
+      "required": true,
+      "audioPath": "09cee16b-648b-42e8-97dc-556b2b7e4db3"
+    },
+    {
+      "tagalog": "Sa tingin ko naman, magugustuhan mo ang Cebu.",
+      "english": "On the other hand, I think you will like Cebu.",
+      "required": true,
+      "audioPath": "1fbf8964-f9e2-4048-a80c-9fb2877ad820"
+    },
+    {
+      "tagalog": "Ayaw ni Mark na maranasan ito dahil sa pera, no?",
+      "english": "Mark does not want to experience it due to money, right?",
+      "required": true,
+      "audioPath": "26b00f99-40ac-41a6-b8d8-d685088bbbc0"
+    },
+    {
+      "tagalog": "Nahirapan ka bang magmaneho sa ulan?",
+      "english": "Did you find it difficult to drive in the rain?",
+      "required": true,
+      "audioPath": "4631258b-5c28-4e0b-8e40-b6005b0c0d30"
+    },
+    {
+      "tagalog": "Hindi nila mapupuntahan ang Luzon sa gabi para sa iyo.",
+      "english": "They will not be able to go to Luzon at night for you.",
+      "required": true,
+      "audioPath": "5cd83ad8-06d1-4da5-8c23-fffc343dac08"
+    }
+  ]
+}

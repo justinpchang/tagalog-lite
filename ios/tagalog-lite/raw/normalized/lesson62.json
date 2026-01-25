@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson62",
+  "title": "Lesson 62 - Making Requests Polite and Saying Please with Paki-",
+  "vocabulary": [
+    {
+      "tagalog": "paki-",
+      "english": "verb prefix that adds the nuance please",
+      "required": true,
+      "audioPath": "5b67ea92-1937-4998-9434-79ef7d6d8486"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "When you speak to someone who you do not know well, is older than you, has a higher status or you just want to be really nice to, it is best to soften your requests. This lesson covers how to make a request more polite or have the nuance “please”."
+    },
+    {
+      "type": "p",
+      "markdown": "You have seen several ways to do this already."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Po</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Po_ will make your requests more respectful."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tawagin po ninyo si David.",
+        "english": "Call out to David. (resp.)",
+        "required": true,
+        "audioPath": "09badd76-68ff-4fd6-8391-2879ae8e61ce"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ituro po natin ang gusali.",
+        "english": "Let’s point out the building. (resp.)",
+        "required": true,
+        "audioPath": "994f630b-9110-41c9-843c-a830552fefbb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Buksan po ninyo ang pinto.",
+        "english": "Open the door. (resp.)",
+        "required": true,
+        "audioPath": "a5fd6f6e-8a95-4091-94d1-53fbd1e00809"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Nga</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Nga_ can make a noun clause into a gentle request, or soften a standard request."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tubig nga po!",
+        "english": "Water please! (soft)(resp.)",
+        "required": true,
+        "audioPath": "bb0c6c49-18ac-4e23-8e7e-2650489140a2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ituro nga natin ang gusali.",
+        "english": "Let’s point out the building. (soft)",
+        "required": true,
+        "audioPath": "bbe188ae-de39-4d04-a98e-fd1ac8572c67"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Dalawang mangga nga.",
+        "english": "Two mangoes. (soft)",
+        "required": true,
+        "audioPath": "3a39839f-91fe-4c3b-b3ff-d305210606ee"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Puwede</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You can also make a request softer or more polite by making it into a question with _puwede_."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwede mo bang tawagin si David?",
+        "english": "Can you call out to David?",
+        "required": true,
+        "audioPath": "45175b82-59b3-4c16-952d-574bd40a1c0f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwede po ba nating ituro ang gusali?",
+        "english": "Can we point out the building? (resp.)",
+        "required": true,
+        "audioPath": "65154457-b915-402a-880c-ae069ab7fdb5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwede nga po ba ninyong buksan ang pinto?",
+        "english": "Can you open the door? (soft)(resp.)",
+        "required": true,
+        "audioPath": "d8382137-b4e1-40e8-a7ae-2b4ece59ab51"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Paki- </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Paki_- can be added to non AF verb stems to give the meaning “please”. It is not used nearly as often as _po_ and _nga_ to soften requests in colloquial speech, so use it sparingly. Although its verb aspects can be used, normally it is used as an infinitive in imperative sentences, so we will only use it that way. Unlike normal imperative sentences, these do not take personal pronouns."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Buksan mo ang pinto.",
+        "english": "Open the door. Notice that mo is used. But for paki imperatives:",
+        "required": true,
+        "audioPath": "97dfa55d-d08d-4c70-9025-8bef35696cee"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pakibukas ang pinto.",
+        "english": "Please open the door.",
+        "required": true,
+        "audioPath": "0a6f2832-0d42-4f1b-a320-b9b566fefbe8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pakituro po ng Ingles ang bata.",
+        "english": "Please teach the child English. (resp.)",
+        "required": true,
+        "audioPath": "c8274b26-d426-4302-b155-1d88aef4cd64"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pakikuha nga po ang aso.",
+        "english": "Please get the dog. (resp.)(soft)",
+        "required": true,
+        "audioPath": "97630339-f888-4ead-91cc-25f85fb978de"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Pagkatapos mamatay ang pangulo, pakiluto ang lechon.",
+      "english": "After the president dies, please cook the lechon. (pagkatapos)",
+      "required": true,
+      "audioPath": "b6438836-0c0c-427b-aa8e-4f32fe47b5ce"
+    },
+    {
+      "tagalog": "Pagkakain ni Diego, pakigawa nga po ang mga inumin.",
+      "english": "After David eats, please make the drinks. (resp.)(soft)(pagka-)",
+      "required": true,
+      "audioPath": "efcb6ba8-a586-4ff0-9321-8e262615a5bd"
+    },
+    {
+      "tagalog": "Puwede ka bang magpapunta ng sasakyan sa Parañaque sa ikawalo ng Hunyo?",
+      "english": "Can you have a vehicle go to Parañaque on the 8th of June?",
+      "required": true,
+      "audioPath": "58ca2cf4-2d83-4d44-8248-425800bd34db"
+    },
+    {
+      "tagalog": "Mahilig si Joshua sa pagluluto, kaya pakikuha siya ng manok.",
+      "english": "Joshua likes cooking, so please get him a chicken.",
+      "required": true,
+      "audioPath": "93b215bf-5205-4430-a557-30fdc76d44cd"
+    },
+    {
+      "tagalog": "Sabihin mo nga sa akin kung kanino mo ibinigay ito dati.",
+      "english": "Tell me who you gave it to before. (soft)",
+      "required": true,
+      "audioPath": "7eddc9ee-2d3e-48a5-8a2e-cbafc97509ef"
+    },
+    {
+      "tagalog": "Puwede mo nga ba sabihan si Sir Bautista kung gaano sila kahirap?",
+      "english": "Can you tell Mr. Bautista how poor they are?",
+      "required": true,
+      "audioPath": "c553bcb2-c2a8-4621-a5a3-6f55e576774a"
+    },
+    {
+      "tagalog": "Pakituro sa akin kung bakit ito bawal.",
+      "english": "Please show me why this is prohibited.",
+      "required": true,
+      "audioPath": "0f5ac1e5-5021-48d3-9d7c-d9bcb2f3aa3b"
+    },
+    {
+      "tagalog": "Pagawain nga po ninyo si David ng bagong bahay.",
+      "english": "Have David build a new house. (resp.)(soft)",
+      "required": true,
+      "audioPath": "f0a84fc6-9c2c-415e-8ce6-741475207c32"
+    },
+    {
+      "tagalog": "Puwede mo bang sagutin kung nakanino siya?",
+      "english": "Can you answer at whose place she is at?",
+      "required": true,
+      "audioPath": "79ff88d9-8629-47d4-8f65-56035153685c"
+    },
+    {
+      "tagalog": "Pakibili ang pagkain, tapos tawagin ninyo si Luis.",
+      "english": "(you pl.)Please buy the food, then call out to Luis.",
+      "required": true,
+      "audioPath": "c185e3d2-2ca7-40c8-8f0e-e239bd58e77a"
+    }
+  ]
+}

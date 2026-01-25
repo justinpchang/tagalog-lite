@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson51",
+  "title": "Lesson 51 - Mang- Verbs",
+  "vocabulary": [
+    {
+      "tagalog": "mamilí",
+      "english": "to shop for (AF(O))",
+      "required": true,
+      "audioPath": "3d12b976-5bb2-4128-a7d7-c59c5379314f"
+    },
+    {
+      "tagalog": "manoód",
+      "english": "to watch (AF(O))",
+      "required": true,
+      "audioPath": "144f4da5-3d6c-4531-9eee-f1c295f77542"
+    },
+    {
+      "tagalog": "mangyari",
+      "english": "to happen (AF(D))",
+      "required": true,
+      "audioPath": "50f24a65-7aea-48ef-beb2-81b93fc8e29e"
+    },
+    {
+      "tagalog": "maniwalà",
+      "english": "to believe (AF(D))",
+      "required": true,
+      "audioPath": "066bbd0b-a0c0-4dcd-9f0f-a0833674e792"
+    },
+    {
+      "tagalog": "mamasyál",
+      "english": "to take a walk (AF(I))",
+      "required": true,
+      "audioPath": "abcb8f86-73ac-4338-8bd2-479395664053"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "_Mang_- verbs are second tier AF verbs. Verb affixes that end in _ng_, of which _mang_- is the most common by far, have a tendency to morph when they attach themselves with certain roots. There are so many rules for this that they are not worth memorizing, but the result is that _mang_- verbs often look like _ma_- verbs. The _ng_ often changes into either _m_ or _n_, and may or may not replace the first letter of the root."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mang + bili = mamili"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mang + nood = manood"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mang + pasyal = mamasyal"
+    },
+    {
+      "type": "p",
+      "markdown": "Despite all the morphing, all aspects can be derived from the infinitive, so memorizing the infinitive is enough."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of Mang- Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Mang_- verbs are AF, with possible variants AF(O), AF(D) and AF(I)"
+    },
+    {
+      "type": "p",
+      "markdown": "_MangY_ normally means “to do Y”"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Mang- Verb Aspects</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Mang_- verbs aspects are formed as shown. Notice that it has the same aspect formation and stress pattern rules as _ma_- verbs."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mamilí",
+        "english": "> namilí, namímilí, mamímilí",
+        "required": true,
+        "audioPath": "0e7edbdf-d350-4958-9ba8-72ed18662b5c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "manoód",
+        "english": "> nanoód, nanónoód, manónoód",
+        "required": true,
+        "audioPath": "4436e113-4ed0-4425-9fc0-f503801d6ba2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mangyari",
+        "english": "> nangyari, nangyayari, mangyayari",
+        "required": true,
+        "audioPath": "b5a1900b-dc07-4a08-ad7b-2863e0d41043"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mamili ka nga ng pagkain.",
+        "english": "Shop for food. (soft)",
+        "required": true,
+        "audioPath": "79fc69f8-6a1e-46fe-923a-6685a5d2c9b6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nanonood si Maria ng TV araw-araw.",
+        "english": "Maria watches TV every day.",
+        "required": true,
+        "audioPath": "cb3d48cc-8153-4783-a14a-9645786185d0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinabi niya sa akin kung ano ang nangyari.",
+        "english": "She told me what happened.",
+        "required": true,
+        "audioPath": "e6f90a63-f492-42e1-b597-78234bea5421"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Kailangan ni Analyng mamili, kasi magkakaroon siya ng aso bukas.",
+      "english": "Analyn needs to shop, because she will have a dog tomorrow.",
+      "required": true,
+      "audioPath": "f8255b2d-b1bd-4f7c-9004-efbe58b2e88b"
+    },
+    {
+      "tagalog": "Hindi siya nakatutok kapag nanonood siya ng TV, no?",
+      "english": "He is not focused when he watches TV, is he?",
+      "required": true,
+      "audioPath": "099d59be-815b-4174-878a-933d4da0364c"
+    },
+    {
+      "tagalog": "Ano ang nangyari? Naging guro ba siya?",
+      "english": "What happened? Did she became a teacher?",
+      "required": true,
+      "audioPath": "3f060a00-bdde-4ed2-885b-a71a3535463e"
+    },
+    {
+      "tagalog": "Naniwala ba si Diegong meron na akong bahay?",
+      "english": "Did Diego believe that I have a house already?",
+      "required": true,
+      "audioPath": "e0ebd02f-11e5-4efb-a25e-17ef72ab88f3"
+    },
+    {
+      "tagalog": "Hindi ako nakakain, kaya namasyal ako.",
+      "english": "I was not able to eat, so I went for a walk.",
+      "required": true,
+      "audioPath": "e935a6b1-5926-42bc-8c04-5fdc42c16406"
+    },
+    {
+      "tagalog": "Namili ba si Mark para makapagluto ng lechon?",
+      "english": "Did Mark go shopping in order to cook lechon?",
+      "required": true,
+      "audioPath": "c0345af3-b501-49f4-a21e-e78bcdfd7306"
+    },
+    {
+      "tagalog": "Nagkapera ang nanonood ng TV nung taong dalawang libo't anim.",
+      "english": "The one watching TV had money in the year 2006.",
+      "required": true,
+      "audioPath": "05a2b0c1-bd17-4a28-9ef4-0c9653c87d57"
+    },
+    {
+      "tagalog": "Malalaman ni Jasmine kung ano ang mangyayari sa Huwebes",
+      "english": "Jasmine will find out what is happening on Thursday..",
+      "required": true,
+      "audioPath": "ea42c1a2-b85e-4e81-8433-b8324b20ee47"
+    },
+    {
+      "tagalog": "Hindi ako naniniwala sa maraming bagay.",
+      "english": "I do not believe in many things.",
+      "required": true,
+      "audioPath": "e0179485-9219-4fb9-b03b-ca333174efe5"
+    },
+    {
+      "tagalog": "Huwag po kayong mamasyal nang alas nuwebe ng gabi.",
+      "english": "Do not go for a walk at 9pm. (resp.)",
+      "required": true,
+      "audioPath": "b92893bc-d24f-49fc-a86a-e774abc0afe4"
+    }
+  ]
+}

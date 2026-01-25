@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson65",
+  "title": "Lesson 65 - More on Selecting Focus",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In the sample sentences you have done up to this point, you have been told which specific item to focus on, or what type of focus the sentence has. In this lesson we will review some of the information in **Appendix G** and give you some more tips for selecting the focus, and hence, the correct verb."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Tips for Selecting Focus that you have already seen</u>"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Use emphasis.**"
+    },
+    {
+      "type": "p",
+      "markdown": "The word that you would emphasize in English is often the focus in Tagalog. If you would emphasize the actor, object or X, it is probably the focus of your Tagalog sentence. You can try emphasizing them in your mind to see if one of them captures your nuance correctly. For example, in the sentence “She made me adobo”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gumawa siya ng adobo para sa akin.",
+        "english": "She made me adobo. “She” is the actor, so if emphasizing “she” captures your nuance, the sentence is AF.",
+        "required": true,
+        "audioPath": "f25e7a01-0bb9-4619-acc9-1e41a059e57b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ginawa niya ang adobo para sa akin.",
+        "english": "She made me the adobo. “Adobo” is the object, so if emphasizing “adobo” captures your nuance, the sentence is OF.",
+        "required": true,
+        "audioPath": "90e182a8-73b2-4613-ba28-3c841fe1c7cf"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Iginawa niya ako ng adobo.",
+        "english": "She made me adobo. “Me” is X, or the beneficiary in this case, so if emphasizing “me” captures your nuance, the sentence is BF.",
+        "required": true,
+        "audioPath": "31a5e407-82f0-4422-9a23-3bc684aab33a"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Use questions.**"
+    },
+    {
+      "type": "p",
+      "markdown": "Because emphasis is often omitted in English, it may not be obvious which word you would emphasize. It may help to ask yourself questions about the actor, object and OF. In the sentence “I will put a glass on the table”:"
+    },
+    {
+      "type": "p",
+      "markdown": "“I” is the actor, so if answering the question “Who will put a glass on the table?” is the main purpose for your sentence, the answer is “I”, and it is AF:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maglalagay ako ng baso sa lamesa.",
+        "english": "I will put a glass on the table.",
+        "required": true,
+        "audioPath": "8a00e615-dac1-4e94-ae3c-55132b246b3c"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "“Glass” is the object, so if answering the question “What will I put on the table?” is the main purpose for your sentence, the answer is the “glass”, and it is OF:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ilalagay ko ang baso sa lamesa.",
+        "english": "I will put the glass on the table.",
+        "required": true,
+        "audioPath": "29708a2f-c2f8-423f-a78d-dc51490c2ffa"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "“Table” is the directional complement, so if answering the question “Where will I put a glass?” is the main purpose for your sentence, the answer is on the “table”, and it is DF:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lalagyan ko ng baso ang lamesa.",
+        "english": "I will put a glass on the table.",
+        "required": true,
+        "audioPath": "79567c57-15c0-4a8c-8292-97165722fbec"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**If using emphasis, beware of _din/rin, lang_ and _naman_.**"
+    },
+    {
+      "type": "p",
+      "markdown": "Remember that _din/rin, lang_ and _naman_(contrast) cannot apply to the focus in a clause:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagluto lang siya ng adobo.",
+        "english": "She only cooked adobo.",
+        "required": true,
+        "audioPath": "c70eacf5-a846-4692-ab5c-8b9506f0524f"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "“Only” does not apply to “she” here. For example, this can mean she cooked it but did not eat it, or she cooked adobo but not lechon, but it cannot mean that she cooked it but her friend did not. So if you want to emphasize “only she”, you have to choose a different structure:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Siya lang ang nagluto ng adobo.",
+        "english": "Only she cooked adobo.",
+        "required": true,
+        "audioPath": "6bbf1374-b742-4e98-bb8f-046f22004bc8"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>New Tips for Selecting Focus </u>"
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*If the object is definite, the sentences is almost always OF.\\*\\*"
+    },
+    {
+      "type": "p",
+      "markdown": "For example:"
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe the car. The/those/these makes words definite."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ibinigay ni Maria ang sasakyan kay Joe.",
+        "english": "Maria gave Joe the car.",
+        "required": true,
+        "audioPath": "6432eca1-4088-4fef-b7f1-c7fe3b145018"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe my car. Possessives make words definite."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ibinigay ni Maria ang sasakyan ko kay Joe.",
+        "english": "Maria gave Joe my car.",
+        "required": true,
+        "audioPath": "bd73a611-e23d-4130-ad2f-b0b451c7304a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe Angel. Proper nouns are definite."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ibinigay ni Maria si Angel kay Joe.",
+        "english": "Maria gave Joe Angel.",
+        "required": true,
+        "audioPath": "4ac15d4e-aa01-405e-b84c-3d2beeb79a23"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave her to Joe. Personal pronouns are definite."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ibinigay siya ni Maria kay Joe.",
+        "english": "Maria gave her to Joe.",
+        "required": true,
+        "audioPath": "e8b178f7-cf67-45e0-84d6-8a50ce775aff"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "There are a few exceptions to this, for example, “the truth” and “Tagalog” can be considered indefinite, and “a lot” can be considered definite in Tagalog, depending on context."
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*If the object is indefinite, the sentence is usually AF.\\*\\*"
+    },
+    {
+      "type": "p",
+      "markdown": "For example:"
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe \\*\\*a\\*\\* car. A/an/some makes words indefinite."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay si Maria ng sasakyan kay Joe.",
+        "english": "Maria gave Joe a car. (AF)",
+        "required": true,
+        "audioPath": "ab78bf8b-3026-4166-acde-8fda504f4efa"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "The reason I say these are usually AF is that about 90% of verbs are either AF or OF. If the object is indefinite, the sentence is not OF, so it is most likely AF. Of course, if you want to really emphasize X, the focus is probably “Other”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binigyan ni Maria ng sasakyan si Joe.",
+        "english": "Maria gave Joe a car. (DF)",
+        "required": true,
+        "audioPath": "25d1a8c6-c2c5-4822-8239-6e76e4859ce5"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*If you want to emphasize the verb, it is OF.\\*\\*"
+    },
+    {
+      "type": "p",
+      "markdown": "This applies to sentences that have objects. Even though a verb cannot be the focus of a Tagalog sentence, we sometimes want to emphasize it in English. For the sentence “Maria gave Joe a/the car”, if you want people to know that Maria “gave”, not “sold” it to him, you would emphasize “gave” in English. Use OF in these cases:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ibinigay ni Maria ang sasakyan kay Joe.",
+        "english": "Maria gave Joe the car. (She did not sell it to him.)",
+        "required": true,
+        "audioPath": "8fb3ce3d-a2d1-4abe-be31-28f7657e3eda"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gagawin niya ang lechon.",
+        "english": "She will make the lechon. (She will not buy it.)",
+        "required": true,
+        "audioPath": "3bb0217b-fc5e-4f8f-abbf-3631a88c0d58"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binibili ni David ang mangga para sa kaniya.",
+        "english": "David is buying her the mango. (He is not picking it for her.)",
+        "required": true,
+        "audioPath": "75aff94b-36a8-4bcf-a6b3-30afc4b18d0d"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Adverbs are not focuses.\\*\\*"
+    },
+    {
+      "type": "p",
+      "markdown": "Sometimes knowing that adverbs are not focuses will help you choose the focus. For example, if you want to say “I will study at one o’clock” and emphasize “one o’clock”. Because you know a time cannot be the focus, and the only complement in the sentence is the actor “I”, it must be AF. So you would use _mag-aral,_ not _pag-aralan:_"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aaral ako nang ala-una.",
+        "english": "I will study at one o’clock. (Not at two o’clock.)",
+        "required": true,
+        "audioPath": "82e43032-9e17-4a5a-8e46-76dda64b6b5d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Similarly:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kinain ang mangga sa umaga.",
+        "english": "The mango was eaten in the morning. (Not in the afternoon.)",
+        "required": true,
+        "audioPath": "80047d0c-6949-4ef8-ad79-aae02cb6baee"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ako pupunta dahil sa ulan.",
+        "english": "I will not go due to rain. (Not because I am busy.)",
+        "required": true,
+        "audioPath": "b741b30d-e15a-4f3f-83a0-b079e078dafa"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**There is a 90% chance that the focus is AF or OF.**"
+    },
+    {
+      "type": "p",
+      "markdown": "As a last resort, if you need to guess the focus, you are better off guessing either AF or OF. This is because “Other” focuses make up only about 10% of colloquial usages."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Bilhin mo ito, tapos ibigay mo ito sa kaniya.",
+      "english": "Buy it, then give it to her.",
+      "required": true,
+      "audioPath": "46aaa350-ed3c-4ac9-9a99-ff64b25cc490"
+    },
+    {
+      "tagalog": "Kumain siya nang alas-otso ng umaga.",
+      "english": "She ate at 8am.",
+      "required": true,
+      "audioPath": "708c2667-06b1-456a-b563-dde46c50cba5"
+    },
+    {
+      "tagalog": "Pagkatapos maging pangulo si Diego, ibinigay ang maraming pera sa kaniya.",
+      "english": "After Diego became president, he was given a lot of money. (pagkatapos)",
+      "required": true,
+      "audioPath": "2c4b7967-c826-40f2-a09c-f03e1d91236d"
+    },
+    {
+      "tagalog": "Pakitawag ang babaeng nag-aaral ng Ingles.",
+      "english": "Please call the woman who is studying English.",
+      "required": true,
+      "audioPath": "04b27fd7-48d8-4dbe-bd5e-75caaa9d01db"
+    },
+    {
+      "tagalog": "Kinuha nila yun sa lalaking mahilig sa pagluluto.",
+      "english": "They took that from the man who likes cooking.",
+      "required": true,
+      "audioPath": "717e286b-a5d9-404e-81a3-ee23004f37b4"
+    },
+    {
+      "tagalog": "Nagluto si Analyn ng adobo nung Martes, pagkamatay ng asawa niya.",
+      "english": "Analyn cooked adobo last Tuesday, after her husband died. (pagka-)",
+      "required": true,
+      "audioPath": "576c3f75-e1b5-41d5-9b47-b70661018c62"
+    },
+    {
+      "tagalog": "Igagawa mo ba ng halo-halo ang mga batang yun?",
+      "english": "Will you make those kids halo-halo?",
+      "required": true,
+      "audioPath": "a8f8da4a-1e5a-4298-8043-242ec6d19543"
+    },
+    {
+      "tagalog": "Pinag-aralan lang ni Luis ito!",
+      "english": "Luis only studied it!",
+      "required": true,
+      "audioPath": "ec5e8fdc-b83d-4212-8063-9f08ad2618d2"
+    },
+    {
+      "tagalog": "Naghahanap siya sa kalsada ngayon.",
+      "english": "He is searching in the street now.",
+      "required": true,
+      "audioPath": "81f00916-1f8f-4bab-8c33-339e687256bc"
+    },
+    {
+      "tagalog": "Nilagyan ni Jasmine ng aso ang CR sa labas.",
+      "english": "Jasmine put a dog in the outside restroom.",
+      "required": true,
+      "audioPath": "b1d677a4-3639-461e-9f13-54e546b3ad17"
+    }
+  ]
+}

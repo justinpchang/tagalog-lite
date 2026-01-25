@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson60",
+  "title": "Lesson 60 - After and Then; Pagka, Tapos and Pagkatapos",
+  "vocabulary": [
+    {
+      "tagalog": "pagka-",
+      "english": "adverb prefix that adds the nuance “after”",
+      "required": true,
+      "audioPath": "dc708fdd-a3d5-45e2-bc4b-afbae809c678"
+    },
+    {
+      "tagalog": "tapos",
+      "english": "then",
+      "required": true,
+      "audioPath": "6058e277-d521-493d-bc3f-33337d81f216"
+    },
+    {
+      "tagalog": "tapós na",
+      "english": "finished",
+      "required": true,
+      "audioPath": "568c1843-67a6-48da-9d1f-6b0b9195ca95"
+    },
+    {
+      "tagalog": "pagkatapos",
+      "english": "after",
+      "required": true,
+      "audioPath": "aec212ef-1493-445c-9c06-01faffdaf9a6"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson covers some common ways to say “after” and “then” in Tagalog. There is some overlap between _pagka-, tapos_ and _pagkatapos_, so we will cover them together in this lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pagka-</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The prefix _pagka-_ can be used to create an adverb of time with the nuance “after”. Be careful not to confuse this with _pag + ka_, which you used to make gerunds for certain verb roots."
+    },
+    {
+      "type": "h2",
+      "markdown": "pagka + root + noun (Tag.) = after noun verbed (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: These are adverbs of time; noun takes _ng_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkakain nila, ininom nila ang tubig.",
+        "english": "After they ate, they drank the water.",
+        "required": true,
+        "audioPath": "4ab7d502-be30-4fb6-9f72-d5304a013648"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Umuwi si Joshua pagkamatay ng aso niya.",
+        "english": "Joshua went home after his dog died.",
+        "required": true,
+        "audioPath": "7ee58e56-8064-4b16-9d4c-ae5598dbda71"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkaaral ni Maria, nagbisikleta siya papunta sa bahay ni Joe.",
+        "english": "After Maria studied, she bicycled to Joe’s house.",
+        "required": true,
+        "audioPath": "2d03acee-6f94-4ec2-a8fa-e047512cfc6f"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Tapos </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Tapos_ is an adverb of time that roughly means “then”. It can go in front of the sentence, or join two phrases."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos, nagmaneho ako papunta sa Maynila.",
+        "english": "Then, I drove to Manila.",
+        "required": true,
+        "audioPath": "94b44abb-c505-4377-9485-f3700259087d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aral siya, tapos kumain sa amin.",
+        "english": "She studied, then ate at our (excl.) place.",
+        "required": true,
+        "audioPath": "97bf34b0-7eff-4d3b-8085-2f6ce40c529a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos?",
+        "english": "And then? So...?",
+        "required": true,
+        "audioPath": "554d2054-1c80-4707-8b25-bb34806e441c"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But _tapós na_ is an adjective that means “after” or “finished”. Notice that the stress is different from _tapos_. With a clause:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Tapos\\*\\*+ na + linker + clause. (Tag.) = Actor is finished clausing. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: The verb takes infinitive form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos na siyang magluto.",
+        "english": "She finished cooking.",
+        "required": true,
+        "audioPath": "3f2bb3b9-9b8b-4089-ab23-e07fadd1f44a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos nang magluto si Maria.",
+        "english": "Maria finished cooking.",
+        "required": true,
+        "audioPath": "29b314f7-7bad-4a75-920e-3dfe8005b249"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos na niyang gawin yun.",
+        "english": "He is finished doing that.",
+        "required": true,
+        "audioPath": "b296bd0d-6131-460b-a8ca-ac0f1311ac8d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "With a noun phrase:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Tapos\\*\\*+ na + name/pp + noun phrase. (Tag.) = Name/pp is finished phrasing. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: To focus on the actor, name/pp takes _ang_ form, and noun phrase takes _sa_ form. To focus on the noun phrase, name/pp takes _ng_ form, and noun phrase takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos na ako sa halo-halo.",
+        "english": "I completed the halo-halo. Focus is on name/pp.",
+        "required": true,
+        "audioPath": "bde58623-8aa1-4015-9f69-7b113afaab93"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos na ni Maria ang halo-halo.",
+        "english": "Maria completed the halo-halo. Focus on phrase.",
+        "required": true,
+        "audioPath": "7b4eefab-f2dd-4108-b4cc-e5deac6e8673"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tapos na ang bahay nila.",
+        "english": "Their house is finished. There is no name/pp.",
+        "required": true,
+        "audioPath": "667f5d50-14a4-45b5-a172-4de42cb10373"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pagkatapos</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Pagkatapos_ is just the _pagka_ prefix shown above used with the tapos root to form an adverb of time which roughly means “after”. It can be used before a verb:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*pagkatapos\\*\\*+ linker + verb (Tag.) = after verbing (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Verb takes infinitive form, actor takes _ng_ form. Use the linker if it is -_ng_ type, but omit it if it is _na_.**"
+    },
+    {
+      "type": "p",
+      "markdown": "Similar to the adj + infinitive and pseudo verb structures, although the linker is optional here, native speakers will normally use it if can be an -_ng_ type modification, but omit it where it would be _na_, so that is what we do in this book."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkatapos mong manalo, umalis ako.",
+        "english": "After you won, I left.",
+        "required": true,
+        "audioPath": "c2551860-dcc0-4350-b0c0-3c40e614b7ba"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkatapos kumain ni Maria, umuwi siya.",
+        "english": "After Maria ate, she went home.",
+        "required": true,
+        "audioPath": "fe8d6c81-28fd-47b4-84e8-4980bfdafaed"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maglalaro tayo pagkatapos kumain.",
+        "english": "We (incl.) will play after eating.",
+        "required": true,
+        "audioPath": "125d8b23-9a71-42fd-bc76-3e527757c3e2"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the infinitive is used for “eating” here, not a _pag_- noun."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkatapos na maging guro, ibinili ni Joshua ng sasakyan ang asawa niya.",
+        "english": "After becoming a teacher, Joshua bought a car for his wife.",
+        "required": true,
+        "audioPath": "6126913e-09c5-4d83-a2f8-1f958b6ee92a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It can also be used before an event:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*pagkatapos\\*\\*+ event (Tag.) = after the event (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Event takes _ng_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkatapos ng pagkain, natulog kami.",
+        "english": "After the food, we (excl.) slept.",
+        "required": true,
+        "audioPath": "2d8d3a80-ff2b-4ad4-9149-4de4e07aab7c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mas maganda ang mga puno pagkatapos ng ulan.",
+        "english": "The trees are more beautiful after the rain.",
+        "required": true,
+        "audioPath": "faebf803-4f32-442e-9eb2-7a4ae74aa66b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagkatapos ng gabi, nasa bahay si Jessica.",
+        "english": "After the night, Jessica was at home.",
+        "required": true,
+        "audioPath": "9ae75bdd-4795-4706-a134-663cc3d44a60"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Pagkatapos_ can also mean “then”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aral siya at kumain sa amin pagkatapos.",
+        "english": "She studied, and ate at our (excl.) place then.",
+        "required": true,
+        "audioPath": "aeef0449-00ff-4f97-90ac-6bf0411bf3c3"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But this is less common than using _tapos_, so we will not use it from now on."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Bakit hindi siya matututo ng Ingles, tapos pupunta sa Seattle?",
+      "english": "Why won't she learn English, then go to Seattle?",
+      "required": true,
+      "audioPath": "fefa0e06-1855-46e1-83cc-e9b681b69b88"
+    },
+    {
+      "tagalog": "Pagkatapos ng isang oras, sabi ni Joshua, “Nakanino siya?”",
+      "english": "After one hour, Joshua said, \"Whose place is she at?\" (pagkatapos)",
+      "required": true,
+      "audioPath": "cc6f0a40-3997-4c60-ba3e-236d9f24fed9"
+    },
+    {
+      "tagalog": "Tapos ko na tanungin ang mga tanong.",
+      "english": "I am finished asking the questions.",
+      "required": true,
+      "audioPath": "f23511b2-9517-4a62-9597-38e7a90dde0e"
+    },
+    {
+      "tagalog": "Pagkamatay ng anak ni Analyn, naging mahirap ang pagtuturo.",
+      "english": "After Analyn's child died, teaching became difficult. (pagka-)",
+      "required": true,
+      "audioPath": "53a4a02a-01a8-48f0-9f28-2cf408ffd0ae"
+    },
+    {
+      "tagalog": "Namasyal siya nang maraming oras, tapos napunta dito, kaya kumusta siya?",
+      "english": "She took a walk for many hours, then wound up here, so how is she?",
+      "required": true,
+      "audioPath": "aa154f9d-87e1-4b69-82dc-a1dbf9bc90c7"
+    },
+    {
+      "tagalog": "Talaga? Pagkatapos hanapin ang kaninong pusa?",
+      "english": "Really? After searching for whose cat? (pagkatapos)",
+      "required": true,
+      "audioPath": "b1bc7ad9-2ce3-485f-ad53-a186fc697b29"
+    },
+    {
+      "tagalog": "Tapos na sila sa atin, di ba? Gaano kainit sa labas ngayon?",
+      "english": "They are finished with us(incl.), right? How hot is it outside now?",
+      "required": true,
+      "audioPath": "c9db17ec-e6af-43d9-b664-f943028e60f3"
+    },
+    {
+      "tagalog": "Pagkaaral namin, nagpapunta ng bus sa tindahan ang guro.",
+      "english": "After we studied, the teacher had a bus go to the store. (pagka-)",
+      "required": true,
+      "audioPath": "9c0ef19c-9067-462e-831f-5f9c669b20b8"
+    },
+    {
+      "tagalog": "Paano mo niluto ang manok, tapos kinain ito nang ganun kabilis?",
+      "english": "How did you cook the chicken, then eat it so fast?",
+      "required": true,
+      "audioPath": "06e1a627-65c2-43a1-96af-d8c7fe19e01c"
+    },
+    {
+      "tagalog": "Pagkatapos manalo ni Joe ng pera, papagawain niya si David ng bahay.",
+      "english": "After Joe wins some money, he will have David build a house. (pagkatapos)",
+      "required": true,
+      "audioPath": "4ee7badd-7933-4a13-90a4-8dfe5cc33e19"
+    }
+  ]
+}

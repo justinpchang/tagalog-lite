@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson64",
+  "title": "Lesson 64 - Duplication of Roots and Syllables",
+  "vocabulary": [
+    {
+      "tagalog": "umíkot-ikot",
+      "english": "to spin round and round",
+      "required": false,
+      "audioPath": "b8c281a2-bd48-47c8-b755-ae8b70c07c31"
+    },
+    {
+      "tagalog": "maglakád-lakád",
+      "english": "to walk around someplace; walk periodically",
+      "required": false,
+      "audioPath": "f8f90d91-daad-4078-88d2-315d620902dd"
+    },
+    {
+      "tagalog": "balik-balikán",
+      "english": "to keep going back to someplace",
+      "required": false,
+      "audioPath": "059b7a73-9425-4db4-a366-2f44ebbede22"
+    },
+    {
+      "tagalog": "mag-away-away",
+      "english": "to argue between more than two people",
+      "required": false,
+      "audioPath": "d5b5953e-ddc8-4584-8a28-e7194d1cddcb"
+    },
+    {
+      "tagalog": "mag-usap-usap",
+      "english": "to discuss between more than two people",
+      "required": false,
+      "audioPath": "21f8e59c-9467-40eb-8793-2b486947a6d5"
+    },
+    {
+      "tagalog": "*liblíb",
+      "english": "remote (adj)",
+      "required": false,
+      "audioPath": "9301ab39-3548-400b-8d3a-14f53641343d"
+    },
+    {
+      "tagalog": "*pakpák",
+      "english": "wing (noun)",
+      "required": false,
+      "audioPath": "0c81f2b9-ad48-4610-b36e-1f81aa2586c3"
+    },
+    {
+      "tagalog": "*bitbít",
+      "english": "something carried by hand (noun); dangling from the hand (adj)",
+      "required": false,
+      "audioPath": "b4e19ce6-3cae-4854-9de6-ed38db01ca1f"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Sometimes the duplication of roots or syllables occurs in Tagalog. In this lesson we will review duplications that you have already seen, and introduce new ones. The new ones are not very high frequency, so they will be limited to this lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Duplication of Roots</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Duplicating roots usually increases intensity or indicates frequency/duration."
+    },
+    {
+      "type": "h3",
+      "markdown": "**You have already seen these root duplications:**"
+    },
+    {
+      "type": "p",
+      "markdown": "Nouns – roots are usually connected by a dash, which is sometimes dropped."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ginawa mo ba ang halo?",
+        "english": "Did you make the mixture?",
+        "required": true,
+        "audioPath": "1000f37c-16ba-4819-b7b5-589c153c09ef"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ginawa mo ba ang halo-halo?",
+        "english": "Did you make the halo-halo?",
+        "required": true,
+        "audioPath": "2759fe57-483d-45a0-bc2f-656e5cccee2e"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Adverbs – roots are usually connected by a dash, which is sometimes dropped."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagluto ako nang tatlong araw.",
+        "english": "I cooked for three days.",
+        "required": true,
+        "audioPath": "170cb7a6-f452-476a-9753-047938eea37f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagluluto ako araw-araw.",
+        "english": "I cook every day.",
+        "required": true,
+        "audioPath": "76f796b8-0dde-44b6-8991-bf4ce05c6cf1"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Pseudo Verbs – roots are connected by the linker. If the linker ends in _g_, a dash is used."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto kong pumunta sa Pilipinas.",
+        "english": "I want to go to the Philippines.",
+        "required": true,
+        "audioPath": "c60fc6f5-1320-44cc-8d36-7393e628f502"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gustong-gusto kong pumunta sa Pilipinas.",
+        "english": "I very much want to go to the Philippines.",
+        "required": true,
+        "audioPath": "a47e63df-8524-40bb-9dd5-1d643abd755d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Adjectives – roots are connected by the linker. If the linker ends in g, a dash is used."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagod ang lalaki.",
+        "english": "The man is tired.",
+        "required": true,
+        "audioPath": "d1f5dddd-fea3-4d43-a96b-d087939779e5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagod na pagod ang lalaki.",
+        "english": "The man is very tired.",
+        "required": true,
+        "audioPath": "5c85ba0e-e50a-4be7-a0f2-052eac14fd30"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Verb root duplications:**"
+    },
+    {
+      "type": "p",
+      "markdown": "Verbs – roots are connected by a dash."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: umikot-ikot\tto spin round and round"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: maglakad-lakad\tto walk periodically"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: balik-balikan\tto keep going back to someplace"
+    },
+    {
+      "type": "p",
+      "markdown": "In some verbs, root duplication can indicate a relationship between more than two objects."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag-away-away to argue between more than two people"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mag-usap-usap to discuss between more than two people"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maglalakad-lakad ako sa kalsada.",
+        "english": "I will periodically walk in the street.",
+        "required": true,
+        "audioPath": "3d8ae8c7-ae1a-4e39-96bf-767b57f3e008"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binabalik-balikan ni Jessica ang Cebu.",
+        "english": "Jessica keeps going back to Cebu.",
+        "required": true,
+        "audioPath": "add8aa62-3864-40b1-b0fe-12b356f72e57"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-usap-usap ang limang lalaki.",
+        "english": "The five men talked amongst each other.",
+        "required": true,
+        "audioPath": "dbdd0169-70e2-4c9a-a8c5-81b73153d171"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Duplication of Syllables</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You have already seen these syllable duplications:"
+    },
+    {
+      "type": "p",
+      "markdown": "Plural _ma_- adjectives – the first syllable of the root is duplicated."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magandang babae",
+        "english": "beautiful woman",
+        "required": true,
+        "audioPath": "1cb090f1-dcce-4c09-af20-93c723c6aa24"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga magagandang babae",
+        "english": "beautiful women",
+        "required": true,
+        "audioPath": "a6cb811d-1dd0-4348-9619-f37c09e4e59b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Some verb aspect formations – a syllable of the root or affix may be duplicated."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mag-aral (infinitive)",
+        "english": "> nag-aaral (uncompleted aspect)",
+        "required": true,
+        "audioPath": "51d11dab-0822-48de-921b-6bfd4fc4caea"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "makagawa (infinitive)",
+        "english": "> makakagawa (contemplated aspect)",
+        "required": true,
+        "audioPath": "a59cba45-20e3-4cb9-ba6a-1f766da5b310"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Other verb syllable duplications:**"
+    },
+    {
+      "type": "p",
+      "markdown": "With certain _mag_- and _pag-...-an_ verbs, and a few less common verb types not in this book, it is possible to create an intense (!) verb by duplicating the first syllable of the root."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex:\tmagluto to cook"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: magluluto to cook repeatedly or intensively"
+    },
+    {
+      "type": "p",
+      "markdown": "These duplications may sound the same as uncompleted or contemplated aspects, in which case you will need context to distinguish them."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nagluluto ang bata ng adobo. = The _kid_ is cooking adobo. (uncompleted aspect)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nagluluto ang bata ng adobo. = The _kid_ repeatedly cooked adobo. (intensive duplication)"
+    },
+    {
+      "type": "p",
+      "markdown": "These are pretty rare, so they are not included in the sample sentences."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Noun syllable duplications:**"
+    },
+    {
+      "type": "p",
+      "markdown": "You will see some of these in a future lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Syllable duplications not associated with roots or affixes:**"
+    },
+    {
+      "type": "p",
+      "markdown": "There are quite a few words with duplicated syllables that have nothing to do with roots or affixes:"
+    },
+    {
+      "type": "p",
+      "markdown": "liblib = remote (adj)"
+    },
+    {
+      "type": "p",
+      "markdown": "pakpak = wing (noun)"
+    },
+    {
+      "type": "p",
+      "markdown": "bitbit = something carried by hand (noun); dangling from the hand (adj)"
+    },
+    {
+      "type": "p",
+      "markdown": "etc."
+    },
+    {
+      "type": "p",
+      "markdown": "These words are sometimes used as roots too. We will not put these in any sample sentences."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Pagkatapos maglaro si Joshua, umikot-ikot ang basketbol.",
+      "english": "After Joshua played, the basketball spun round and round. (pagkatapos)",
+      "required": true,
+      "audioPath": "f25f049f-619b-4025-9b70-1d5433a65e33"
+    },
+    {
+      "tagalog": "Papupuntahin ko si Angel, kasi gusto niyang maglakad-lakad.",
+      "english": "I had Angel go, because she likes to walk periodically.",
+      "required": true,
+      "audioPath": "d03a18c0-71f5-4d21-8d5b-b08a5130595a"
+    },
+    {
+      "tagalog": "Saan ang binabalik-balikan ninyo ng asawa mo?",
+      "english": "Where do you and your wife often return?",
+      "required": true,
+      "audioPath": "69f75da9-4cb1-4526-bac6-a7a0518795de"
+    },
+    {
+      "tagalog": "Patulugin mo ang mga bata natin, o mag-aaway-away sila.",
+      "english": "Have our kids go to sleep, or they will argue. (three or more)",
+      "required": true,
+      "audioPath": "7f87bfed-3614-4f47-a0c1-c854ea2c0cff"
+    },
+    {
+      "tagalog": "Pagkaluto nila, nag-usap-usap sila tungkol sa pagkain.",
+      "english": "After they cooked, they discussed the food. (pagka-)(three or more)",
+      "required": true,
+      "audioPath": "d30625d9-9026-4b48-85c2-5c27a07bb7c4"
+    },
+    {
+      "tagalog": "Kumusta ang bagong pusa? Umiikot-ikot siya sa lamesa!",
+      "english": "How is the new cat? She is circling round and round the table!",
+      "required": true,
+      "audioPath": "317d9058-adde-405b-8f75-d5f1827cb77c"
+    },
+    {
+      "tagalog": "Naglalakad-lakad ako, tapos kumakain ako ng halo-halo.",
+      "english": "I walk periodically, then eat halo-halo.",
+      "required": true,
+      "audioPath": "acb1161a-2042-4af6-8c9d-9558bc28c6fd"
+    },
+    {
+      "tagalog": "Alam mo ba kung paano binabalik-balikan ni David ang Pilipinas?",
+      "english": "Do you know how David keeps going back to the Philippines?",
+      "required": true,
+      "audioPath": "40960072-6b6e-4193-80e9-9265a5987cdd"
+    },
+    {
+      "tagalog": "Pakibigay ang mga inumin sa kanila kung mag-aaway-away sila.",
+      "english": "Please give them the drinks if they argue. (three or more)",
+      "required": true,
+      "audioPath": "f7bc9d5f-a9d4-4330-be7d-276f3dfad0b8"
+    },
+    {
+      "tagalog": "Nag-usap-usap ang mga guro tungkol sa pagtuturo dati",
+      "english": "The teachers were discussing teaching before. (three or more).",
+      "required": true,
+      "audioPath": "0350d3ce-f2ec-44f7-92e5-f98f650c285f"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson70",
+  "title": "Lesson 70 – Misc. Tips for the Colloquial Language",
+  "vocabulary": [
+    {
+      "tagalog": "nakú",
+      "english": "yikes",
+      "required": true,
+      "audioPath": "bd08300c-0c6c-425c-9d6d-75e52e401a2d"
+    },
+    {
+      "tagalog": "siyempre",
+      "english": "of course",
+      "required": true,
+      "audioPath": "a2de4cab-aeb2-488f-a287-6e4f2ee493df"
+    },
+    {
+      "tagalog": "grabe",
+      "english": "wow; cool; bummer",
+      "required": true,
+      "audioPath": "21c3179a-7790-473e-9301-7cd1a171ad87"
+    },
+    {
+      "tagalog": "aráy",
+      "english": "ouch",
+      "required": true,
+      "audioPath": "8ca5a2a6-a0b6-48a8-9d43-33b4fba064b6"
+    },
+    {
+      "tagalog": "kadirì",
+      "english": "disgusting",
+      "required": true,
+      "audioPath": "34162479-9545-46cf-b8af-aa30bfa34590"
+    },
+    {
+      "tagalog": "hoy",
+      "english": "hey (use only when disapproving)",
+      "required": true,
+      "audioPath": "cb2c907c-68bf-4f40-a068-774c0786e560"
+    },
+    {
+      "tagalog": "o siya",
+      "english": "all right then",
+      "required": true,
+      "audioPath": "8d9077ae-fe4c-44d2-bd0a-34b05c7ebacb"
+    },
+    {
+      "tagalog": "sabi mo pa",
+      "english": "tell me about it; exactly",
+      "required": true,
+      "audioPath": "86bac27d-27d9-4f80-a83f-ff1e1bf4dd07"
+    },
+    {
+      "tagalog": "yun yon",
+      "english": "that is it; that is where it is",
+      "required": true,
+      "audioPath": "4b71fa31-bf7f-4217-ab91-b26ab33dccce"
+    },
+    {
+      "tagalog": "sige",
+      "english": "ok; go ahead",
+      "required": true,
+      "audioPath": "14651287-252c-4518-9a2a-2089572f6cff"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This is a collection of things you will hear in the wild that are not covered in other parts of this book."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Contractions/Shortenings/Morphings</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are extremely common. Here are a few examples."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa’yo",
+        "english": "sa iyo",
+        "required": true,
+        "audioPath": "85cabdf3-fbb6-4985-b2ac-f70bcbca32f4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "san",
+        "english": "saan",
+        "required": true,
+        "audioPath": "ac4ef75b-f972-41c5-976e-d5984866897d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "‘yan",
+        "english": "yun",
+        "required": true,
+        "audioPath": "4ae502c5-d68e-4564-adea-c8fb76262153"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "d’on",
+        "english": "dun",
+        "required": true,
+        "audioPath": "a808c2cc-69a5-4740-9b2f-bb72c7d08ab1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "b’at",
+        "english": "bakit",
+        "required": true,
+        "audioPath": "e418bf64-173d-4d97-9db3-4dd8a9e403ac"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is usually not too difficult to recognize these in the wild. They will not be in the sample sentences."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Interjections</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There are many interjections, or short exclamations, in Tagalog. Some of the most common ones are listed in the vocabulary. You will have an opportunity to practice them in the sample sentences. They will be in this lesson only."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pa- Adverbs/Adjectives </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Pa_- is a somewhat low frequency affix, but when it pops up it often seems understandable, and may make you wonder if you guessed the correct meaning. With adverbs, you can normally drop it without changing the meaning:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "patungkol",
+        "english": "tungkol = about",
+        "required": true,
+        "audioPath": "ad5c1fde-6b14-4046-883c-d57b2a06e1ff"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "papaano",
+        "english": "paano = to what extent",
+        "required": true,
+        "audioPath": "a5f3d149-20c9-4108-bdef-ca75fbaf28ed"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "With adjectives, it adds the nuance of “becoming root”, and causes a stress shift to the last syllable:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "painít",
+        "english": "getting hot (compare to mainit = hot)",
+        "required": true,
+        "audioPath": "d7a59c6f-9fd8-445f-aa31-84d043f18bcf"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pailalím",
+        "english": "going under (compare to ilalim = under)",
+        "required": true,
+        "audioPath": "9dcbda67-f885-49d5-9b97-e96b086d1fd7"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is good to be able to recognize these, but they will not be in the sample sentences."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Naku! Akala ko nakatira siya dito.",
+      "english": "Yikes! I thought she lived here.",
+      "required": true,
+      "audioPath": "fd440edb-a511-47d0-960f-e4f9293f3e8f"
+    },
+    {
+      "tagalog": "Siyempre! Pupunta kami sa eskwelahan, maglalaro ng basketbol, at iba pa.",
+      "english": "Of course! We (excl.) will go to school, play basketball, etc.",
+      "required": true,
+      "audioPath": "969f3571-a85c-4cd2-950b-ff9167f2f074"
+    },
+    {
+      "tagalog": "Grabe. Ang ibig mong sabihin, hindi kita kaibigan, di ba?",
+      "english": "Bummer. You mean, you are not my friend, right?",
+      "required": true,
+      "audioPath": "14b689cd-16b7-495e-9bbd-e2ff630ed366"
+    },
+    {
+      "tagalog": "Aray! Sobrang init ang pagkain. Kaya pala.",
+      "english": "Ouch! The food is very hot. No wonder.",
+      "required": true,
+      "audioPath": "ec97f73a-6201-448b-a274-b5f33dd43f92"
+    },
+    {
+      "tagalog": "Hoy! Kadiri ka! Ilang mangga ang kinain mo?",
+      "english": "Hey! You are disgusting! How many mangoes did you eat?",
+      "required": true,
+      "audioPath": "6831b673-d43a-44da-9e02-1eb1747b30d4"
+    },
+    {
+      "tagalog": "Grabe! Nasa liwasan ang karamihan sa mga kaklase natin ngayon.",
+      "english": "Cool! Most of our classmates are in the park now.",
+      "required": true,
+      "audioPath": "b3004eb8-4dcd-4e21-8459-cfa7dd0cfe52"
+    },
+    {
+      "tagalog": "Oh siya, tuturuan namin sila ng magandang paraan para maglaro.",
+      "english": "All right then, we (excl.) will teach them a good way to play.",
+      "required": true,
+      "audioPath": "7ace9ff6-199b-4e42-a429-81a16c821cb4"
+    },
+    {
+      "tagalog": "Sabi mo pa! Sobrang ganda ng tanawin dito sa tag-init.",
+      "english": "Tell me about it! The scenery here is very beautiful in summer.",
+      "required": true,
+      "audioPath": "0e66b2bd-5216-4cc4-8d02-f968955d9aab"
+    },
+    {
+      "tagalog": "Yun yon. Nasa tindahan ng mag-asawa ang mamimili.",
+      "english": "That is it. The customer is in the husband and wife's store.",
+      "required": true,
+      "audioPath": "020ed4dc-d57d-47e1-af19-775db060df25"
+    },
+    {
+      "tagalog": "Sige. Magbibisikleta rin tayo araw-araw sa tag-ulan.",
+      "english": "Ok. We (incl.) will bicycle every day in rainy season too.",
+      "required": true,
+      "audioPath": "6930d20a-9f72-4c10-bf3d-b8a9d7ff5cfb"
+    }
+  ]
+}

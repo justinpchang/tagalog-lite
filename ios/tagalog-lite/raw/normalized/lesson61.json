@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson61",
+  "title": "Lesson 61 – Before and Previously; Bago and Dati",
+  "vocabulary": [
+    {
+      "tagalog": "bago",
+      "english": "before (adv); new (adj)",
+      "required": true,
+      "audioPath": "9153c933-d86c-4434-a70b-7602da9a2d1d"
+    },
+    {
+      "tagalog": "dati",
+      "english": "previously (adv); former (adj)",
+      "required": true,
+      "audioPath": "8c52e558-0061-4071-b605-21df0be7af29"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson covers some common ways to say “before” and “previously” in Tagalog by using _bago_ and _dati_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Bago</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As an adverb, _bago_ means “before”. It can be used with a noun."
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*bago\\*\\*+ noun (Tag.) = before (the) noun (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Noun takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "bago ang sasakyan",
+        "english": "before the car (this can also mean “the car is new” - see bago as an adjective below)",
+        "required": true,
+        "audioPath": "dac08ab7-9b3f-4efc-8f25-1e9dd48cbd9c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto kong pumunta doon bago ang Huwebes.",
+        "english": "I want to go there before Thursday.",
+        "required": true,
+        "audioPath": "a06aa40c-ab50-45c0-b962-869809e8502e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kinain niya ang lechon bago ang trabaho.",
+        "english": "She ate the lechon before work.",
+        "required": true,
+        "audioPath": "4580a2a4-c859-404b-838a-58906f0fa3c6"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It can also be used with a clause."
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*bago\\*\\*+ clause (Tag.) = before clause (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinagot niya ang tanong bago ko siya tinanong.",
+        "english": "She answered the question before I asked her.",
+        "required": true,
+        "audioPath": "45197ae3-dbeb-4b5e-ae0a-264df9856fdd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bago ako maglalaro ng basketball, magbibisikleta ako.",
+        "english": "Before I play basketball I will bicycle.",
+        "required": true,
+        "audioPath": "6fc3786c-8752-4041-80de-21271e5400c9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kailangan niyang bumili ng manok bago magluto ng adobo.",
+        "english": "She needs to buy chicken before cooking adobo.",
+        "required": true,
+        "audioPath": "07d9c7c4-cbac-41e6-bbe6-c70c5cc7348a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In the last example, notice that the infinitive _magluto_ means “cooking”; you saw something similar with _tapos_. As an adjective, _bago_ means “new”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "bago mong sasakyan",
+        "english": "your new car",
+        "required": true,
+        "audioPath": "c3f730fe-64f7-4ce8-93ca-3610c6e31528"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ng bagong bahay.",
+        "english": "I want a new house.",
+        "required": true,
+        "audioPath": "f6dc1c8a-ddb4-46f7-992d-40338eb3e97a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Yun ba ang bagong babae?",
+        "english": "Is that the new girl?",
+        "required": true,
+        "audioPath": "d0dddc16-e225-4e6c-a604-a19ec829bd98"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Dati</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As an adverb, _dati_ means “previously”. It is normally placed at the end of a phrase."
+    },
+    {
+      "type": "h2",
+      "markdown": "Phrase + dati (Tag.) = Phrase previously (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi siya mahilig sa sasakyan dati.",
+        "english": "He did not like cars previously.",
+        "required": true,
+        "audioPath": "14bde9e8-0fcc-4249-b707-b25f55af3849"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagturo ang guro ng Tagalog dati.",
+        "english": "The teacher taught Tagalog previously.",
+        "required": true,
+        "audioPath": "8379f157-34ca-423c-ac51-77b9c61bdda5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nasa Cebu si Vanessa dati.",
+        "english": "Vanessa was in Cebu previously.",
+        "required": true,
+        "audioPath": "cc791808-2a9a-446f-a2cf-3244e094234b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "As an adjective, it means “former/previous/ex”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dati niyang asawa",
+        "english": "his/her ex wife/husband",
+        "required": true,
+        "audioPath": "90845e56-4214-4db9-9676-1027fbea060a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mas gusto ko ang dating sasakyan.",
+        "english": "I prefer the previous car.",
+        "required": true,
+        "audioPath": "0daffe22-e187-4a7a-becc-3578a20cb35c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Dating pangulo ba siya?",
+        "english": "Is he the ex-president?",
+        "required": true,
+        "audioPath": "60c46f76-5426-403a-a5ad-c05c9b5a3754"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Wala si Joaquin sa Luzon dati.",
+      "english": "Joaquin was not in Luzon previously.",
+      "required": true,
+      "audioPath": "84fec16a-bd66-4bba-9215-593a9e7d41db"
+    },
+    {
+      "tagalog": "Gusto ni nanay ng tunay na bahay at bagong trabaho.",
+      "english": "Mother wants a real house and a new job.",
+      "required": true,
+      "audioPath": "88058730-0fc3-43f9-9859-d2d8bd6ba1eb"
+    },
+    {
+      "tagalog": "Huwag mong pagtawanan ang dati mong asawa.",
+      "english": "Do not mock your ex-wife.",
+      "required": true,
+      "audioPath": "fb0f74c8-4c13-45b9-b212-d083ddb4164d"
+    },
+    {
+      "tagalog": "Pumunta siya sa Parañaque bago ang Oktubre.",
+      "english": "He went to Parañaque before October.",
+      "required": true,
+      "audioPath": "8375b2f7-14ad-45ea-9e74-0c8c5d366b3e"
+    },
+    {
+      "tagalog": "Pinaglutuan nila ng adobo ang kawali dati.",
+      "english": "They cooked adobo in the pan previously.",
+      "required": true,
+      "audioPath": "0a1d6d1c-117d-43d8-b23c-89bd55492971"
+    },
+    {
+      "tagalog": "Kaninong bagong sasakyan ito?",
+      "english": "Whose new car is this?",
+      "required": true,
+      "audioPath": "b3c88059-1a67-49b4-875f-bc8dc91db08f"
+    },
+    {
+      "tagalog": "Pag-usapan natin ang dati niyang pangalan.",
+      "english": "Let's have a discussion about her former name.",
+      "required": true,
+      "audioPath": "22356821-2b79-40ba-b8ec-2bcaaf6c2fd7"
+    },
+    {
+      "tagalog": "Hindi ka puwedeng magluto ng adobo bago bumili ng manok.",
+      "english": "You cannot cook adobo before buying chicken.",
+      "required": true,
+      "audioPath": "ac1a5f3a-ee85-49cc-a304-993b0e6eaf08"
+    },
+    {
+      "tagalog": "Hindi siya nanonood ng TV dati.",
+      "english": "He did not watch TV previously.",
+      "required": true,
+      "audioPath": "2e367788-327d-4ac3-9192-19667e96e58f"
+    },
+    {
+      "tagalog": "Parang dating bisikleta ko ang bagong bisikleta mo.",
+      "english": "Your new bike seems like my previous bike.",
+      "required": true,
+      "audioPath": "a806f793-193e-4d7c-9223-6ead9c77b038"
+    }
+  ]
+}

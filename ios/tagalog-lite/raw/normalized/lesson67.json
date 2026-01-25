@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson67",
+  "title": "Lesson 67 – Noun Affixes that do not Provide Clues",
+  "vocabulary": [
+    {
+      "tagalog": "kaibigan",
+      "english": "friend",
+      "required": true,
+      "audioPath": "09e4de21-d928-4590-a0ee-12fbd0fd0b7c"
+    },
+    {
+      "tagalog": "karamihan",
+      "english": "majority; most",
+      "required": true,
+      "audioPath": "ba6cb356-6734-4357-b5ff-c45da28a3b41"
+    },
+    {
+      "tagalog": "liwasan",
+      "english": "park",
+      "required": true,
+      "audioPath": "acb3aa71-8a62-4a3f-a7fd-3239d474d837"
+    },
+    {
+      "tagalog": "paraán",
+      "english": "method",
+      "required": true,
+      "audioPath": "25fb6bf1-d98a-4d6f-b0d8-712da00d5b58"
+    },
+    {
+      "tagalog": "tanawin",
+      "english": "scenery",
+      "required": true,
+      "audioPath": "2e121816-9cf9-47c0-bfc8-6f2267ab1a02"
+    },
+    {
+      "tagalog": "aralín",
+      "english": "lesson",
+      "required": false,
+      "audioPath": "28423f29-47ba-44f6-a36a-0fe1005e1d7f"
+    },
+    {
+      "tagalog": "hangarin",
+      "english": "desire",
+      "required": false,
+      "audioPath": "3a43dbf2-30a8-4afa-9233-da9050823c12"
+    },
+    {
+      "tagalog": "kabataan",
+      "english": "youth",
+      "required": false,
+      "audioPath": "46db2bc3-f66e-42b5-bb41-c347446821c5"
+    },
+    {
+      "tagalog": "laruán",
+      "english": "toy",
+      "required": false,
+      "audioPath": "30c9956f-3be4-4751-9b9c-a1b9a0392da7"
+    },
+    {
+      "tagalog": "palabás",
+      "english": "show",
+      "required": false,
+      "audioPath": "c7eea3af-a463-4edb-be1c-c2ac6aae1b9a"
+    },
+    {
+      "tagalog": "usapan",
+      "english": "discussion",
+      "required": false,
+      "audioPath": "e658d2e0-478a-4606-988f-60e460c84cf3"
+    },
+    {
+      "tagalog": "*pangalan",
+      "english": "name",
+      "required": false,
+      "audioPath": "9e8663eb-8f53-4966-9da0-065b00d49662"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "The noun affixes that you learned in the previous lesson provide a clear clue as to the nuance or meaning of a noun. In this lesson we will cover the most common noun affixes which do not provide a clue, or which have so many possible clues that it is probably not worth trying to remember them."
+    },
+    {
+      "type": "p",
+      "markdown": "You may be wondering why there is a lesson on these, since we are just treating them like vocabulary items with no special grammar. I want you to be aware that roots with these affixes are often nouns. If you know this fact, it may improve your ability to recognize them. For example, when I found out _ka-...-an_ was a noun affix, it made nouns like _kabataan_ much easier to recognize and recall. It is just _bata_(kid) with a _ka-...-an_ affix."
+    },
+    {
+      "type": "p",
+      "markdown": "You have probably noticed by now that some noun affixes are the same as verb affixes. In earlier lessons, we learned that verbs can often be used as nouns. Having the same affixes is yet another example of the overlap between verbs and nouns in Tagalog."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ka-...-an Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "ka + ibig (love) + an = kaibigan = friend"
+    },
+    {
+      "type": "p",
+      "markdown": "ka + dami (many) + han = karamihan = majority; most"
+    },
+    {
+      "type": "p",
+      "markdown": "ka + bata (kid) + an = kabataan = youth"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>-An Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "*liwas (plaza) + an = liwasan = park"
+    },
+    {
+      "type": "p",
+      "markdown": "laro (play) + an = laruan = toy"
+    },
+    {
+      "type": "p",
+      "markdown": "usap (discuss) + an = usapan = discussion"
+    },
+    {
+      "type": "p",
+      "markdown": "* _Liwas_ is archaic but _liwasan_ is not."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pa- Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "pa + ngalan (name) = pangalan = name"
+    },
+    {
+      "type": "p",
+      "markdown": "pa + daan (means) = paraan = method"
+    },
+    {
+      "type": "p",
+      "markdown": "*pa + labas (outside) = palabas = show"
+    },
+    {
+      "type": "p",
+      "markdown": "*Notice that sometimes there is no obvious connection between the meanings of the root and the word."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>-In Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "tanaw (scene) + in = tanawin = scenery"
+    },
+    {
+      "type": "p",
+      "markdown": "aral (study) + in = aralin = lesson"
+    },
+    {
+      "type": "p",
+      "markdown": "hangad (purpose) + in = hangarin = desire"
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sinubukang kainin ng kaibigan at kaklase ko ang lechon.",
+      "english": "My friend and classmate tried to eat lechon.",
+      "required": true,
+      "audioPath": "feca74b4-e189-47b6-a935-ffe4b435c028"
+    },
+    {
+      "tagalog": "Naglalaro si Mark ng basketbol sa liwasan sa tag-init.",
+      "english": "Mark plays basketball in the park in the summer.",
+      "required": true,
+      "audioPath": "ba6e6d66-151e-4f3c-b196-4b16d6e8194b"
+    },
+    {
+      "tagalog": "Pakisabi ang pinakamabilis mong paraan ng pag-aaral.",
+      "english": "Please state your fastest method for learning.",
+      "required": true,
+      "audioPath": "27b62a9b-d954-4a8f-8546-ecb84bb8f806"
+    },
+    {
+      "tagalog": "Mabilis at puti ang karamihan sa mga sasakyan dito.",
+      "english": "Most of the cars here are fast and white.",
+      "required": true,
+      "audioPath": "a252f339-4bb1-46d2-b29f-e2c997619683"
+    },
+    {
+      "tagalog": "Tag-ulan ngayon, kaya walang tanawin.",
+      "english": "It is rainy season now, so there is no scenery.",
+      "required": true,
+      "audioPath": "e33372f0-8b58-4f06-b307-4adad11ca9c8"
+    },
+    {
+      "tagalog": "Ang anak ng kaibigan ng asawa ni Luis ang mamimili.",
+      "english": "The customer is the child of Luis's wife's friend.",
+      "required": true,
+      "audioPath": "85129931-7954-4554-9efe-b69e9bd31f8b"
+    },
+    {
+      "tagalog": "Ano ang liwasang pinupuntahan ng mag-asawang yun?",
+      "english": "What park is that husband and wife going to?",
+      "required": true,
+      "audioPath": "cae2cc72-934d-4941-81a2-f9d2e4b5f044"
+    },
+    {
+      "tagalog": "Ituturo ni Mrs. Cruz sa akin ang paraan niya para maging pangulo.",
+      "english": "Mrs. Cruz will teach me her method to become president.",
+      "required": true,
+      "audioPath": "b3628846-888e-4840-918d-8e9b4cb22d82"
+    },
+    {
+      "tagalog": "Nasaan po ang karamihan sa estudyante ngayon?",
+      "english": "Where are most of the students now? (resp.)",
+      "required": true,
+      "audioPath": "3c4f61c7-c3f6-40a8-879c-504d2ab7b050"
+    },
+    {
+      "tagalog": "Sino ang umakyat ng puno para makita ang tanawin nang mga alas-diyes ng gabi?",
+      "english": "Who climbed a tree to see the scenery at around 10pm?",
+      "required": true,
+      "audioPath": "1e1417ba-4f0e-4acf-b36b-1289dea23a94"
+    }
+  ]
+}

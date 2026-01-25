@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson54",
+  "title": "Lesson 54 - The Short Form; Using Bare Roots",
+  "vocabulary": [
+    {
+      "tagalog": "sagót",
+      "english": "answer",
+      "required": true,
+      "audioPath": "eb479a4c-6420-465e-b967-011f9e221ca5"
+    },
+    {
+      "tagalog": "takot",
+      "english": "fear",
+      "required": true,
+      "audioPath": "7b90782b-0e40-4a14-bbdc-5705a30db91e"
+    },
+    {
+      "tagalog": "init",
+      "english": "heat",
+      "required": true,
+      "audioPath": "7b6ae5a1-1875-4f81-8efe-dd55f06b3a5f"
+    },
+    {
+      "tagalog": "biro",
+      "english": "joke",
+      "required": true,
+      "audioPath": "d3593109-e15e-40a1-9892-e05fe2480137"
+    },
+    {
+      "tagalog": "tutók",
+      "english": "concentration",
+      "required": true,
+      "audioPath": "467d8ef9-f919-4052-b5f2-40cc34494752"
+    },
+    {
+      "tagalog": "hirap",
+      "english": "difficulty",
+      "required": true,
+      "audioPath": "a7712943-421a-4a39-90c7-ca35afe1a028"
+    },
+    {
+      "tagalog": "turò",
+      "english": "teaching",
+      "required": true,
+      "audioPath": "b4cc0b21-50ef-484a-90ab-ddd47023b50e"
+    },
+    {
+      "tagalog": "kita",
+      "english": "sight",
+      "required": true,
+      "audioPath": "d8a87923-024c-4fca-b8ba-2f82f5e98935"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Sometimes it is ok to just use a root, rather than a complete verb or adjective. I call this the “short” form. You will definitely hear this in colloquial speech, but it is less common than the “normal” form, so I will restrict it to this lesson only. Note that these roots may have stress/glottal stops different from full verbs/adjectives. Compare _magturo_ with _turò_ and _nakatutok_ with _tutók_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Short form for verbs</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Root\\*\\*+ Ng phrase = \\*\\*Verb\\*\\*+ Ng phrase"
+    },
+    {
+      "type": "p",
+      "markdown": "You have already seen these:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alam ko, maganda siya.",
+        "english": "Nalalaman ko, maganda siya. = I know she is beautiful.",
+        "required": true,
+        "audioPath": "3324c4bf-2cc5-439a-966b-deafd3090688"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabi ni Joshua, ikinuha mo ako ng mangga.",
+        "english": "Sinabi ni Joshua, ikinuha mo ako ng mangga. = Joshua said that you got me a mango.",
+        "required": true,
+        "audioPath": "c914f8a9-59af-4e42-8424-01b4aa9e1f5e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sagot ni Angel, pupunta si Maria sa Pilipinas.",
+        "english": "Sinagot ni Angel, pupunta si Maria sa Pilipinas. = Angel answered Maria will go to the Philippines.",
+        "required": true,
+        "audioPath": "3dc09551-25ba-4c9d-b934-592f0ecea210"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Short form for “Very Adjective”</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "Ang + \\*\\*Root\\*\\*+ Ng form phrase = Sobrang + \\*\\*Adj\\*\\*+ Ang form phrase"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ang ganda mo.",
+        "english": "Sobrang maganda ka. = You are very pretty.",
+        "required": true,
+        "audioPath": "8f308c85-a1a4-4d77-8b8a-f6d239502297"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ang dami ng mga sasakyan.",
+        "english": "Sobrang marami ang mga sasakyan. = There are very many cars.",
+        "required": true,
+        "audioPath": "2e93dff9-fd40-4e2d-8b13-cc643712ed41"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ang mura ng eskwelahang yun.",
+        "english": "Sobrang mura ang eskwelahang yun. = That school is very cheap.",
+        "required": true,
+        "audioPath": "b6e26cf2-110c-4eb9-977c-65266c29cabe"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This structure is also used to exclaim “How adjective it is!”"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ang init ko!",
+        "english": "Sobrang mainit ako! = How hot I am! = I am very hot!",
+        "required": true,
+        "audioPath": "8a56f8a5-c3c9-40ec-8924-77ab305d5f9f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ang saya mo na!",
+        "english": "Sobrang masaya ka na! = How happy you are already! = You are very happy already!",
+        "required": true,
+        "audioPath": "6150473f-5c77-4424-a34b-b533e60be3b4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ang mura naman ng eskuwelahang yun!",
+        "english": "Sobrang mura naman ng eskwelahang yun! = How cheap that school is (by contrast)! = That school is very cheap (by contrast)!",
+        "required": true,
+        "audioPath": "70fe2207-6ad7-46df-865c-473fc44c14a2"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sagot niya, nakatira sila sa pinakagusto nilang lugar.",
+      "english": "She answered, they lived in their favorite place.",
+      "required": true,
+      "audioPath": "7ef57a0e-b90b-4ff6-9d78-7e7c8a1871bc"
+    },
+    {
+      "tagalog": "Ang takot namin nung nanood kami ng TV nung huling araw ng Setyembre.",
+      "english": "We were very frightened when we watched TV on the last day of September.",
+      "required": true,
+      "audioPath": "213b6856-5a30-49b6-9c22-fd035b8bb216"
+    },
+    {
+      "tagalog": "Ang init ko! Parang nasa loob ako ng araw ngayon.",
+      "english": "How hot I am! It is like I am inside the sun now.",
+      "required": true,
+      "audioPath": "5418d3c9-0f1a-4289-a541-c0438230911f"
+    },
+    {
+      "tagalog": "Biro niya, sobrang sikat ng babaeng nakasapatos sa tubig.",
+      "english": "He joked, \"The woman wearing shoes in the water is very famous\".",
+      "required": true,
+      "audioPath": "19018c33-9e2f-4f26-b6db-d36dd4679c9a"
+    },
+    {
+      "tagalog": "Ang tutok niya kapag naglalaro siya nang ganun, di ba?",
+      "english": "He is very focused when he plays like that, isn't he?",
+      "required": true,
+      "audioPath": "38490f04-899b-4d3e-bdcd-969a37b88290"
+    },
+    {
+      "tagalog": "Ang hirap ng taon! Gusto niyang magkapera, pero wala.",
+      "english": "How difficult the year is! She wants to have money, but she has none. (magka-)",
+      "required": true,
+      "audioPath": "f7c7df58-862b-4dc8-96cf-8ca5c4cf63e2"
+    },
+    {
+      "tagalog": "Turo ni Mrs. Cruz, mas mabilis ang bus kaysa sa bisikleta.",
+      "english": "Mrs. Cruz pointed out the bus is faster than a bicycle.",
+      "required": true,
+      "audioPath": "7d007e5d-1fae-405a-970d-7a027b963738"
+    },
+    {
+      "tagalog": "Ang ganda mo. Meron ka bang kasama?",
+      "english": "You are very pretty. Do you have a companion?",
+      "required": true,
+      "audioPath": "3e9d9fc1-8a1d-4633-913a-41e5ea98ccf2"
+    },
+    {
+      "tagalog": "Ang pagod ko! Nakakatuwa ito para sa iyo, pero kailangan kong matulog.",
+      "english": "How tired I am! It is fun for you, but I need to sleep.",
+      "required": true,
+      "audioPath": "1512f133-b0e4-4145-9c59-c5144a00d3d8"
+    },
+    {
+      "tagalog": "Kita ko, mahirap maniwala sa ganitong sagot.",
+      "english": "I see it is difficult to believe such an answer.",
+      "required": true,
+      "audioPath": "0487fc57-4574-481f-8bcc-6ab0ada17d68"
+    }
+  ]
+}

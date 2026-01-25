@@ -1,0 +1,662 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson42",
+  "title": "Lesson 42 - Adverbs 2",
+  "vocabulary": [
+    {
+      "tagalog": "bakâ",
+      "english": "maybe",
+      "required": true,
+      "audioPath": "31a236a8-ecda-4f75-8b65-7a41a98e6bde"
+    },
+    {
+      "tagalog": "talagá",
+      "english": "really",
+      "required": true,
+      "audioPath": "46157055-3887-4680-a4cc-b5831841ef78"
+    },
+    {
+      "tagalog": "dahil",
+      "english": "due to",
+      "required": true,
+      "audioPath": "4b243b33-d4db-4def-9a4a-e1aeef10c705"
+    },
+    {
+      "tagalog": "a",
+      "english": "sentence ending particle with nuance “surprisingly”",
+      "required": false,
+      "audioPath": "f8631e6d-81fa-4a9b-ba20-0db7d79a7469"
+    },
+    {
+      "tagalog": "e",
+      "english": "sentence ending particle with nuance “because”",
+      "required": false,
+      "audioPath": "af62db45-0546-42d1-9a0a-28f1ca8a7fe3"
+    },
+    {
+      "tagalog": "ha",
+      "english": "sentence ending particle that adds insistence",
+      "required": false,
+      "audioPath": "8a6457e9-8120-4c42-b7ce-f8f9222d182b"
+    },
+    {
+      "tagalog": "o",
+      "english": "sentence ending particle that increases urgency",
+      "required": false,
+      "audioPath": "f9417fb9-6c72-4fca-b24d-fbf744056768"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "You were introduced to some adverbs that modify verbs in an earlier lesson. It turns out there is a broader definition: Tagalog adverbs and adverb phrases, which I will collectively call “adverbs”, modify verbs, adjectives, other adverbs or groups of words in order to express time, location, manner, etc. In this lesson we will list the adverbs you have already seen, and give you some rules for using new ones."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Some Adverbs that you have Already Seen</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "**Enclitic Particles**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahilig po ba kayo sa halo-halo?",
+        "english": "Do you like halo-halo? (resp.)",
+        "required": true,
+        "audioPath": "52037963-9c3b-4098-8dcb-abba93d07cb1"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "**Sa Phrases**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Igagawa nila ng pagkain si Maria sa gabi.",
+        "english": "They will make food for Maria at night.",
+        "required": true,
+        "audioPath": "8c6a906b-17e8-43d6-a155-a471aa41591f"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "**Para Phrases**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kinukuha ni David ito para kay Joe.",
+        "english": "David is getting this for Joe.",
+        "required": true,
+        "audioPath": "eb5b4db2-a335-4633-8c5e-3257b5ddad16"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "**Nang Phrases**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tawagin mo si Joshua nang alas siyete ng gabi.",
+        "english": "Call out to Joshua at 7pm.",
+        "required": true,
+        "audioPath": "bac00d7a-fe61-4b94-b3f3-6a328a254fc9"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "\\*\\*Nun/kapag/kung Phrases\\*\\*"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aaral ako kapag nasa sasakyan ako.",
+        "english": "I will study when I am in the car.",
+        "required": true,
+        "audioPath": "4beb644f-54c0-4cd9-bef0-d5cf92935583"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Although all of the underlined items above are adverbs, some constructions are non-adverbs in different situations. For example, _sa Manila_ in _Maganda ang bahay sa Manila_ is an adjective because it modifies a noun."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Rules for using new Adverbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Although the definition of adverbs is wide, if you know these two things you will be able to correctly use new ones that you encounter in the wild:"
+    },
+    {
+      "type": "p",
+      "markdown": "**Position**. Adverbs can be enclitic, moveable, initial, or sentence final."
+    },
+    {
+      "type": "p",
+      "markdown": "**Particle**. It might take no particle. It might take _sa_ before it, _sa_ after it, might need a linker, _nang, nung_, etc. It might work with multiple particles."
+    },
+    {
+      "type": "p",
+      "markdown": "What follows are some examples of adverb usage."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Time Adverbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Time adverbs are moveable:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay si Angel ng mangga kay Joe kahapon.",
+        "english": "Angel gave Joe a mango yesterday.",
+        "required": true,
+        "audioPath": "1f90f76b-f783-4adf-9864-3bb40e502ffa"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay si Angel ng mangga kahapon kay Joe.",
+        "english": "Angel gave Joe a mango yesterday.",
+        "required": true,
+        "audioPath": "ca89bf33-97b4-4ba6-9268-30bd132db7c2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay si Angel kahapon ng mangga kay Joe.",
+        "english": "Angel gave Joe a mango yesterday.",
+        "required": true,
+        "audioPath": "d0635b75-2766-4724-a790-6707c5c6aa60"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay kahapon si Angel ng mangga kay Joe.",
+        "english": "Angel gave Joe a mango yesterday.",
+        "required": true,
+        "audioPath": "c0167d6b-cfb9-4583-a424-3adcc55092c5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "To be consistent, we will always put time adverbs at the end. Some adverbs, like Biyernes, require particles. Here are examples of particles used with all three aspects:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aral ako nung Biyernes.",
+        "english": "I studied last Friday.",
+        "required": true,
+        "audioPath": "a6f0654f-d6e8-43d8-bc3e-09f0e6c08927"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aaral ako tuwing Biyernes.",
+        "english": "I study every Friday.",
+        "required": true,
+        "audioPath": "a868317c-eed3-40c5-a53a-04c0eed4a53e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aaral ako sa Biyernes.",
+        "english": "I will study next Friday.",
+        "required": true,
+        "audioPath": "a2788b6c-9b54-4bff-ba88-17ea6d0747d0"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Nang Manner Adverbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Manner adverbs describe the manner in which an action is carried out. One way to form these is with _nang_."
+    },
+    {
+      "type": "h2",
+      "markdown": "Nang Manner Adverb = Nang + Adj"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Niluto niya ang pagkain nang mabilis.",
+        "english": "She cooked the food quickly.",
+        "required": true,
+        "audioPath": "ed617d01-9816-4878-9abd-8a0848c14472"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Niluto niya ang pagkain nang dalawang beses.",
+        "english": "She cooked the food twice.",
+        "required": true,
+        "audioPath": "d8b50e5e-06c6-470e-bcc6-eb31a5158dfe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Niluto niya ang pagkain nang maganda.",
+        "english": "She cooked the food beautifully.",
+        "required": true,
+        "audioPath": "d2707101-5096-4bbe-96cc-159795457285"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Optionally, you can put the adjective before the verb:"
+    },
+    {
+      "type": "p",
+      "markdown": "Adj manner adverb = Adj + linker"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mabilis na niluto niya ang pagkain.",
+        "english": "She cooked the food quickly.",
+        "required": true,
+        "audioPath": "ab1aa54a-2112-483a-9efa-800131aff403"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Also, you can put the _nang_+ adj after the verb and enclitics:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Niluto niya nang mabilis ang pagkain.",
+        "english": "She cooked the food quickly.",
+        "required": true,
+        "audioPath": "14194ca9-7977-46c9-b9ee-6ffed3e3cea6"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But to be consistent we will use first structure shown above."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Initial Adverbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Initial adverbs can only be used at the beginning of phrases. There are only a few of these, and the most common is _baka_, which means “maybe”. It does not take a particle."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Baka nasa bahay ang asawa ni Maria.",
+        "english": "Maybe Maria’s husband is home.",
+        "required": true,
+        "audioPath": "b0fbbd76-aebb-4fab-9d06-94da880cfe37"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Baka iniinom niya ang tubig.",
+        "english": "Maybe he is drinking the water.",
+        "required": true,
+        "audioPath": "59c77398-9003-4c21-8786-d0e3b1cb50f3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Baka itinanim ni David ang puno.",
+        "english": "Maybe David planted the tree.",
+        "required": true,
+        "audioPath": "95382507-ff00-4970-aa90-ba873b4d0ef8"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sentence Ending Adverbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There are four adverbs, _a, e, ha_ and _o_, which are particles that go on the end of a sentence only. Here are some of their meanings."
+    },
+    {
+      "type": "p",
+      "markdown": "_A_ adds the nuance “surprisingly”, or indicates an outcome contrary to expectations:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Masarap ito, a!",
+        "english": "This is surprisingly delicious!",
+        "required": true,
+        "audioPath": "f30e99b1-b970-422d-877f-f230970b0ff5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_E_ adds the nuance “because”, or indicates the sentence is the reason:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumain na ako, e.",
+        "english": "Because I already ate.",
+        "required": true,
+        "audioPath": "bdeb9e94-ec6b-4158-9107-66fbdd5514c5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Ha_ adds insistence:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maglalaro kami bukas, ha?",
+        "english": "We are playing tomorrow, ok?",
+        "required": true,
+        "audioPath": "0cf857f2-e971-4163-bfe7-c09919be280e"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_O_ increases urgency:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tanungin mo siya, o.",
+        "english": "Please ask her.",
+        "required": true,
+        "audioPath": "ec2cbdbc-37d5-4aa2-a6ec-6dc50b2b7491"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Although these are common, they are quite casual and may even come off as rude, so we will not use them in the sample sentences."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Talaga</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Talaga_ is a very common adverb of manner that means “really”. It can be used to modify hosts and adjectives. When it modifies hosts, it belongs with the enclitic particles."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pumunta ka ba talaga sa Pilipinas?",
+        "english": "Did you really go to the Philippines?",
+        "required": true,
+        "audioPath": "d91f621f-b56c-40c4-8e44-6db7a90e15b1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mag-aaral din ba talaga siya ng Tagalog?",
+        "english": "Will he really also study Tagalog?",
+        "required": true,
+        "audioPath": "f8e8d03e-3e31-481c-855a-e484eb4aab2f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto mo ba talagang lutuin ang adobo?",
+        "english": "Do you really want to cook the adobo?",
+        "required": true,
+        "audioPath": "883f254c-ae4d-4f50-9dbe-dd5781a8d261"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "When it modifies adjectives, it behaves just like an adjective: it can go before or after. There is a linker if it goes before, but not if it goes after."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda talaga ang babae.",
+        "english": "The woman is really beautiful.",
+        "required": true,
+        "audioPath": "a1a9b423-ecd7-488d-90ec-48450cda65dc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Talagang maganda ang babae.",
+        "english": "The woman is really beautiful.",
+        "required": true,
+        "audioPath": "b0575f70-52e9-4460-b2cb-900df068ba1d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahilig ako sa talagang mabilis na sasakyan.",
+        "english": "I like really fast cars.",
+        "required": true,
+        "audioPath": "4701c098-385d-470b-a94c-3440d7865313"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is also used as a stand-alone expression:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Talaga?",
+        "english": "Really?",
+        "required": true,
+        "audioPath": "c04bc4ac-4171-4ec4-bd0e-e215af5227ca"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Dahil</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Dahil_ is called a “causative” adverb, and means “due to” when followed by _sa_+ noun:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ako nagbisikleta dahil sa ulan.",
+        "english": "I did not bicycle due to the rain.",
+        "required": true,
+        "audioPath": "9485e6a3-ac11-4d35-a037-3219a3836de0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahirap si Luis dahil sa asawa niya.",
+        "english": "Luis is poor due to his wife.",
+        "required": true,
+        "audioPath": "394084c6-11c9-4a77-8658-69897b0e3ab8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi nila siya nakita dahil sa ilaw.",
+        "english": "They did not see her due to the light.",
+        "required": true,
+        "audioPath": "8c3a497c-6cae-498d-a0e8-7f3a89be03e6"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It means “because” when followed by an equivalency statement:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kakain siya dahil masarap ang pagkain.",
+        "english": "He will eat because the food is delicious.",
+        "required": true,
+        "audioPath": "6a3c1628-aef3-48c0-899b-49b2f8bd331b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It also means “because” when followed by a clause:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Masaya si Joe dahil nanalo siya ng maraming pera.",
+        "english": "Joe is happy because he won a lot of money.",
+        "required": true,
+        "audioPath": "b9f8106f-9d94-48e4-b907-d7a62a25784a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "We are going to use a different word for “because”, so _dahil_ will mean “due to” and only be followed by _sa_+ noun in this book. _Dahil_ is an enclitic host:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Dahil lang sa ilaw, nakita nila siya.",
+        "english": "Only due to the light, were they able to see her.",
+        "required": true,
+        "audioPath": "4f70dcda-c3a8-4a7e-a6ee-246c150aa0aa"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>More about Tungkol</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As mentioned in an earlier lesson, _tungkol_ is a preposition that roughly means “about”. It can also be used as an adverb. Like _dahil_, it is followed by _sa_+ noun:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magsasabi siya sa amin tungkol sa Seattle.",
+        "english": "She will tell us about Seattle.",
+        "required": true,
+        "audioPath": "2ccc847f-b143-4040-9d13-189e9ebfb09c"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Here _tungkol sa_ Seattle is just an adverbial phrase and does not get marked by _ng_ like an object. However, if you want to make it into the focus, remember the focus takes _ang_ form, so in this case you must mark it with _ang_."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinabi niya sa amin ang totoo tungkol sa Seattle.",
+        "english": "She told us the truth about Seattle.",
+        "required": true,
+        "audioPath": "c0650dbc-eca2-4dd2-be85-b613a1b9d1d4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinabi niya sa amin ang tungkol sa Seattle.",
+        "english": "She told us (that thing) about Seattle.",
+        "required": true,
+        "audioPath": "8d27f1b8-0a0f-42cd-95fe-42f224490653"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Tungkol_ is an enclitic host:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tungkol ba ito sa Seattle?",
+        "english": "Is it about Seattle?",
+        "required": true,
+        "audioPath": "90ae102c-d1f7-467b-b920-824271889b33"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ikaw ba ang kailangan bumili ng pagkain tuwing Lunes?",
+      "english": "Are you the one who has to buy food every Monday?",
+      "required": true,
+      "audioPath": "17b40752-b313-4f68-b96c-32767f624365"
+    },
+    {
+      "tagalog": "Baka hindi nila alam kung magkano ang mga mangga.",
+      "english": "Maybe they do not know how much the mangoes are.",
+      "required": true,
+      "audioPath": "6288f83d-2f81-4c58-8ab9-485702bcd6d6"
+    },
+    {
+      "tagalog": "Huwag mo nga talaga siyang tanungin.",
+      "english": "Do not really ask her. (soft)",
+      "required": true,
+      "audioPath": "88840d81-c16c-4051-863f-f50c848172c8"
+    },
+    {
+      "tagalog": "Kinuha na ni Diego ang bisikleta dahil sa oras.",
+      "english": "Diego got the bicycle already due to the time.",
+      "required": true,
+      "audioPath": "3a6bdd26-8788-4994-ba48-1b23192c3610"
+    },
+    {
+      "tagalog": "Tinawag namin ang mga asawa namin tungkol sa halo-halo.",
+      "english": "We (excl.) called out to our wives about the halo-halo.",
+      "required": true,
+      "audioPath": "4ca304b7-2bb9-4896-b8ac-76b5f2dbc4aa"
+    },
+    {
+      "tagalog": "Wala siya sa amin sa Cebu tuwing Nobyembre.",
+      "english": "He is not at our place in Cebu each November.",
+      "required": true,
+      "audioPath": "693c8d97-ff8c-4602-bfb4-d63c34ce7c95"
+    },
+    {
+      "tagalog": "Baka bawal sundin ni Mrs. Cruz ang pangulo.",
+      "english": "Maybe Mrs. Cruz is not allowed to obey the president.",
+      "required": true,
+      "audioPath": "dfe57d8a-9e36-45a4-8729-c744cede48b2"
+    },
+    {
+      "tagalog": "Nasaan ang talagang mabilis na sasakyang ibinigay mo kina Jessica at Analyn?",
+      "english": "Where is the really fast car you gave to Jessica and Analyn?",
+      "required": true,
+      "audioPath": "341b0427-ddf3-4e3e-9324-fac1924a5361"
+    },
+    {
+      "tagalog": "Hindi ko puwedeng gawin ang gusali dahil sa ulan.",
+      "english": "I cannot make the building due to the rain.",
+      "required": true,
+      "audioPath": "1febe1be-f919-4b8e-be0d-107efe2ea4a3"
+    },
+    {
+      "tagalog": "Kung isasama mo siya, tatanungin mo siya kung gusto niya ang araw, di ba?",
+      "english": "If you bring her along, you will ask her if she likes the sun, right?",
+      "required": true,
+      "audioPath": "c38df42d-2ce5-4686-8776-4be0326e6b6e"
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson53",
+  "title": "Lesson 53 – More, Most, Very; Mas, Pinaka, Sobra, Gustong-gusto",
+  "vocabulary": [
+    {
+      "tagalog": "mas",
+      "english": "more",
+      "required": true,
+      "audioPath": "2a17711c-4520-4221-8f23-44d9fdcb3cdf"
+    },
+    {
+      "tagalog": "lalò",
+      "english": "more",
+      "required": false,
+      "audioPath": "a7489fbf-a03e-4592-afe8-0bbcf1591e2f"
+    },
+    {
+      "tagalog": "higít",
+      "english": "more",
+      "required": false,
+      "audioPath": "12577ee0-7476-4fa2-a38d-864b5371e9cd"
+    },
+    {
+      "tagalog": "kaysa",
+      "english": "than",
+      "required": true,
+      "audioPath": "aba66e81-ffca-4375-bf0a-49a6f0b13bcd"
+    },
+    {
+      "tagalog": "pínaka-",
+      "english": "most",
+      "required": true,
+      "audioPath": "42dd11d0-c9de-48bf-9a0b-9d443a068fd0"
+    },
+    {
+      "tagalog": "sobra",
+      "english": "very",
+      "required": true,
+      "audioPath": "b9181d44-df64-4ff4-9a53-9370edba9ef3"
+    },
+    {
+      "tagalog": "nápaka-",
+      "english": "very",
+      "required": false,
+      "audioPath": "59f752cc-85b5-4da4-9d82-79f3d02f2502"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson will cover the Tagalog versions of the comparative (“more” or “-er” in English), superlative (“most” or “-est” in English) and intensifier (“very” in English)."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>More: Mas</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Mas_ is an adverb that roughly means “more” or “-er”. We will use it before adjectives or pseudo verbs:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mas mura ang pagkain.",
+        "english": "The food is cheaper.",
+        "required": true,
+        "audioPath": "02501461-01e9-47fa-888a-4f02e52b7f09"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumain siya nang mas marami.",
+        "english": "She ate more.",
+        "required": true,
+        "audioPath": "7e3c99eb-fca7-4c80-a7a3-70fa0e8b41a7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mas gusto ko ang mabilis na sasakyan.",
+        "english": "I like the fast car more.",
+        "required": true,
+        "audioPath": "6f579f87-3842-4cb7-a402-8553fcc86c59"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Lalo_(adv) and _higit_(adv) can also be used to express “more”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lalong lumalaki ang anak niya.",
+        "english": "Her child is getting even more big.",
+        "required": true,
+        "audioPath": "42a0aaa5-6bb8-41c0-a3b9-071082c6f51f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Higit sa sandaan.",
+        "english": "More than one hundred.",
+        "required": true,
+        "audioPath": "de9167c3-977f-42fc-b6c4-ce56faea6fbd"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But they have special usages and are less common than _mas_, so we will not use them any further. You can make “more than” statements using kaysa:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Mas + phrase1 + kaysa + phrase2. (Tag.) = Phrase1 is more than phrase2. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Notes: Phrase1 starts with an adjective or pseudo verb. Phrase2 takes _sa_ form.\\*\\*"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mas mabilis si David kaysa kay Joe.",
+        "english": "David is faster than Joe.",
+        "required": true,
+        "audioPath": "54dbe4cc-7fb8-47e3-9055-4cfe989df63d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mas masaya na babae si Analyn kaysa kay Jasmine.",
+        "english": "Analyn is a happier woman than Jasmine.",
+        "required": true,
+        "audioPath": "7ad8a4ad-0c9e-49b3-bd9d-b08373c149d6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mas gusto kong magbisikleta kaysa sa magmaneho.",
+        "english": "I like to bicycle more than to drive.",
+        "required": true,
+        "audioPath": "547942ac-a7c7-428f-8e59-b4054832d130"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "These comparisons can also be buried within a sentence:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kukunin ni David ang mga mangga nang mas mabilis kaysa kay Joe.",
+        "english": "David will get the mangoes faster than Joe.",
+        "required": true,
+        "audioPath": "ecfb603f-a7cf-4b1d-a31b-dc97e6c18961"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Most: Pinaka-</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The prefix _pinaka_- is added to adjectives to create the meaning of “most” or “-est”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ko ang pinakamura na bisikleta.",
+        "english": "I want the cheapest bicycle.",
+        "required": true,
+        "audioPath": "c20109ac-e769-4247-951b-43693d4b6a4a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Si Jessica ang pinakamagandang babae.",
+        "english": "The prettiest woman is Jessica.",
+        "required": true,
+        "audioPath": "150e885c-ada0-4a59-8bfe-a762f50cd30e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lumaki siya nang pinakamabilis.",
+        "english": "He grew up the fastest.",
+        "required": true,
+        "audioPath": "0971f3dd-fb52-4e95-ab11-4add9d957db4"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Very Adjective: Sobra</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As a noun, _sobra_ means “excess”. As an adjective, it means “excessive” or “so”. As an adverb it means “excessively”, and colloquially, although it is not a direct translation, it is the most common way to express “very”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sobrang mura ang bisikleta.",
+        "english": "The bicycle is very cheap.",
+        "required": true,
+        "audioPath": "b18f8baa-37f2-4bea-8a7c-cb0d350a0803"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lumaki siya nang sobrang bilis.",
+        "english": "He grew up very fast.",
+        "required": true,
+        "audioPath": "e5a00d0d-3d7a-49d0-813c-3bde4bdca1b6"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "To apply this to a name, it must take _ng_ form:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Sobrang + **adj root** + linker + noun + name. = Name is a very adj noun."
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Note: Name takes _ng_ form.\\*\\*"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sobrang gandang babae ni Jessica.",
+        "english": "Jessica is a very beautiful woman.",
+        "required": true,
+        "audioPath": "5575db78-3ca6-470f-9d94-9ffa4f861518"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the adjective root is the host, so if we turn the name into a pp:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sobrang ganda niyang babae.",
+        "english": "She is a very beautiful woman.",
+        "required": true,
+        "audioPath": "b274eb16-1609-4121-ab82-219d09ec96b0"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Sobra_ can be used as an adverb of manner with a verb:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumakain sila nang sobra.",
+        "english": "They are eating too/very much.",
+        "required": true,
+        "audioPath": "07196ed2-a788-42f4-aab1-8385f9907b9e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lumaki siya nang sobra.",
+        "english": "He grew up too/very much.",
+        "required": true,
+        "audioPath": "1df09805-d841-4db1-bf62-affab6bc7526"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But we will not use it that way, since a different adverb is normally used."
+    },
+    {
+      "type": "p",
+      "markdown": "The prefix _napaka_- can be added to roots to create adjectives with the direct translation of “very”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Napakamura ang bisikleta.",
+        "english": "The bicycle is very cheap.",
+        "required": true,
+        "audioPath": "e308e0e2-4cc5-49ba-9fc7-55ce775d54ff"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Napakagandang babae ni Jessica.",
+        "english": "Jessica is a very beautiful woman. (Note that, like with sobra, Jessica takes ng form.)",
+        "required": true,
+        "audioPath": "93ac8d01-b394-4d6e-ae2b-40308d285370"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lumaki siya nang napakabilis.",
+        "english": "He grew up very fast.",
+        "required": true,
+        "audioPath": "84738dc8-d9d4-4a66-9858-8e4e7e051963"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But these are less common, and to be consistent, we will only use sobra for “very” adjective."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Very Pseudo Verb: Gustong-gusto</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Sobra_ can be used for pseudo verbs too, but the most common way to express “very” for pseudo verbs is to repeat them:"
+    },
+    {
+      "type": "h2",
+      "markdown": "pv + linker + pv (Tag.) = very pv (Eng.)"
+    },
+    {
+      "type": "p",
+      "markdown": "Note: If the linker ends in _g_, join the pseudo verbs with a dash."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gustong-gusto ko ang Pilipinas.",
+        "english": "I like the Philippines very much.",
+        "required": true,
+        "audioPath": "ef47b114-7829-4392-9d47-3cb2660cde46"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwedeng-puwede kami kumain ng lechon.",
+        "english": "We (excl.) are very able to eat lechon.",
+        "required": true,
+        "audioPath": "960ebd45-642f-4b59-be65-e4bfccaa71fe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bawal na bawal magmaneho sa eskwelahan.",
+        "english": "It is very much prohibited to drive in school.",
+        "required": true,
+        "audioPath": "33668666-c9fc-4089-839b-d63ddee9e4e5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "It is also possible to do this with adjectives:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagod na pagod ang lalaki.",
+        "english": "The man is very tired.",
+        "required": true,
+        "audioPath": "62b7e1c0-9698-4560-a428-04afc379a500"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magandang-magandang babae ni Jessica.",
+        "english": "Jessica is a very beautiful woman. (Note that, like with sobra, Jessica takes ng form.)",
+        "required": true,
+        "audioPath": "583274f2-6745-4dc7-9bec-38d4282259da"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lumaki siya nang mabilis na mabilis.",
+        "english": "He grew up very fast.",
+        "required": true,
+        "audioPath": "4f0fddf5-6d3f-417e-8d23-f488046cc3df"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But this is a bit less common than _sobra_, so we will not use it for adjectives."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Oo, mas nakakatuwa siya, pero hindi siya ganun kabilis.",
+      "english": "Yes, she is more entertaining, but she is not that fast.",
+      "required": true,
+      "audioPath": "0255f862-607c-4d22-99b5-b7b638f8cca1"
+    },
+    {
+      "tagalog": "Mas gusto kong manood ng TV kaysa sa maging pangulo.",
+      "english": "I want to watch TV more than to be president.",
+      "required": true,
+      "audioPath": "e5a23da4-0b00-4636-bb51-77e8731b2073"
+    },
+    {
+      "tagalog": "Pareho ba ang sampung pinakanakakainis na kasama ni Jasmine?",
+      "english": "Are Jasmine's ten most annoying companions the same?",
+      "required": true,
+      "audioPath": "40962f43-fa45-414b-92e4-ccd2df8210cc"
+    },
+    {
+      "tagalog": "Kasing bilis ng sobrang pagod na manok ang bata.",
+      "english": "The kid is as fast as the very tired chicken.",
+      "required": true,
+      "audioPath": "70389d57-be8e-4f50-84eb-4f0af00e7d06"
+    },
+    {
+      "tagalog": "Gustong-gusto niya ang nangyayari dahil sa ulan.",
+      "english": "She very much likes what is happening due to the rain.",
+      "required": true,
+      "audioPath": "22bd9c17-60db-448a-b668-1889ee496ebe"
+    },
+    {
+      "tagalog": "Parang mas nakatutok sila nung namasyal sila sa labas.",
+      "english": "It seems they were more focused when they went for a walk outside.",
+      "required": true,
+      "audioPath": "52dd4638-0771-4f00-9e0e-a6a2708f4996"
+    },
+    {
+      "tagalog": "Mas nakakatakot si Luis kaysa kina Analyn at Diego.",
+      "english": "Luis is scarier than Analyn and Diego.",
+      "required": true,
+      "audioPath": "a75deae7-eae4-4855-a506-06fda2d709b2"
+    },
+    {
+      "tagalog": "Ganito ang pinakagusto kong trabaho.",
+      "english": "My favorite work is like this.",
+      "required": true,
+      "audioPath": "c451169c-cde5-412d-9371-8725010a1fc0"
+    },
+    {
+      "tagalog": "Namimili lang si Mark ng sobrang murang sapatos.",
+      "english": "Mark is only shopping for very cheap shoes.",
+      "required": true,
+      "audioPath": "8d580903-033d-473f-9c2b-a6243955bbb3"
+    },
+    {
+      "tagalog": "Kailangang-kailangan mong bumili ng tsokolate para sa asawa ko!",
+      "english": "You really need to buy chocolate for my wife!",
+      "required": true,
+      "audioPath": "8759904c-2585-4fce-97ac-10a7f2855db8"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson40",
+  "title": "Lesson 40 - Plain Pseudo Verbs",
+  "vocabulary": [
+    {
+      "tagalog": "bawal",
+      "english": "prohibited",
+      "required": true,
+      "audioPath": "e31e4226-0459-4501-a0e1-5bcc97b4285e"
+    },
+    {
+      "tagalog": "puwede",
+      "english": "can (ability); may (permission)",
+      "required": true,
+      "audioPath": "c97b0f0d-96e1-4f92-8d69-5c9e047bfc9c"
+    },
+    {
+      "tagalog": "huwág",
+      "english": "do not",
+      "required": true,
+      "audioPath": "fd9e390f-d393-4cc0-9da5-2a4202f76186"
+    },
+    {
+      "tagalog": "meron",
+      "english": "exist or have",
+      "required": false,
+      "audioPath": "84226037-5409-45ba-a389-123a75086069"
+    },
+    {
+      "tagalog": "mahilig",
+      "english": "like",
+      "required": false,
+      "audioPath": "5e8eaa91-675a-4d2a-b298-f381a8eeb56b"
+    },
+    {
+      "tagalog": "*maaarì",
+      "english": "can",
+      "required": false,
+      "audioPath": "9e41dc45-2f38-45cb-9f97-102f76acc7b0"
+    },
+    {
+      "tagalog": "*dapat",
+      "english": "must",
+      "required": false,
+      "audioPath": "b0c6b39f-bb07-4e54-b6cf-58f4a10babff"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "About plain pseudo-verbs: although I listed seven words above, we will not use _maaari_ because it means the same as _puwede_ but is less common. We will not use _dapat_ because it is similar in meaning to _ng_ pseudo-verb _kailangan_ but less common. _Meron_ has already been covered. We used _mahilig_ to like a noun in general. But it is not a pseudo-verb, and it is more common to use ng pseudo-verb _gusto_ to like a verb, so we do not cover _mahilig_+ verb. That leaves us with _bawal_, _puwede_ and _huwag_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Plain Pseudo-verbs with Standard Sentences (SS)</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "Plain pseudo verb Sentence. = **Plain pseudo-verb** (+ linker) + SS."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Verb takes infinitive. The linker goes before the verb. Use the linker if it is -_ng_ type, but omit it if it is _na_.**"
+    },
+    {
+      "type": "p",
+      "markdown": "To form these, take all the enclitics out of the standard sentence and put them after the pseudo-verb, then change the verb to infinitive."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwede ka bang maglaro?",
+        "english": "Can you play? Notice that the AF actor keeps its ang form. That is why these are called plain pseudo-verbs.",
+        "required": true,
+        "audioPath": "be0a586f-41f1-40e8-9d3a-1b1bf67a161a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwede bang maglaro si David?",
+        "english": "Can David play? Notice that, unlike ng pseudo-verbs, the non personal pronoun AF actor is not moved.",
+        "required": true,
+        "audioPath": "516298bc-f8e1-463c-971e-499f8a89ee85"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "If you just want to express ability, remember that you do not need to use _puwede_ with verbs that have the nuance of ability, like certain _ma_- verbs:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Makukuha ko ang bisikleta.",
+        "english": "I will be able to get the bicycle.",
+        "required": true,
+        "audioPath": "bcbc63b5-c481-47ec-9af3-1938ecdc0150"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwede kong makuha ang bisikleta.",
+        "english": "I can get the bicycle, but it sounds redundant because makuha already has the meaning to be able to get. Compare with:",
+        "required": true,
+        "audioPath": "cd77206e-ba46-440e-b30c-92a529cd6726"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwede kong kunin ang bisikleta.",
+        "english": "I can get the bicycle, without sounding redundant.",
+        "required": true,
+        "audioPath": "e2ffa907-42c7-45c7-9fa6-c39beadc5ab4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bawal mong hanapin si Maria.",
+        "english": "You are prohibited from looking for Maria.",
+        "required": true,
+        "audioPath": "f6c64004-36a0-4a32-b7f0-dea1a6d05fb2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwag mo siyang igawa ng adobo.",
+        "english": "Do not make her adobo.",
+        "required": true,
+        "audioPath": "5681030c-363e-4d04-9abf-5811bfb44a5e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Huwag is for Imperative</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Although _huwag_ is used in some more advanced constructions, we only use it to negate imperative sentences in this book."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwag kayong magluto ng pagkain ngayon.",
+        "english": "(you pl) Do not cook food now.",
+        "required": true,
+        "audioPath": "83d37dc2-6799-4362-99ff-ce2d34e6abff"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwag nating tingnan ang bisikleta.",
+        "english": "Let’s not look at the bicycle.",
+        "required": true,
+        "audioPath": "3b158fa9-14b0-458d-afbb-231c5d7b6766"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwag mong ikuha ng mangga si Joe.",
+        "english": "Do not get a mango for Joe.",
+        "required": true,
+        "audioPath": "6e9e8e70-d901-411e-ae23-ce1c04c6c9ec"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Huwag behaves like a host for Ito and Yun</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Colloquially, in _huwag_ phrases, similar to _hindi_, demonstrative pronouns _ito_ and _yun_ are normally placed at the end of the enclitic cluster by native speakers."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwag ninyo itong lutuin ngayon.",
+        "english": "(you pl) Do not cook it now.",
+        "required": true,
+        "audioPath": "267da9ab-4ff8-4a49-b55d-4f7dbfcba9d4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwag natin yung tingnan.",
+        "english": "Let’s not look at that.",
+        "required": true,
+        "audioPath": "42f85a7b-a973-464a-bb7f-a7e9ad098e79"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwag mo itong ikuha ng mangga.",
+        "english": "Do not get a mango for it.",
+        "required": true,
+        "audioPath": "a68abc69-80bd-4e13-b8ce-d5e2f830322e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Samples of Negated Sentences</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Like ng pseudo-verbs, in general plain pseudo-verbs are negated with _hindi_. But _bawal_ is already a negation of _puwede_(may), and _huwag_ negates imperative sentences, so they do not take _hindi_. _Hindi puwede_ will mean “unable” in this book. It can also mean “may not” colloquially, but we will only use _bawal_ for that to be consistent."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Bawal mo ring hanapin si Maria.",
+        "english": "You are also prohibited from looking for Maria.",
+        "required": true,
+        "audioPath": "52bcf23f-e16d-4020-a20f-765c04b9db40"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwag kang maglaro ng basketball.",
+        "english": "Do not play basketball.",
+        "required": true,
+        "audioPath": "f0823ab1-a2e9-4cbc-8a4f-774afbeb6a1c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi puwedeng lumaki ang puno.",
+        "english": "The tree cannot become big.",
+        "required": true,
+        "audioPath": "0aa432ff-801d-48e3-b6f6-22b30ca00505"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Review: Comparing Ng and Plain Pseudo-Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ng_ and plain pseudo-verb non-AF sentences, and plain pseudo-verb AF sentences, use the same grammar. _Ng_ pseudo-verb AF sentences are different. Unlike the others, in _ng_ pseudo-verb AF sentences:"
+    },
+    {
+      "type": "p",
+      "markdown": "It is mandatory to change the actor to _ng_ form."
+    },
+    {
+      "type": "p",
+      "markdown": "It is preferred to put the actor after the pseudo-verb even when it is not a personal pronoun."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ng: Ayaw ni Joe pumunta.",
+        "english": "Joe does not want to go.",
+        "required": true,
+        "audioPath": "0e169134-3c8e-422e-9766-a858a6f8118f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Plain: Puwede bang pumunta si Joe?",
+        "english": "Can Joe go?",
+        "required": true,
+        "audioPath": "df883249-d18e-4da8-8f5c-d2b427c03d18"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ng: Kailangan ninyong inumin ang tubig na yun.",
+        "english": "You (pl) need to drink that water.",
+        "required": true,
+        "audioPath": "e8802d07-64c2-4889-8467-3e1714f6a3d3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Plain: Huwag ninyong inumin ang tubig na yun.",
+        "english": "(you pl) Do not drink that water.",
+        "required": true,
+        "audioPath": "5abd1fc7-daa3-4e2b-bb8f-26c067761995"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ng: Gusto rin po ni David na magbigay ng sasakyan sa kanila.",
+        "english": "David also wants to give them a car. (resp.)",
+        "required": true,
+        "audioPath": "45ec9e44-586a-4f38-9cdb-0c25b570e628"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Plain: Bawal din pong magbigay si David ng sasakyan sa kanila.",
+        "english": "David is also prohibited from giving them a car. (resp.)",
+        "required": true,
+        "audioPath": "b7ebc45d-9e47-47b3-b156-3d23948c72c1"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Bawal kang gumawa ng halo-halo sa tabi ng mga manok, no?",
+      "english": "You are prohibited from making halo-halo next to the chickens, right?",
+      "required": true,
+      "audioPath": "aa812039-41e4-4078-9691-60cbea2c2064"
+    },
+    {
+      "tagalog": "Puwede ko bang kainin ang tsokolate sa ilalim ng lamesa?",
+      "english": "May I eat the chocolate under the table?",
+      "required": true,
+      "audioPath": "a720a265-40e5-47fe-96c6-3861ad0f1e4b"
+    },
+    {
+      "tagalog": "Huwag kayong umalis sa ikaapat ng Hulyo.",
+      "english": "Do not (you pl.) leave on the 4th of July.",
+      "required": true,
+      "audioPath": "104f108d-300c-4b7d-b011-2d6d423b7b50"
+    },
+    {
+      "tagalog": "Puwede mo siyang makita kapag nandito ka.",
+      "english": "You are allowed to see her when you are here.",
+      "required": true,
+      "audioPath": "39be3895-0f37-4b53-a36e-35537ea8d644"
+    },
+    {
+      "tagalog": "Hindi kami puwedeng umuwi sa Luzon sa Oktubre para sa iyo.",
+      "english": "We (excl.) are unable to go home to Luzon in October for you.",
+      "required": true,
+      "audioPath": "99c718ac-22af-48e0-95e2-20d0ed164483"
+    },
+    {
+      "tagalog": "Huwag mo rin itong sabihin.",
+      "english": "Do not even (also) say it.",
+      "required": true,
+      "audioPath": "528c3176-14ed-4a9e-922d-0cd28db9a416"
+    },
+    {
+      "tagalog": "Bawal mapunta si Mark sa kuwarto ni Jessica.",
+      "english": "Mark is prohibited from winding up in Jessica's room.",
+      "required": true,
+      "audioPath": "3968b729-032b-45a5-bd60-bd697b149b03"
+    },
+    {
+      "tagalog": "Huwag mo akong ibili ng tubig kapag nasa tindahan ka.",
+      "english": "Do not buy me water when you are in the store.",
+      "required": true,
+      "audioPath": "84cd8e43-0748-499e-ba20-586f04ed0941"
+    },
+    {
+      "tagalog": "Bawal siyang matulog sa labas.",
+      "english": "She is not allowed to sleep outside.",
+      "required": true,
+      "audioPath": "33cbc1b4-5760-4446-8c34-840cb4c4fc66"
+    },
+    {
+      "tagalog": "Hindi rin po ba puwedeng igawa ni Maria ng sapatos si Angel?",
+      "english": "Isn't Maria also able to make shoes for Angel? (resp.)",
+      "required": true,
+      "audioPath": "2ee95b17-f854-44e6-8a47-3d18c7839356"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson45",
+  "title": "Lesson 45 - Conjunctions",
+  "vocabulary": [
+    {
+      "tagalog": "o",
+      "english": "or",
+      "required": true,
+      "audioPath": "2f1d16d7-ba24-4845-b641-fe59b59ebb74"
+    },
+    {
+      "tagalog": "pero",
+      "english": "but",
+      "required": true,
+      "audioPath": "7b5063b8-3097-43eb-9dcd-d3b400a1264d"
+    },
+    {
+      "tagalog": "kayâ",
+      "english": "therefore (conjunction/enclitic particle)",
+      "required": true,
+      "audioPath": "65557dbf-e566-46e5-8ddc-21369efc9b80"
+    },
+    {
+      "tagalog": "kasí",
+      "english": "because (conjunction/enclitic particle)",
+      "required": true,
+      "audioPath": "b6647cf4-b3cb-4749-8bab-d4e373d340b8"
+    },
+    {
+      "tagalog": "para",
+      "english": "in order to (conjunction); for (preposition)",
+      "required": true,
+      "audioPath": "251dcf58-80eb-4fb6-9f85-5bd7b6f36be1"
+    },
+    {
+      "tagalog": "at",
+      "english": "and",
+      "required": false,
+      "audioPath": "fa78726a-3dad-47ea-b871-663f8b10c5a3"
+    },
+    {
+      "tagalog": "nun",
+      "english": "when, while, during (past actions)",
+      "required": false,
+      "audioPath": "2fd82dbe-4cbe-41b0-b78f-17e623527157"
+    },
+    {
+      "tagalog": "kapág",
+      "english": "when, while, during (non-past actions)",
+      "required": false,
+      "audioPath": "9da105af-1c5b-4aaa-a2e1-77b70ac262c4"
+    },
+    {
+      "tagalog": "kung",
+      "english": "if, when, while, during (non-past actions)",
+      "required": false,
+      "audioPath": "ea6c02da-0352-48a5-ae48-76395d8a0b15"
+    },
+    {
+      "tagalog": "*upang",
+      "english": "in order to",
+      "required": false,
+      "audioPath": "a1a9e440-8084-4ec9-8a71-1bbccbc7530b"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Conjunctions are words that join words, phrases, clauses or sentences. There are many, and I have included nine of the most common ones above. Because you have already been using _at, nun, kapag_ and _kung_ already, we will not discuss them anymore in this lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>O, Pero, Kaya, Kasi</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are all used in the same way; you just put them between the items to join. One note about _kasi_– we are using it to mean “because” rather than the conjunctive adverb _dahil sa_ in this book."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ibigay mo ang pera sa akin o kunin mo ang pagkain.",
+        "english": "Give the money to me or get the food.",
+        "required": true,
+        "audioPath": "46f7592a-fcca-43a8-b9d9-bf08304b52c2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto kitang ibili ng mangga, pero hindi puwede.",
+        "english": "I want to buy you a mango, but cannot.",
+        "required": true,
+        "audioPath": "3fc5e284-de33-4009-a806-fa7589948d0d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nasa kalsada ako, kaya nakikita ko ang ulan.",
+        "english": "I am in the street, so I can see the rain.",
+        "required": true,
+        "audioPath": "789f91ab-04c1-4411-91f1-7b0918e37b1d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagod siya kasi naglaro sila ng basketbol.",
+        "english": "He is tired because they played basketball.",
+        "required": true,
+        "audioPath": "af6c7ee8-9a1e-41f4-8791-d842a88fa5cb"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Para (as a conjunction)</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You have been using _para_ as a preposition:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nag-aral ako sa eskuwelahan para sa guro ko.",
+        "english": "I studied in school for my teacher.",
+        "required": true,
+        "audioPath": "28516b41-de39-43aa-aa40-fe61d658ffbb"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "In this lesson, we will use it as a conjunction that means “in order to” or just “to”. If you recall, the verb + infinitive structure works for certain verbs:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinubukang kunin ng bata ang pera.",
+        "english": "The kid tried to take the money.",
+        "required": true,
+        "audioPath": "a15b707b-6e84-4fc5-97a5-c3fa78e1a799"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For all other verbs, _para_ is used. It is a little different from the conjunctions mentioned previously because when it is followed by a verb, the verb takes the infinitive."
+    },
+    {
+      "type": "h2",
+      "markdown": "Item1 + para + item2. = Item1 in order to item2."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: If item2 starts with a verb, the verb takes infinitive.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagluto ako ng manok para kumain sa kuwarto ko.",
+        "english": "I cooked chicken to eat in my room.",
+        "required": true,
+        "audioPath": "10172d18-14e5-4208-9188-32d3fafd0fc0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Makukuha ni Joe ang basketbol para maglaro bukas.",
+        "english": "Joe will be able to get the basketball to play tomorrow.",
+        "required": true,
+        "audioPath": "09bb455e-5178-4d01-aacd-d4b09efc8c69"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Inilalagay ko ang tsokolate sa lamesa para maalala ito.",
+        "english": "I am putting the chocolate on the table to remember it.",
+        "required": true,
+        "audioPath": "be9073e8-9600-4c56-9d5a-a38d1d78c2fd"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Alternatively, _upang_ can be substituted for _para_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagluto ako ng manok upang kumain sa kuwarto ko.",
+        "english": "I cooked chicken to eat in my room.",
+        "required": true,
+        "audioPath": "bd5c2234-886b-40eb-aae9-cef41e8da9ba"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But _upang_ is a less common, so we will not use it anymore in this book."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sabi ba niya, nalaman ni Angel, o hindi mo alam?",
+      "english": "Did she say Angel found out, or do you not know?",
+      "required": true,
+      "audioPath": "32ef61ad-4e25-4543-ac0a-d54c20a12883"
+    },
+    {
+      "tagalog": "Sa tingin ko, magugustuhan mo ang Seattle, pero hindi ang ulan dun.",
+      "english": "I think you will like Seattle, but not the rain there.",
+      "required": true,
+      "audioPath": "b7b3b20d-7cd0-44d6-b6bd-3297e9dc1de4"
+    },
+    {
+      "tagalog": "Nahirapan siyang magtanim ng mga puno, kaya umalis siya.",
+      "english": "He was having a hard time planting trees, so he left.",
+      "required": true,
+      "audioPath": "2bc33d9b-7138-414c-926a-0a120149beb5"
+    },
+    {
+      "tagalog": "Mapupuntahan ni Joe ang Pilipinas kasi nag-aral siya ng Tagalog.",
+      "english": "Joe will be able to go to the Philippines, because he studied Tagalog.",
+      "required": true,
+      "audioPath": "fb322089-1593-483b-9910-999eeb623780"
+    },
+    {
+      "tagalog": "Nagbisikleta ba kayo sa Cebu para maranasan ninyo ang halo-halo?",
+      "english": "Did you (pl.) bike to Cebu to experience the halo-halo?",
+      "required": true,
+      "audioPath": "5bddf871-ae6e-46b1-8cfe-fa9f08355378"
+    },
+    {
+      "tagalog": "Kailangan ba nating maglakad sa ibabaw o sa tabi nito?",
+      "english": "Do we (incl.) need to walk above or beside it?",
+      "required": true,
+      "audioPath": "5ea526ef-cbbe-4e76-a00e-62f2d5ef9407"
+    },
+    {
+      "tagalog": "Pwede kang mag-alala tungkol dito, pero huwag.",
+      "english": "You can worry about it, but don’t.",
+      "required": true,
+      "audioPath": "f6fa4531-771d-4fe1-ac78-4350892172e7"
+    },
+    {
+      "tagalog": "Hindi ko alam kung nasaan siya, kaya hinahanap ko siya.",
+      "english": "I do not know where she is, so I am looking for her.",
+      "required": true,
+      "audioPath": "fea4ef97-eff3-4da2-bece-a73f2852a4ab"
+    },
+    {
+      "tagalog": "Baka pagod si David kasi naglaro siya talaga nang marami.",
+      "english": "Maybe David is tired because he really played a lot.",
+      "required": true,
+      "audioPath": "8247cb86-47f3-454b-97e0-05116aa8fe00"
+    },
+    {
+      "tagalog": "Nagluluto siya tuwing Miyerkules para kumain sa atin.",
+      "english": "She cooks every Wednesday to eat at our (incl.) place.",
+      "required": true,
+      "audioPath": "47155da7-21aa-491b-a818-54941eb487fc"
+    }
+  ]
+}

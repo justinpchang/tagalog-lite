@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson43",
+  "title": "Lesson 43 – More Noun Phrases, Reported & Direct Speech",
+  "vocabulary": [
+    {
+      "tagalog": "tingín",
+      "english": "viewpoint",
+      "required": true,
+      "audioPath": "5798b1a7-0624-402c-97a0-41b0d957a5b9"
+    },
+    {
+      "tagalog": "sa tingín ko",
+      "english": "I think",
+      "required": true,
+      "audioPath": "b0bab031-cb4d-41e4-8655-6b0c97e32504"
+    },
+    {
+      "tagalog": "sabi",
+      "english": "statement",
+      "required": true,
+      "audioPath": "ef0d37b6-beed-42f7-a375-4f619c961219"
+    },
+    {
+      "tagalog": "sabi ko",
+      "english": "I said",
+      "required": true,
+      "audioPath": "386383a5-f90e-40a8-88a9-8ffb2960f053"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson we will discuss more noun phrases and introduce you to reported speech. One way to enrich a sentence is to replace a noun with a noun phrase."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Some Noun Phrases you have Seen </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "**Nouns Modified by Adjectives**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga maaalat na pagkain",
+        "english": "salty foods",
+        "required": true,
+        "audioPath": "1c57f6ce-2027-48ed-b605-f5f25eb8c32a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "**Possessive Phrases**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pusa ni Maria",
+        "english": "Maria’s cat (cat of Maria)",
+        "required": true,
+        "audioPath": "bfa6b8af-d24b-4828-9e75-a580a00b233d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "**Noun Clauses**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang nagluluto ng manok",
+        "english": "the one cooking chicken",
+        "required": true,
+        "audioPath": "21561aca-f5aa-4e72-8e79-2b36305447af"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "**Focus Noun Clauses**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang babaeng nagluluto ng manok",
+        "english": "the woman cooking chicken",
+        "required": true,
+        "audioPath": "10ce5d72-d6f0-4a4e-883c-67229c3deef1"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Forming Noun Phrases from various Parts of Speech </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here is a very versatile way to form noun phrases."
+    },
+    {
+      "type": "h2",
+      "markdown": "General Noun Phrase = Ang/ng/sa + verb/adj/etc."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumain ako ng mainit.",
+        "english": "I ate a hot one. (ng + adj)",
+        "required": true,
+        "audioPath": "45e70822-9226-4a7f-b421-85cd91f8a4a2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Asawa ko ang nasa bahay bukas.",
+        "english": "My wife is the one who will be home tomorrow. (ang + nasa phrase)",
+        "required": true,
+        "audioPath": "0513dac8-e0e0-429a-90d7-f54211944c1a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabihin mo ang totoo sa nagbigay.",
+        "english": "Tell the truth to the one who gave. (sa + verb)",
+        "required": true,
+        "audioPath": "278a6caa-43ad-456c-abb8-3aebfc1eb81c"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Reported Speech</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To report speech in Tagalog:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Sinabi\\*\\*+ Speaker + Linker + Phrase = Speaker said that phrase."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Speaker takes _ng_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinabi kong hindi mabilis ang sasakyan mo.",
+        "english": "I said that your car is not fast.",
+        "required": true,
+        "audioPath": "dd687689-6f3c-477c-8d8e-156541d855c1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinabi ni Angel na pupunta si Maria sa Pilipinas.",
+        "english": "Angel said that Maria will go to the Philippines.",
+        "required": true,
+        "audioPath": "3f56ec74-a06f-4be6-aa09-df19451cd1a7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinabi nila sa aking taga-Seattle ang guro.",
+        "english": "They told me that the teacher is from Seattle.",
+        "required": true,
+        "audioPath": "491554bb-1d61-4952-80bf-28a08916e5d9"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the same structure works for other verbs:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinagot kong hindi mabilis ang sasakyan mo.",
+        "english": "I answered that your car is not fast.",
+        "required": true,
+        "audioPath": "137b8283-4efc-4606-8a60-2ae93533f990"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naisip ni Angel na pupunta si Maria sa Pilipinas.",
+        "english": "Angel thought that Maria will go to the Philippines.",
+        "required": true,
+        "audioPath": "d55c4ecf-0a8a-4cc8-8b61-6624a944ee8e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naalala nilang taga-Seattle ang guro.",
+        "english": "They remembered that the teacher is from Seattle.",
+        "required": true,
+        "audioPath": "cf4a4a99-911a-4a15-a6b8-ee8f267612ee"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Reported Speech Short form & Direct Speech</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To report speech without the “that”:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Sabi\\*\\*+ Speaker, Phrase. = Speaker said phrase."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Speaker takes _ng_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabi ko, hindi mabilis ang sasakyan mo.",
+        "english": "I said your car is not fast.",
+        "required": true,
+        "audioPath": "7c8de51e-fe04-4986-8c02-3e99c5267762"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabi ni Angel, pupunta si Maria sa Pilipinas.",
+        "english": "Angel said Maria will go to the Philippines.",
+        "required": true,
+        "audioPath": "b929abc2-ef92-49e7-a3f4-836ac0ea5db1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabi nila sa akin, taga-Seattle ang guro.",
+        "english": "They told me the teacher is from Seattle.",
+        "required": true,
+        "audioPath": "c0184b3c-d1ce-4ab3-86d6-54eea1274fa9"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You can use the same structure for other roots:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tingin ko, nasa bahay si Joe.",
+        "english": "I think Joe is home.",
+        "required": true,
+        "audioPath": "28a5dfc2-8840-4279-87cf-c49e0e45aa21"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alam ko, ibinili niya nito si David.",
+        "english": "I know she bought this for David.",
+        "required": true,
+        "audioPath": "92fc54e7-036b-4101-8c0b-146c9fd2de56"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "*Sa tingin ko, maganda siya.",
+        "english": "I think she is beautiful.",
+        "required": true,
+        "audioPath": "f4fa6000-9356-4cea-9b70-e1b94bc3f789"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "*Because it is more colloquial, we will use _sa tingin ko_ rather than _tingin ko_."
+    },
+    {
+      "type": "p",
+      "markdown": "We call this the “short form”. To be consistent, in the sample sentences **we will use the long form when “that” is used in the English translation, and the short form when it is not**. More on the short form in a future lesson."
+    },
+    {
+      "type": "p",
+      "markdown": "The same structure, with quotation marks, is used to quote direct speech in Tagalog:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabi ko, “Hindi mabilis ang sasakyan mo”.",
+        "english": "I said, “Your car is not fast”.",
+        "required": true,
+        "audioPath": "f68b435a-b5f4-4149-bbca-8da8e9937f24"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabi ni Angel, “Pupunta si Maria sa Pilipinas”.",
+        "english": "Angel said, “Maria will go to the Philippines”.",
+        "required": true,
+        "audioPath": "2f88f054-a4b2-4f79-804b-6a50ca14a742"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sabi nila sa akin, “Taga-Seattle ang guro”.",
+        "english": "They said to me, “The teacher is from Seattle”.",
+        "required": true,
+        "audioPath": "886cfd35-7bbc-43e0-a7be-b98723e327b9"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Baka alam niya ang itinuro talaga ni Sir Santos.",
+      "english": "Maybe he knows the one Mr. Santos really pointed out.",
+      "required": true,
+      "audioPath": "bc97db51-566e-458d-bbfa-2bc5cccc9ce7"
+    },
+    {
+      "tagalog": "Sabi ni Maria, hindi ilalagay ni Joe ang aso sa labas dahil sa ulan.",
+      "english": "Mary said Joe will not put the dog outside due to rain.",
+      "required": true,
+      "audioPath": "3804a721-b0a1-4ba1-9633-4be2d1688a29"
+    },
+    {
+      "tagalog": "Sinabi kong gusto naming itanim ang mga puno bawat Pebrero.",
+      "english": "I said that we (excl.) want to plant the trees each February.",
+      "required": true,
+      "audioPath": "d36722ef-b9a4-4063-a32a-2b3cc2ee8a96"
+    },
+    {
+      "tagalog": "Ikopya mo siya ng mga tanong na tungkol sa halo-halo.",
+      "english": "Copy her the questions about halo-halo.",
+      "required": true,
+      "audioPath": "64e54623-1f01-4418-ac1a-3425dd64338f"
+    },
+    {
+      "tagalog": "Sa tingin nila, ihinahanap ni David ng basketbol si Angel.",
+      "english": "They think David is looking for a basketball for Angel.",
+      "required": true,
+      "audioPath": "5ad31aa6-41ae-459d-b2a5-cfef0c3ffd48"
+    },
+    {
+      "tagalog": "Sinabi ni Mark na ikinuha mo ako ng mangga.",
+      "english": "Mark said that you got me a mango.",
+      "required": true,
+      "audioPath": "6c637947-d148-4bad-a334-0e2009159ea4"
+    },
+    {
+      "tagalog": "Tagasaan ang nasa loob ng kuwarto ni Jessica?",
+      "english": "Where is the one inside Jessica's room from?",
+      "required": true,
+      "audioPath": "3b184b0a-0193-4696-ad5a-29d9c9189c36"
+    },
+    {
+      "tagalog": "Sabi ko, \"Ikaw ba ang sikat na asawa ng pangulo?\"",
+      "english": "I said, \"Are you the famous wife of the president?\"",
+      "required": true,
+      "audioPath": "e0759eea-c515-4bd3-8827-6c2aea953ef3"
+    },
+    {
+      "tagalog": "Sinagot niyang bawal siyang mag-aral sa ilalim ng lamesa.",
+      "english": "She answered that she is prohibited from studying under the table.",
+      "required": true,
+      "audioPath": "da487c7a-aef3-40f0-bcb0-d8194c28e421"
+    },
+    {
+      "tagalog": "Sinubukan niyang magbisikleta papunta sa Maynila.",
+      "english": "He tried to bicycle to Manila.",
+      "required": true,
+      "audioPath": "584c3558-73c3-436b-ada6-4f3db260837e"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson66",
+  "title": "Lesson 66 – Noun Affixes that Provide Clues",
+  "vocabulary": [
+    {
+      "tagalog": "kaklase",
+      "english": "classmate",
+      "required": true,
+      "audioPath": "fd50a500-66a3-497f-b241-632bc70e6e9e"
+    },
+    {
+      "tagalog": "mag-asawa",
+      "english": "husband and wife",
+      "required": true,
+      "audioPath": "802f8b7f-08f9-4c60-99b9-8b679268b724"
+    },
+    {
+      "tagalog": "mamimili",
+      "english": "customer",
+      "required": true,
+      "audioPath": "364f3b83-1094-42f8-903d-70292e8cd727"
+    },
+    {
+      "tagalog": "tag-inít",
+      "english": "summer",
+      "required": true,
+      "audioPath": "dbc1a586-5e16-4e68-b711-e65590caff7c"
+    },
+    {
+      "tagalog": "tag-ulán",
+      "english": "rainy season",
+      "required": true,
+      "audioPath": "c34b2273-f235-4cbc-829f-53204cf9f1b9"
+    },
+    {
+      "tagalog": "katrabaho",
+      "english": "coworker",
+      "required": false,
+      "audioPath": "7345ceb7-f770-4762-b90d-be8866c5ddd8"
+    },
+    {
+      "tagalog": "magbabarkada",
+      "english": "a group of three or more close friends",
+      "required": false,
+      "audioPath": "d60024e0-9278-46f5-ba97-a52d15ed58e2"
+    },
+    {
+      "tagalog": "magkakasama",
+      "english": "a group of three or more companions",
+      "required": false,
+      "audioPath": "1038c7f5-8a0c-4811-b733-4b5cc413a4e6"
+    },
+    {
+      "tagalog": "mang-aawit",
+      "english": "singer",
+      "required": false,
+      "audioPath": "e3a64fb9-0a26-4696-95ff-ecefb593047c"
+    },
+    {
+      "tagalog": "manlalarò",
+      "english": "athlete",
+      "required": false,
+      "audioPath": "78c65430-71d9-4df9-a835-0ef88ebfb91c"
+    },
+    {
+      "tagalog": "taglamíg",
+      "english": "winter",
+      "required": false,
+      "audioPath": "eb765493-46b1-4d90-a985-215e67950616"
+    },
+    {
+      "tagalog": "*kasama",
+      "english": "companion",
+      "required": false,
+      "audioPath": "91597ce1-4287-4adb-8996-89bf6cea95a5"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Up to this point you have seen many unaffixed nouns. In addition, we have covered the grammar of _taga_- and _pag_- affixed nouns. Some affixes give you a clue or partial meaning of a noun. If you will recall, _taga-X_ means “from X”, and _pag-X_ means “X-ing”. This lesson covers the four common noun affixes that provide clues worth learning."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ka- Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ka_- nouns are normally people, and _ka-X_ roughly means “X-mate”."
+    },
+    {
+      "type": "p",
+      "markdown": "ka + sama (together) = kasama = “together mate” = companion"
+    },
+    {
+      "type": "p",
+      "markdown": "ka + klase (class) = kaklase = classmate"
+    },
+    {
+      "type": "p",
+      "markdown": "ka + trabaho (work) = katrabaho = workmate = coworker"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Tag- Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Tag-X_ roughly means “X-season”."
+    },
+    {
+      "type": "p",
+      "markdown": "tag + ulan (rain) = tag-ulan = rainy season"
+    },
+    {
+      "type": "p",
+      "markdown": "tag + init (hot) = tag-init = hot season = summer"
+    },
+    {
+      "type": "p",
+      "markdown": "tag + lamig (cold) = taglamig = cold season = winter"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Mag- Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Mag_- nouns are normally people. _Mag_- is sometimes placed before a _ka_- noun, and has the same meaning but with the nuance of three or more. Sometimes the first syllable of the root is duplicated, which may also add the nuance of three or more."
+    },
+    {
+      "type": "p",
+      "markdown": "mag + asawa (spouse) = mag-asawa = husband and wife"
+    },
+    {
+      "type": "p",
+      "markdown": "mag + kakasama (companion) = magkakasama = a group of three or more companions"
+    },
+    {
+      "type": "p",
+      "markdown": "mag + ba + barkada (group of close friends) = magbabarkada = a group of three or more close friends"
+    },
+    {
+      "type": "p",
+      "markdown": "Note - the pronunciations of some _mag_- nouns are the same as contemplated aspect _mag_- verbs, but the stress is different."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Mang- Nouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Mang_- nouns are normally people. The first syllable of the root is duplicated, and just like with _mang_- verbs, morphing often occurs."
+    },
+    {
+      "type": "p",
+      "markdown": "mang + bi + bili (buy) = mamimili = customer"
+    },
+    {
+      "type": "p",
+      "markdown": "mang + la + laro (play) = manlalaro = athlete"
+    },
+    {
+      "type": "p",
+      "markdown": "mang + a + awit (song) = mang-aawit = singer"
+    },
+    {
+      "type": "p",
+      "markdown": "Note - the pronunciations of some _mang_- nouns, like _mamimili_, are the same as contemplated aspect _mang_- verbs, but the stress is different."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Mahilig ba ang kaklase mo sa pagkatuto dati?",
+      "english": "Did your classmate like learning before?",
+      "required": true,
+      "audioPath": "50a24ee8-63b9-4a82-8c42-09ce2b4dc1cf"
+    },
+    {
+      "tagalog": "May bahay sa Maynila ang mag-asawang yun, di ba?",
+      "english": "That husband and wife have a house in Manila, don't they?",
+      "required": true,
+      "audioPath": "ce44b0b0-3c0d-416a-b0e8-ed39016d9209"
+    },
+    {
+      "tagalog": "Pakilagay ang pusa sa loob kapag tag-ulan.",
+      "english": "Please put the cat inside during rainy season.",
+      "required": true,
+      "audioPath": "9d10c0a7-f1a9-40d6-86fd-e18a6c745cf1"
+    },
+    {
+      "tagalog": "Nakabili ang mamimili ng mga ilaw para sa bahay niya.",
+      "english": "The customer was able to buy lights for her house. (maka-)",
+      "required": true,
+      "audioPath": "38d9dfa9-602b-4ff3-b9b0-7b4a637eb781"
+    },
+    {
+      "tagalog": "Pupunta si Mrs. Castillo sa Pilipinas pagkatapos ng tag-init",
+      "english": "Mrs. Castillo will go to the Philippines after summer. (pagkatapos).",
+      "required": true,
+      "audioPath": "508b38c4-4b59-46dd-b549-afb5ae8d6d0c"
+    },
+    {
+      "tagalog": "Sa tingin mo, alin sa mga sasakyan dito ang pinakagusto ng kaklase mo?",
+      "english": "In your opinion, which of the cars here does your classmate like the most?",
+      "required": true,
+      "audioPath": "b80612b2-2287-445b-8e04-b2198049a332"
+    },
+    {
+      "tagalog": "Tapos, sinunod ng aso ang mag-asawa sa kanila.",
+      "english": "Then, the dog obeyed the husband and wife at their place.",
+      "required": true,
+      "audioPath": "f8a10fb4-3b1f-40fa-9163-5d8419bcaf97"
+    },
+    {
+      "tagalog": "Kailan ang tag-ulan sa Seattle? Araw-araw!",
+      "english": "When is the rainy season in Seattle? Every day!",
+      "required": true,
+      "audioPath": "07761db7-943c-4e6b-adc7-d83b2dea4311"
+    },
+    {
+      "tagalog": "Pagkabili ng mamimili ng tsokolate, umuwi siya.",
+      "english": "After the customer bought the chocolate, she went home.",
+      "required": true,
+      "audioPath": "4e32dbe5-885d-4ae8-80af-2f1b6ce16d4b"
+    },
+    {
+      "tagalog": "Huwag kang umalis sa hapon sa tag-init, kasi sobrang init sa labas.",
+      "english": "Do not leave in the afternoon in summer, because it is very hot outside.",
+      "required": true,
+      "audioPath": "a60930a5-ef1d-4169-9402-71f67cbb02ac"
+    }
+  ]
+}

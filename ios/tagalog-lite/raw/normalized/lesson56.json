@@ -1,0 +1,454 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson56",
+  "title": "Lesson 56 - More on Who; Sino, Kanino & Nakanino",
+  "vocabulary": [
+    {
+      "tagalog": "kanino",
+      "english": "whose; to whom",
+      "required": true,
+      "audioPath": "e8963138-f3d8-4c88-9322-eecf0ae423ea"
+    },
+    {
+      "tagalog": "nakanino",
+      "english": "at whose place; with whom",
+      "required": true,
+      "audioPath": "97ae19a2-ddc1-4a23-97e8-3bb808baec42"
+    },
+    {
+      "tagalog": "nino",
+      "english": "whose",
+      "required": false,
+      "audioPath": "8764ac0b-4b0d-4488-a0ad-3bef517d13de"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "We introduced _sino_ in one of the first lessons and promised to get deeper, so here we are. _Sino_ is the ang form of “who”. In this lesson we cover sino deeper, and introduce the _ng, sa_ and _nasa_ forms as well."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sino</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "In general, _sino_ is an alternate for _alin_ that only works with people. We will always use _sino_ when working with people in this book. Here are four common ways that _sino_ is used."
+    },
+    {
+      "type": "h2",
+      "markdown": "sinong + person (Tag.) = which person (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinong guro?",
+        "english": "Which teacher?",
+        "required": true,
+        "audioPath": "b6885f68-4df6-4ac3-a116-ab56a95d6682"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinong mga bata?",
+        "english": "Which kids?",
+        "required": true,
+        "audioPath": "2ed1d28d-8b07-461a-8293-d5804bbb51f7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinong estudyante ang nag-aral ng Ingles?",
+        "english": "Which student studied English?",
+        "required": true,
+        "audioPath": "30e36d72-bfe8-4158-961b-644fcc284b19"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "sino + person (Tag.) = who is person (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Person takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang guro?",
+        "english": "Who is the teacher?",
+        "required": true,
+        "audioPath": "d245139a-cc18-45e4-a722-631bbea2a387"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang mga bata?",
+        "english": "Who are the kids?",
+        "required": true,
+        "audioPath": "8ed8d63d-e6c7-4aa2-8404-2083687e7051"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang estudyanteng nag-aral ng Ingles?",
+        "english": "Who is the student who studied English?",
+        "required": true,
+        "audioPath": "ec297249-fabc-434d-b7c7-cc9c971a6924"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "sino + people (Tag.) = which of the people (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: People takes _sa_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino sa mga guro?",
+        "english": "Which of the teachers?",
+        "required": true,
+        "audioPath": "b5c336fb-fcbe-46a0-8c35-cd0a4140e08e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino sa mga bata?",
+        "english": "Which of the kids?",
+        "required": true,
+        "audioPath": "5a28414a-170c-4a00-9017-d651b4241959"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino sa mga estudyanteng nag-aral ng Ingles?",
+        "english": "Which of the students who studied English?",
+        "required": true,
+        "audioPath": "e145bc95-b04c-4f59-a284-20b398c1b648"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Sino\\*\\*+ ang + phrase? (Tag) = Who phrase? (Eng)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang kumakain ng lechon?",
+        "english": "Who eats lechon?",
+        "required": true,
+        "audioPath": "ab1a21e4-e6d2-401c-8099-4f9dcdaf3cbb"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Similarly:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinong bata ang kumakain ng lechon?",
+        "english": "Which kid eats lechon?",
+        "required": true,
+        "audioPath": "17a577be-0799-4117-b9ea-67c22bd65a63"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang nag-aral ng Ingles?",
+        "english": "Who studied English?",
+        "required": true,
+        "audioPath": "3d16eced-9c60-432b-9620-213401c7aab8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinong estudyante ang nag-aral ng Ingles?",
+        "english": "Which student studied English?",
+        "required": true,
+        "audioPath": "4ed1312d-10cb-4a99-a272-bdb3e71859df"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Kanino</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Kanino_ is the _sa_ form of _sino_, and it can take the place of _sa_ form pronouns and people. _Kanino_ phrases are normally near the front of the sentence. Take the sentence:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbigay si Maria ng tsokolate kay David.",
+        "english": "Maria gave David some chocolate.",
+        "required": true,
+        "audioPath": "267cd120-27af-4d4a-bce0-75a08ca00da1"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Replacing _kay David_ with _kanino_ and moving it to the front:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kanino nagbigay si Maria ng tsokolate?",
+        "english": "Who did Maria give chocolate to?",
+        "required": true,
+        "audioPath": "b9b9a1dd-1912-4581-8e17-e1567c6e8623"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Para kanino gumagawa si Joe ng lechon?",
+        "english": "Who is Joe making lechon for?",
+        "required": true,
+        "audioPath": "0d0e05af-2d6b-4bad-9169-71ac9c858bba"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kanino mo sinabi ang totoo?",
+        "english": "Who did you tell the truth to?",
+        "required": true,
+        "audioPath": "2accf518-7817-4271-94aa-a97c4214f656"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Kanino can also be used for possessives:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*kanino\\*\\*+ linker + phrase (Tag.) = whose phrase (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kaninong guro yun?",
+        "english": "Whose teacher is that?",
+        "required": true,
+        "audioPath": "457e4692-641c-43f6-8d64-ca893647426f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kaninong mga bata ito?",
+        "english": "Whose kids are these?",
+        "required": true,
+        "audioPath": "90a56705-7881-4eee-b26a-becd23cf3bfd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kaninong estudyante ang nag-aral ng Ingles?",
+        "english": "Whose student studied English?",
+        "required": true,
+        "audioPath": "c662835e-6401-418e-b94f-f4beba5b50ae"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Nakanino</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Nakanino_ is the _nasa_ form of _sino_, and it can take the place of _na kay_ or _na kina_ noun clauses. Take the sentence:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Na kina Joshua si David.",
+        "english": "David is at Joshua’s.",
+        "required": true,
+        "audioPath": "27f2643b-930c-44e0-9ccc-d77bd4f1e583"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Replacing _Na kina Joshua_ with _Nakanino_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakanino si David?",
+        "english": "Whose place is David at?",
+        "required": true,
+        "audioPath": "dc156845-bacf-4d15-8c21-c1c0fa6d2090"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Nakanino_ above means “at whose place” but it can also mean “who has”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakanino ang pagkain?",
+        "english": "Who has the food?/Whose place is the food at?",
+        "required": true,
+        "audioPath": "9f57d265-3d86-4bcb-aacb-dc7fd074cb22"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakanino sina Joe at Angel?",
+        "english": "Whose place are Joe and Angel at?",
+        "required": true,
+        "audioPath": "50a7cbcd-b7c5-4512-b321-9c5544e2fb53"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakanino ang pusa?",
+        "english": "Who has the cat?/Who is the cat with?",
+        "required": true,
+        "audioPath": "ec524a57-5b5c-4eef-aecd-4c1c044250ba"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Extra: Nino</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Nino_ is the _ng_ form of _sino_, and it can take the place of _ng_ form personal pronouns and people. It is normally used in possessive phrases. Take the sentence:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro ko yun.",
+        "english": "That is my teacher.",
+        "required": true,
+        "audioPath": "20eb4c60-3296-4657-8f38-4c35dfcc5718"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Replacing _ko_ with _nino_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Guro nino yun?",
+        "english": "Whose teacher is that?",
+        "required": true,
+        "audioPath": "ace3e95e-480e-4952-96ed-2543e141bb8b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "However, it is more common to use the _kanino_+ linker structure covered above."
+    },
+    {
+      "type": "p",
+      "markdown": "It is also possible to replace _ng_ form actors in clauses with _nino_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ginawa nino ang halo-halo?",
+        "english": "Who made the halo-halo?",
+        "required": true,
+        "audioPath": "69061832-5e00-4cc2-8a6f-485d2df5da79"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But it is much more common to use _sino ang_ to express these:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang gumawa ng halo-halo?",
+        "english": "Who made halo-halo?",
+        "required": true,
+        "audioPath": "f6709040-51b3-4a48-b6c7-5c10a866dc8b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "We will not use _nino_ from now on."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Kaninong pangulo ang ganito? Kasing nakakainis ba siya ni Diego?",
+      "english": "Whose president is like this? Is he as annoying as Diego?",
+      "required": true,
+      "audioPath": "5de69ef1-e1d5-469c-8a00-7487469e5619"
+    },
+    {
+      "tagalog": "Sinong bata ang nakasapatos?",
+      "english": "Which kid is wearing shoes?",
+      "required": true,
+      "audioPath": "2be68a06-7afd-4aa1-8068-61f350050b0f"
+    },
+    {
+      "tagalog": "Nakanino sina Luis at Diego? Wala sila sa bahay.",
+      "english": "Whose place are Luis and Diego at? They are not at home.",
+      "required": true,
+      "audioPath": "0d1ed265-f6e8-47b3-b48e-2161c0f0358a"
+    },
+    {
+      "tagalog": "Sino sa mga pinagtawanan ang parang asawa mo?",
+      "english": "Which of the ones who were mocked is like your wife?",
+      "required": true,
+      "audioPath": "459c20f0-c448-4303-875b-966b13f8078e"
+    },
+    {
+      "tagalog": "Para kanino kumuha si Mrs. Castillo ng trabahong ito?",
+      "english": "Who did Mrs. Castillo get this job for?",
+      "required": true,
+      "audioPath": "228a729d-3c10-4111-8976-6a71dcdf8a43"
+    },
+    {
+      "tagalog": "Sinong babae ang mas maganda kaysa kay Jessica?",
+      "english": "Which woman is more beautiful than Jessica?",
+      "required": true,
+      "audioPath": "0857f58c-ee2e-42e3-ab70-3ba8c9f17271"
+    },
+    {
+      "tagalog": "Hindi ko alam kung nakanino ang sobrang pagod na bata.",
+      "english": "I do not know who the very tired child is with.",
+      "required": true,
+      "audioPath": "818c3252-c60e-487b-ad35-e05672901dfd"
+    },
+    {
+      "tagalog": "Sino sa mga estudyante ang pinakatakot?",
+      "english": "Which of the students is the most frightened?",
+      "required": true,
+      "audioPath": "19856688-e176-4913-99e8-07fe982bdf0e"
+    },
+    {
+      "tagalog": "Kaninong guro ang pinag-usapan natin nang ganun?",
+      "english": "Whose teacher did we discuss like that?",
+      "required": true,
+      "audioPath": "7731e942-f451-482d-8c34-d9843599e179"
+    },
+    {
+      "tagalog": "Hindi pareho sina Analyn at Jasmine. Nakanino sila?",
+      "english": "Analyn and Jasmine are not the same. Whose place are they at?",
+      "required": true,
+      "audioPath": "fb44e508-9b25-4142-a14e-b489a791493d"
+    }
+  ]
+}

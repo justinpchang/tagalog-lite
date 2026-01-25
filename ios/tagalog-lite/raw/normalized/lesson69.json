@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson69",
+  "title": "Lesson 69 – High Frequency Phrases with Low Frequency Grammar",
+  "vocabulary": [
+    {
+      "tagalog": "palá",
+      "english": "enclitic particle meaning surprisingly",
+      "required": true,
+      "audioPath": "93b8b422-b41e-4e90-898d-b5a461c1baa3"
+    },
+    {
+      "tagalog": "kahit",
+      "english": "even; despite",
+      "required": true,
+      "audioPath": "fa226e3e-187b-452f-83ed-0379c8198b4a"
+    },
+    {
+      "tagalog": "ibá",
+      "english": "other (noun); different (adj)",
+      "required": true,
+      "audioPath": "73273847-8228-472a-8b47-4685b1b945be"
+    },
+    {
+      "tagalog": "akalà",
+      "english": "mistakenly thought (noun)",
+      "required": true,
+      "audioPath": "ef0da497-ec36-47e8-88cb-7ffc57782e2d"
+    },
+    {
+      "tagalog": "ibig sabihin",
+      "english": "meaning; want to say",
+      "required": true,
+      "audioPath": "3e483dc2-f89e-4b29-9140-49c41d729fe2"
+    },
+    {
+      "tagalog": "Akó nga palá si Leo.",
+      "english": "By the way, I am Leo.",
+      "required": true,
+      "audioPath": "c37bc64e-d4e4-46c0-8564-22e4dd92121e"
+    },
+    {
+      "tagalog": "Siyá nga palá...",
+      "english": "By the way...",
+      "required": true,
+      "audioPath": "d7a14303-1333-4632-89cf-05d95f97a758"
+    },
+    {
+      "tagalog": "kayâ palá",
+      "english": "no wonder; that is why",
+      "required": true,
+      "audioPath": "f6ad11ad-6862-41c2-8b5a-440cf9b409b8"
+    },
+    {
+      "tagalog": "kahit saán",
+      "english": "wherever",
+      "required": true,
+      "audioPath": "4e7bb2d0-66b9-41d5-90d7-6b1cf636f0d8"
+    },
+    {
+      "tagalog": "at ibá pa",
+      "english": "etc.; and so on",
+      "required": true,
+      "audioPath": "7314a6ff-a994-4f5a-bf46-71c4c37e64e0"
+    },
+    {
+      "tagalog": "Akalà ko...",
+      "english": "I (mistakenly) thought...",
+      "required": true,
+      "audioPath": "1e0982dd-0e14-48c7-8b7e-91bf4b425043"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Assuming you know the vocabulary and are comfortable with the speed of conversation, the grammar in this book will allow you to understand most of what you encounter in the wild. That being said, there are some frequently used colloquial phrases that have low frequency grammar. I have included some of the most common ones here. It is best just to memorize these, then do the sample sentences."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ibig Sabihin</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As was mentioned in an earlier lesson, _ibig_ is a pseudo verb which is often interchangeable with _gusto_, but less common. On the other hand, this phrase is very common."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ano ang ibig mong sabihin?",
+        "english": "What do you mean? Lit - What is the thing that you want to say?",
+        "required": true,
+        "audioPath": "3e26b45f-18c0-45fc-a2f2-f3615733b0cd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pagod siya, ang ibig kong sabihin.",
+        "english": "I mean she is tired.",
+        "required": true,
+        "audioPath": "1f70e196-050a-4a3f-bafe-dc22c3907438"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alam mo ba ang ibig sabihin nito?",
+        "english": "Do you know the meaning of this?",
+        "required": true,
+        "audioPath": "2a45095f-07af-4751-9947-5b98472e8768"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pala</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Combinations of enclitic particles can often be difficult to figure out just by combining their individual meanings. _Pala_ is an enclitic particle that means “surprisingly” or “after all”, and often appears in the center of confusing enclitic clusters. Here are some examples."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ako nga pala si Leo.",
+        "english": "By the way, I am Leo. This is a common, somewhat informal, way for announcers to introduce themselves.",
+        "required": true,
+        "audioPath": "bf060da3-0d11-497e-9689-53667a43b9ac"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Siya nga pala, pagkatapos ng trabaho, pupunta ako sa labas.",
+        "english": "By the way, after work I will go out. Siya nga pala is pretty common, and just means “by the way”. It does not mean “He, by the way”.",
+        "required": true,
+        "audioPath": "2865d429-a17d-4bde-b762-5eb0aab60373"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kaya pala, masaya siya",
+        "english": "No wonder she is happy. That is why she is happy.",
+        "required": true,
+        "audioPath": "1a734eaa-3640-401a-8c2f-23c9a747aa4b"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Kahit + Question Word </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Kahit_ is a conjunction that means “even” or “despite” on its own. But when it is used before a question word, it adds the nuance of “ever”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kahit saan ka pumunta, pupunta ako.",
+        "english": "Wherever you go, I will go.",
+        "required": true,
+        "audioPath": "f34eb836-b4ca-41bd-b69f-bc1bcc4c2d67"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Puwede kang kumain kahit ilang manggang gusto mo.",
+        "english": "You can eat however many mangoes you want.",
+        "required": true,
+        "audioPath": "fe943821-a77c-4ddb-8f99-ec8cc99fe34a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kahit sino ka, umalis ka!",
+        "english": "Whoever you are, leave!",
+        "required": true,
+        "audioPath": "d17ab604-c235-4d98-80b0-e0e3b77f9014"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>At Iba Pa</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Although _iba_ means “other” or “different”, knowing that would probably not be enough to tell you that _at iba pa_ means “etcetera” or “and so on”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mga aso, pusa, at iba pa.",
+        "english": "Dogs, cats, etc.",
+        "required": true,
+        "audioPath": "fa4ac813-b97d-4e65-8f93-07c3cde264eb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pumunta ako sa Cebu, Maynila, at iba pa.",
+        "english": "I went to Cebu, Manila, and so on.",
+        "required": true,
+        "audioPath": "aac26263-f384-47d2-9967-5727b2e69609"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kakain kami ni Maria ng manok, lechon, halo-halo, at iba pa.",
+        "english": "Maria and I will eat chicken, lechon, halo-halo, etc.",
+        "required": true,
+        "audioPath": "8619b2ef-96dd-474f-9306-6b0133f639fc"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Akala</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Akala_ is a noun that roughly means “mistakenly thought”, and is used in a way similar to _alam ko_. I include it here because in English we just use the word “thought”, and let stress indicate whether or not it was mistaken."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Akala ko, gusto niya ako.",
+        "english": "I (mistakenly) thought she liked me. (As opposed to “I (correctly) thought she liked me”.) Compare to:",
+        "required": true,
+        "audioPath": "5759122c-c7c9-4e47-9e0a-85a82eeeb0c6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naisip ko, gusto niya ako.",
+        "english": "I thought she liked me. (Could be mistakenly or correctly.)",
+        "required": true,
+        "audioPath": "c760b914-39dc-4778-8b62-273fc6a34dd1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Akala mo ba, eskwelahan yun?",
+        "english": "Did you think (incorrectly) that was a school?",
+        "required": true,
+        "audioPath": "273ad58e-a890-4210-9c71-3d6ff503e73d"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Bago mo ito sabihin, hindi ko alam ang ibig sabihin ng kaibigan mo.",
+      "english": "Before you say it, I do not know what your friend means.",
+      "required": true,
+      "audioPath": "aabf633a-9e6a-43ca-9e63-738323539cff"
+    },
+    {
+      "tagalog": "Siya nga pala, maganda ang tanawin sa liwasang yun.",
+      "english": "By the way, the scenery in that park is beautiful.",
+      "required": true,
+      "audioPath": "1f6bc1ec-7849-4ee7-999b-3d5fb8f2c11a"
+    },
+    {
+      "tagalog": "Tag-ulan kahit saan pumunta ang mag-asawang yun.",
+      "english": "Wherever that husband and wife went, it was rainy season.",
+      "required": true,
+      "audioPath": "4a5430d5-ab62-46fe-98a7-615c315708d0"
+    },
+    {
+      "tagalog": "Gusto ni Jessica pumunta sa kuwarto ko, kainin ang pagkain ko, at iba pa.",
+      "english": "Jessica likes to go to my room, eat my food, etc.",
+      "required": true,
+      "audioPath": "39c11c0b-e4d6-47f3-9bd0-470a80aca955"
+    },
+    {
+      "tagalog": "Akala ko, alam niya ang karamihan sa mga paraan para sa pagluluto ng manok.",
+      "english": "I mistakenly thought that she knew most ways to cook chicken.",
+      "required": true,
+      "audioPath": "dc70208c-cc25-4ce7-9069-22ac32c7862b"
+    },
+    {
+      "tagalog": "Ano ang ibig sabihin ng tag-init sa Ingles?",
+      "english": "What does summer mean in English?",
+      "required": true,
+      "audioPath": "a403ede7-b258-4e98-a5fa-3a7338a4850f"
+    },
+    {
+      "tagalog": "Kaya pala! Ang kaklase ni Angel ang mamimili!",
+      "english": "No wonder! The customer is Angel's classmate!",
+      "required": true,
+      "audioPath": "5f7bd810-f5d5-4a04-b3e9-c94b85adeb8f"
+    },
+    {
+      "tagalog": "Puwede mong tanungin kahit sino ang nasa bahay.",
+      "english": "You can ask whoever is home.",
+      "required": true,
+      "audioPath": "dc287d27-202b-4bc9-a9d9-f23bd322dafd"
+    },
+    {
+      "tagalog": "Pizza, tsokolate, lechon, at iba pa, ang pinakagusto kong pagkain.",
+      "english": "My favorite foods are pizza, chocolate, lechon, and so on.",
+      "required": true,
+      "audioPath": "8015e882-70d0-435d-9b3b-888e06f86f34"
+    },
+    {
+      "tagalog": "Akala ni Mark, natulog na si Jasmine.",
+      "english": "Mark mistakenly thought that Jasmine was already asleep.",
+      "required": true,
+      "audioPath": "ec40b5f3-c5aa-4193-8a6d-9de556bc0bff"
+    }
+  ]
+}

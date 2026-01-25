@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson71",
+  "title": "Lesson 71 – Taglish",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Taglish, a mixture of Tagalog and English, can be both helpful and damaging to Tagalog learners. It can be helpful, especially to beginners, because it makes listening more comprehensible. However, if you only listen to speakers who use a lot of Taglish, you will miss out on the opportunity to fully develop your listening skills. The same is true if you often use Taglish in your speech. As a learner, it is strongly recommended that you avoid Taglish and use purer Tagalog resources whenever possible. That being said, it is impossible to avoid Taglish completely, so this final lesson is a brief summary of what you may encounter. Understand it, but do not use it yourself."
+    },
+    {
+      "type": "p",
+      "markdown": "The following are the main forms of Taglish you will hear. Only a few examples are given for each, but there are many."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Code Switching</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "This is merely replacing Tagalog words with English."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sino ang teacher?",
+        "english": "Who is the teacher?",
+        "required": true,
+        "audioPath": "9fa55b6d-48c2-4282-b1dc-5dd2ac518956"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maglalaro si Maria ng basketbol sa school.",
+        "english": "Maria will play basketball at school.",
+        "required": true,
+        "audioPath": "41f758c1-839d-40e4-b6bf-03998fa6330e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ang adobo is pagkain.",
+        "english": "Adobo is food.",
+        "required": true,
+        "audioPath": "91652763-1241-4eba-bb5f-8b2db1ade81e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>English with Different Meaning</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You may think you know what it means, but you actually do not."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "As in?",
+        "english": "Really?",
+        "required": true,
+        "audioPath": "d3e0f8a7-294f-4f95-8c06-2ccc3f293787"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "crocodile",
+        "english": "corrupt politician",
+        "required": true,
+        "audioPath": "ffdfa8d8-ff89-46de-9bb7-28594e745e44"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "gimmick",
+        "english": "night on the town",
+        "required": true,
+        "audioPath": "38c64038-2146-4990-b637-21317117fae2"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>English with Different Pronunciation</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are easy to understand, but the pronunciation may surprise you."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "“personnel”",
+        "english": "in English is often pronounced “personal” in Taglish (stress changes)",
+        "required": true,
+        "audioPath": "52bb1198-ffd1-411f-af31-5edaf8c18b4c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "“volleyball”",
+        "english": "is often pronounced “bolleyball” (v becomes b)",
+        "required": true,
+        "audioPath": "7da1d1d5-cc71-4bdb-b15c-62ea643eb898"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "“this”",
+        "english": "is often pronounced “dis” (th becomes d)",
+        "required": true,
+        "audioPath": "a36e83e9-29f5-47c8-8525-325e0aa432a7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "“thick”",
+        "english": "is often pronounced “tick” (th becomes t)",
+        "required": true,
+        "audioPath": "52bd6682-7bc5-471b-b9fc-0147879d99ad"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "“confused”",
+        "english": "is often pronounced “conpuse” (f becomes p, d is dropped)",
+        "required": true,
+        "audioPath": "92b9b8f4-7b5d-41c3-89ca-6799c13cdcec"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "“human”",
+        "english": "is often pronounced “yuman” (h becomes y)",
+        "required": true,
+        "audioPath": "9ae63ecc-265e-48af-9531-3360b98e1acd"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "“backpack”",
+        "english": "is often pronounced “bockpock” (vowel changes)",
+        "required": true,
+        "audioPath": "23ff3825-da06-47b1-82ab-9bffc77d5250"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>English Roots</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Tagalog affixes are often added to English roots to form verbs and adjectives."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Namiss mo ba ako?",
+        "english": "Do you miss me?",
+        "required": true,
+        "audioPath": "df2bb350-2376-4487-a22e-51e3a7e7f040"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Napaka-entitled niya.",
+        "english": "He is very entitled.",
+        "required": true,
+        "audioPath": "43ddc737-2b3f-440f-8635-42b2c669b9ec"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ako mag-dadrive bukas.",
+        "english": "I will not drive tomorrow.",
+        "required": true,
+        "audioPath": "66ba6437-8e53-4a88-95e8-f69b859f2f23"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tinry kong magluto ng adobo.",
+        "english": "I tried to cook adobo.",
+        "required": true,
+        "audioPath": "b366c761-db13-495e-a4df-8d59f0f4ef05"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Hindi po siya nagbigay ng pera kay Joe.",
+      "english": "Hindi po siya naggive ng money kay Joe.",
+      "required": true,
+      "audioPath": "4625ffec-5b4c-481a-a5fc-6e3bd1aec90b"
+    },
+    {
+      "tagalog": "Talaga? Umalis na tayo!",
+      "english": "As in? Let's leave na!",
+      "required": true,
+      "audioPath": "14429283-7628-419a-b56c-f1c4b42564b6"
+    },
+    {
+      "tagalog": "Sinubukan kong magmaneho papunta sa Maynila.",
+      "english": "Tinry kong magdrive papunta sa Manila.",
+      "required": true,
+      "audioPath": "dae5cb5c-00aa-407f-bfd1-a826a3bb2de4"
+    },
+    {
+      "tagalog": "Gagawa sila ng adobo.",
+      "english": "Magmemake sila ng adobo.",
+      "required": true,
+      "audioPath": "d1c0d660-03c1-4a34-93c8-7b126fc23aab"
+    },
+    {
+      "tagalog": "Sino ang nanalo ng lechon sa tindahan kahapon?",
+      "english": "Sino is the one that won a lechon sa store kahapon?",
+      "required": true,
+      "audioPath": "c90b0bd8-7c03-4ba1-b58a-bf4ffb4958ee"
+    },
+    {
+      "tagalog": "Ikukuha kita non.",
+      "english": "Igeget kita non.",
+      "required": true,
+      "audioPath": "ed43ce57-9cb4-4b12-be99-d8779f293b4c"
+    },
+    {
+      "tagalog": "Nag-alala si David tungkol sa bahay niya.",
+      "english": "David worried about sa bahay niya.",
+      "required": true,
+      "audioPath": "0ee77da5-e69d-4186-acd6-363982c9b004"
+    },
+    {
+      "tagalog": "Bakit ka nakakainis?",
+      "english": "Bakit ka nakaka-annoying?",
+      "required": true,
+      "audioPath": "5b7e87aa-bcd9-46ea-b89c-8222979609f3"
+    },
+    {
+      "tagalog": "Niluto namin ang adobo para sa anak namin.",
+      "english": "Kinucook namin ang adobo para sa son namin.",
+      "required": true,
+      "audioPath": "2ecbe718-e009-4b4c-9c04-de96be0aa8c8"
+    },
+    {
+      "tagalog": "Lumaki siya sa Cebu, di ba?",
+      "english": "He grew up sa Cebu, di ba?",
+      "required": true,
+      "audioPath": "b9a093ea-a092-4edb-a3d8-68590d8193b5"
+    }
+  ]
+}

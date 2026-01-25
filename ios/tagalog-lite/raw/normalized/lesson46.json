@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson46",
+  "title": "Lesson 46 – Alin; Which",
+  "vocabulary": [
+    {
+      "tagalog": "alín",
+      "english": "which",
+      "required": true,
+      "audioPath": "5e305f11-1194-4d43-a31b-4a0f0c4eea64"
+    },
+    {
+      "tagalog": "lugár",
+      "english": "place",
+      "required": true,
+      "audioPath": "55eb33fc-fe4c-43ca-b872-455d77705010"
+    },
+    {
+      "tagalog": "bagay",
+      "english": "thing",
+      "required": true,
+      "audioPath": "9a37db14-63df-4672-aa2a-9aae46d9a178"
+    },
+    {
+      "tagalog": "trabaho",
+      "english": "work",
+      "required": true,
+      "audioPath": "e7781f32-43b1-4d90-a1b0-006d486e3df2"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson, we will cover the question word alin, which roughly means “which”. You may notice that there are grammatical similarities between alin and sino. But where sino is normally used with people, alin is used with everything else."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Alin + Linker + Noun</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "alin + linker + noun (Tag.) = which noun (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Aling lugar?",
+        "english": "Which place?",
+        "required": true,
+        "audioPath": "75102ffe-aaad-4e6c-844e-a3ddaed4c22a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Aling mga bagay?",
+        "english": "Which things?",
+        "required": true,
+        "audioPath": "acdd699c-6e04-4ffc-b1f9-66a9b1c6364e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Aling trabahong ginawa mo?",
+        "english": "Which job that you did?",
+        "required": true,
+        "audioPath": "f3b9a588-eecd-4630-beda-3f9964f2a5ec"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Note that _anong_ can also be used in this construction:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Anong lugar?",
+        "english": "Which place?",
+        "required": true,
+        "audioPath": "86973ef3-9cb8-43f0-a30a-78d1b3eae02e"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But we will use _alin_ in the sample sentences for “which” to be consistent."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Alin + ang + Noun</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Alin\\*\\*+ ang + noun? (Tag.) = Which is noun? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alin po ang lugar?",
+        "english": "Which is the place? (resp.)",
+        "required": true,
+        "audioPath": "3adb9bd3-c0a8-4dce-8778-2dca9eaa5215"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alin ang mga bagay?",
+        "english": "Which are the things?",
+        "required": true,
+        "audioPath": "d4122d35-d1e5-4eec-8eac-ac56652a4137"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alin ang trabahong ginawa mo?",
+        "english": "Which is the job that you did?",
+        "required": true,
+        "audioPath": "933d2b2a-8b69-45b5-8b03-70414fb29ea0"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Alin + sa + Plural Noun</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "alin + plural noun (Tag.) = which of the plural noun (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun takes _sa_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alin sa mga lugar?",
+        "english": "Which of the places?",
+        "required": true,
+        "audioPath": "4e46b807-c52d-476e-aa51-b64292843b80"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alin sa mga bagay?",
+        "english": "Which of the things?",
+        "required": true,
+        "audioPath": "e05b0854-264c-4edb-b6b8-1b9fb3c7eb5f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alin sa mga trabahong ginawa mo?",
+        "english": "Which of the jobs that you did?",
+        "required": true,
+        "audioPath": "69455f5d-3e10-482f-a3cf-67faa34064bb"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sabi niya, \"Alin ang nagustuhan ni Maria? Ito o yun?\"",
+      "english": "He said, \"Which did Maria like? This or that?\"",
+      "required": true,
+      "audioPath": "9f91b7e7-7e0f-4e18-82b3-3f97ef71f44a"
+    },
+    {
+      "tagalog": "Alin sa mga murang bagay dito ang gusto mo?",
+      "english": "Which of the cheap things here do you like?",
+      "required": true,
+      "audioPath": "dbbeb509-805c-4e13-9c45-eb5cc1b70572"
+    },
+    {
+      "tagalog": "Alin po ang lugar na mapupuntahan ninyo sa ikaanim ng Enero?",
+      "english": "Which is the place that you will be able to go on the sixth of January? (resp.)",
+      "required": true,
+      "audioPath": "ce839968-09ab-4794-a4fd-e43c0b3997b1"
+    },
+    {
+      "tagalog": "May bawal inumin si David, pero hindi niya alam kung aling inumin.",
+      "english": "David has something he is prohibited to drink, but he does not know which drink.",
+      "required": true,
+      "audioPath": "dbe5fec2-db7b-4a97-8641-7174d61743f2"
+    },
+    {
+      "tagalog": "Nalaman ko, kaya puwede kong sabihin kung alin sa mga yun ang bahay niya.",
+      "english": "I found out, so I can say which of those is his house.",
+      "required": true,
+      "audioPath": "24bc84f7-bdcb-42dd-b8a2-124cd0d35b51"
+    },
+    {
+      "tagalog": "Sa tingin mo, aling ilaw ang bubuksan ni Sir Bautista?",
+      "english": "Which light do you think Mr. Bautista will turn on?",
+      "required": true,
+      "audioPath": "4d9354ac-0a37-4da5-ba51-90eff40ce265"
+    },
+    {
+      "tagalog": "Alin sa mga trabahong ito ang gusto mong maranasan?",
+      "english": "Which of these jobs would you like to experience?",
+      "required": true,
+      "audioPath": "deba7091-0b7f-4400-853c-e44a89984d26"
+    },
+    {
+      "tagalog": "Alin ang lugar na nilagyan ni Jasmine ng bagay niya?",
+      "english": "Which is the place that Jasmine put her thing in?",
+      "required": true,
+      "audioPath": "9d0c7aef-5878-4e84-b72d-54317b139583"
+    },
+    {
+      "tagalog": "Mahihirapan silang abangan, kasi hindi ko alam kung alin ang kalsada nila.",
+      "english": "It will be hard to watch out for them, because I do not know which is their street.",
+      "required": true,
+      "audioPath": "556d859d-fcd2-4b9e-974f-4e434e93475d"
+    },
+    {
+      "tagalog": "Hindi ko alam kung aling trabaho ang sisimulan, dahil sa oras.",
+      "english": "I do not know which work to start, due to the hour.",
+      "required": true,
+      "audioPath": "a0950cfb-c3cb-4621-bd2e-bca3711ba15e"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson50",
+  "title": "Lesson 50 – Have and Got; Magka-, Magkaroon and Maging",
+  "vocabulary": [
+    {
+      "tagalog": "magka-",
+      "english": "verb prefix that means “to come to have”",
+      "required": true,
+      "audioPath": "196bdccc-1d74-45d9-95dc-15558b277a8b"
+    },
+    {
+      "tagalog": "magkaroón",
+      "english": "to have",
+      "required": true,
+      "audioPath": "9e0a449d-fdc2-4edd-835a-c623f74c3ab5"
+    },
+    {
+      "tagalog": "magíng",
+      "english": "to become",
+      "required": true,
+      "audioPath": "fce6fc6e-6d76-4af4-99d5-d87fff877dd4"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In previous lessons you have seen several ways to say “have” or “got” in Tagalog. In this lesson we will summarize them and give you some new ones."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ways to say “Have” or “Got” that you have Seen </u>"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Verbs with the root kuha:**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumuha ako ng sasakyan.",
+        "english": "I got/took a car. (Just reporting a fact.)",
+        "required": true,
+        "audioPath": "7e1e9eac-35ed-4ecb-8642-db554e441d71"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Um- verbs with the nuance “to become adjective”**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lumaki ako.",
+        "english": "I got/became big. (There was a process involved.)",
+        "required": true,
+        "audioPath": "14ab8f9c-52d5-4760-b57c-3e294e4eba67"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**May:**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "May sasakyan ako.",
+        "english": "I have a car. (Just reporting a fact.)",
+        "required": true,
+        "audioPath": "6676cf99-b78f-4b39-aa1b-24385da716bd"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Meron:**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Meron akong sasakyan.",
+        "english": "I have a car. (Just reporting a fact.)",
+        "required": true,
+        "audioPath": "b8964d4a-75c6-4e10-a2c4-12f8760cafac"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Magka-</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Magka_- is a verb prefix that can have several traits, one of which is to add the nuance “come to have” or “acquire”. These are AF verbs whose aspects are formed similar to _maka_- verbs."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "root = pera, infinitive = magkapera, aspects",
+        "english": "nagkapera, nagkákapera, magkákapera",
+        "required": true,
+        "audioPath": "c1d47e4f-05a9-4a21-ae3a-2891ea8963ec"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the stress stays on the same vowel in the root as in the infinitive, and in the uncompleted and contemplated aspects the first _ka_ is always stressed. _Magka_- indicates that there was a process involved:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Baka magkakaanak sila.",
+        "english": "Maybe they will end up having a child.",
+        "required": true,
+        "audioPath": "5bc0b4f8-4aeb-461a-99a0-05b9d18aeeab"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagkaasawa ka na ba?",
+        "english": "Have you ever had a spouse?",
+        "required": true,
+        "audioPath": "33a46ded-b5b9-4697-a716-ed8a4e1bc2e3"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You can probably imagine a process in having a child or spouse, but how about:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto niyang magkapusa.",
+        "english": "She would like to have a cat.",
+        "required": true,
+        "audioPath": "a0332d5a-001b-4488-a5ba-6650a0899c0d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This implies that she would like to go through the process of acquiring a cat, or perhaps own one for a long time. Compare to just:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto niyang kumuha ng pusa.",
+        "english": "She would like to get a cat.",
+        "required": true,
+        "audioPath": "8b6d5875-86ef-451e-9ee2-29d15a72c70d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "The process is not emphasized with _kumuha_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Magkaroon</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Magkaroon_ is just a specific _magka_- verb which means to “come to have” or “acquire”. The root is _mayroon_, from which only _roon_ is used to form the verb."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "infinitive = magkaroón, aspects",
+        "english": "nagkaroón, nagkákaroón, magkákaroón",
+        "required": true,
+        "audioPath": "544d6507-10e4-4715-8fce-04ee81da4d27"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Baka magkakaroon sila ng anak.",
+        "english": "Maybe they will end up having a child.",
+        "required": true,
+        "audioPath": "322ec109-306e-4859-bbc1-ea6cbce455b5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagkaroon ka na ba ng asawa?",
+        "english": "Have you ever had a spouse?",
+        "required": true,
+        "audioPath": "f55ee5dd-2eb1-42f8-a002-4f9e9d1f73b1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto niyang magkaroon ng pusa.",
+        "english": "She would like to have a cat.",
+        "required": true,
+        "audioPath": "30678007-71c1-4bb2-8c67-b72e1ee9f237"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Maging</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "One way to say “to become noun/adjective” is to use _maging_. _Maging_ is a unique AF verb; it is not a _ma_- verb because it uses different grammar and stress patterns."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "infinitive = magíng, aspects",
+        "english": "nagíng, nagiging, magiging",
+        "required": true,
+        "audioPath": null
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that although it conjugates like a _ma_- verb, its uncompleted and contemplated stress patterns are different."
+    },
+    {
+      "type": "h2",
+      "markdown": "maging/naging/nagiging/magiging + **noun/adj** + noun2 (Tag.) = noun2 becomes noun/adj (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun2 takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magiging pangulo rin si Maria.",
+        "english": "Maria will also become president.",
+        "required": true,
+        "audioPath": "a1343f3c-a175-49b8-9653-b0f30f755d60"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagiging pagod sila.",
+        "english": "They are getting tired.",
+        "required": true,
+        "audioPath": "32ef548c-d6d2-468a-a416-6e700f99d26b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto kong maging masaya.",
+        "english": "I want to become happy.",
+        "required": true,
+        "audioPath": "959e1491-da98-4027-b417-742a6d940f30"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sino ang masaya sa sarili niya kasi may bahay pa siya?",
+      "english": "Who is happy with herself because she still has a house?",
+      "required": true,
+      "audioPath": "6d75322a-0255-4121-a4db-d45ab1b00116"
+    },
+    {
+      "tagalog": "Baka nakakainis si Luis, kasi hindi pa siya nagkaanak.",
+      "english": "Maybe Luis is annoying because he has not had a child yet. (magka-)",
+      "required": true,
+      "audioPath": "209df52e-86c1-4c5f-9fb5-5edff72c2ad6"
+    },
+    {
+      "tagalog": "Hindi ko alam kung aling lugar ang magkakaroon ng tubig.",
+      "english": "I do not know which place is the one that will have water. (magkaroon)",
+      "required": true,
+      "audioPath": "95e29aff-4e1e-4b2a-97a8-6ac7cad31209"
+    },
+    {
+      "tagalog": "Nagiging nakakatakot po ba ang lugar kung saan ka nakatira?",
+      "english": "Is the place where you are living getting scary? (resp.)",
+      "required": true,
+      "audioPath": "f7f6062d-2c56-451d-924a-484c1eae0700"
+    },
+    {
+      "tagalog": "Naaalala mo ba ang lalaking nagkatrabaho sa kanila?",
+      "english": "Do you remember the man who had a job at their place? (magka-)",
+      "required": true,
+      "audioPath": "71cb1f24-8a3e-4b4e-ba66-e81cc01e647e"
+    },
+    {
+      "tagalog": "Gagawin ni Angel ang bahay, kasi gusto niyang magkaroon ng aso.",
+      "english": "Angel will build the house because she wants to have a dog. (magkaroon)",
+      "required": true,
+      "audioPath": "47f4052c-4af1-41bc-ac54-5f0087faa7ef"
+    },
+    {
+      "tagalog": "Kailangan nating makapagluto, kaya nakasapatos tayo.",
+      "english": "We (incl.) need to be able to cook, so we are wearing shoes.",
+      "required": true,
+      "audioPath": "d076eb20-54d0-4947-8f2f-529370f31623"
+    },
+    {
+      "tagalog": "Nakabili si Joe ng sasakyan, kasi nagkapera siya, di ba?",
+      "english": "Joe was able to buy a car because he acquired money, right? (magka-)",
+      "required": true,
+      "audioPath": "c655e88a-252a-4c50-8d40-195eb7f13df7"
+    },
+    {
+      "tagalog": "Naiisip ko ang maraming bagay na nakakatuwang magkaroon.",
+      "english": "I am able to think of the many things that would be fun to have. (magkaroon)",
+      "required": true,
+      "audioPath": "1d3a4180-2925-4f74-9c47-bf7344e44cb5"
+    },
+    {
+      "tagalog": "Magiging pangulo si Sir Santos, kasi meron siyang magandang kasama.",
+      "english": "Mr. Santos will become president because he has a beautiful companion. (meron)",
+      "required": true,
+      "audioPath": "7d835709-a2aa-48bb-b419-6ccfb9e77ce1"
+    }
+  ]
+}

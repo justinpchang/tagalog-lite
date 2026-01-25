@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson59",
+  "title": "Lesson 59 - Forming Nouns using Pag",
+  "vocabulary": [
+    {
+      "tagalog": "pagkuha",
+      "english": "taking; getting",
+      "required": true,
+      "audioPath": "a100ddb1-c7f4-4e7a-8d30-e789c475c012"
+    },
+    {
+      "tagalog": "paggawâ",
+      "english": "doing; making; construction",
+      "required": true,
+      "audioPath": "dbff8ad4-d016-48bb-aefb-8fb69cfcdf64"
+    },
+    {
+      "tagalog": "pagtulog",
+      "english": "sleeping",
+      "required": true,
+      "audioPath": "4c5beb18-7d7e-4225-8744-a0f09d6f71d5"
+    },
+    {
+      "tagalog": "paglulutò",
+      "english": "cooking",
+      "required": true,
+      "audioPath": "d2b9cc91-76b7-4a7c-ac92-60ec52ced1e5"
+    },
+    {
+      "tagalog": "paglalagay",
+      "english": "putting; installing",
+      "required": true,
+      "audioPath": "5d10f7c9-475d-48c2-8a1a-30a63753cd2f"
+    },
+    {
+      "tagalog": "pagtuturò",
+      "english": "teaching",
+      "required": true,
+      "audioPath": "36b03d54-56d3-42e2-9b86-4cbdaf4a57ca"
+    },
+    {
+      "tagalog": "pagkaalala",
+      "english": "remembering; memory",
+      "required": true,
+      "audioPath": "f5c8a2bc-6c5a-4e82-9892-470c1e74314e"
+    },
+    {
+      "tagalog": "pagkatuto",
+      "english": "learning",
+      "required": true,
+      "audioPath": "63346b71-dc9e-4c8a-8a49-2c400765f133"
+    },
+    {
+      "tagalog": "pagkakita",
+      "english": "seeing (something unintentionally); sighting",
+      "required": true,
+      "audioPath": "6ebbfb84-e937-4165-b894-69e7ba48ebae"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "As discussed in **Appendix C**, some nouns are formed by adding affixes to roots. If you do this with the prefix _pag_-, it creates a gerund, or a noun in the “-ing” form (eating, making, sleeping, etc.). Use these where a noun would be used in English, but not where a verb would be used."
+    },
+    {
+      "type": "p",
+      "markdown": "Mahilig ako sa <u>pagluluto</u>. = I like <u>cooking</u>. “Cooking” is being used as a noun here, so a _pag_- noun is used in Tagalog."
+    },
+    {
+      "type": "p",
+      "markdown": "<u>Nagluluto</u> ako. = I am <u>cooking</u>. “Cooking” is being used as a verb here, so a _pag_- noun is not used in Tagalog."
+    },
+    {
+      "type": "p",
+      "markdown": "There are three variations of _pag_- nouns:"
+    },
+    {
+      "type": "p",
+      "markdown": "Variation 1: pag + kuha = pagkuha = pag + root"
+    },
+    {
+      "type": "p",
+      "markdown": "Variation 2: pag + la + lagay = paglalagay = pag + first syllable of root + root"
+    },
+    {
+      "type": "p",
+      "markdown": "Variation 3: pag+ ka + tuto = pagkatuto = pag + ka + root"
+    },
+    {
+      "type": "p",
+      "markdown": "In theory, the variation required depends on the affix of the verb you are making a gerund for. However, there are many rules and exceptions, so you are probably better off just memorizing complete _pag_- nouns as you encounter them. The sample sentences will only contain ones from the vocabulary list above."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naranasan ni Jessica ang pagtulog sa sasakyan.",
+        "english": "Jessica experienced sleeping in the car.",
+        "required": true,
+        "audioPath": "1d4fd6fa-a7f9-45d9-9ea9-df4106198124"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahilig ako sa pagluluto.",
+        "english": "I like cooking.",
+        "required": true,
+        "audioPath": "379fd88a-a145-4ba3-929e-320b191bc110"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naniniwala si Maria sa pagtuturo nang ganito.",
+        "english": "Maria believes in teaching like this.",
+        "required": true,
+        "audioPath": "8c987515-e404-4633-b374-916255295db5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "When you put a gerund before a noun phrase, the following is good to keep in mind:"
+    },
+    {
+      "type": "h2",
+      "markdown": "gerund + noun phrase (Tag.) = gerund noun phrase (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Indefinite noun phrases take _ng_ form. Definite noun phrases (possessive clause, personal pronoun, demonstrative pronoun or proper noun) take _sa_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mabilis ang paggawa sa gusaling yun.",
+        "english": "That building’s construction was quick.",
+        "required": true,
+        "audioPath": "66d6913c-484f-414a-9624-e8ed447ae035"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mahirap ang paglalagay ng mga puno sa kuwarto.",
+        "english": "The placing of trees in the room is difficult.",
+        "required": true,
+        "audioPath": "9da115a7-2288-4b13-8172-bf985a488e8a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Masaya ako dahil sa pagkaalala ko sa Pilipinas.",
+        "english": "I am happy due to (my) remembering the Philippines.",
+        "required": true,
+        "audioPath": "95e6fff8-b0c5-4098-807d-1abf54ddcc50"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Kanino mo sinabing nakakatuwa ang pagkuha ng sasakyan?",
+      "english": "Who did you say that getting a car is fun to?",
+      "required": true,
+      "audioPath": "468e38ff-9331-4343-bd6e-ae8e774b4f7f"
+    },
+    {
+      "tagalog": "Para sa paggawa ng adobo, paglulutuan ba natin ang kawali?",
+      "english": "For making adobo, will we (incl.) cook in the pan?",
+      "required": true,
+      "audioPath": "0b984c4e-5f2d-4eaa-9da0-360c977d3a36"
+    },
+    {
+      "tagalog": "Bakit gustong-gusto ni Jessica ang pagtulog?",
+      "english": "Why does Jessica like sleeping very much?",
+      "required": true,
+      "audioPath": "743a174f-4728-423f-9e77-ef800a6f397c"
+    },
+    {
+      "tagalog": "Nagpagawa ako ng adobo sa babaeng mahilig sa pagluluto.",
+      "english": "I had the woman who likes cooking make adobo.",
+      "required": true,
+      "audioPath": "2a07ed89-3152-4f99-98a8-177dfe8ccd9a"
+    },
+    {
+      "tagalog": "Nalaman mo ba kung nakanino mahirap ang paglalagay ng mga ilaw?",
+      "english": "Did you find out at whose place the installing of lights is hard?",
+      "required": true,
+      "audioPath": "4f7c8989-2013-4910-8ac6-7e1d1b5b896e"
+    },
+    {
+      "tagalog": "Pag-aaralan ni Analyn ang pagtuturo ng pangulo nang alas-sais ng umaga.",
+      "english": "Analyn will study the teachings of the president at 6am.",
+      "required": true,
+      "audioPath": "3f55b287-abec-4ba0-b65c-c4a7a8a06c60"
+    },
+    {
+      "tagalog": "Gaano ba kahirap ang pagkaalala sa asawa niya para sa inyo?",
+      "english": "How difficult is the memory of her husband for you (pl.)?",
+      "required": true,
+      "audioPath": "8b570895-4221-4283-8333-284b12916bd8"
+    },
+    {
+      "tagalog": "Kumusta po ang pagkatuto sa anak ninyo sa taong ito?",
+      "english": "How is your child's learning this year? (resp.)",
+      "required": true,
+      "audioPath": "a451750d-e5fc-4224-aedd-572a1d2b3a72"
+    },
+    {
+      "tagalog": "Paano siya naging ganun kasaya? Dahil ba sa pagkakita sa pusa?",
+      "english": "How did she become that happy? Is it due to seeing the cat?",
+      "required": true,
+      "audioPath": "5558d086-961f-4bdc-af45-31164a84a4e6"
+    },
+    {
+      "tagalog": "Patulugin mo nga ang pagod sa pagkuha ng tanong.",
+      "english": "Have the one who is tired of taking questions go to sleep. (soft)",
+      "required": true,
+      "audioPath": "2a60a9c4-3431-4858-a4e4-ea1945b6e77f"
+    }
+  ]
+}

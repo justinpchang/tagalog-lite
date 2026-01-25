@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson48",
+  "title": "Lesson 48 - Maka- and Makapag- Verbs",
+  "vocabulary": [
+    {
+      "tagalog": "maka-",
+      "english": "verb prefix that means “to be able to”; used with um verb roots (AF(a))",
+      "required": true,
+      "audioPath": "89f6e137-f8d3-4ccb-abc5-2bb8c349dc03"
+    },
+    {
+      "tagalog": "makapag-",
+      "english": "verb prefix that means “to be able to”; used with mag verb roots (AF(a))",
+      "required": true,
+      "audioPath": "7978cbb5-8e87-4fbe-b134-c35184c4e8ed"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "_Maka_- and _makapag_- verbs are second tier verbs that add the nuance “to be able to” to the root. You may remember that _ma_- OF verbs often have the same nuance; _maka_- and _makapag_- can be considered their AF counterparts. There may be some other nuances, but they are less common so we will not cover them in this book."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of Maka- Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "All are AF(a) that do not form imperatives."
+    },
+    {
+      "type": "p",
+      "markdown": "Normally used with -_um_- verb roots."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Maka- Verb Infinitives </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To form the infinitive, add _maka_ to the root of the -_um_- verb."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: maka + root of gumawâ = makagawâ = to be able to do/make"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: maka + root of kumain = makakain = to be able to eat"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: maka + root of pumuntá = makapuntá = to be able to go"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Maka- Verb Aspects</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Maka_- verbs aspects are formed as shown. Notice that it is similar to _ma_- verb aspect formation, with the _ka_ of _maka_ getting repeated in uncompleted and contemplated aspects."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "makagawâ",
+        "english": "> nakagawâ, nakákagawâ, makákagawâ",
+        "required": true,
+        "audioPath": "4159bc23-0179-4ccf-bb2e-990c6d29f444"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "makakain",
+        "english": "> nakakain, nakakakain, makakakain",
+        "required": true,
+        "audioPath": "b3f95cca-eb45-4c52-a845-d9b273ee129c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "makapuntá",
+        "english": "> nakapuntá, nakákapuntá, makákapuntá",
+        "required": true,
+        "audioPath": "3499e9aa-3c7d-43a8-84d7-832715a723f0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakagawa si David ng adobo.",
+        "english": "David was able to make adobo.",
+        "required": true,
+        "audioPath": "9cdb9c9d-3cdc-4451-ae91-50f26ad2b1c5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakakakain ba sila tuwing gabi?",
+        "english": "Are they able to eat at night?",
+        "required": true,
+        "audioPath": "48ad156f-056b-4e0e-b626-f46c15f95d5b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Makakapunta kami ni Maria sa Maynila.",
+        "english": "Maria and I will be able to go to Manila.",
+        "required": true,
+        "audioPath": "93ceb762-9f7d-4ecf-a57d-579397612378"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of Makapag- Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "All are AF(a) that do not form imperatives."
+    },
+    {
+      "type": "p",
+      "markdown": "Normally used with _mag_- verb roots."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Makapag- Verb Infinitives </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add _makapag_ before the root; use a dash if the root begins with a vowel"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: makapag + root of mag-aral = makapag-aral = to be able to study"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: makapag + root of magbigáy = makapagbigáy = to be able to give"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: makapag + root of maglutò = makapaglutò = to be able to cook"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Makapag- Verb Aspects</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Makapag_-verbs are conjugated as shown. Notice that it is similar to _ma_- verb aspect formation, with _ka_ of _makapag_ getting repeated in uncompleted and contemplated aspects."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "makapag-aral",
+        "english": "> nakapag-aral, nakakapag-aral, makakapag-aral",
+        "required": true,
+        "audioPath": "44d72328-ffde-4d66-afdf-59523a7446fc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "makapagbigáy",
+        "english": "> nakapagbigáy, nakákapagbigáy, makákapagbigáy",
+        "required": true,
+        "audioPath": "2351725d-bf35-4f30-8354-dd261ed48027"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "makapaglutò",
+        "english": "> nakapaglutò, nakakapaglutò, makakapaglutò",
+        "required": true,
+        "audioPath": "056fbd49-1a70-454f-91bb-dbc62aa1056a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Makakapagluto ako ng lechon.",
+        "english": "I will be able to cook the lechon.",
+        "required": true,
+        "audioPath": "9379f533-e091-4dc0-be39-e60da69425ba"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto niyang makapag-aral sa bahay.",
+        "english": "She would like to be able to study at home.",
+        "required": true,
+        "audioPath": "90d1953d-09cd-4adb-a961-aa16e29e902b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakapagbigay si Jason ng pagkain sa aso.",
+        "english": "Jason was able to give food to the dog.",
+        "required": true,
+        "audioPath": "664ba86e-617a-44d4-8487-96a4ff7e80a1"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Have you ever...?</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "In a previous lesson you learned how to ask “Have you ever been to…” using _mapuntahan_, when the focus was on the place. You can use _maka_ verbs to ask “Have you ever…” when the focus is on the actor. Although the literal translation is not exact, the following is a colloquial structure for asking if someone has ever done something:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Naka/nakapag + root + ka + na + ba? (Tag.) = Have you ever verbed? (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakapunta ka na ba sa Pilipinas?",
+        "english": "Have you ever been to the Philippines? (lit. Were you able to go to the Philippines already?)",
+        "required": true,
+        "audioPath": "08c5c6dd-54cf-479d-b85b-991c16602405"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi pa ako nakakapunta sa Pilipinas.",
+        "english": "I have not ever been to the Philippines.",
+        "required": true,
+        "audioPath": "04060823-e6c7-49f5-b409-560d5ffe72e1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakapagluto na ba siya ng adobo?",
+        "english": "Has she ever cooked adobo? (lit. Was she able to cook adobo already?)",
+        "required": true,
+        "audioPath": "43aa8c34-f7ac-495a-bc28-3421c8fbba2b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oo naman!",
+        "english": "Yeah, for sure!",
+        "required": true,
+        "audioPath": "9bcd0c04-6a61-4de5-9df1-a3e5246ca89d"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Nakakain ka na ba ng lechon o adobo?",
+      "english": "Have you ever eaten lechon or adobo?",
+      "required": true,
+      "audioPath": "b58b157f-3f43-454e-9aca-be8a72b5abd2"
+    },
+    {
+      "tagalog": "Nakakapag-aral ang kasama ko ng Ingles sa trabaho niya.",
+      "english": "My companion is able to study english at her work.",
+      "required": true,
+      "audioPath": "9c11ef2b-595f-45e1-b76e-7da811c6944f"
+    },
+    {
+      "tagalog": "Makakagawa ako ng sarili kong bahay, kasi talagang mura ito.",
+      "english": "I will be able to make my own house, because it is really cheap.",
+      "required": true,
+      "audioPath": "c69d97a9-e220-4eb1-9794-420a74527c34"
+    },
+    {
+      "tagalog": "Nakapagbigay rin ba sila ni Maria ng bagay na yun sa inyo?",
+      "english": "Were she and Maria also able to give you (pl.) that thing?",
+      "required": true,
+      "audioPath": "d135253d-2844-4da3-a628-e07c5f98bd41"
+    },
+    {
+      "tagalog": "Nakakapunta siya sa Maynila tuwing Mayo, pero hindi sa Cebu.",
+      "english": "He is able to go to Manila every May, but not to Cebu.",
+      "required": true,
+      "audioPath": "65338f82-0ff1-48d2-bd03-bc71dede0024"
+    },
+    {
+      "tagalog": "Makakapagluto si Diego sa lugar na yun, kaya pumunta tayo dun!",
+      "english": "Diego will be able to cook in that place, so let's go there!",
+      "required": true,
+      "audioPath": "27514231-58f7-4cf3-b50a-6ad179bc7579"
+    },
+    {
+      "tagalog": "Saan ka nakabili nito? Magkano?",
+      "english": "Where were you able to buy this? How much?",
+      "required": true,
+      "audioPath": "74180cfb-1ac4-4f54-aec4-c38545625af4"
+    },
+    {
+      "tagalog": "Aling aso ang nakakapaglaro sa pusa sa loob?",
+      "english": "Which dog is able to play with the cat inside?",
+      "required": true,
+      "audioPath": "079de596-d173-4693-bcc5-20878f8057f6"
+    },
+    {
+      "tagalog": "Taga-Seattle si David, kaya makakauwi siya bukas.",
+      "english": "David is from Seattle, so he will be able to go home tomorrow.",
+      "required": true,
+      "audioPath": "9fb7751a-7dd6-4b07-bea0-7e62783d7c9d"
+    },
+    {
+      "tagalog": "Nandito ang hindi nakapagturo ng basketbol dahil sa ulan.",
+      "english": "Here is the one who was not able to teach basketball due to rain.",
+      "required": true,
+      "audioPath": "1eff59d9-4715-4d56-9df7-a0aba07fb772"
+    }
+  ]
+}

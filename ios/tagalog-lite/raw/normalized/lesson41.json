@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson41",
+  "title": "Lesson 41 – More on Pronouns; Alam",
+  "vocabulary": [
+    {
+      "tagalog": "ulán",
+      "english": "rain",
+      "required": true,
+      "audioPath": "9fb4e231-d812-4a84-a841-de67c63270ee"
+    },
+    {
+      "tagalog": "alám",
+      "english": "knowledge",
+      "required": true,
+      "audioPath": "df078098-fbc5-4af0-94d9-71e2d26c61f6"
+    },
+    {
+      "tagalog": "alám ko",
+      "english": "I know",
+      "required": true,
+      "audioPath": "41163fd1-3975-4c85-8cd0-90cc0928fe1a"
+    },
+    {
+      "tagalog": "hindî ko alám",
+      "english": "I do not know",
+      "required": true,
+      "audioPath": "629f5a2a-27f6-45ce-9c4f-3253367fd9c4"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson we will further clarify some of the pronouns in **Appendix A** that are quite different from English. We will also look some usages of the noun alam."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Tayo/Natin/Sa Atin vs Kami/Namin/Sa Amin</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "In Tagalog when someone says “we” or “us”, the speaker must clarify if they are included."
+    },
+    {
+      "type": "p",
+      "markdown": "_Tayo/natin/sa atin_= me, you and possibly some other people in _ang/ng/sa_ forms respectively = we (inclusive) or we (incl.) for short."
+    },
+    {
+      "type": "p",
+      "markdown": "_Kami/namin/sa amin_= me and at least one other person but not you in _ang/ng/sa_ forms respectively = we (exclusive) or we (excl.) for short."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakita natin ang ulan.",
+        "english": "We (you and I) saw the rain.",
+        "required": true,
+        "audioPath": "bcbfc50d-e9b5-4a69-a191-d9b7582d1395"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nakita namin ang ulan.",
+        "english": "We (a friend and I) saw the rain.",
+        "required": true,
+        "audioPath": "07732f9f-fe8f-4624-8a42-7628db69dca4"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ito/Nito vs Iyan/Niyan vs Iyon/Niyon vs Yun/Non</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "In Tagalog when you say “this” it means something next to the speaker. Formally, when you say “that”, you must specify if it is something next to the listener or something far from both the speaker and listener:"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ito/nito_= this, close to the speaker in _ang/ng_ form respectively."
+    },
+    {
+      "type": "p",
+      "markdown": "_Iyan/niyan_= that, close to the listener in _ang/ng_ form respectively."
+    },
+    {
+      "type": "p",
+      "markdown": "_Iyon/niyon_= that, far from both the speaker and listener in _ang/ng_ form respectively."
+    },
+    {
+      "type": "p",
+      "markdown": "However, in colloquial speech _iyan/niyan_ and _iyon/niyon_ normally reduce to _yan/nyan_ and _yun/non_ respectively (_ito_ is sometimes reduced to _to_, but this is less common, so we use _ito_ in the book). Furthermore, the distinction between near and far is often ignored (for example, you will hear _yun_ instead of _yan_ and vice versa). Because they are more common than _yan/nyan_, we will only use _yun/non_ in this book for the _ang/ng_ forms of “that”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda ito.",
+        "english": "This is pretty.",
+        "required": true,
+        "audioPath": "ee0e1bca-b3ff-402b-9d8a-bf1f7d44caaa"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mabilis yun.",
+        "english": "That is fast.",
+        "required": true,
+        "audioPath": "e85aeeb6-f9dc-4f51-83ef-f2b84d9c7b25"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kakain ka ba non?",
+        "english": "Will you eat that?",
+        "required": true,
+        "audioPath": "af07f394-6c2a-4b07-9b05-11f6d0755b43"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Dito/Rito vs Diyan/Riyan vs Doon/Roon vs Dun</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Dito/diyan/doon_ is technically the _sa_ form of _ito/iyan/iyon_, but “here/there/there” is usually a more accurate definition for it than “this/that/that”. Formally, when you say “there”, you must specify if it is something next to the listener or something far from both the speaker and listener. _R_ is supposed to be used instead of _d_ when it follows a vowel:"
+    },
+    {
+      "type": "p",
+      "markdown": "_Dito/rito_ = here, close to the speaker."
+    },
+    {
+      "type": "p",
+      "markdown": "_Diyan/riyan_ = there, close to the listener."
+    },
+    {
+      "type": "p",
+      "markdown": "_Doon/roon_ = there, far from both the speaker and listener."
+    },
+    {
+      "type": "p",
+      "markdown": "For the same reasons given in the previous section, only _dito_ is used for “here”, and only _dun_ is used for “there”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mainit dito.",
+        "english": "It is hot here.",
+        "required": true,
+        "audioPath": "26829f29-3df8-4fce-ba1e-9c6d487ab163"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mainit dun.",
+        "english": "It is hot there.",
+        "required": true,
+        "audioPath": "e4a61cb5-516f-452c-a0cc-44eadcb97cfc"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ka/Mo/Sa Iyo vs Kayo/Ninyo/Sa Inyo vs Ikaw </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "“You” in Tagalog is quite different from English because there are different forms depending on whether you mean singular, plural, informal or respectful."
+    },
+    {
+      "type": "p",
+      "markdown": "_Ka/mo/sa iyo_= you (informal singular) in _ang/ng/sa_ form respectively."
+    },
+    {
+      "type": "p",
+      "markdown": "_Kayo/ninyo/sa inyo_= you (plural) or you (respectful singular) in _ang/ng/sa_ form respectively."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hinahanap mo ba ang aso niya?",
+        "english": "Are you looking for her dog?",
+        "required": true,
+        "audioPath": "d0960298-0c49-43aa-a156-ec5d3ee11ce3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hinahanap ba ninyo ang aso niya?",
+        "english": "Are you (pl) looking for her dog?",
+        "required": true,
+        "audioPath": "113ff2ad-c92f-4f30-ae98-d5429d456c3b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hinahanap po ba ninyo ang aso niya?",
+        "english": "Are you (resp. plural or singular) looking for her dog?",
+        "required": true,
+        "audioPath": "47b754e9-804b-46ca-bf91-e6247fb4c7e3"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "That is not all. There are certain sentence structures that require the use of _ikaw_, which (along with _ka_) is an informal singular _ang_ form of you. These are usually sentences in which “you” comes in the beginning. For example, identificational sentences:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikaw ang guro.",
+        "english": "You are the teacher.",
+        "required": true,
+        "audioPath": "8d688701-d505-4c18-a497-a4ec313017ec"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You will also frequently see ikaw in _ay_-sentences:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikaw ay maganda.",
+        "english": "You are pretty.",
+        "required": true,
+        "audioPath": "5b86cec4-784b-4a81-8f69-f3cb27b0fffd"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "And there are exceptions where it does not come first:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "At ikaw?",
+        "english": "And you? or How about you?",
+        "required": true,
+        "audioPath": "15df859e-8c45-4af7-a6f0-87323514630e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Alam </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here are some very common usages of _alam_, which is a noun that roughly means “knowledge”:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alam ko.",
+        "english": "I know.",
+        "required": true,
+        "audioPath": "270582f4-9772-411f-ae3b-69f5b4eff268"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Alam mo ba ang pangalan niya?",
+        "english": "Do you know his name?",
+        "required": true,
+        "audioPath": "46c39e30-e6c7-4d6b-86ce-9189954e501f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ko alam kung nasaan siya.",
+        "english": "I do not know where she is.",
+        "required": true,
+        "audioPath": "e462bee0-6297-4c1f-a243-9de76a6dafa3"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For the time being, we will just use _alam_ with an _ng_ form personal pronoun as shown above. The grammar will be explained more thoroughly in a later lesson."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ikaw ba ang gumawa ng halo-halo sa labas?",
+      "english": "Are you the one who made halo-halo outside?",
+      "required": true,
+      "audioPath": "bcf01b8b-1ff3-4c47-a6f4-0cd3e6b5b2f0"
+    },
+    {
+      "tagalog": "Hindi ko alam kung ilang piso ang nakuha niya.",
+      "english": "I do not know how many pesos he got.",
+      "required": true,
+      "audioPath": "499294cf-d9e5-412c-8c81-8cf8c2f33133"
+    },
+    {
+      "tagalog": "Bawal naming lutuin ang lechon sa ulan.",
+      "english": "We (excl.) are prohibited from cooking the lechon in the rain.",
+      "required": true,
+      "audioPath": "e7f37150-448f-42cc-b535-537bf50c6869"
+    },
+    {
+      "tagalog": "Huwag mo yung sabihin nang dalawang beses.",
+      "english": "Do not say that twice.",
+      "required": true,
+      "audioPath": "bd631d69-6146-4b2b-9234-9b4d1b8e21e6"
+    },
+    {
+      "tagalog": "Tagasaan ka? Ikaw ba ang taga-Seattle?",
+      "english": "Where are you from? Are you the one from Seattle?",
+      "required": true,
+      "audioPath": "a534752b-59fa-4cd2-8ae6-02086a6f0cee"
+    },
+    {
+      "tagalog": "Alam din po ba niya ang tanong na sinagot natin?",
+      "english": "Does he also know the question we (incl.) answered? (resp.)",
+      "required": true,
+      "audioPath": "8f2c78ca-fa70-45d6-8000-5d5c200c0dab"
+    },
+    {
+      "tagalog": "Hindi pa nila ako puwedeng biruin dun kahapon ng umaga.",
+      "english": "They were not able to tease me over there yesterday morning.",
+      "required": true,
+      "audioPath": "9d40d27e-8916-4a0a-ab16-9d2b5ab63ba1"
+    },
+    {
+      "tagalog": "Mahilig sina Jasmine at Luis sa ulan.",
+      "english": "Jasmine and Luis like rain.",
+      "required": true,
+      "audioPath": "94c965a9-3388-4a88-b71b-fa514bc74a56"
+    },
+    {
+      "tagalog": "Oo. Ikaw ang kailangang matuto non.",
+      "english": "Yes. You are the one who needs to learn that.",
+      "required": true,
+      "audioPath": "3782fbc1-c864-4569-87a9-b248b888ba38"
+    },
+    {
+      "tagalog": "Alam mo ba ang nasabi ni Maria nang tatlumpung segundo?",
+      "english": "Do you know what Mary was able to say for thirty seconds?",
+      "required": true,
+      "audioPath": "d0023cf7-9b65-43f6-98d8-565dead3f995"
+    }
+  ]
+}

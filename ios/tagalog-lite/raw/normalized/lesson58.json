@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson58",
+  "title": "Lesson 58 – Have Someone do Something; Magpa- and Pa-...-in Verbs",
+  "vocabulary": [
+    {
+      "tagalog": "magpa-",
+      "english": "AF verb affix that means “to have someone do something”; used with AF roots",
+      "required": true,
+      "audioPath": "5fa0d5fa-16ed-497d-9d10-989528be01b9"
+    },
+    {
+      "tagalog": "pa-...-in",
+      "english": "A2F verb affix that means “to have someone do something”; used with -um- and ma- roots",
+      "required": true,
+      "audioPath": "0d23a2e8-dab6-4347-ad83-6cf1b592c286"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Verbs that have the nuance “to have/make/let someone do something” are called “indirect action verbs”. Sentences formed with these verbs can have two actors: a primary actor (actor) and a secondary actor (A2). The actor has/makes/lets the A2 do something."
+    },
+    {
+      "type": "p",
+      "markdown": "There are many indirect action verb affixes, but this lesson will only cover _magpa_- and _pa-...-in_. _Magpa_- is the only affix that forms AF indirect action verbs, and can be used with all AF verb roots. _Pa-...-in_ is the most frequently used of three affixes which are used to form A2F indirect action verbs, and can be used with -_um_- and _ma_- verb roots."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of Magpa- Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "They perform an AF action."
+    },
+    {
+      "type": "p",
+      "markdown": "They add the nuance of “to have/make/let someone do something”."
+    },
+    {
+      "type": "p",
+      "markdown": "Used with all AF verb roots."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Magpa- Verb Infinitives </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To form the infinitive, add _magpa_ to the root of an AF verb (_mag-, -um-_, etc.)."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: magpa + root of gumawâ = magpa + gawâ = magpagawâ = to have someone do something"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: magpa + root of lumakí = magpa + lakí = magpalakí = to have someone raise/increase"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: magpa + root of pumuntá = magpa + puntá = magpapuntá = to have someone go"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Magpa- Verb Aspects</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Magpa_- verbs aspects are formed as shown. Notice that it is similar to _mag_- verb aspect formation, with the _pa_ of _magpa_ getting repeated in uncompleted and contemplated aspects."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magpagawâ",
+        "english": "> nagpagawâ, nagpápagawâ, magpápagawâ",
+        "required": true,
+        "audioPath": "61b70946-fe06-418e-bd09-5bea64fe7977"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magpalakí",
+        "english": "> nagpalakí, nagpapalakí, magpapalakí",
+        "required": true,
+        "audioPath": "b04cc4d0-71e4-42e5-baac-42764616f24a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magpapuntá",
+        "english": "> nagpapuntá, nagpápapuntá, magpápapuntá",
+        "required": true,
+        "audioPath": "ebcd302f-5603-4b32-b8e6-bdf011c9b71c"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Magpa- Sentences</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "Magpa Sentence = \\*\\*Verb\\*\\*+ actor + object (+ A2) + X"
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Notes: The _Magpa_ Sentence is just an AF Standard Sentence with an optional A2. The actor takes _ang_ form, the object takes _ng_ form and X takes _sa_ form. The A2 takes _sa_ form with some exceptions.\\*\\*"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagpagawa si Jason ng bahay.",
+        "english": "Jason had a house made. No A2 required.",
+        "required": true,
+        "audioPath": "49b6d0e1-a5f0-4e43-9f8a-557981db95c5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagpagawa si Jason ng bahay kay David. =",
+        "english": "Jason had David make a house. A2 required.",
+        "required": true,
+        "audioPath": "f7616062-8d43-4a3c-bdee-ae09120a578c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magpalaki ka ng aso.",
+        "english": "Raise a dog. (lit Have a dog grow up.) No A2 required.",
+        "required": true,
+        "audioPath": "58caa436-cbb1-411e-83c5-a0b7f6217a39"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magpalaki ka ng aso sa breeder.",
+        "english": "Have the breeder raise a dog. A2 required.",
+        "required": true,
+        "audioPath": "709050b1-d063-4b8a-8d35-2a8621c69664"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magpapapunta ako ng sasakyan sa Maynila.",
+        "english": "I will have a car go to Manila. Note that there is no A2; Manila is just a directional complement.",
+        "required": true,
+        "audioPath": "1f01f23a-608e-452b-b89d-f29aae06a14a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "With the root _kain_, it is possible to have A2 take ng form, but it changes the meaning:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagpapakain kami sa mga bata.",
+        "english": "We make the children eat.",
+        "required": true,
+        "audioPath": "07d62ad4-5920-4576-9f05-06afb96dbb8c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagpapakain kami ng mga bata.",
+        "english": "We feed the children.",
+        "required": true,
+        "audioPath": "becf83bf-9330-41d6-917f-2bb494c2ef56"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of Pa-...-in Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "They perform an A2F action."
+    },
+    {
+      "type": "p",
+      "markdown": "They add the nuance of “to have/make/let someone do something”."
+    },
+    {
+      "type": "p",
+      "markdown": "Used with -_um_- and AF _ma_- verb roots."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pa-...-in Verb Infinitives </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To form the infinitive, add _pa_ before and _in_(_hin_ if it ends in a vowel – see _in_ verbs for other spelling exceptions) after the root of an -_um_- or _ma_- AF verb. Shift the stress to the next vowel."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pa + root of gumawâ + in = pa + gawâ + in = pagawaín = to have someone do something"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pa + root of matulog + in = pa + tulog + in = patulugin = to have someone sleep"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pa + root of pumuntá + in = pa + puntá + hin = papuntahín = to have someone go"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pa-...-in Completed Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add _pina_ before the root."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pina + gawâ",
+        "english": "> pinagawâ",
+        "required": true,
+        "audioPath": "4873d54f-91bf-49c1-85a2-1cea24417491"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pina + tulog",
+        "english": "> pinatulog",
+        "required": true,
+        "audioPath": "8ea3f906-2123-46ae-aa18-e96eda3d4807"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pina + puntá",
+        "english": "> pinapuntá",
+        "required": true,
+        "audioPath": "425b7a8b-93a5-4f50-8b86-20cd4f2102d3"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pa-...-in Uncompleted Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add _pinapa_ before the root. Note that if the root is stressed on the last vowel the first a in _pinapa_ is stressed too."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pinapa + gawâ",
+        "english": "> pinápagawâ",
+        "required": true,
+        "audioPath": "133c3fae-086d-4ecf-b151-6a09f42872d6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pinapa + tulog",
+        "english": "> pinapatulog",
+        "required": true,
+        "audioPath": "198b7a30-78db-4c0f-b4dd-36ba919de3e5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pinapa + puntá",
+        "english": "> pinápapuntá",
+        "required": true,
+        "audioPath": "90dd33db-0f7a-413d-8c0e-f26bb37ae12a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Optionally, you can duplicate the first syllable of the root in the completed form."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pinagawâ => pinágagawâ"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pinatulog => pinatutulog"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pinapuntá => pinápupuntá"
+    },
+    {
+      "type": "p",
+      "markdown": "But this is less common, so we will not use it from here on."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pa-...-in Contemplated Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add _pa_ before the infinitive. Note that if the root is stressed on the last vowel the _a_ in _pa_ is stressed too."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pa + pagawain",
+        "english": "> pápagawaín",
+        "required": true,
+        "audioPath": "66f3a756-985b-472e-a61e-2ce083bf1106"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pa + patulugin",
+        "english": "> papatulugin",
+        "required": true,
+        "audioPath": "fc975688-b7c0-47e7-b68c-fea76c7be6a2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pa + papuntahín",
+        "english": "> pápapuntahín",
+        "required": true,
+        "audioPath": "a5526d6c-23b4-42f7-8af0-c1fa5ee16a4d"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Optionally, you can duplicate the first syllable of the root in the infinitive form."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pagawain => págagawaín"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: patulugin => patutulugin"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: papuntahín => pápupuntahín"
+    },
+    {
+      "type": "p",
+      "markdown": "But this is less common, so we will not use it from here on."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Pa-...-in Sentences</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "Pa...in Sentence = **Verb** + actor + A2 + object + X"
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Notes: The actor takes _ng_ form, the A2 takes _ang_ form, the object takes _ng_ form and X takes _sa_ form.\\*\\*"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pinagawa ni Joshua si David ng bahay.",
+        "english": "Joshua had David make a house.",
+        "required": true,
+        "audioPath": "0778f4d3-a81c-4304-b287-ac0414eecbb1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Patulugin mo ang mga bata.",
+        "english": "Have the children go to sleep.",
+        "required": true,
+        "audioPath": "22dc25f4-3898-4559-8306-5715ba05d3aa"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Papupuntahin ko ang asawa ko sa Maynila.",
+        "english": "I will have my wife go to Manila.",
+        "required": true,
+        "audioPath": "dfd59d29-a215-41fa-aae7-e5c07822da3a"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Bawal siyang magpagawa ng halo-halo sa mga bata.",
+      "english": "He is not allowed to have the children make halo-halo.",
+      "required": true,
+      "audioPath": "75f9bef8-dc98-43da-94e4-ac7aaab1247a"
+    },
+    {
+      "tagalog": "Para kanino pinatulog ni Joshua ang mga estudyante?",
+      "english": "Who did Joshua have the students go to sleep for?",
+      "required": true,
+      "audioPath": "f60e9b64-db4c-47a8-925d-cf48a15bf0ce"
+    },
+    {
+      "tagalog": "Bakit niya siya pinapapunta sa tindahan tuwing Linggo ng hapon?",
+      "english": "Why does he have her go to the store every Sunday afternoon?",
+      "required": true,
+      "audioPath": "8b17da33-951d-4b73-bc7b-71ea0c75423b"
+    },
+    {
+      "tagalog": "Nakanino ang gurong magpapalaki ng mga mangga?",
+      "english": "At whose place will the teacher have mangos grown?",
+      "required": true,
+      "audioPath": "22ad7bd5-c462-4c03-bea6-dae5d6009f40"
+    },
+    {
+      "tagalog": "Ayaw pagawain ni Mrs. Cruz ang mga babae ng lechon.",
+      "english": "Mrs. Cruz does not like to have the women make lechon.",
+      "required": true,
+      "audioPath": "eb9022c9-0881-4d92-9541-1cc832e5afeb"
+    },
+    {
+      "tagalog": "Gaano siya kabilis nagpapunta ng sasakyan sa kanila?",
+      "english": "How fast did she have a car go to their place? (kanila)",
+      "required": true,
+      "audioPath": "ee46d44e-ace6-43bf-a802-1df97eaf080d"
+    },
+    {
+      "tagalog": "Kumusta ang pinapatulog ni Jasmine ngayon?",
+      "english": "How is the one Jasmine is putting to sleep now?",
+      "required": true,
+      "audioPath": "dfef0991-8ef5-4da2-8fe5-e2222e7abb99"
+    },
+    {
+      "tagalog": "Paano ka magpapagawa ng mga inumin kina Luis at Diego?",
+      "english": "How will you get Luis and Diego to make drinks?",
+      "required": true,
+      "audioPath": "5a728cab-0a1e-49e4-9252-8e5042ca673c"
+    },
+    {
+      "tagalog": "Puwede ba kayong magpalaki ng manok sa bahay mo?",
+      "english": "Can you (pl.) raise a chicken at your house?",
+      "required": true,
+      "audioPath": "606970fa-117c-427c-a389-171b581a0df4"
+    },
+    {
+      "tagalog": "Pinagawa ko ng halo-halo ang mga pinagsandukan ko ng adobo.",
+      "english": "I had the ones I scooped adobo for make the halo-halo.",
+      "required": true,
+      "audioPath": "b45333d2-da90-4c70-a58a-8b185b8ac6f4"
+    }
+  ]
+}
