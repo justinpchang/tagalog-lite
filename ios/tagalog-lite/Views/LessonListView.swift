@@ -69,7 +69,7 @@ struct LessonListView: View {
 
   private var header: some View {
     VStack(alignment: .leading, spacing: 6) {
-      Text("Tagalog Lessons")
+      Text("Tagalog Lite")
         .font(.system(size: 34, weight: .heavy, design: .rounded))
         .foregroundStyle(.primary)
       Text("Learn Tagalog grammar step by step")
