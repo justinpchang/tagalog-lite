@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson35",
+  "title": "Lesson 35 - I- Verbs OF",
+  "vocabulary": [
+    {
+      "tagalog": "ibigáy",
+      "english": "to give something (OF(DO))",
+      "required": true,
+      "audioPath": "97ffd2f1-6105-42d9-8b0d-b0c42b91e64d"
+    },
+    {
+      "tagalog": "iturò",
+      "english": "to point something out; show something (OF(DO))",
+      "required": true,
+      "audioPath": "f7e5fd75-85b1-4be8-9b66-601c023ea852"
+    },
+    {
+      "tagalog": "ilagáy",
+      "english": "to put something (OF(O))",
+      "required": true,
+      "audioPath": "397f3604-24a4-4bc3-bf3f-ecceca12d030"
+    },
+    {
+      "tagalog": "itaním",
+      "english": "to plant something (OF(DO))",
+      "required": true,
+      "audioPath": "cb4ea10f-6066-417a-865d-e5871fe9a213"
+    },
+    {
+      "tagalog": "isama",
+      "english": "to bring someone along; to include something (OF(DO))",
+      "required": true,
+      "audioPath": "49083f2d-a951-454f-a3a4-ffbd876c62f8"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "_I_- verbs are the last of the big six, so congratulations! Many focuses are possible with _i_- verbs: OF, BF, CF, IF, MF and RF. We will not cover CF, IF, MF or RF because they are much less common. Other than discussing formation and aspect, which apply to all _i_- verbs, this lesson will cover OF _i_- verbs. The next lesson will cover BF _i_- verbs."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of OF i- verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "No special nuances; just to perform an OF action."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add _i_ before the root. Sometimes there is morphing, but unlike -_an_ and -_in_ verbs, all aspects are derived from the infinitive, so memorizing the infinitive is enough."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: i + bigay => ibigáy"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: i + turo => iturò"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: i + lagay => ilagáy"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Completed Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Insert _in_ before the second vowel of the infinitive (see _mag_- verbs for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ibigáy",
+        "english": "> ibinigáy",
+        "required": true,
+        "audioPath": "6670ab4b-af25-496c-a6ef-73fa6a617dfb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "iturò",
+        "english": "> itinurò",
+        "required": true,
+        "audioPath": "d0b384d8-2008-43fd-8906-7ac4b1b83ec5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Exception – If the root begins with a vowel, _h, l, r, w_ or _y_, it is more common to insert _ni_ in front of the root in the infinitive. Notice that these are the same exception letters used for -_in_ and -_an_ verbs, but for _i_- verbs, vowels and _h_ are also included."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ilagáy",
+        "english": "> inilagáy",
+        "required": true,
+        "audioPath": "d20ff183-2497-460b-af48-510f0b9e3fb7"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Uncompleted Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "From the infinitive, repeat the first syllable of the root then insert _in_ before the second vowel (see _mag_- verbs for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ibigáy",
+        "english": "> ibiníbigáy",
+        "required": true,
+        "audioPath": "ed33351e-999f-4bef-90a6-0e902edd4b5a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "iturò",
+        "english": "> itinuturò",
+        "required": true,
+        "audioPath": "bf77574a-b0c0-4b51-ac8c-e5ff93de554e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ilagáy",
+        "english": "> inilálagáy",
+        "required": true,
+        "audioPath": "9730e06f-91ed-4e7c-8616-9b791d1438c5"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Contemplated Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add the first two syllables of the infinitive to the root (see _mag-_ verbs for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ibi + bigay",
+        "english": "> ibíbigáy",
+        "required": true,
+        "audioPath": "41e6946d-8009-4802-97b2-dffeffb2335b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "itu + turo",
+        "english": "> ituturò",
+        "required": true,
+        "audioPath": "7dd1029d-c95a-4f33-99b6-80d1f54329b4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ila + lagay",
+        "english": "> ilálagáy",
+        "required": true,
+        "audioPath": "9bdb6ebc-b63b-4bc7-a888-5b90eeb80aa3"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are OF verbs, so as a reminder:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ibigay mo ang aso kay Maria.",
+        "english": "Give Maria the dog.",
+        "required": true,
+        "audioPath": "2efc6af8-74b1-45e7-8c4c-794554f85b20"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Itinuro ni Jason ang lechon sa kanila.",
+        "english": "Jason showed them the lechon.",
+        "required": true,
+        "audioPath": "38ca308c-0232-4eed-a3fb-579d5ef4dc6a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ilalagay ng guro ang mga mangga sa eskwelahan.",
+        "english": "The teacher will put the mangoes in the school.",
+        "required": true,
+        "audioPath": "9d3b66b9-4730-4bcd-82f1-eb41cfacd66a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "If you are wondering why the _ang + sa_ phrase order is not reversed here, it is because it does not cause ambiguity. For example, natives would not interpret _Ibigay mo (ang aso kay Maria)_ as “Give (the dog with Maria)” because the sentence would be missing a recipient. So the standard order is preferred in this case."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Kailan mo ibinigay ang tatlong daang piso kay Joaquin?",
+      "english": "When did you give the three hundred pesos to Joaquin?",
+      "required": true,
+      "audioPath": "09841bb6-8a61-43bc-98f7-ca02a6aa35b8"
+    },
+    {
+      "tagalog": "Itinuturo ba niya ang eskwelahan sa kanila kapag nandito siya?",
+      "english": "Does she point out the school to them when she is here?",
+      "required": true,
+      "audioPath": "2194bc56-ca9e-489d-9d03-7dcb925a3080"
+    },
+    {
+      "tagalog": "Hindi siya hahayaang ilagay ang mga tanong sa pinto sa taong ito.",
+      "english": "She will not be allowed to put the questions on the door this year.",
+      "required": true,
+      "audioPath": "59ed1c8a-822a-47f9-9575-518efb876b99"
+    },
+    {
+      "tagalog": "Ano ang ikaapat na punong itinanim ng lalaki?",
+      "english": "What is the 4th tree the man planted?",
+      "required": true,
+      "audioPath": "f021b4e2-9613-4e9f-9982-263b87a0ea0e"
+    },
+    {
+      "tagalog": "Isama mo sina Jessica at Jasmine at bilhin mo ang mga sapatos.",
+      "english": "Take Jessica and Jasmine along and buy shoes.",
+      "required": true,
+      "audioPath": "68da3ab8-63e6-4c4f-8117-3dc81c550bdb"
+    },
+    {
+      "tagalog": "Ibibigay ko sa kaniya ang walong oras kung gagawin ko ito.",
+      "english": "I will give her the eight hours if I do it.",
+      "required": true,
+      "audioPath": "47548d06-1e76-49eb-8659-5266497eb8a3"
+    },
+    {
+      "tagalog": "Ito ang ikalimang beses na itinuro ko sa yun kaniya.",
+      "english": "This is the 5th time I pointed that out to her.",
+      "required": true,
+      "audioPath": "cd95440c-71cc-4c7b-8ae2-db4c3d641a70"
+    },
+    {
+      "tagalog": "Kinukuha nila ang inilagay namin sa lamesa.",
+      "english": "They are getting the one we put on the table.",
+      "required": true,
+      "audioPath": "4b10f939-fe91-42a4-b949-9c583e97a006"
+    },
+    {
+      "tagalog": "Itatanim ng asawa ni Analyn ang puno sa basong yun.",
+      "english": "Analyn's husband will plant the tree in that glass.",
+      "required": true,
+      "audioPath": "ef9150d1-7f07-4362-98ea-37a51b6c9172"
+    },
+    {
+      "tagalog": "Isinama niya ang anak niya nang siyam na segundo lang.",
+      "english": "She had her child accompany her for only 9 seconds.",
+      "required": true,
+      "audioPath": "1c1c9b43-d786-4556-8c65-eb6a4057c798"
+    }
+  ]
+}

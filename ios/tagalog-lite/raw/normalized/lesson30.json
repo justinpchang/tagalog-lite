@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson30",
+  "title": "Lesson 30 - Saan; Where Verb",
+  "vocabulary": [
+    {
+      "tagalog": "saán",
+      "english": "where (used with verbs)",
+      "required": true,
+      "audioPath": "d59555fa-75d6-47ac-8cbb-46e0efb65e81"
+    },
+    {
+      "tagalog": "CR",
+      "english": "restroom",
+      "required": true,
+      "audioPath": "3cdd277a-7876-4250-a601-723fbf960fe5"
+    },
+    {
+      "tagalog": "asawa",
+      "english": "spouse",
+      "required": true,
+      "audioPath": "90ad47d6-2035-45b6-af9a-50f21630e3f9"
+    },
+    {
+      "tagalog": "tanóng",
+      "english": "question",
+      "required": true,
+      "audioPath": "2e3947fc-2361-4765-a123-4c742537d493"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In the previous lesson we learned _nasaan_, the Tagalog word for “where” which is used with nouns. This lesson is about _saan_, the word used with verbs."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Saan: Where + verb?</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Saan\\*\\*+ Standard Sentence. (Tag.) = Where Standard Sentence? (Eng.)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Saan pumupunta si Maria?",
+        "english": "Where is Maria going?",
+        "required": true,
+        "audioPath": "99f0d9d1-a2da-47fe-93f5-0fa0416e708a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Saan niya naisip ang tanong?",
+        "english": "Where did he think of the question?",
+        "required": true,
+        "audioPath": "bfe592a6-4c18-4571-b259-be7419d763bb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Saan kayo magbibisikleta?",
+        "english": "Where will you (pl.) bicycle?",
+        "required": true,
+        "audioPath": "ff466ad5-8d2a-4fff-ae2a-3d82c21e0fb5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For a positive answer:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence + location. (Tag.) = Standard Sentence at location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Location takes _sa_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pumupunta si Maria sa CR.",
+        "english": "Maria is going to the restroom.",
+        "required": true,
+        "audioPath": "f8e43c6f-10ec-4525-9fad-cfba1607d292"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Naisip niya sa Seattle ang tanong.",
+        "english": "He thought of the question in Seattle.",
+        "required": true,
+        "audioPath": "186f8571-7bfd-4d84-9097-9bb5bc987a2c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magbibisikleta kami sa kalsada.",
+        "english": "We (excl.) will bicycle in the street.",
+        "required": true,
+        "audioPath": "1741b2aa-5c6e-498d-a4e1-ad521541c3b0"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For a negative answer, you use hindi:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Hindi\\*\\*+ Standard Sentence + location. (Tag.) = Negated Standard Sentence at location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Location takes _sa_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi pumupunta si Maria sa eskwelahan.",
+        "english": "Maria is not going to school.",
+        "required": true,
+        "audioPath": "ceec1fe9-7e1f-4eee-af76-fbf1b13e30ae"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi niya naisip sa Cebu ang tanong.",
+        "english": "He did not think of the question in Cebu.",
+        "required": true,
+        "audioPath": "0353750d-1dd9-4f4c-b285-0549d3b87909"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi kami magbibisikleta sa Maynila.",
+        "english": "We (excl.) will not bicycle in Manila.",
+        "required": true,
+        "audioPath": "88495cda-33b6-4f62-abcf-269f277f474d"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Marking Family Members by Marriage</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Unlike direct family members, family members by marriage, such as _asawa_, are marked like common nouns:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Saan pumupunta si nanay?",
+        "english": "Where is Mother going?",
+        "required": true,
+        "audioPath": "c620ae82-90cf-4e06-8056-31817ad850c4"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Saan pumupunta ang asawa mo?",
+        "english": "Where is your wife going?",
+        "required": true,
+        "audioPath": "fcb9b195-d5e7-4d46-b41d-f10791c91499"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Saan napunta ang asawa ni Diego nung ikapito ng Agosto?",
+      "english": "Where did Diego's wife wind up on the 7th of August?",
+      "required": true,
+      "audioPath": "40dd0e09-113c-46b5-b42c-354db25c4d2b"
+    },
+    {
+      "tagalog": "Hindi siya napunta sa CR sa atin.",
+      "english": "She did not wind up in the restroom at our (incl.) place.",
+      "required": true,
+      "audioPath": "e5082cc1-dc27-4be8-9bfb-3f022f8cc88b"
+    },
+    {
+      "tagalog": "Saan nakikita nina Angel at Maria ang tanong namin?",
+      "english": "Where do Angel and Maria see our (excl.) question?",
+      "required": true,
+      "audioPath": "b908beeb-be63-4aaa-848b-ff73d1369417"
+    },
+    {
+      "tagalog": "Nakikita nila ang tanong sa lamesa sa amin.",
+      "english": "They see the question on the table at our (excl.) place.",
+      "required": true,
+      "audioPath": "3c344cc4-4abb-4f7f-9e9e-bb69447a7a31"
+    },
+    {
+      "tagalog": "Saan ka matutulog sa hapon? Sa murang bahay ng asawa mo?",
+      "english": "Where will you sleep in the afternoon? In your wife's cheap house?",
+      "required": true,
+      "audioPath": "89f980f8-b473-42be-98f4-a4618aeb4466"
+    },
+    {
+      "tagalog": "Natutulog lang ako dun nang anim na beses bawat taon.",
+      "english": "I only sleep there six times per year.",
+      "required": true,
+      "audioPath": "dcf7f590-e7da-4e19-b33a-be2b508a6180"
+    },
+    {
+      "tagalog": "Saan maiisip ni Analyn ang petsa para sa amin?",
+      "english": "Where will Analyn think of the (calendar) date for us (excl.)?",
+      "required": true,
+      "audioPath": "2e695335-c6ba-4fb0-9c50-3b37e569d8ec"
+    },
+    {
+      "tagalog": "Hindi siya magbibigay ng petsa sa inyo.",
+      "english": "She will not give you (pl.) a date.",
+      "required": true,
+      "audioPath": "9797bc3d-ff5f-40f2-804f-56f00cc32520"
+    },
+    {
+      "tagalog": "Saan mo naalala ang tanong nila?",
+      "english": "Where did you remember their question?",
+      "required": true,
+      "audioPath": "f78ddbac-e11d-4d98-835d-61daa7243be9"
+    },
+    {
+      "tagalog": "Naalala ko ang tanong nila sa CR sa kanila.",
+      "english": "I remembered their question in the restroom at their place.",
+      "required": true,
+      "audioPath": "e48a3262-cccd-438b-8404-3240bb5e96d5"
+    }
+  ]
+}

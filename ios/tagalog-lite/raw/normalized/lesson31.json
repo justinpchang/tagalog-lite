@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson31",
+  "title": "Lesson 31 - In verbs OF",
+  "vocabulary": [
+    {
+      "tagalog": "sabihin",
+      "english": "to say something (OF(O), root = sabi)",
+      "required": true,
+      "audioPath": "aa5c52c4-a484-48a8-a0d3-87588c4fdad5"
+    },
+    {
+      "tagalog": "hanapin",
+      "english": "to seek something (OF(O), root = hanap)",
+      "required": true,
+      "audioPath": "d3ba4128-a4a5-4d60-8e10-2abf6bd8ddc6"
+    },
+    {
+      "tagalog": "kainin",
+      "english": "to eat something (OF(O), root = kain)",
+      "required": true,
+      "audioPath": "69be4ea2-eebe-4aa1-b5c6-9669ed7ec041"
+    },
+    {
+      "tagalog": "lutuin",
+      "english": "to cook something (OF(O), root = luto)",
+      "required": true,
+      "audioPath": "763943c8-f655-429c-9c8a-ec0503405043"
+    },
+    {
+      "tagalog": "inumín",
+      "english": "to drink something (OF(O), root = inom)",
+      "required": true,
+      "audioPath": "07ae5a50-9e28-4c68-9905-13b8a510081f"
+    },
+    {
+      "tagalog": "tanungín",
+      "english": "to ask someone (DF(D), root = tanong)",
+      "required": false,
+      "audioPath": "9c5dd554-c14c-4c2a-8329-63d1f3764401"
+    },
+    {
+      "tagalog": "sundín",
+      "english": "to obey/follow someone/something (DF(D), root = sunod)",
+      "required": false,
+      "audioPath": "2f85817c-dde7-4d63-bb35-de7d25437d90"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "-_In_ verbs, another of the big six, are perhaps the second most common of all verb types in colloquial speech. They are usually OF or DF. There are few AF -_in_ verbs, and they are not very high frequency so we will not cover them. Other than discussing formation and aspect, which apply to all -_in_ verbs, this lesson will cover OF -_in_ verbs. The next lesson will cover DF -_in_ verbs."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of OF -in verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "No special nuances; they just perform an OF action."
+    },
+    {
+      "type": "p",
+      "markdown": "They can be OF(O) or OF(D), but OF(D) are not very common so we will not cover them."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "All -_in_ verbs end with -_in_. For the same reasons given with -_an_ verbs, I recommend memorizing the infinitive and generic root. These are sufficient to derive all the aspects."
+    },
+    {
+      "type": "p",
+      "markdown": "Similar to -_an_ verbs, to form an -_in_ verb, we sometimes put -_in_ after the root if it ends in a consonant, and -_hin_ after the root if it ends in a vowel. But there are many exceptions, and each type of exception has a rule, so it is better just to memorize the infinitive and the root. That is why we always tell you the root when we introduce an -_in_ verb."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: sabi => sabihin (ends in a vowel)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: hanap => hanapin\t(ends in a consonant)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: kain => kainin (ends in a consonant)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: luto => lutuin (exception – the _o_ morps into a _u_)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: inom => inumín (exception – the _o_ morps into a _u_)"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Completed Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add _in_ before the first vowel of the root (see below for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sabi",
+        "english": "> sinabi",
+        "required": true,
+        "audioPath": "b881134d-f33b-417a-ae63-8443d1e97a8c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "inom",
+        "english": "> ininóm",
+        "required": true,
+        "audioPath": "bf33a974-b919-4c14-bf38-46ed5c0e4a47"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Exception – Similar to -_an_ verbs, if the root begins with _l, r, w_ or _y_, it is more common to put _ni_ in front of the root:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "luto",
+        "english": "> nilutò",
+        "required": true,
+        "audioPath": "a5f772cb-8db1-4702-b6a9-d01d7d01f810"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Uncompleted Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "From the root, repeat the first syllable then insert _in_ before the first vowel (see below for stress patterns)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sabi",
+        "english": "> sinasabi",
+        "required": true,
+        "audioPath": "da58dac0-fad0-4037-b5eb-15210f272046"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "inom",
+        "english": "> iníinóm",
+        "required": true,
+        "audioPath": "56deaa6b-502e-4b71-bfc8-db6460aba777"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "luto",
+        "english": "> nilulutò",
+        "required": true,
+        "audioPath": "fb0aa59f-708a-4b3d-8aad-4cf8221bbb0c"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Contemplated Aspect</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Add the first syllable of the infinitive to the infinitive."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa + sabihin",
+        "english": "> sasabihin",
+        "required": true,
+        "audioPath": "1fb40173-d811-4499-9b82-e050000c531a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "i + inumín",
+        "english": "> íinumín",
+        "required": true,
+        "audioPath": "cf147114-c7ec-4e78-b07b-aceefe50aa2c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "lu + lutuin",
+        "english": "> lulutuin",
+        "required": true,
+        "audioPath": "c986ac2f-7612-4bea-aa73-a437504a12e9"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Stress Patterns in Infinitive and Aspects </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You may have noticed the stress patterns for these are different from what you have seen so far. -_In_ verbs are the only verbs of the big six that do not use the stress pattern rules described for _mag_- verbs. For infinitives, there are no rules; you just have to memorize them."
+    },
+    {
+      "type": "p",
+      "markdown": "**If the infinitive has stress on the second to last vowel**, all aspects have stress on the second to last vowel only."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sabihin:",
+        "english": "sinabi, sinasabi, sasabihin",
+        "required": true,
+        "audioPath": "0b6594ab-7001-45b1-9cfe-d2949b5cc07c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "hanapin:",
+        "english": "hinanap, hinahanap, hahanapin",
+        "required": true,
+        "audioPath": "d39779b0-a50a-4451-83c9-4b7c185cabe7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kainin:",
+        "english": "kinain, kinakain, kakainin",
+        "required": true,
+        "audioPath": "ef135833-e688-432c-a393-af6bdca4f8b5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "**If the infinitive has stress on the last vowel**, all aspects have stress on the last vowel, and the uncompleted and contemplated aspects also have stress on the vowel before the root."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "inumín:",
+        "english": "ininóm, iníinóm, íinumín",
+        "required": true,
+        "audioPath": "f330cc6c-b179-49ac-ba05-f1cda44946ef"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tanungín:",
+        "english": "tinanóng, tinátanóng, tátanungín",
+        "required": true,
+        "audioPath": "3b42ace8-2ba2-4f49-b929-c8f8a1ac2208"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sundín:",
+        "english": "sinunód, sinúsunód, súsundín",
+        "required": true,
+        "audioPath": "66fedc05-0398-4280-a733-e3be55522f63"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are OF(O) verbs, so as a reminder:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sinabi niya sa akin ang totoo.",
+        "english": "She told me the truth.",
+        "required": true,
+        "audioPath": "03e3a962-c3d1-4cfa-a4f0-de4dd6d99c45"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lutuin nga po ninyo ang manok.",
+        "english": "Cook the chicken. (soft)(resp.)",
+        "required": true,
+        "audioPath": "f4d867a0-db82-4ca1-b4a7-3bb5fa1e2aec"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Iniinom ko ang mainit na tubig.",
+        "english": "I am drinking the hot water.",
+        "required": true,
+        "audioPath": "be55ab8c-7dfa-422d-bf6c-9ad937f2b8fe"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sabihin mo sa asawa mo ang pangalan ng aso sa Linggo.",
+      "english": "Tell your wife the dog's name on Sunday.",
+      "required": true,
+      "audioPath": "d4222903-6b81-4684-83ca-b6cca3e8b32c"
+    },
+    {
+      "tagalog": "Tagasaan ang mga gurong hinanap ni Joe?",
+      "english": "Where were the teachers from that Joe was looking for?",
+      "required": true,
+      "audioPath": "27b8e362-c179-4bb0-9305-47ff32c6b753"
+    },
+    {
+      "tagalog": "Hindi natin kinakain ang lechon ngayon, no?",
+      "english": "We (incl.) are not eating the roasted pig now, are we?",
+      "required": true,
+      "audioPath": "30905476-88cb-409c-b426-b6d5bee78756"
+    },
+    {
+      "tagalog": "Magkano ang mga manok na lulutuin nina Jasmine at Luis?",
+      "english": "How much are the chickens that Jasmine and Luis will cook?",
+      "required": true,
+      "audioPath": "d47811f9-a97c-4a55-9054-be77cc114496"
+    },
+    {
+      "tagalog": "Masarap inumin ang tubig dun.",
+      "english": "It is satisfying to drink the water there.",
+      "required": true,
+      "audioPath": "1fce02eb-cafa-458d-83ec-b84a9eb420ea"
+    },
+    {
+      "tagalog": "Ano naman ang sinabi niya sa kaniya nung alas-dose?",
+      "english": "By contrast, what did he say to her at 12 o'clock?",
+      "required": true,
+      "audioPath": "977123b3-3cf8-4c46-9846-eb8d07bf2e2f"
+    },
+    {
+      "tagalog": "Ilang kuwarto ang hinahanap ni Maria dito?",
+      "english": "How many rooms is Maria looking for here?",
+      "required": true,
+      "audioPath": "86b8011c-ed9e-48ed-8c77-21ead2414824"
+    },
+    {
+      "tagalog": "Nasaan ang mga manggang kakainin natin bukas?",
+      "english": "Where are the mangoes that we (incl.) will eat tomorrow?",
+      "required": true,
+      "audioPath": "9154ae3a-f086-4b19-b2e6-7e69c47f6e27"
+    },
+    {
+      "tagalog": "Lutuin natin ang adobo para sa mga anak natin sa hapon.",
+      "english": "Let's cook the adobo for our (incl.) children in the afternoon.",
+      "required": true,
+      "audioPath": "6dd44f4c-964b-4ab0-a9b7-51d3bd40e00f"
+    },
+    {
+      "tagalog": "Nasa CR ang baso ng tubig na ininom niya.",
+      "english": "The glass of water she drank was in the restroom.",
+      "required": true,
+      "audioPath": "a7f8a477-5255-4303-9982-9f05c516a096"
+    }
+  ]
+}

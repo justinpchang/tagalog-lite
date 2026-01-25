@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson39",
+  "title": "Lesson 39 - Ng Pseudo Verbs",
+  "vocabulary": [
+    {
+      "tagalog": "gustó",
+      "english": "want, like",
+      "required": false,
+      "audioPath": "d14c2782-7ec3-4057-98b0-c2586779e701"
+    },
+    {
+      "tagalog": "ayaw",
+      "english": "do not want/like",
+      "required": false,
+      "audioPath": "74c253ef-89ab-4c3e-8cbe-7693af078418"
+    },
+    {
+      "tagalog": "kailangan",
+      "english": "need",
+      "required": true,
+      "audioPath": "d08af33d-21f2-4cea-87f3-732334a8c6d6"
+    },
+    {
+      "tagalog": "ibig",
+      "english": "want, like",
+      "required": false,
+      "audioPath": "080a0732-5f40-45e2-af4c-342be535b5dc"
+    },
+    {
+      "tagalog": "*nais",
+      "english": "want, like",
+      "required": false,
+      "audioPath": "c0851b74-48fe-4344-a044-5cf206262737"
+    },
+    {
+      "tagalog": "*kaya",
+      "english": "can",
+      "required": false,
+      "audioPath": "5f6b4522-26bd-460c-87d0-5bdb00c9f333"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "We had previous lessons on how to like/dislike nouns. In this lesson we learn how to like/dislike verbs, plus a lot more. _Gusto_ and _ayaw_ are called “pseudo-verbs”, which are special adjectives that resemble verbs in a “verb followed by infinitive” structure. There are a few “real” verbs that serve a similar purpose, and we will cover one in a future lesson, but they are less common. There are two groups of pseudo-verbs. This lesson covers _ng_ pseudo verbs, and the next lesson covers plain pseudo-verbs."
+    },
+    {
+      "type": "p",
+      "markdown": "About _ng_ pseudo-verbs: although I listed six above, we are not going to use _ibig_ or _nais_ because they are not as common as _gusto_. And we are not going to use _kaya_ because it has overlapping meanings with the plain pseudo-verb _puwede_. Formally, _kaya_ is more about ability and _puwede_ is more about permission, but colloquially this distinction is often lost. Also, it is easy for a beginner to confuse _kaya_ for a conjunction that you will learn in a future lesson. That leaves us with _gusto, ayaw_ and _kailangan_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ng Pseudo-Verbs with Non-AF Standard Sentences (SS)</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "Non-AF Ng Pseudo verb Sentence = **Ng pseudo-verb** (+ linker) + Non-AF SS."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: The verb takes infinitive. The linker goes before the verb. Use the linker if it is -_ng_ type, but omit it if it is _na_.**"
+    },
+    {
+      "type": "p",
+      "markdown": "Similar to what you saw with the adj + infinitive structure, although the linker is optional here, native speakers will normally use it if can be a -_ng_ type modification, but omit it where it would be na, so that is what we do in this book."
+    },
+    {
+      "type": "p",
+      "markdown": "To form these, take all the enclitics out of the non-AF standard sentence and put them after the pseudo-verb, then change the verb to infinitive."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kailangan lang niyang lutuin ang adobo.",
+        "english": "She only needs to cook the adobo.",
+        "required": true,
+        "audioPath": "ec7938b5-a1f6-4368-81aa-780511378760"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto pong makita ni Maria ang bisikleta ninyo.",
+        "english": "Maria wants to see your bicycle. (resp.)",
+        "required": true,
+        "audioPath": "de42b583-db67-4088-a49f-ea1919fd63ac"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw kitang bigyan ng pera.",
+        "english": "I do not like to give you money.",
+        "required": true,
+        "audioPath": "e1be5d62-692d-4771-a027-9534cfadd91a"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ng Pseudo-verbs with AF Standard Sentences</u>"
+    },
+    {
+      "type": "h2",
+      "markdown": "AF Ng Pseudo-verb Sentence = **Ng pseudo-verb** + actor (+ linker) + AF SS without actor."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Notes: Actor takes _ng_ form, verb takes infinitive. The linker goes before the verb. Use the linker if it is -_ng_ type, but omit it if it is _na_.**"
+    },
+    {
+      "type": "p",
+      "markdown": "Form these the same way as non-AF, except put the actor just before the linker, and change it to _ng_ form. That is why these are called _ng_ form pseudo-verbs; even AF actors need to be changed to _ng_ form. Notice that, unlike non-AF, actors that are not pps are still moved in before the verb:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto rin ni Mariang matulog sa kuwarto niya.",
+        "english": "Maria also wants to sleep in her room.",
+        "required": true,
+        "audioPath": "573b5140-bde0-4942-91cc-507e29c4590f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kailangan kong gumawa ng halo-halo.",
+        "english": "I need to make halo-halo.",
+        "required": true,
+        "audioPath": "8c3dc108-e6af-4ae0-ac18-e8faea4f0676"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw ni Joshuang magbigay ng piso.",
+        "english": "Joshua does not want to give a peso.",
+        "required": true,
+        "audioPath": "51f2bcc0-5e5f-4d23-a450-e0dc3f4934c8"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Optionally, you can leave the actor in the standard sentence, but it must still take _ng_ form:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ring matulog ni Maria sa kuwarto niya.",
+        "english": "Maria also wants to sleep in her room.",
+        "required": true,
+        "audioPath": "1c3b2caf-b81c-41c4-a696-ffa122c270aa"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "This is less common, so we will not do it anymore in this book."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Negating all Pseudo-Verb Sentences</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ayaw_ is used to negate _gusto_. Negate all other pseudo-verb sentences with _hindi_, and do not forget to put the enclitics after _hindi_. Remember that the linker always goes before the verb."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi lang niya kailangang lutuin ang adobo.",
+        "english": "She does not only need to cook the adobo.",
+        "required": true,
+        "audioPath": "039eac16-81c0-497f-be39-5f44a106be59"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ayaw pong makita ni Maria ang bisikleta ninyo.",
+        "english": "Maria does not want to see your bicycle. (resp.)",
+        "required": true,
+        "audioPath": "3954407e-7b67-46d7-9eed-09a5e46a1527"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ko kailangang gumawa ng halo-halo.",
+        "english": "I do not need to make halo-halo.",
+        "required": true,
+        "audioPath": "33b12dcb-182b-4999-97eb-07226e120ec7"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Remember that for AF _ng_ pseudo verb sentences, non-pp actors stay before the verb; they do not go right after _hindi_ like the enclitics."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po niya kailangang magluto.",
+        "english": "She does not need to cook. (resp.) But:",
+        "required": true,
+        "audioPath": "811fa52f-e270-4704-9766-5d76c266b083"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi po kailangan ni nanay na magluto.",
+        "english": "Mother does not need to cook. (resp.)",
+        "required": true,
+        "audioPath": "f825585a-9409-4e90-a77a-181045454d09"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Gusto pa naman niyang lumaki sa Cebu.",
+      "english": "In contrast, she would still like to grow up in Cebu.",
+      "required": true,
+      "audioPath": "fc3cbaa1-f2fd-4249-8612-e395ba324374"
+    },
+    {
+      "tagalog": "Ayaw kainan ni Jessica ng halo-halo ang baso.",
+      "english": "Jessica does not like to eat halo-halo out of the glass.",
+      "required": true,
+      "audioPath": "3a19ef09-ba36-4130-8894-6853d31b94ae"
+    },
+    {
+      "tagalog": "Kailangan ni David pumunta sa ilalim ng gusali.",
+      "english": "David needs to go underneath the building.",
+      "required": true,
+      "audioPath": "b790e7b6-723f-4904-8cc9-4144714e3353"
+    },
+    {
+      "tagalog": "Gusto silang sabihan ng petsa ng mahirap na lalaki kapag nandun siya.",
+      "english": "The poor man wants to tell them a date while he is there.",
+      "required": true,
+      "audioPath": "9f767a39-f3a4-4f52-83b4-2a76148c8d63"
+    },
+    {
+      "tagalog": "Ayaw din nilang sumakay ng bus papunta sa eskwelahan.",
+      "english": "They do not want to ride a bus to school either (also).",
+      "required": true,
+      "audioPath": "397ea57a-61a0-4d2b-bbee-441ede9c70c6"
+    },
+    {
+      "tagalog": "Hindi ninyo kailangang taniman ng mga ito ang CR.",
+      "english": "You (pl.) do not need to plant these in the restroom.",
+      "required": true,
+      "audioPath": "0b333a61-a7b9-4ce2-a35b-262de4945b65"
+    },
+    {
+      "tagalog": "Gusto ba ni Analyng mamatay sa tabi ng pinto mo?",
+      "english": "Does Analyn want to die beside your door?",
+      "required": true,
+      "audioPath": "fca99558-1312-4e9b-96f3-46a996db7a10"
+    },
+    {
+      "tagalog": "Ayaw kong hanapin ang aso ni Jasmine sa labas.",
+      "english": "I do not want to look for Jasmine’s dog outside.",
+      "required": true,
+      "audioPath": "bbef5038-eeb9-472e-a06f-d5b82cb21f27"
+    },
+    {
+      "tagalog": "Hindi natin kailangang manalo ng pera sa loob ng kuwarto.",
+      "english": "We (incl.) do not need to win money inside the room.",
+      "required": true,
+      "audioPath": "e9a708af-7bbf-4ced-9023-2b9882e5c5ba"
+    },
+    {
+      "tagalog": "Gustong inumin ng estudyante ito dito, sa ibabaw ng bahay.",
+      "english": "The student wants to drink this here, above the house.",
+      "required": true,
+      "audioPath": "19a2238f-93f2-442b-878c-066d3e297143"
+    }
+  ]
+}

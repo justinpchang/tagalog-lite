@@ -1,0 +1,445 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson34",
+  "title": "Lesson 34 – When & If; Kailan, Nun, Kapag & Kung",
+  "vocabulary": [
+    {
+      "tagalog": "kailán",
+      "english": "when (question word)",
+      "required": true,
+      "audioPath": "aefd29f2-caa9-4141-a573-b3eb8804fa70"
+    },
+    {
+      "tagalog": "kapág",
+      "english": "when, while, during (non-past actions)",
+      "required": true,
+      "audioPath": "079e6f82-c4a8-4d53-b6b7-948cafaccd81"
+    },
+    {
+      "tagalog": "kung",
+      "english": "if, when, while, during (non-past actions)",
+      "required": true,
+      "audioPath": "049b81b7-f892-4fbf-95d3-fae67d867763"
+    },
+    {
+      "tagalog": "habang",
+      "english": "when, while, during",
+      "required": false,
+      "audioPath": "e5e5cb0d-e15e-4e04-afc3-547822b9d6a1"
+    },
+    {
+      "tagalog": "pag",
+      "english": "when, while, during (non-past actions)",
+      "required": false,
+      "audioPath": "788c5433-b995-430e-a851-89c8c97e6708"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "In this lesson we will cover “when” as a question word and as “during”. We will also talk a bit about “if”."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>When as a Question Word: Kailan</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Kailan_ is an interrogative, or question word, which is used to ask “when?”:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Kailan** + Phrase? (Tag) = When Phrase? (Eng)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kailan siya nag-aral?",
+        "english": "When did she study?",
+        "required": true,
+        "audioPath": "7f00341d-b079-4a16-b917-4776dbae9198"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kailan masaya si Jason?",
+        "english": "When is Jason happy?",
+        "required": true,
+        "audioPath": "1147e1cf-55d5-4828-b55c-163cca9af825"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kailan ka natutulog?",
+        "english": "When do you sleep?",
+        "required": true,
+        "audioPath": "66fcab58-6135-4279-b836-8557dc0b8d17"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>When as During</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "There are several words used for “when” as in “during”. We will discuss the most common ones. Here is a breakdown of how they are used:"
+    },
+    {
+      "type": "p",
+      "markdown": "nun past actions"
+    },
+    {
+      "type": "p",
+      "markdown": "kapag non-past actions"
+    },
+    {
+      "type": "p",
+      "markdown": "habang\tpast and non-past actions"
+    },
+    {
+      "type": "p",
+      "markdown": "kung non-past actions"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Nun</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As mentioned before, _nun_ is used for past actions:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Phrase + nung + phrase. (Tag) = Phrase during period. (Eng)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: _Nung_ is just _nun_+ linker. For past actions.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ni Joe ng pizza nung naglaro siya.",
+        "english": "Joe wanted pizza when he played.",
+        "required": true,
+        "audioPath": "08052c5f-21be-442f-a705-31d236971a60"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nasa Maynila siya nung bata pa siya.",
+        "english": "She was in Manila when she was still young.",
+        "required": true,
+        "audioPath": "38061c42-24cc-4765-81fc-d02482624d3b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tinanong ako ni Maria nung ginawa niya ang adobo.",
+        "english": "Maria asked me when she made the adobo.",
+        "required": true,
+        "audioPath": "1c4de26d-e7e5-4c89-b4a0-7fbbb547bc3f"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "As used above, _nung_ means “when”. Remember that _nung_+ adv is used for past actions, and roughly means “last”, “in” or “on”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Gusto ni Joe ng pizza nung Martes.",
+        "english": "Joe wanted pizza last Tuesday.",
+        "required": true,
+        "audioPath": "715a9bcd-32d9-408b-8e57-cd08a326de61"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pumunta si Jasmine sa Cebu nung 2001.",
+        "english": "Jasmine went to Cebu in 2001.",
+        "required": true,
+        "audioPath": "e1d0d2ef-bee3-4237-b211-19abef79056f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kinuha nila ang mga mangga nung ikatlo ng Marso.",
+        "english": "They got the mangoes on the 3rd of March.",
+        "required": true,
+        "audioPath": "f0f90e09-999f-4456-be25-bf093ff99f86"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Kapag</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Kapag_ has a less common short form _pag_, and is used with non-past actions."
+    },
+    {
+      "type": "h2",
+      "markdown": "Phrase + kapag + phrase. (Tag) = Phrase when phrase. (Eng)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: For non-past actions.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kakain ako kapag nasa sasakyan ako.",
+        "english": "I will eat when I am in the car.",
+        "required": true,
+        "audioPath": "9ad02061-837d-462e-986f-951eeb3a4010"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binubuksan ba ni Maria ang pinto kapag nag-aaral siya?",
+        "english": "Does Maria open the door when she studies?",
+        "required": true,
+        "audioPath": "ffb7d06c-da4a-42da-bfe7-c7e951c73d50"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda siya kapag natutulog siya.",
+        "english": "She is pretty when she sleeps.",
+        "required": true,
+        "audioPath": "7f3afc4e-8a76-4919-9f2c-87d46d01c434"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Habang</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Habang_ is used for both past and non-past actions."
+    },
+    {
+      "type": "p",
+      "markdown": "Phrase + habang + phrase. (Tag) = Phrase when phrase. (Eng)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kakain ako habang nasa sasakyan ako.",
+        "english": "I will eat when I am in the car.",
+        "required": true,
+        "audioPath": "2b68e7b2-cf1d-459b-8b3e-8cabf0fa4227"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda siya habang natutulog siya.",
+        "english": "She is pretty when she sleeps.",
+        "required": true,
+        "audioPath": "936aae75-e0af-4168-9c38-6a0d99b985dc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binigyan kita nito habang nasa Maynila siya.",
+        "english": "I gave it to you when he was in Manila.",
+        "required": true,
+        "audioPath": "366d0772-df1d-4000-9feb-3f9e4f41f56b"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "_Habang_ may seem easier because it works for all periods, and it is quite common. But _nun_ is a more common for past actions and _kapag_ is a more common for non-past actions, so we will not use _habang_ any more in this book."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Kung as If</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Kung_ is interchangeable with _kapag_, and they are both used for non-past actions. Both can also mean “if”, but it is more common to use _kung_ as “if” and _kapag_ as “during”, so that is how we will use them."
+    },
+    {
+      "type": "h2",
+      "markdown": "Phrase + kung + phrase. (Tag) = Phrase if phrase. (Eng)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: For non-past actions.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kakain ako kung nasa sasakyan ako.",
+        "english": "I will eat if I am in the car.",
+        "required": true,
+        "audioPath": "3684ca40-3bae-43d8-9471-44a36c4e65c1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binubuksan ba ni Maria ang pinto kung mag-aaral siya?",
+        "english": "Does Maria open the door if she were to study?",
+        "required": true,
+        "audioPath": "5578a7af-8ca0-4032-9134-c1c9cd62d2c0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Maganda siya kung natutulog siya.",
+        "english": "She is pretty if she sleeps.",
+        "required": true,
+        "audioPath": "1f25d681-08a8-4c5e-9e17-6545862322fd"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Kung + Question Word</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Sometimes we want to use a question word in a sentence, but the sentence is not a question. In these cases, put _kung_ before the question word."
+    },
+    {
+      "type": "h2",
+      "markdown": "Phrase + kung + question word + phrase. (Tag) = Phrase question word phrase. (Eng)"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagluto sila kung saan ako kumain ng pizza.",
+        "english": "They cooked where I ate pizza.",
+        "required": true,
+        "audioPath": "4befea21-5dfc-4bdd-9f55-f7f77c7a2aa8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Makikita ni Joe kung sino ang guro.",
+        "english": "Joe will see who the teacher is.",
+        "required": true,
+        "audioPath": "51d098ff-4521-467a-bf15-cd76b1e30f72"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binibiro niya ako kung magkano ang mga mangga.",
+        "english": "She is kidding me about how much the mangoes are.",
+        "required": true,
+        "audioPath": "bb040385-8804-4cca-80cd-de2d800a9224"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Phrase Order</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "As you will see later, _nun, kapag_ and _kung_(if) are actually conjunctions, or words that join two phrases. Like in English, the phrases can optionally be reversed, with the conjunction in front:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nung naglaro siya, gusto ni Joe ng pizza.",
+        "english": "When he played, Joe wanted pizza.",
+        "required": true,
+        "audioPath": "9dd42427-31b4-49d3-9586-c192c4d33cbe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kapag nasa sasakyan ako, kakain ako.",
+        "english": "When I am in the car, I will eat.",
+        "required": true,
+        "audioPath": "4cf48db3-9f79-4977-9ae8-6204e16669f3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kung natutulog siya, maganda siya.",
+        "english": "If she sleeps, she is pretty.",
+        "required": true,
+        "audioPath": "709a349d-b21a-45f6-9d10-c2f0a01f67f2"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Kailan mo masasabi sa kaniya ang totoo?",
+      "english": "When will you be able to tell her the truth?",
+      "required": true,
+      "audioPath": "ca1e6898-047f-4511-a41e-4a288291a449"
+    },
+    {
+      "tagalog": "Nung hinanap siya ni Joshua, wala siya sa bisikleta.",
+      "english": "When Joshua looked for her, she was not on the bicycle.",
+      "required": true,
+      "audioPath": "18896a33-8827-45ed-8152-f9cb8f085797"
+    },
+    {
+      "tagalog": "Iinumin ko lang ang tubig kung kakainin ko ang lechon.",
+      "english": "I will only drink the water if I eat the lechon.",
+      "required": true,
+      "audioPath": "37a5e284-4a5b-424c-bd5c-dc1ce990e70d"
+    },
+    {
+      "tagalog": "Masaya si Angel kapag sinasagot niya ang mga mahihirap na tanong.",
+      "english": "Angel is happy when she is answering the difficult questions.",
+      "required": true,
+      "audioPath": "fd7075bb-7764-469a-9917-6c095454161c"
+    },
+    {
+      "tagalog": "Tinatanong ka ni Maria kung ilang taon ka na.",
+      "english": "Maria is asking you how old you are.",
+      "required": true,
+      "audioPath": "578f63bb-2bdc-4bf4-895b-053671d204f8"
+    },
+    {
+      "tagalog": "Kailan niluto ng asawa mo ang pagkain?",
+      "english": "When did your wife cook the food?",
+      "required": true,
+      "audioPath": "516a7281-711e-40f8-b4d9-43b929a2d206"
+    },
+    {
+      "tagalog": "Kung hindi mo ako binibiro, sundin mo na ang pangulo.",
+      "english": "If you are not kidding me, obey the president already.",
+      "required": true,
+      "audioPath": "e97761c0-6c91-472a-a67b-b352ccd78762"
+    },
+    {
+      "tagalog": "Opo. Nandito po ang CR nung Marso, di ba?",
+      "english": "Yes. (resp.) The restroom was here in March, wasn't it? (resp.)",
+      "required": true,
+      "audioPath": "f8e30c13-befd-462a-b249-1d9bc752e14e"
+    },
+    {
+      "tagalog": "Nasaan ka kapag tatawagin mo ako nang alas-onse y medya ng gabi?",
+      "english": "Where will you be when you call out to me at 11:30pm?",
+      "required": true,
+      "audioPath": "1722810a-5979-44b8-a894-3c661a464134"
+    },
+    {
+      "tagalog": "Nagsabi si Diego kung magkano ang tsokolate.",
+      "english": "Diego said how much the chocolate was.",
+      "required": true,
+      "audioPath": "4c6b3fb4-ad75-47ee-8434-93dd94704269"
+    }
+  ]
+}

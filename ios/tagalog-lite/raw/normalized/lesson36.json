@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson36",
+  "title": "Lesson 36 - I- Verbs BF",
+  "vocabulary": [
+    {
+      "tagalog": "ihanap",
+      "english": "to look for something for someone (BF)",
+      "required": true,
+      "audioPath": "587f12b9-3081-4ce3-86a7-92a51aa75606"
+    },
+    {
+      "tagalog": "igawâ",
+      "english": "to make something for someone (BF)",
+      "required": true,
+      "audioPath": "a94fd53a-3cf0-4814-856b-045c3f4d7811"
+    },
+    {
+      "tagalog": "ikuha",
+      "english": "to get something for someone (BF)",
+      "required": true,
+      "audioPath": "bf455551-ae33-4a5f-8f7f-6286f943425f"
+    },
+    {
+      "tagalog": "ibilí",
+      "english": "to buy something for someone (BF)",
+      "required": true,
+      "audioPath": "c2e59d78-a5d5-41f1-b5ad-3751254e174e"
+    },
+    {
+      "tagalog": "ikopya",
+      "english": "to copy something for someone (BF)",
+      "required": true,
+      "audioPath": "8626ea92-dfd8-4099-8a69-4663bae0a5e9"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson covers BF _i_- verbs."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "They are used to perform an action for the benefit of someone."
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that the nuance of “for” is built into BF verbs, so there is no need to use _para_. Also, there is no annotation after BF because it is its own, unique variant/nuance."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are BF verbs, so as a reminder:"
+    },
+    {
+      "type": "p",
+      "markdown": "For BF verbs, X is the focus, and it is called the “benefactor”."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ihanap mo ng aso si Maria.",
+        "english": "Find a dog for Maria.",
+        "required": true,
+        "audioPath": "362d2ae5-7097-4b99-a538-3be261cb9bb6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Iginawa sila ni Jason ng lechon.",
+        "english": "Jason made them lechon.",
+        "required": true,
+        "audioPath": "aebed5b4-3524-4ecf-9b0e-31e695e0488c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikukuha ng guro ng mangga ang mga estudyante.",
+        "english": "The teacher will get mangoes for the students.",
+        "required": true,
+        "audioPath": "b5d5d3fe-277d-4f0e-b300-f329fbb5494d"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Sino ang inihahanap ni Maria ng pusa araw-araw?",
+      "english": "Who does Maria look for a cat for every day?",
+      "required": true,
+      "audioPath": "b5b02189-4caf-45db-80fc-2f9a5840f779"
+    },
+    {
+      "tagalog": "Kailan igagawa ni Sir Santos ng mga tanong ang mga estudyante?",
+      "english": "When will Mr. Santos make questions for the students?",
+      "required": true,
+      "audioPath": "0402ce3b-d23a-4101-900b-67d993602c17"
+    },
+    {
+      "tagalog": "Ikinuha kita non nung ibinigay mo sa akin ang ilaw.",
+      "english": "I got that for you when you gave me the light.",
+      "required": true,
+      "audioPath": "929d0409-bc35-4a1c-b186-15a1bc5441db"
+    },
+    {
+      "tagalog": "Taga-Parañaque ang ibibili natin nito ngayon.",
+      "english": "The one we (incl.) will buy this for today is from Parañaque.",
+      "required": true,
+      "audioPath": "c1c224bb-6351-420b-8fb0-3e595c46f849"
+    },
+    {
+      "tagalog": "Ikopya mo ng mga pangalan ng tindahan si Sir Bautista.",
+      "english": "Copy some store names for Mr. Bautista.",
+      "required": true,
+      "audioPath": "75aac56b-03ba-424e-82be-c13b723dc690"
+    },
+    {
+      "tagalog": "Inihanap po namin kayo ng manok nang apat na araw.",
+      "english": "We (excl.) searched for a chicken for you for four days. (resp.)",
+      "required": true,
+      "audioPath": "5d995ebf-6f38-4064-8948-f2a510824c58"
+    },
+    {
+      "tagalog": "Iginawa siya ni David ng tsokolateng inilagay sa kuwarto niya.",
+      "english": "David made her a chocolate that was put in her room.",
+      "required": true,
+      "audioPath": "028cdf4e-3d84-4de6-9247-91d4eeb7d384"
+    },
+    {
+      "tagalog": "Ikinukuha ni Diego ng Ingles na pangalan si Joe. Hindi ito mahirap.",
+      "english": "Diego is getting an English name for Joe. It is not hard.",
+      "required": true,
+      "audioPath": "c97fe320-7d35-4e17-9a86-d2ca6302519d"
+    },
+    {
+      "tagalog": "Ibili mo siya ng gusali, hindi lang CR!",
+      "english": "Buy her a building, not just a restroom!",
+      "required": true,
+      "audioPath": "fa346040-40fe-4995-8db1-2cf704f74c0b"
+    },
+    {
+      "tagalog": "Ikinopya namin ng mga tanong ang babaeng isinama mo, di ba?",
+      "english": "We (excl.) copied questions for the woman you took along, didn't we?",
+      "required": true,
+      "audioPath": "3f174252-122e-42fd-bcd5-195bb01db706"
+    }
+  ]
+}

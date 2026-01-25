@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson33",
+  "title": "Lesson 33 – More on the Linker",
+  "vocabulary": [
+    {
+      "tagalog": "gawín",
+      "english": "to do/make something (OF(O), root = gawa)",
+      "required": true,
+      "audioPath": "8576726a-53f8-4447-972e-b4df9e2da0ba"
+    },
+    {
+      "tagalog": "kunin",
+      "english": "to get/take something (OF(O), root = kuha)",
+      "required": true,
+      "audioPath": "ddc85fd3-12bc-4df0-8552-282bfc40935d"
+    },
+    {
+      "tagalog": "bilhín",
+      "english": "to buy something (OF(O), root = bili)",
+      "required": true,
+      "audioPath": "1a4d3dc8-2869-4e17-89f5-6d0ab3f8e9a2"
+    },
+    {
+      "tagalog": "mahirap",
+      "english": "poor; difficult (adj); poor person (noun)",
+      "required": true,
+      "audioPath": "7d24b259-0779-4122-ad71-47b5cd70337f"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "As you have seen, the linker can be used to join words, phrases or clauses. This lesson covers some of the most common word-linker-word combinations. Sometimes it is helpful to remember that the linker behaves like a relative pronoun."
+    },
+    {
+      "type": "p",
+      "markdown": "English grammar reminder: some examples of relative pronouns are “that” in \"the car \\*\\*that\\*\\* I bought\" and “who” in \"the girl \\*\\*who\\*\\* is beautiful\"."
+    },
+    {
+      "type": "p",
+      "markdown": "Below are some examples."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Word-Linker-Word Combinations you have Seen</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You have already seen these. The order can be reversed, but we will show only the ones used in this book."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Noun + Demonstrative Pronoun**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pagkaing ito",
+        "english": "this food",
+        "required": true,
+        "audioPath": "ac672275-e1e1-4c70-96db-c1825696d1d9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga inuming yun",
+        "english": "those drinks",
+        "required": true,
+        "audioPath": "6f5a3624-7ad7-4d79-9c00-180431c2e397"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "gusaling ito",
+        "english": "this building",
+        "required": true,
+        "audioPath": "a64002aa-4172-46a6-814f-873ab568f028"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Adj + Noun**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mga magagandang babae",
+        "english": "beautiful girls",
+        "required": true,
+        "audioPath": "c77a8b3a-4adb-4b71-83b8-55c9a5cd46cf"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mahirap na lalaki",
+        "english": "poor man",
+        "required": true,
+        "audioPath": "6301f818-1bab-48a9-a9bf-c7a42897d3c8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "masayang estudyante",
+        "english": "happy student",
+        "required": true,
+        "audioPath": "b14a5288-2b62-4a98-ad43-4dccfe642574"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Adj + Adj**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "murang puting sasakyan",
+        "english": "cheap, white car",
+        "required": true,
+        "audioPath": "303576f5-c997-4383-a31d-0560f26c8bfb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magandang masayang babae",
+        "english": "beautiful, happy woman",
+        "required": true,
+        "audioPath": "53f0b7af-cbe6-43ee-abde-33f40cfec231"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mahirap na pagod na pangulo",
+        "english": "poor, tired president",
+        "required": true,
+        "audioPath": "d9323d2b-061a-47f5-954c-2976f5b51262"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Adj + Verb Infinitive**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magandang magsabi",
+        "english": "It is good to tell the truth.",
+        "required": true,
+        "audioPath": "3b645918-bbc2-450d-9698-9173be2de3f9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "masarap magbisikleta",
+        "english": "satisfying to bicycle",
+        "required": true,
+        "audioPath": "8b8a51cf-6a52-40ad-995b-11e3b8d056b4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "magandang mag-aral",
+        "english": "good to study",
+        "required": true,
+        "audioPath": "ad022e55-ae03-4d4a-a059-7131c8b150fb"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Noun + Verb**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "lalaking nagmaneho",
+        "english": "the man who drove",
+        "required": true,
+        "audioPath": "d239b1d2-8275-47d2-aaca-33f4a40bd14f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sapatos na ginagawa",
+        "english": "shoes that are being made",
+        "required": true,
+        "audioPath": "0cde874f-7f32-460b-829d-9d19252d6352"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "babaeng bibigyan",
+        "english": "the woman who it will be given to",
+        "required": true,
+        "audioPath": "565501e5-e936-4f79-80e1-efff858e67f0"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Verb1 + Infinitive2</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You have not seen these yet, and their order cannot be reversed."
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Verb1\\*\\*+ linker + Infinitive2 + actor + object + X = Verb1 + Infinitive2 Sentence"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex1: Sinubukang kunin ng bata ang pera.",
+        "english": "The kid tried to take the money.",
+        "required": true,
+        "audioPath": "ab46e782-53a2-4cf3-aa83-9e1b79ad755b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex2: Saan siya matututong magbisikleta?",
+        "english": "Where will he learn to bicycle?",
+        "required": true,
+        "audioPath": "08362606-458f-4b50-9523-f8a13823b066"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ex3: Hinahayaang umalis ang aso.",
+        "english": "The dog is being allowed to leave.",
+        "required": true,
+        "audioPath": "f4ddae6e-8f3f-4e16-8ab9-6fad8baf4d36"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Only certain verb combinations will work here; let English be your guide. For example, “try to take” works in English, so it works in Tagalog. “Eat to take” does not work in English, so it does not work in Tagalog. However, be aware that there are some English combinations that do not work in Tagalog. For example “go to play” is fine in English, but does not work in Tagalog using the structure above. There are ways to say it, but they require different structures."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Susubukan ba niyang gawin ang ikapitong tanong?",
+      "english": "Will he try to create the seventh question?",
+      "required": true,
+      "audioPath": "720a58d0-82b4-41eb-966c-e30c196d9cbc"
+    },
+    {
+      "tagalog": "Hinayaang kumain si Joe ng mangga.",
+      "english": "Joe was allowed to eat a mango.",
+      "required": true,
+      "audioPath": "10bd3cf8-699c-4f25-ba4b-16fd8cca3594"
+    },
+    {
+      "tagalog": "Binili na po ng asawa ko ang mga mainit na inumin.",
+      "english": "My wife already bought the hot beverages. (resp.)",
+      "required": true,
+      "audioPath": "4b439f48-ee0e-4b19-ae2e-4eec6e59885e"
+    },
+    {
+      "tagalog": "Hindi mahirap matuto ng Ingles, no?",
+      "english": "It is not hard to learn English, is it?",
+      "required": true,
+      "audioPath": "f1876f3f-9db0-4b17-bd64-b69598de4020"
+    },
+    {
+      "tagalog": "Saan natututong magluto si Mrs. Cruz ng adobo?",
+      "english": "Where is Mrs. Cruz learning to cook adobo?",
+      "required": true,
+      "audioPath": "448fe199-ecf6-41cd-854f-66b9329cf55c"
+    },
+    {
+      "tagalog": "Ano ang naalala niyang gawin? Ang lechon?",
+      "english": "What did she remember to make? The lechon?",
+      "required": true,
+      "audioPath": "78635b40-e1c8-429c-bd6e-a7de93869c1a"
+    },
+    {
+      "tagalog": "Sisimulang kunin ni Analyn ang pera bukas.",
+      "english": "Analyn will begin to take the money tomorrow.",
+      "required": true,
+      "audioPath": "80f4ed8a-9185-486e-b168-aeffea83ffa4"
+    },
+    {
+      "tagalog": "Sinubukan na nilang bilhin ang tindahan nung taong dalawang libo’t pito.",
+      "english": "They already tried to buy the store in the year 2007.",
+      "required": true,
+      "audioPath": "f0f41c42-2cb2-416e-add4-6343ced4fdeb"
+    },
+    {
+      "tagalog": "Mahirap matulog sa CR, para sa akin.",
+      "english": "It is difficult to sleep in the restroom, for me.",
+      "required": true,
+      "audioPath": "78586db8-ba32-4e67-a2e4-b8761882a9fb"
+    },
+    {
+      "tagalog": "Tuturuang maglaro ang bata.",
+      "english": "The kid will be taught to play.",
+      "required": true,
+      "audioPath": "4cf5a955-103e-49eb-9fd2-2db76af5d3a5"
+    }
+  ]
+}

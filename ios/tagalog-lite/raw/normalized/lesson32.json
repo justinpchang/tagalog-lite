@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson32",
+  "title": "Lesson 32 - In verbs DF",
+  "vocabulary": [
+    {
+      "tagalog": "tanungín",
+      "english": "to ask someone (DF(D), root = tanong)",
+      "required": true,
+      "audioPath": "b72e80bb-1697-4690-b81b-d353a7fa0bdd"
+    },
+    {
+      "tagalog": "tawagin",
+      "english": "to be called something; to call out to someone (DF(D), root = tawag)",
+      "required": true,
+      "audioPath": "c18986ed-5240-4653-a7e3-b8314692e4df"
+    },
+    {
+      "tagalog": "biruin",
+      "english": "to kid/tease someone (DF(D), root = biro)",
+      "required": true,
+      "audioPath": "797d5d55-efd7-44b8-b56a-a5b03ec8c6a7"
+    },
+    {
+      "tagalog": "sagutín",
+      "english": "to answer something (DF(D), root = sagot)",
+      "required": true,
+      "audioPath": "586d773f-c5fd-4fd0-9f66-07e8c09e62a3"
+    },
+    {
+      "tagalog": "sundín",
+      "english": "to obey someone/something; follow instructions (DF(D), root = sunod)",
+      "required": true,
+      "audioPath": "62febe66-5eab-45ae-8a8d-59485324c75c"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This lesson covers DF -_in_ verbs."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of DF -in verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "They express a DF action with no additional nuances."
+    },
+    {
+      "type": "p",
+      "markdown": "They can be DF(D) or DF(DO), but DF(DO) are not very common so we will not cover them."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are DF(D) verbs, so as a reminder:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tinanong ni Maria si Joshua, di ba?",
+        "english": "Maria asked Joshua, didn’t she?",
+        "required": true,
+        "audioPath": "979ecdc7-fea6-4768-a6e2-8efac416c492"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tawagin mo ang mga anak natin.",
+        "english": "Call out to our (incl.) children.",
+        "required": true,
+        "audioPath": "e7ab8128-511b-425b-8754-fa7886f21202"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Binibiro lang kita.",
+        "english": "I am just kidding you.",
+        "required": true,
+        "audioPath": "c77bc97f-f308-4db7-83d9-1e6717a7a046"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "You might notice that -_in_ DF verbs form sentences that look and feel like OF verb sentences. Furthermore, the verbs themselves do not seem to have much of a direction or movement nuance to them. So why are they classified as DF instead of OF? It is because the AF verbs that they correspond to are AF(D), or in the words we used in the _mag_- verb lessons, they take _sa_. It is just a technicality really – if it helps you to think of these as OF, there is probably nothing wrong with that."
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Tanungin natin ang asawa ni Diego.",
+      "english": "Let's ask Diego's wife.",
+      "required": true,
+      "audioPath": "50113cdc-a2f1-47ee-9670-9cab70e1b343"
+    },
+    {
+      "tagalog": "Taga-Cebu ang tatawagin sa ikalawa ng Hunyo.",
+      "english": "The one who will be called on the 2nd of June is from Cebu.",
+      "required": true,
+      "audioPath": "abcb8895-c129-4dae-be42-528e22dbfbc9"
+    },
+    {
+      "tagalog": "Nandun ba ang CR? Binibiro mo ba ako?",
+      "english": "Is the restroom over there? Are you kidding me?",
+      "required": true,
+      "audioPath": "a4b9dde6-a5bd-45ef-9542-0f55120d2bec"
+    },
+    {
+      "tagalog": "Saan niya sasagutin ang mga tanong?",
+      "english": "Where will she answer the questions?",
+      "required": true,
+      "audioPath": "59d6c371-e712-4097-8765-ec93ddc98fbb"
+    },
+    {
+      "tagalog": "Sundin po ninyo ang guro araw-araw.",
+      "english": "(you pl.) Obey the teacher every day. (resp.)",
+      "required": true,
+      "audioPath": "941f7e67-475f-4245-90ea-8de69a34ddb8"
+    },
+    {
+      "tagalog": "Hindi kita tinanong, no?",
+      "english": "I did not ask you, did I?",
+      "required": true,
+      "audioPath": "dfbf07a5-3756-4d76-a809-c95ad3c301f3"
+    },
+    {
+      "tagalog": "Gusto ko ang mga mabibilis na puting asong tinatawag nila.",
+      "english": "I like the fast white dogs they are calling.",
+      "required": true,
+      "audioPath": "db3949cf-dbdf-4d52-b50e-f8861a3142d7"
+    },
+    {
+      "tagalog": "Oo naman! Bibiruin ka lang niya tungkol sa murang pinto ng bahay mo.",
+      "english": "Yeah, for sure! He will only kid you about your house's cheap door.",
+      "required": true,
+      "audioPath": "51516195-e8d0-4528-aec0-12f5cd7b5ef2"
+    },
+    {
+      "tagalog": "Magandang sagutin sa eskwelahan ang mga tanong.",
+      "english": "It is good to answer the questions in school.",
+      "required": true,
+      "audioPath": "3f399baf-9d09-498b-ba8b-ff136b707b67"
+    },
+    {
+      "tagalog": "Sinunod nito si Joaquin nang isa't kalahating araw.",
+      "english": "It obeyed Joaquin for one and a half days.",
+      "required": true,
+      "audioPath": "bbcf0b7c-4d8b-4741-8ed9-903a9b150e29"
+    }
+  ]
+}

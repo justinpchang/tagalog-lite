@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson27",
+  "title": "Lesson 27 - Ma- Verbs AF",
+  "vocabulary": [
+    {
+      "tagalog": "matuto",
+      "english": "to learn (AF(O))",
+      "required": true,
+      "audioPath": "cffa2690-6a5c-44d9-95db-54dc6a60279a"
+    },
+    {
+      "tagalog": "manalo",
+      "english": "to win (AF(O))",
+      "required": true,
+      "audioPath": "5bc46359-79e4-4664-b3e2-93c3aab542e9"
+    },
+    {
+      "tagalog": "matulog",
+      "english": "to sleep (AF(I))",
+      "required": true,
+      "audioPath": "b164be03-15c8-4ec0-b863-c5b396b204a0"
+    },
+    {
+      "tagalog": "mamatáy",
+      "english": "to die (AF(I))",
+      "required": true,
+      "audioPath": "001ff218-6a86-433d-92c9-4bb91262d596"
+    },
+    {
+      "tagalog": "mapuntá",
+      "english": "to end up (AF(D))",
+      "required": true,
+      "audioPath": "76719277-9e48-4448-9032-7b61a86dd81f"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "_Ma_- verbs, another of the big six, are possibly the most common of all verb types in colloquial speech. They are usually AF or OF. A few are DF and a few are both AF and OF, but we will not cover those for simplicity. Other than discussing formation and aspect, which apply to all _ma_- verbs, this lesson will cover AF _ma_- verbs. The next lesson will cover OF _ma_- verbs."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Traits of AF ma- verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "They form AF sentences, with possible variants of AF(O), AF(D) and AF(I)."
+    },
+    {
+      "type": "p",
+      "markdown": "AF(I) verb actors are experiencers, and the verbs may express experiencing an emotion or something unintentionally."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Infinitive for all Ma- Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ma-_ verbs are formed by adding _ma_- to the root:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: ma + tuto => matuto to learn"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: ma + tulog => matulog to sleep"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: ma + matay => mamatáy\tto die"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Aspect for all Ma- Verbs</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ma_- verbs follow the same aspect and stress patterns as _mag_- verbs."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: matuto = to learn"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "aspects",
+        "english": "natuto, natututo, matututo",
+        "required": true,
+        "audioPath": "a5fd8b98-37f1-4e0b-84c2-2950b7e3b649"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: matulog = to sleep"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "aspects",
+        "english": "natulog, natutulog, matutulog",
+        "required": true,
+        "audioPath": "3a0f2429-d558-4397-84f7-260fb5d40d97"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: mamatáy = to die"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "aspects",
+        "english": "namatáy, namámatáy, mamámatáy",
+        "required": true,
+        "audioPath": "0e6d36ae-8581-4149-92fa-f01cf90bf77e"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Standard Sentence</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "These are AF verbs, so as a reminder:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Matuto ka ng Ingles!",
+        "english": "Learn English!",
+        "required": true,
+        "audioPath": "a56bb4bd-0b1d-4463-9e4e-428d9916c5f2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nanalo lang si Joe ng piso.",
+        "english": "Joe only won a peso.",
+        "required": true,
+        "audioPath": "9c3cfd2b-3b4b-4367-8dec-1972aaa9ea61"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Natutulog ang aso sa kuwarto ko.",
+        "english": "The dog is sleeping in my room.",
+        "required": true,
+        "audioPath": "dbf02fd2-1730-4463-9d93-908bc35fbdd8"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Magandang matuto ng Ingles.",
+      "english": "It is good to learn English.",
+      "required": true,
+      "audioPath": "6cb0d1cd-2580-4f24-b916-bf06e725642f"
+    },
+    {
+      "tagalog": "Sino ang nanalo ng lechon sa tindahan kahapon?",
+      "english": "Who won a roasted pig at the store yesterday?",
+      "required": true,
+      "audioPath": "753e97f6-c2c6-4a70-be9b-4618ddb70cab"
+    },
+    {
+      "tagalog": "Natutulog ang pusa sa kuwarto nina Angel at Maria.",
+      "english": "The cat is sleeping in Angel and Maria's room.",
+      "required": true,
+      "audioPath": "7210a403-5876-4fa1-988f-180992105e0d"
+    },
+    {
+      "tagalog": "Hindi mamamatay si nanay, no?",
+      "english": "Mother will not die, will she?",
+      "required": true,
+      "audioPath": "cbe4c5b3-2b14-48e6-84c3-e26638f371c5"
+    },
+    {
+      "tagalog": "Mapupunta ba sa kalsada ang aso?",
+      "english": "Will the dog end up in the street?",
+      "required": true,
+      "audioPath": "aa2a5727-df3c-478e-a84e-fe90105987d3"
+    },
+    {
+      "tagalog": "Ano ang pangalan ng sikat na babaeng natuto ng Tagalog para sa iyo?",
+      "english": "What is the name of the famous woman who learned Tagalog for you?",
+      "required": true,
+      "audioPath": "b2b47246-97ee-4fc2-abad-b25b91b3b320"
+    },
+    {
+      "tagalog": "Manalo po kayo ng isang libong piso para sa atin.",
+      "english": "Win us (incl.) one thousand pesos. (resp.)",
+      "required": true,
+      "audioPath": "832e04fa-08b4-4b2e-86c3-b6a7ff09f150"
+    },
+    {
+      "tagalog": "Hindi natutulog ang mga mangga.",
+      "english": "The mangoes do not sleep.",
+      "required": true,
+      "audioPath": "94fc3668-d6ee-469d-8664-c7d5eb78b0e1"
+    },
+    {
+      "tagalog": "Namatay din ang nagmaneho ng mabilis na sasakyan.",
+      "english": "The one who drove a fast car also died.",
+      "required": true,
+      "audioPath": "6ebf96ba-df73-485a-a860-e5c31cdcb07a"
+    },
+    {
+      "tagalog": "Ano ang napunta sa bahay nung ikawalo ng Disyembre?",
+      "english": "What ended up in the house on the 8th of December?",
+      "required": true,
+      "audioPath": "39f10748-c59a-4a76-9ef0-2823c1483942"
+    }
+  ]
+}

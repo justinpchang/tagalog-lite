@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson38",
+  "title": "Lesson 38 - Ay Sentences",
+  "vocabulary": [
+    {
+      "tagalog": "ay",
+      "english": "inversion marker",
+      "required": true,
+      "audioPath": "3c9ea32a-174b-4b69-a221-8a1e7f9e642c"
+    },
+    {
+      "tagalog": "ikáw",
+      "english": "you (ang-form, singular, at start of phrase)",
+      "required": true,
+      "audioPath": "67874698-f93c-4145-808d-721e8b8baef8"
+    },
+    {
+      "tagalog": "hálo-halò",
+      "english": "Philippine shaved ice desert",
+      "required": true,
+      "audioPath": "cd38ecad-6e11-4d26-8c72-142255756424"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "If you do not know it already, please go to **Appendix A** and memorize ang form pronoun _ikaw_ before attempting this lesson."
+    },
+    {
+      "type": "p",
+      "markdown": "Here is a standard sentence:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Kumain si David ng halo-halo.",
+        "english": "David ate halo-halo.",
+        "required": true,
+        "audioPath": "ae0d849c-0fce-4ffc-81c2-613ac479ecdb"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "The focus is David. David is in the middle of the Tagalog sentence, which is normal. But it is also possible to express the same thing by “inverting” the sentence to make the focus come first. This lesson is about sentences created using the _ay_ inversion, which I call _ay_ sentences for short. They may sound a bit bookish or formal to native speakers, but they are not uncommon."
+    },
+    {
+      "type": "p",
+      "markdown": "Warning – Your goal should be to recognize and understand these when you encounter them, but I recommend that you do not use these in colloquial speech for the time being. You will not be wrong or misunderstood if you do, but you will not be talking like a native if you frequently use these. And because native English speakers often find these easier to produce due to their English-like subject-predicate structure, there is a great temptation to do just that. So, to discourage that habit I will limit their use to this lesson."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Formation</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ay_ sentences are formed the same as non-_ay_ sentences, except you put the focus first, followed by _ay_, then the remainder of the sentence:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Ay Sentence. = Focus + ay + (sentence without focus)."
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Notes: Remember focus always takes _ang_ form.\\*\\*"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Word Order Similar to English </u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Subject is Predicate Ex: Pagkain ang adobo.",
+        "english": "Adobo is food.",
+        "required": true,
+        "audioPath": "d494f5af-ebc7-4b9a-bb7e-6543e41e35ce"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ang adobo ay pagkain.",
+        "english": "Adobo is food.",
+        "required": true,
+        "audioPath": "2d00ef14-097d-49df-998d-701802eb1d52"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Subject is Adjective Ex: Puti ang mga sasakyan.",
+        "english": "The cars are white.",
+        "required": true,
+        "audioPath": "0ae205df-45f7-4901-a416-6d0e98bc88a1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ang mga sasakyan ay puti.",
+        "english": "The cars are white.",
+        "required": true,
+        "audioPath": "f1e8ffd1-d6d5-4850-9980-9c69a3ebc329"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "To Like a Noun in General Ex: Mahilig sila sa tsokolate.",
+        "english": "They like chocolate.",
+        "required": true,
+        "audioPath": "22e4d262-dde8-448b-87ba-389cd2ab01e0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Sila ay mahilig sa tsokolate.",
+        "english": "They like chocolate.",
+        "required": true,
+        "audioPath": "323273e2-fb7e-4af2-aef0-f59e54fdcab4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "AF Standard Sentence Ex: Kumain si David ng halo-halo.",
+        "english": "David ate halo-halo.",
+        "required": true,
+        "audioPath": "7d7709e8-98df-467f-b121-8aed09e98ba9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Si David ay kumain ng halo-halo.",
+        "english": "David ate halo-halo.",
+        "required": true,
+        "audioPath": "20349bc0-edfc-4804-a66f-e97706efc93f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Neg AF Standard Sentence Ex: Hindi kumain si David ng halo-halo.",
+        "english": "David did not eat halo-halo.",
+        "required": true,
+        "audioPath": "1a63225e-556a-4eb9-9077-2c82b6e2ccbe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Si David ay hindi kumain ng halo-halo.",
+        "english": "David did not eat halo-halo.",
+        "required": true,
+        "audioPath": "1cb43c1e-bbd3-46ae-b32c-5c50a907dd00"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "These are structures that you have already learned, inverted with _ay_. Notice that, except for the _ay_, the _ay_ sentence word order is the same as English. That is why they are tempting to use for native English speakers. However, in addition to not being as common, many _ay_ structures do not use English word order:"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Word Order Not Similar to English </u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "OF Standard Sentence Ex: Gagawin niya ang adobo.",
+        "english": "She will make the adobo.",
+        "required": true,
+        "audioPath": "65e76492-85cc-467f-b88b-1d5b84f45255"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ang adobo ay gagawin niya.",
+        "english": "She will make the adobo.",
+        "required": true,
+        "audioPath": "73846709-15f1-472a-a6a3-492b9255ead8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "IOF Standard Sentence Ex: Binibigyan ni Angel ng mangga ang guro.",
+        "english": "Angel is giving the teacher a mango.",
+        "required": true,
+        "audioPath": "ee4967cf-5732-49a2-89a1-08ced861e707"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ang guro ay binibigyan ni Angel ng mangga.",
+        "english": "Angel is giving the teacher a mango.",
+        "required": true,
+        "audioPath": "fa3e6798-7ce1-401b-b874-9651a89cb1be"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Neg OF Standard Sentence Ex: Hindi niya gagawin ang adobo.",
+        "english": "She will not make the adobo.",
+        "required": true,
+        "audioPath": "c6c86b58-ffb7-4c0d-9c65-6fa6c6905747"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ang adobo ay hindi niya gagawin.",
+        "english": "She will not make the adobo.",
+        "required": true,
+        "audioPath": "dc3511b9-f5a6-402b-b819-2eff2b58b1ce"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Neg IOF Standard Sentence Ex: Hindi binibigyan ni Angel ng mangga ang guro.",
+        "english": "Angel is not giving the teacher a mango.",
+        "required": true,
+        "audioPath": "8ab61da1-2e43-4906-9439-c063d1334092"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ex: Ang guro ay hindi binibigyan ni Angel ng mangga.",
+        "english": "Angel is not giving the teacher a mango.",
+        "required": true,
+        "audioPath": "98b431cd-5cb8-4663-939b-6f636d7dce3d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "To Want/Like a Specific Object Ex: Gusto ni Joe ang bahay na yun.",
+        "english": "Joe wants/likes that house.",
+        "required": true,
+        "audioPath": "db214c5e-91f9-423a-aed7-c23b36a62b31"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ang bahay na yun ay gusto ni Joe.",
+        "english": "Joe wants/likes that house.",
+        "required": true,
+        "audioPath": "589259c5-71f9-41da-b6ec-0356d3b8e3cb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Who is Verb Sentence Ex: Sino ang nagluto ng adobo?",
+        "english": "Who cooked adobo?",
+        "required": true,
+        "audioPath": "3fb40ca6-cc20-4bab-9ee9-bec4384f8eb8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ang nagluto ng adobo ay sino?",
+        "english": "Who cooked adobo?",
+        "required": true,
+        "audioPath": "21aaa926-d066-4cde-9d95-82e908ef4120"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "What is Verb Sentence Ex: Ano ang hahanapin ni Joshua?",
+        "english": "What will Joshua search for?",
+        "required": true,
+        "audioPath": "6e761f53-a938-4966-95a0-be73d80d475c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ay sentence: Ang hahanapin ni Joshua ay ano?",
+        "english": "What will Joshua search for?",
+        "required": true,
+        "audioPath": "447d0241-e900-419f-986c-66e57357fee5"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Although this is just a sample of _ay_ sentences, it should be enough so that when you hear new ones in the wild you will be able to understand them."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ikaw is used instead of ka at the beginning of sentences.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ikaw_ is the singular ang form of “you” which must be used at the beginning of _ay_-sentences."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikaw po ay maganda.",
+        "english": "You are beautiful. (resp.)",
+        "required": true,
+        "audioPath": "8bc933e8-4002-48e5-bb67-7e3b03a447bb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikaw ba ay mahilig sa adobo?",
+        "english": "Do you like adobo?",
+        "required": true,
+        "audioPath": "ba0c318f-8cd2-4a41-8c73-38b7ad422ccb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ikaw ay kumain ng halo-halo ko!",
+        "english": "You ate my halo-halo!",
+        "required": true,
+        "audioPath": "e8276e36-85a1-43d6-b9e3-e5b5bc03ae42"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that _ikaw_ is a host, but not enclitic itself."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>The contracted form of ay is ’y </u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Normally, you can contract ay to _’y _if the preceding word ends in a vowel,_ n _or_ w _(_’y _replaces the_ n _or_ w_)."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Ang babae ay maganda.",
+        "english": "Ang babae’y maganda.",
+        "required": true,
+        "audioPath": "ea40e104-2682-4899-9cac-4d340662ef40"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ikaw rin ba ay mahilig sa halo-halo?",
+      "english": "Do you also like halo-halo?",
+      "required": true,
+      "audioPath": "7c6df65a-72d7-4576-a044-7103af84a73f"
+    },
+    {
+      "tagalog": "Si Jessica ay hindi magbibigay ng mga baso sa kanila bukas.",
+      "english": "Jessica will not give them glasses tomorrow.",
+      "required": true,
+      "audioPath": "67f4e86c-852a-4fee-b4a8-d24ffb3dd043"
+    },
+    {
+      "tagalog": "Ang mga bata ay hahayaang bumili ng halo-halo sa labas.",
+      "english": "The kids will be allowed to buy halo-halo outside.",
+      "required": true,
+      "audioPath": "d1fcee2b-7274-4660-b8b1-66db07dfae2a"
+    },
+    {
+      "tagalog": "Siya ay inabangan ni David nang maraming beses.",
+      "english": "David watched out for her many times.",
+      "required": true,
+      "audioPath": "804b8148-5c5d-4e49-a1aa-737145d10522"
+    },
+    {
+      "tagalog": "Ikaw ay binibigyan ko ng apat na oras sa hapon.",
+      "english": "I’m giving you four hours in the afternoon.",
+      "required": true,
+      "audioPath": "b44e32a4-6dd9-4bca-a58b-6273ed48d8ef"
+    },
+    {
+      "tagalog": "Ang manggang nasa ibabaw ng kalsada ay tinitingnan ni Joshua ngayon.",
+      "english": "Joshua is looking at the mango that is above the street now",
+      "required": true,
+      "audioPath": "4510fbc7-df5e-4f77-8100-20763627e25c"
+    },
+    {
+      "tagalog": "Ang lamesa ay nilagyan ni Mrs. Castillo nito nang alas-siyete ng umaga.",
+      "english": "Mrs. Castillo put this on the table at 7am.",
+      "required": true,
+      "audioPath": "018f4bea-1516-4c38-8199-502b9e5d75cd"
+    },
+    {
+      "tagalog": "Ang guro ng asawa ng anak mo ay sino?",
+      "english": "Who is your son's wife's teacher?",
+      "required": true,
+      "audioPath": "f52f559c-2c64-4b8a-b7e0-b6aa84b7dfb9"
+    },
+    {
+      "tagalog": "Ikaw ay ikinopya ko nito sa loob.",
+      "english": "I copied this for you inside.",
+      "required": true,
+      "audioPath": "95958bff-4f02-4a43-8723-d79fae9092d0"
+    },
+    {
+      "tagalog": "Ang petsa ngayon ay ano?",
+      "english": "What is the date today?",
+      "required": true,
+      "audioPath": "f6f4b7fc-cde3-41c8-9e0e-861c2b18e5bc"
+    }
+  ]
+}

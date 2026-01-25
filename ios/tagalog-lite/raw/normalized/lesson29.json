@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson29",
+  "title": "Lesson 29 - Nasaan & Taga Saan; Where Noun & From Where",
+  "vocabulary": [
+    {
+      "tagalog": "násaán",
+      "english": "where (used with nouns)",
+      "required": true,
+      "audioPath": "8ebdb8ab-8a18-4fb3-89fb-231c82b93458"
+    },
+    {
+      "tagalog": "nasa",
+      "english": "at",
+      "required": true,
+      "audioPath": "628e1de5-9bbc-49b6-a41c-7de2863c71ff"
+    },
+    {
+      "tagalog": "tagá-",
+      "english": "prefix meaning “from”",
+      "required": true,
+      "audioPath": "729a81ed-a3ab-41de-b551-c6c2f615c61b"
+    },
+    {
+      "tagalog": "tagasaán",
+      "english": "from where",
+      "required": true,
+      "audioPath": "f20baa9b-d0ad-4034-b17e-e2297c57ebe5"
+    },
+    {
+      "tagalog": "nandito",
+      "english": "nasa-form of dito; this/here",
+      "required": true,
+      "audioPath": "036fc6cd-1661-4f41-9e41-881348f293da"
+    },
+    {
+      "tagalog": "nandún",
+      "english": "nasa-form of dun; that/there",
+      "required": true,
+      "audioPath": "2e12b886-24ea-49f3-8181-6d5f4d0d9aff"
+    },
+    {
+      "tagalog": "nandiyán",
+      "english": "nasa-form of diyan; that/there (near listener)",
+      "required": false,
+      "audioPath": "1a18033b-c9eb-423b-83ef-9a0d90475d0e"
+    },
+    {
+      "tagalog": "nandoón",
+      "english": "nasa-form of doon; that/there (far from speaker and listener)",
+      "required": false,
+      "audioPath": "8d738965-b2cb-46de-a7d6-61eeb3cbeb98"
+    },
+    {
+      "tagalog": "naritó",
+      "english": "nasa-form of rito; this/here (near speaker)",
+      "required": false,
+      "audioPath": "b72900ec-602f-47ef-908f-f40b553dc24a"
+    },
+    {
+      "tagalog": "nariyán",
+      "english": "nasa-form of riyan; that/there (near listener)",
+      "required": false,
+      "audioPath": "3cfb4df0-07ba-4639-a1da-7218bc6eae4a"
+    },
+    {
+      "tagalog": "naroón",
+      "english": "nasa-form of roon; that/there (far from speaker and listener)",
+      "required": false,
+      "audioPath": "d86d5368-e72c-4055-bac3-cc0569f5db36"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "There are two words for “where” in Tagalog: one used with nouns, and one used with verbs. This lesson deals with nouns, and the next with verbs. In this lesson you will learn how to ask where something is and where someone is from."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Nasaan: Where + noun?</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To ask where a noun is:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Nasaan** + noun. (Tag.) = Where is noun? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q: Nasaan ang sasakyan mo?",
+        "english": "Where is your car?",
+        "required": true,
+        "audioPath": "cd5f33fe-de75-4315-bb81-398245e4685b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q: Nasaan si Angel?",
+        "english": "Where is Angel?",
+        "required": true,
+        "audioPath": "089075b9-8da2-43bc-9a9a-3f61558eda76"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q: Nasaan sila?",
+        "english": "Where are they?",
+        "required": true,
+        "audioPath": "128703a9-a53c-4f55-861d-9bbe62366264"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For a positive answer:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Na + \\*\\*location\\*\\*+ noun. (Tag.) = Noun is at location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Location takes _sa_ form, noun takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nasa kalsada ang sasakyan ko.",
+        "english": "My car is in the street. Notice that it is not na sa, but nasa.",
+        "required": true,
+        "audioPath": "0c3bdfd7-0681-467f-a625-99f47563b4f4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Na kay Maria si Angel.",
+        "english": "Angel is with Maria. Note that na kay Maria can also be interpreted as “in the possession of Maria” when talking about an object, so watch the context.",
+        "required": true,
+        "audioPath": "359e9439-642c-44d2-b002-ff263f9cbef3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nandito sila.",
+        "english": "They are here.",
+        "required": true,
+        "audioPath": "e7dcf619-acc3-4487-b15d-15ba40159555"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Note that it is not _na dito_, but _na**n\\*\\*dito_. _Narito_ is also possible, but we will not use it from here on to be consistent. As stated in\\*\\* Appendix A**, we are using _dun_ instead of _diyan/diyon_, so to be consistent we are using _nandun_ instead of _nandiyan/nandoon/nariyan/naroon_."
+    },
+    {
+      "type": "p",
+      "markdown": "For a negative answer, you use _wala_, not _hindi_:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Wala\\*\\*+ location + noun. (Tag.) = Noun is not at location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Location takes _sa_ form, noun takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Wala sa kalsada ang sasakyan ko.",
+        "english": "My car is not in the street.",
+        "required": true,
+        "audioPath": "20a30d69-fb52-4a01-ad97-ed5d2b366dc6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Wala kay Maria si Angel.",
+        "english": "Angel is not with Maria.",
+        "required": true,
+        "audioPath": "4dd26eb6-0154-4032-9bac-9eb63833a9c1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Wala sila dito.",
+        "english": "They are not here.",
+        "required": true,
+        "audioPath": "1be1c9b8-62c0-4251-9d4f-ec180d6f7116"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Tagasaan: Where From?</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "To ask where someone is from:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Tagasaan\\*\\*+ person? (Tag.) = Where is person from? (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Person takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q: Tagasaan ka?",
+        "english": "Where are you from?",
+        "required": true,
+        "audioPath": "3cfe7e5f-a578-480d-8ae0-4d0abea6221a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q: Tagasaan ang guro mo?",
+        "english": "Where is your teacher from?",
+        "required": true,
+        "audioPath": "c97c2dc3-3220-4ae8-ab13-c71ac1a71559"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Q: Tagasaan sina Joshua at Mark?",
+        "english": "Where are Joshua and Mark from?",
+        "required": true,
+        "audioPath": "0b912ffc-5e6e-4b15-9475-9954dd5bcc4a"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For a positive answer:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**Taga-location** + person. (Tag.) = Person is from location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Person takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Taga-Seattle ako.",
+        "english": "I am from Seattle.",
+        "required": true,
+        "audioPath": "0ab9a493-448e-4437-b8dd-ed7703008e40"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Taga-Maynila ang guro.",
+        "english": "The teacher is from Manila.",
+        "required": true,
+        "audioPath": "7d1c1cb7-c6e2-4684-a783-27f83a0b6078"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Taga-Pilipinas sina Joshua at Mark.",
+        "english": "Joshua and Mark are from the Philippines.",
+        "required": true,
+        "audioPath": "bf66bc0d-021d-4b19-861b-9d19cb2c1f29"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For a negative answer, you use _hindi_:"
+    },
+    {
+      "type": "h2",
+      "markdown": "\\*\\*Hindi\\*\\*+ taga-location + person. (Tag.) = Person is not from location. (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Person takes _ang_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi ako taga-Seattle.",
+        "english": "I am not from Seattle.",
+        "required": true,
+        "audioPath": "7a0c8d0c-14c9-415c-9a8f-6cab99d3e1f1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi taga-Maynila ang guro.",
+        "english": "The teacher is not from Manila.",
+        "required": true,
+        "audioPath": "e6392232-0461-4381-9c7e-d8145f422eac"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hindi taga-Pilipinas sina Joshua at Mark.",
+        "english": "Joshua and Mark are not from the Philippines.",
+        "required": true,
+        "audioPath": "ed76c61c-60a2-4478-86fe-7bcf7bad6b30"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Nasa tindahan ang pusa niya nang sampung segundo.",
+      "english": "Her cat was in the store for 10 seconds.",
+      "required": true,
+      "audioPath": "9c77e4ba-45ec-4694-829c-8c79c4f250a4"
+    },
+    {
+      "tagalog": "Nasaan ang lalaking nanalo ng pera?",
+      "english": "Where is the man who won money?",
+      "required": true,
+      "audioPath": "46d5004e-5ed9-4bcb-852c-55a8d36d204b"
+    },
+    {
+      "tagalog": "Nandito na ang pera niya, di ba?",
+      "english": "His money is already here, isn't it?",
+      "required": true,
+      "audioPath": "e31e1fa0-05d9-4591-bd8d-c18bf0e244cf"
+    },
+    {
+      "tagalog": "Nandun ang limang ilaw para sa kanila.",
+      "english": "Over there are the five lights for them.",
+      "required": true,
+      "audioPath": "301617a5-f367-4074-bb9a-ef7e8ff4e022"
+    },
+    {
+      "tagalog": "Wala kina Joshua at Mark ang puti mong aso.",
+      "english": "Your white dog is not with Joshua and Mark.",
+      "required": true,
+      "audioPath": "16aa3784-26fa-4810-bac2-60387329803c"
+    },
+    {
+      "tagalog": "Tagasaan si Analyn?",
+      "english": "Where is Analyn from?",
+      "required": true,
+      "audioPath": "25309139-a8dc-496a-8d86-04f233fdcc15"
+    },
+    {
+      "tagalog": "Taga-Pilipinas siya.",
+      "english": "She is from the Philippines.",
+      "required": true,
+      "audioPath": "8f3ea5c6-7a94-42f0-b5a4-5ad57b8fee89"
+    },
+    {
+      "tagalog": "Hindi siya taga-Seattle.",
+      "english": "She is not from Seattle.",
+      "required": true,
+      "audioPath": "cf26c83f-158b-41bd-b5b9-b4b011199858"
+    },
+    {
+      "tagalog": "Nasaan ang mga makukuha mo nang mga alas-otso ng gabi?",
+      "english": "Where are the ones you will be able to take around 8pm?",
+      "required": true,
+      "audioPath": "094e0883-e681-401b-9841-fa09bac50bf3"
+    },
+    {
+      "tagalog": "Na kay Maria ang mga manggang naiisip ko.",
+      "english": "The mangoes that I am thinking about are with Maria.",
+      "required": true,
+      "audioPath": "3ac9c284-99c6-4752-8064-9cd31c8b64d9"
+    }
+  ]
+}

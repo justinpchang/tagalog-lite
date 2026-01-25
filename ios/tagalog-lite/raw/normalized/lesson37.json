@@ -1,0 +1,354 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson37",
+  "title": "Lesson 37 - More Uses for Sa, Adjective Phrases",
+  "vocabulary": [
+    {
+      "tagalog": "sa",
+      "english": "for, at, on, in, to, etc.",
+      "required": false,
+      "audioPath": "ff19295d-8082-45c2-810f-9cc59fd9ab4d"
+    },
+    {
+      "tagalog": "sa loób",
+      "english": "inside",
+      "required": true,
+      "audioPath": "d93f2493-e64e-4e72-976e-63d4e588b641"
+    },
+    {
+      "tagalog": "sa ilalim",
+      "english": "under",
+      "required": true,
+      "audioPath": "10e589fc-cbbb-49a3-a5c5-ad6c5c340ca0"
+    },
+    {
+      "tagalog": "sa labás",
+      "english": "outside",
+      "required": true,
+      "audioPath": "ade103c7-3768-4713-b94c-0ebc03aa5acf"
+    },
+    {
+      "tagalog": "sa tabí",
+      "english": "beside",
+      "required": true,
+      "audioPath": "959386a9-434d-4fd8-b99d-e8df22e9c8dc"
+    },
+    {
+      "tagalog": "sa ibabaw",
+      "english": "above; on top of",
+      "required": true,
+      "audioPath": "64d26b0a-1cc4-4776-93f7-89932782b1fe"
+    }
+  ],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "_Sa_ is a very versatile word in Tagalog. This lesson is to give you some practice with _sa_ by itself and as a compound preposition. Adjective phrases will also be covered."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sa by Itself</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Here are some uses you have already seen for _sa_ by itself. Notice how many English prepositions it is equivalent to."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa mga bata",
+        "english": "for the children",
+        "required": true,
+        "audioPath": "a4fd7d98-17c8-43ab-87b4-b43f652142aa"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa bahay",
+        "english": "at home",
+        "required": true,
+        "audioPath": "bc8fb4dd-664d-46bc-a72b-f191bca77f24"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa Biyernes",
+        "english": "on Friday.",
+        "required": true,
+        "audioPath": "17a165d2-6d80-4e19-b570-820ea5810dcc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Tuturuan niya kami sa kuwarto namin.",
+        "english": "She will teach us in our room.",
+        "required": true,
+        "audioPath": "3937d486-9931-4c61-95a9-458277ab86b9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nagbisikleta si Maria papunta sa eskwelahan.",
+        "english": "Maria cycled to the school.",
+        "required": true,
+        "audioPath": "8ca3f278-c06d-4e4e-a0bd-1d54ae21c452"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sa Compound Prepositions</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "_Sa_ can be combined with certain nouns to make compound prepositions."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: sa + loob (interior) = sa loob = inside"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: sa + ilalim (bottom) = sa ilalim = under"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: sa + labas (exterior) = sa labas = outside"
+    },
+    {
+      "type": "p",
+      "markdown": "These can also be used with nouns:"
+    },
+    {
+      "type": "h2",
+      "markdown": "**sa compound preposition** + noun (Tag.) = preposition noun (Eng.)"
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun takes _ng_ form.**"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa loob ng bahay",
+        "english": "inside the house",
+        "required": true,
+        "audioPath": "1cfc320b-9103-43f6-98a8-baa60b3f5eea"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa ilalim ng bahay",
+        "english": "below the house",
+        "required": true,
+        "audioPath": "2d9ba0c2-52ff-4e35-bdbc-ee5ca4561f9e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa labas ng bahay",
+        "english": "outside the house",
+        "required": true,
+        "audioPath": "ee384c16-74d2-45bf-9ca0-55b09fe12ef2"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "These can be used to answer _nasaan_ questions, so remember to use _nasa_ for the positive and wala for the negative:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nasa loob siya ng bahay.",
+        "english": "He is inside the house.",
+        "required": true,
+        "audioPath": "bd5d5dc2-4754-4f72-91e6-f406e14e672c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Wala siya sa ilalim ng bahay.",
+        "english": "He is not below the house.",
+        "required": true,
+        "audioPath": "5e473307-c7ce-4540-9706-26bc1327f759"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Wala sa labas ng bahay.",
+        "english": "Not outside the house.",
+        "required": true,
+        "audioPath": "48816361-a5f3-4f75-913e-bc7ee7b12b33"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Adjective Phrases</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Given the sentence:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Masaya ang babaeng kumakain sa tindahan.",
+        "english": "The woman eating in the store is happy.",
+        "required": true,
+        "audioPath": "d578e9cf-d9cf-4fdd-88dd-f758fea38b55"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "As mentioned earlier, _babaeng kumakain sa tindahan_ is a noun phrase because, as a unit, it can replace a solitary noun. If you think about it, _kumakain sa tindahan_ is an adjective phrase because, as a unit, it can replace a solitary adjective:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "babaeng masaya",
+        "english": "woman who is happy",
+        "required": true,
+        "audioPath": "4a27222b-c318-4060-9033-20d40e735a21"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Replacing adjective _masaya_ with adjective phrase _kumakain sa tindahan_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "babaeng kumakain sa tindahan",
+        "english": "woman who is eating in the store",
+        "required": true,
+        "audioPath": "8c854298-42d7-4934-9583-0077063e5412"
+      }
+    },
+    {
+      "type": "h2",
+      "markdown": "Noun Phrase + Linker + Adjective Phrase = Noun Phrase that/who Adjective Phrase"
+    },
+    {
+      "type": "p",
+      "markdown": "The reason we use “phrase” here rather than “clause” is that a verb is not required."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "babaeng nasa labas",
+        "english": "woman who is outside",
+        "required": true,
+        "audioPath": "9b1e1d9f-64e5-4e8a-8494-af9318d6cf93"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "babaeng may pera",
+        "english": "woman who has money",
+        "required": true,
+        "audioPath": "f3c6b499-e9ea-49b4-a721-e939e28f62ea"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "babaeng mahilig sa tsokolate",
+        "english": "woman who likes chocolate",
+        "required": true,
+        "audioPath": "77e4df05-2528-43a3-b4aa-4fd35d336823"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Here is an interesting comparison:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magluluto si Maria ng manok sa bahay ni Angel.",
+        "english": "Maria will cook a chicken at Angel’s house. The sa phrase is applied to the verb, so she will actually do the cooking at Angel’s house.",
+        "required": true,
+        "audioPath": "c517a463-6335-46b4-bee2-ecde21307b00"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Magluluto si Maria ng manok na nasa bahay ni Angel.",
+        "english": "Maria will cook a chicken that is at Angel’s house. The adjective phrase is applied to the preceding noun, so the chicken is one that is at Angel’s house.",
+        "required": true,
+        "audioPath": "8d7ad116-b9a4-4cea-be9a-cf729c287727"
+      }
+    }
+  ],
+  "exampleSentences": [
+    {
+      "tagalog": "Ayaw ni Jessica ang mga piso sa loob ng sapatos mo.",
+      "english": "Jessica does not want the pesos inside your shoes.",
+      "required": true,
+      "audioPath": "49618fe2-eed7-4094-92d5-73031d870b04"
+    },
+    {
+      "tagalog": "Hindi nila siya ibibili ng dalawang basketbol na nasa ilalim ng sasakyan.",
+      "english": "They will not buy her the two basketballs under the car.",
+      "required": true,
+      "audioPath": "c4f0a9fa-f9b7-4457-8efe-5514a9c46aff"
+    },
+    {
+      "tagalog": "Kailan niya itinanim ang puno sa labas?",
+      "english": "When did he plant the tree outside?",
+      "required": true,
+      "audioPath": "2b22a1dd-0b76-4003-abbc-e4c3cd628986"
+    },
+    {
+      "tagalog": "Opo, nandun ang pera, sa tabi ng ilaw na binuksan mo.",
+      "english": "Yes (resp.), the money is there, next to the light you turned on.",
+      "required": true,
+      "audioPath": "40c291b4-e4e8-4fc7-86c2-5a83ed37da4a"
+    },
+    {
+      "tagalog": "Gusto mo ba ang araw kapag nasa ibabaw ito ng inumin mo?",
+      "english": "Do you like the sun when it is above your drink?",
+      "required": true,
+      "audioPath": "f6987242-7ca0-41f1-8c59-243d79c68da6"
+    },
+    {
+      "tagalog": "Ituro natin sa kanila ang CR sa loob ng kuwarto nila.",
+      "english": "Let's show them the CR inside their room.",
+      "required": true,
+      "audioPath": "4a6dd9f0-ec12-4b2a-9857-6e954d6529c6"
+    },
+    {
+      "tagalog": "Kung ikukuha mo ako non sa ilalim ng bisikleta, igagawa kita ng pagkain.",
+      "english": "If you get me that under the bicycle, I will make you some food.",
+      "required": true,
+      "audioPath": "c4d6c147-6b96-4381-8210-922f4bbb55f0"
+    },
+    {
+      "tagalog": "Nasa bahay ang anak ni Joe. Wala siya sa labas.",
+      "english": "Joe's son is at home. He is not outside.",
+      "required": true,
+      "audioPath": "a62b5039-89b7-45b1-96a1-5905877b165f"
+    },
+    {
+      "tagalog": "Ihinahanap namin ng aso ang guro araw-araw sa tabi ng eskwelahan.",
+      "english": "We (excl.) search for a dog for the teacher every day next to the school.",
+      "required": true,
+      "audioPath": "498a37a2-0fef-4a18-8011-61e89f8bd0d1"
+    },
+    {
+      "tagalog": "Nasa puno sa ibabaw ng tindahan ang pusa.",
+      "english": "The cat is in the tree above the store.",
+      "required": true,
+      "audioPath": "fb4fe397-33a7-4874-b7ef-8b450db21791"
+    }
+  ]
+}
