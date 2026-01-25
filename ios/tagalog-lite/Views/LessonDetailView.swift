@@ -339,6 +339,7 @@ private struct ExamplesSection: View {
 }
 
 private struct GrammarSection: View {
+  @Environment(\.colorScheme) private var colorScheme
   let lessonId: String
   let blocks: [LessonBlock]
   let showTagalog: Bool
@@ -391,11 +392,11 @@ private struct GrammarSection: View {
         ForEach(Array(chunks.enumerated()), id: \.offset) { _, chunk in
           switch chunk {
           case .h1Group(let group):
-            H1Card(blocks: group)
+            GrammarTextGroup(blocks: group)
           case .bodyGroup(let group):
-            BodyCard(blocks: group)
+            GrammarTextGroup(blocks: group)
           case .sentence(let key, let item):
-            BilingualRevealCard(
+            GrammarEmbeddedRevealCard(
               tagalog: item.tagalog,
               english: item.english,
               audioKey: item.audioKey,
@@ -408,6 +409,18 @@ private struct GrammarSection: View {
           }
         }
       }
+      .frame(maxWidth: .infinity, alignment: .leading)
+      .padding(14)
+      .background(
+        RoundedRectangle(cornerRadius: 18, style: .continuous)
+          .fill(Theme.cardBackground(colorScheme))
+      )
+      .overlay(
+        RoundedRectangle(cornerRadius: 18, style: .continuous)
+          .strokeBorder(Theme.accent.opacity(colorScheme == .dark ? 0.22 : 0.12), lineWidth: 1)
+      )
+      .shadow(
+        color: Color.black.opacity(colorScheme == .dark ? 0.18 : 0.06), radius: 10, x: 0, y: 6)
     }
   }
 
@@ -416,9 +429,7 @@ private struct GrammarSection: View {
   }
 }
 
-// Reuse the existing grammar text card styles from LessonTabView.
-private struct H1Card: View {
-  @Environment(\.colorScheme) private var colorScheme
+private struct GrammarTextGroup: View {
   let blocks: [TextBlock]
 
   var body: some View {
@@ -429,28 +440,15 @@ private struct H1Card: View {
           InlineMarkdownText(markdown: block.markdown, style: .title1)
             .padding(.top, 2)
         case .h2:
-          HStack(alignment: .top, spacing: 10) {
-            Image(systemName: "leaf.fill")
-              .foregroundStyle(Theme.accent)
-              .font(.system(size: 14, weight: .bold, design: .rounded))
-              .padding(.top, 3)
-            InlineMarkdownText(markdown: block.markdown, style: .title2)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .layoutPriority(1)
-          }
-          .padding(.top, 6)
+          InlineMarkdownText(markdown: block.markdown, style: .title2)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .layoutPriority(1)
+            .padding(.top, 6)
         case .h3:
-          HStack(alignment: .top, spacing: 10) {
-            RoundedRectangle(cornerRadius: 999, style: .continuous)
-              .fill(Theme.accent.opacity(0.75))
-              .frame(width: 5)
-              .frame(height: 18)
-              .padding(.top, 3)
-            InlineMarkdownText(markdown: block.markdown, style: .title3)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .layoutPriority(1)
-          }
-          .padding(.top, 4)
+          InlineMarkdownText(markdown: block.markdown, style: .title3)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .layoutPriority(1)
+            .padding(.top, 4)
         case .p:
           InlineMarkdownText(markdown: block.markdown, style: .body)
             .foregroundStyle(.primary.opacity(0.92))
@@ -459,72 +457,60 @@ private struct H1Card: View {
       }
     }
     .frame(maxWidth: .infinity, alignment: .leading)
-    .padding(EdgeInsets(top: 14, leading: 14, bottom: 14, trailing: 14))
-    .background(
-      RoundedRectangle(cornerRadius: 18, style: .continuous)
-        .fill(Theme.accent.opacity(colorScheme == .dark ? 0.18 : 0.10))
-    )
-    .overlay(
-      RoundedRectangle(cornerRadius: 18, style: .continuous)
-        .strokeBorder(Theme.accent.opacity(colorScheme == .dark ? 0.30 : 0.18), lineWidth: 1)
-    )
-    .shadow(color: Color.black.opacity(colorScheme == .dark ? 0.22 : 0.08), radius: 10, x: 0, y: 6)
   }
 }
 
-private struct BodyCard: View {
+private struct GrammarEmbeddedRevealCard: View {
   @Environment(\.colorScheme) private var colorScheme
-  let blocks: [TextBlock]
+  let tagalog: String
+  let english: String
+  let audioKey: String?
+  let showTagalog: Bool
+  let isTagalogRevealed: Bool
+  let onToggleReveal: () -> Void
+
+  private var effectiveShowTagalog: Bool { showTagalog || isTagalogRevealed }
 
   var body: some View {
-    VStack(alignment: .leading, spacing: 10) {
-      ForEach(Array(blocks.enumerated()), id: \.offset) { _, block in
-        switch block.type {
-        case .h1:
-          InlineMarkdownText(markdown: block.markdown, style: .title1)
-            .padding(.top, 2)
-        case .h2:
-          HStack(alignment: .top, spacing: 10) {
-            Image(systemName: "leaf.fill")
-              .foregroundStyle(Theme.accent)
-              .font(.system(size: 14, weight: .bold, design: .rounded))
-              .padding(.top, 3)
-            InlineMarkdownText(markdown: block.markdown, style: .title2)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .layoutPriority(1)
-          }
-          .padding(.top, 6)
-          .padding(.leading, 0)
-        case .h3:
-          HStack(alignment: .top, spacing: 10) {
-            RoundedRectangle(cornerRadius: 999, style: .continuous)
-              .fill(Theme.accent.opacity(0.75))
-              .frame(width: 5)
-              .frame(height: 18)
-              .padding(.top, 3)
-            InlineMarkdownText(markdown: block.markdown, style: .title3)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .layoutPriority(1)
-          }
-          .padding(.top, 4)
-          .padding(.leading, 0)
-        case .p:
-          InlineMarkdownText(markdown: block.markdown, style: .body)
-            .foregroundStyle(.primary.opacity(0.92))
-            .lineSpacing(4)
-        }
+    HStack(alignment: .top, spacing: 10) {
+      VStack(alignment: .leading, spacing: 4) {
+        Text(effectiveShowTagalog ? tagalog : "Tap to reveal Tagalog")
+          .font(.system(size: 16, weight: .regular, design: .rounded))
+          .foregroundStyle(effectiveShowTagalog ? .primary : .secondary)
+          .fixedSize(horizontal: false, vertical: true)
+
+        Text(english)
+          .font(.system(size: 14, weight: .regular, design: .rounded))
+          .foregroundStyle(effectiveShowTagalog ? .secondary : .primary)
+          .fixedSize(horizontal: false, vertical: true)
+      }
+
+      Spacer(minLength: 4)
+
+      if let audioKey {
+        SpeakerButton(audioKey: audioKey)
       }
     }
-    .frame(maxWidth: .infinity, alignment: .leading)
-    .padding(EdgeInsets(top: 10, leading: 12, bottom: 12, trailing: 12))
+    .padding(.horizontal, 10)
+    .padding(.vertical, 8)
     .background(
-      RoundedRectangle(cornerRadius: 18, style: .continuous)
-        .fill(Theme.cardBackground(colorScheme))
+      RoundedRectangle(cornerRadius: 12, style: .continuous)
+        .fill(Theme.accent.opacity(colorScheme == .dark ? 0.08 : 0.06))
     )
     .overlay(
-      RoundedRectangle(cornerRadius: 18, style: .continuous)
-        .strokeBorder(Theme.accent.opacity(colorScheme == .dark ? 0.22 : 0.12), lineWidth: 1)
+      RoundedRectangle(cornerRadius: 12, style: .continuous)
+        .strokeBorder(
+          Theme.accent.opacity(colorScheme == .dark ? 0.25 : 0.16),
+          lineWidth: 1
+        )
     )
-    .shadow(color: Color.black.opacity(colorScheme == .dark ? 0.18 : 0.06), radius: 10, x: 0, y: 6)
+    .contentShape(RoundedRectangle(cornerRadius: 12, style: .continuous))
+    .gesture(
+      TapGesture().onEnded {
+        guard !showTagalog else { return }
+        onToggleReveal()
+      },
+      including: .gesture
+    )
   }
 }

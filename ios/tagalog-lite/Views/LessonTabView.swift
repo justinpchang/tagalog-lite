@@ -76,27 +76,14 @@ private struct H1Card: View {
           InlineMarkdownText(markdown: block.markdown, style: .title1)
             .padding(.top, 2)
         case .h2:
-          HStack(alignment: .top, spacing: 10) {
-            Image(systemName: "leaf.fill")
-              .foregroundStyle(Theme.accent)
-              .font(.system(size: 14, weight: .bold, design: .rounded))
-              .padding(.top, 3)
-            InlineMarkdownText(markdown: block.markdown, style: .title2)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .layoutPriority(1)
-          }
+          InlineMarkdownText(markdown: block.markdown, style: .title2)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .layoutPriority(1)
           .padding(.top, 6)
         case .h3:
-          HStack(alignment: .top, spacing: 10) {
-            RoundedRectangle(cornerRadius: 999, style: .continuous)
-              .fill(Theme.accent.opacity(0.75))
-              .frame(width: 5)
-              .frame(height: 18)
-              .padding(.top, 3)
-            InlineMarkdownText(markdown: block.markdown, style: .title3)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .layoutPriority(1)
-          }
+          InlineMarkdownText(markdown: block.markdown, style: .title3)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .layoutPriority(1)
           .padding(.top, 4)
         case .p:
           InlineMarkdownText(markdown: block.markdown, style: .body)
@@ -132,27 +119,14 @@ private struct BodyCard: View {
           InlineMarkdownText(markdown: block.markdown, style: .title1)
             .padding(.top, 2)
         case .h2:
-          HStack(alignment: .top, spacing: 10) {
-            Image(systemName: "leaf.fill")
-              .foregroundStyle(Theme.accent)
-              .font(.system(size: 14, weight: .bold, design: .rounded))
-              .padding(.top, 3)
-            InlineMarkdownText(markdown: block.markdown, style: .title2)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .layoutPriority(1)
-          }
+          InlineMarkdownText(markdown: block.markdown, style: .title2)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .layoutPriority(1)
           .padding(.top, 6)
         case .h3:
-          HStack(alignment: .top, spacing: 10) {
-            RoundedRectangle(cornerRadius: 999, style: .continuous)
-              .fill(Theme.accent.opacity(0.75))
-              .frame(width: 5)
-              .frame(height: 18)
-              .padding(.top, 3)
-            InlineMarkdownText(markdown: block.markdown, style: .title3)
-              .frame(maxWidth: .infinity, alignment: .leading)
-              .layoutPriority(1)
-          }
+          InlineMarkdownText(markdown: block.markdown, style: .title3)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .layoutPriority(1)
           .padding(.top, 4)
         case .p:
           InlineMarkdownText(markdown: block.markdown, style: .body)
