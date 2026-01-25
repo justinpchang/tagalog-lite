@@ -20,13 +20,15 @@ struct LessonDetailView: View {
 
       ScrollView {
         VStack(alignment: .leading, spacing: 14) {
-          VocabularySection(
-            lessonId: lesson.id,
-            items: lesson.vocabulary,
-            showTagalog: showTagalog,
-            revealedTagalogKeys: $revealedTagalogKeys
-          )
-          .padding(.horizontal, 16)
+          if !lesson.vocabulary.isEmpty {
+            VocabularySection(
+              lessonId: lesson.id,
+              items: lesson.vocabulary,
+              showTagalog: showTagalog,
+              revealedTagalogKeys: $revealedTagalogKeys
+            )
+            .padding(.horizontal, 16)
+          }
 
           GrammarSection(
             lessonId: lesson.id,
@@ -37,13 +39,15 @@ struct LessonDetailView: View {
           )
           .padding(.horizontal, 16)
 
-          ExamplesSection(
-            lessonId: lesson.id,
-            items: lesson.exampleSentences,
-            showTagalog: showTagalog,
-            revealedTagalogKeys: $revealedTagalogKeys
-          )
-          .padding(.horizontal, 16)
+          if !lesson.exampleSentences.isEmpty {
+            ExamplesSection(
+              lessonId: lesson.id,
+              items: lesson.exampleSentences,
+              showTagalog: showTagalog,
+              revealedTagalogKeys: $revealedTagalogKeys
+            )
+            .padding(.horizontal, 16)
+          }
         }
         .padding(.bottom, 18)
       }
