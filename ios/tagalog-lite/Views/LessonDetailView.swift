@@ -173,7 +173,7 @@ private struct BilingualRevealCard: View {
       HStack(alignment: .top, spacing: 8) {  // tighter spacing
         VStack(alignment: .leading, spacing: 4) {  // less vertical gap between lines
           Text(effectiveShowTagalog ? tagalog : "Tap to reveal Tagalog")
-            .font(.system(size: 16, weight: effectiveShowTagalog ? .regular : .bold, design: .rounded))
+            .font(.system(size: 16, weight: .regular, design: .rounded))
             .foregroundStyle(effectiveShowTagalog ? .primary : .secondary)
             .fixedSize(horizontal: false, vertical: true)
 
