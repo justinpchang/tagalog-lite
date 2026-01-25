@@ -1,0 +1,543 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixG",
+  "title": "Appendix G - Focus",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "h1",
+      "markdown": "What is focus?"
+    },
+    {
+      "type": "p",
+      "markdown": "To explain, we will use the standard sentence:"
+    },
+    {
+      "type": "p",
+      "markdown": "Standard Sentence = Verb + Actor + Object + X"
+    },
+    {
+      "type": "p",
+      "markdown": "In this book, we call the actor, object and X “complements”. In standard sentences, one of these complements is said to be the “focus”."
+    },
+    {
+      "type": "h2",
+      "markdown": "Used as a noun, Focus is the complement that attention is drawn to."
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Notes: This applies to clauses that have a verb and at least one complement. <u>The focus takes ang form and is never indefinite</u>.\\*\\*"
+    },
+    {
+      "type": "p",
+      "markdown": "It turns out that 1) the verb type, or affix, and 2) the forms (_ang/ng/sa_) of the complements, express the focus. In other words, if you change the focus, you change the grammar."
+    },
+    {
+      "type": "h2",
+      "markdown": "Used as an adjective, Focus determines the verb type and forms of the complements."
+    },
+    {
+      "type": "p",
+      "markdown": "Take the sentence:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Magtuturo si Jasmine ng Tagalog kay Joshua."
+    },
+    {
+      "type": "p",
+      "markdown": "Jasmine is the \\*\\*focus\\*\\* of the sentence. That is an example of focus being used as a **noun**. Note that Jasmine is marked by _si_, which makes it _ang_ form and definite. Those are characteristics of a focus."
+    },
+    {
+      "type": "p",
+      "markdown": "The sentence is an actor \\*\\*focus\\*\\* sentence. That is an example of focus being used as an **adjective**. Note that the verb type is _mag-_, the actor takes _ang_ form, object takes _ng_ form and X takes _sa_ form. Those are characteristics of an actor focus sentence."
+    },
+    {
+      "type": "p",
+      "markdown": "To illustrate how grammar differs depending on focus, let’s take the sentence “Maria gave Joe a car”. In English grammar:"
+    },
+    {
+      "type": "p",
+      "markdown": "Gave = the verb."
+    },
+    {
+      "type": "p",
+      "markdown": "Maria = the **actor**."
+    },
+    {
+      "type": "p",
+      "markdown": "Car = the (direct) **object**."
+    },
+    {
+      "type": "p",
+      "markdown": "Joe = the indirect object (***IO**)."
+    },
+    {
+      "type": "p",
+      "markdown": "*We use “X” instead of “IO” in the standard sentence definition above because sometimes the third complement is not an IO. It may be an IO, a cause, directional complement, benefactor or reference in this book."
+    },
+    {
+      "type": "p",
+      "markdown": "Here is how you would make each of these the focus in Tagalog:"
+    },
+    {
+      "type": "p",
+      "markdown": "\\*\\*Maria\\*\\* gave Joe a car. = Nagbigay si **Maria** ng sasakyan kay Joe. (actor-focus)"
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe *the **car**. = Ibinigay ni Maria ang **sasakyan** kay Joe. (object-focus)"
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave \\*\\*Joe\\*\\* a car. = Binigyan ni Maria ng sasakyan si **Joe**. (directional-focus)"
+    },
+    {
+      "type": "p",
+      "markdown": "*Remember that focus is never indefinite, so we must use “the” instead of “a” in this case. See the standard sentence appendix for more information."
+    },
+    {
+      "type": "p",
+      "markdown": "Most Tagalog verbs use one of these three standard sentence patterns. From now on, when we talk about standard sentence patterns, we will use \\*\\*AF\\*\\* for actor-focus, \\*\\*OF\\*\\* for object-focus and **Other** for other focuses. In agreement with what was mentioned previously, you will notice there are two things that differ in the Tagalog sentences above."
+    },
+    {
+      "type": "p",
+      "markdown": "1)\tThe verb type or affix. _Mag-, i-,_ and _-an_ verbs are shown in the three examples, but there are many other verb types. See the last table below for the relationship between affix and focus."
+    },
+    {
+      "type": "p",
+      "markdown": "2)\tThe form pattern, or forms (_ang/ng/sa_) of the actor, object and X. Notice that the **focus always takes _ang_ form**; for AF the actor takes _ang_ form, for OF the object takes _ang_ form and for Other the X takes _ang_ form. It is recommended that you memorize this handy little table:"
+    },
+    {
+      "type": "table",
+      "caption": "Table 3: The Three Form Patterns for Standard Sentences",
+      "rows": [
+        [
+          "Form Pattern",
+          "Form",
+          "",
+          ""
+        ],
+        [
+          "actor",
+          "object",
+          "X"
+        ],
+        [
+          "AF",
+          "ang",
+          "ng",
+          "sa"
+        ],
+        [
+          "OF",
+          "ng",
+          "ang",
+          "sa"
+        ],
+        [
+          "Other",
+          "ng",
+          "ng",
+          "ang"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "markdown": "Why is Focus Important?"
+    },
+    {
+      "type": "p",
+      "markdown": "After reading the first part of this appendix, you might be wondering why it is important for you to learn this. After all, it is optional to emphasize a word in English. Here are three questions with the same answer in English:"
+    },
+    {
+      "type": "p",
+      "markdown": "Q: Who gave Joe a car?"
+    },
+    {
+      "type": "p",
+      "markdown": "Q: What did Maria give Joe?"
+    },
+    {
+      "type": "p",
+      "markdown": "Q: Who did Maria give a car to?"
+    },
+    {
+      "type": "p",
+      "markdown": "A: Maria gave Joe a car."
+    },
+    {
+      "type": "p",
+      "markdown": "In English, the answer is the same for all three questions; you do not have to stress anything and the questioner’s need for information is fulfilled. But as shown earlier, in Tagalog there are three answers and each will focus on a word. It is important to choose the right one, because imagine if you were to answer the following question like this:"
+    },
+    {
+      "type": "p",
+      "markdown": "Q: Who gave Joe a car?"
+    },
+    {
+      "type": "p",
+      "markdown": "A: Maria gave Joe a <u>**CAR!!!**</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "That would sound strange to the questioner, maybe cause some confusion, or make them want to correct your English. That is what happens in Tagalog when a learner uses the wrong focus. It is optional in English, but not in Tagalog."
+    },
+    {
+      "type": "h1",
+      "markdown": "How to Select the Focus"
+    },
+    {
+      "type": "p",
+      "markdown": "You have seen how grammar differs depending on the focus. But if you have an English sentence, how do you know what the focus it should be in Tagalog? For standard sentences, here is what I suggest."
+    },
+    {
+      "type": "p",
+      "markdown": "If the object is definite, the sentence is almost always OF. For example:"
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe the car. The/those/these makes words definite."
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe my car. Possessives make words definite."
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe Angel. Proper nouns are definite."
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave her to Joe. Personal pronouns are definite."
+    },
+    {
+      "type": "p",
+      "markdown": "There are a few exceptions to this, for example, the time and the truth can be considered indefinite in Tagalog."
+    },
+    {
+      "type": "p",
+      "markdown": "If the object is indefinite, the sentence is usually AF. For example:"
+    },
+    {
+      "type": "p",
+      "markdown": "Maria gave Joe a car. A/an/some makes words indefinite."
+    },
+    {
+      "type": "p",
+      "markdown": "The reason I say these would normally be AF is that about 90% of verbs are either AF or OF. If the object is indefinite, the sentence is not OF, so it is most likely AF."
+    },
+    {
+      "type": "p",
+      "markdown": "If those suggestions do not help, then you can try asking yourself which complement you would most likely stress in English - the actor, object or X, and that will be your focus. Another way to think about this is to try to determine which question you most want to satisfy with your sentence – a question about the actor, the object or X? For example, for “Maria gave Joe a car”, determine which of these questions you most want to satisfy:"
+    },
+    {
+      "type": "p",
+      "markdown": "Who gave Joe a car? (question about the actor – use AF)"
+    },
+    {
+      "type": "p",
+      "markdown": "What did Maria give Joe? (question about the object – use OF)"
+    },
+    {
+      "type": "p",
+      "markdown": "Who did Maria give a car to? (question about X – use Other)"
+    },
+    {
+      "type": "p",
+      "markdown": "Identifying the focus before speaking was one of the most difficult features of the language for me to get used to. So, do not be discouraged if this takes a while; with enough practice all of this analysis evolves into a simple feeling about what is important, and the correct grammar flows out from that."
+    },
+    {
+      "type": "h1",
+      "markdown": "More about the 11 Focuses"
+    },
+    {
+      "type": "p",
+      "markdown": "Here are all the focuses:"
+    },
+    {
+      "type": "table",
+      "caption": null,
+      "rows": [
+        [
+          "Usage (approx.)",
+          "Focus",
+          "Acronym"
+        ],
+        [
+          "45% AF",
+          "Actor Focus",
+          "AF"
+        ],
+        [
+          "45% OF",
+          "Object Focus",
+          "OF"
+        ],
+        [
+          "10% Other",
+          "Directional Focus",
+          "DF"
+        ],
+        [
+          "Benefactive Focus",
+          "BF"
+        ],
+        [
+          "Locative Focus",
+          "LF"
+        ],
+        [
+          "Referential Focus",
+          "RFF"
+        ],
+        [
+          "Secondary Actor Focus",
+          "A2F"
+        ],
+        [
+          "*Causative Focus",
+          "CF"
+        ],
+        [
+          "*Instrumental Focus",
+          "IF"
+        ],
+        [
+          "*Measurement Focus",
+          "MF"
+        ],
+        [
+          "*Reservational Focus",
+          "RSF"
+        ],
+        [
+          "Table 4: The Eleven Focuses"
+        ],
+        [
+          "*not covered in this book"
+        ],
+        [
+          "(Percentage Source: Language Tools Tagalog Conversations)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that Other focuses are much less common than AF and OF. In addition to the two or three letter acronym used to denote focuses in general (e.g. AF), we sometimes put annotation in parentheses after the acronyms to denote focus variants or nuances of specific verbs (e.g. the “O” in AF(O))."
+    },
+    {
+      "type": "table",
+      "caption": "Table 5: Meaning of Annotation in Parentheses following Focus",
+      "rows": [
+        [
+          "Letter(s)",
+          "Type",
+          "Meaning"
+        ],
+        [
+          "O",
+          "variant",
+          "single object"
+        ],
+        [
+          "DO",
+          "variant",
+          "double object"
+        ],
+        [
+          "D",
+          "variant",
+          "directional"
+        ],
+        [
+          "I",
+          "variant",
+          "intransitive"
+        ],
+        [
+          "!",
+          "nuance",
+          "intensive"
+        ],
+        [
+          "a",
+          "nuance",
+          "ability"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "To summarize, below is a table of all focuses and their variants/nuances used in this book."
+    },
+    {
+      "type": "table",
+      "caption": null,
+      "rows": [
+        [
+          "Affix",
+          "Focus",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "-an",
+          "OF(O)",
+          "DF(DO)",
+          "DF(D)",
+          "",
+          ""
+        ],
+        [
+          "i-",
+          "OF(O)",
+          "OF(DO)",
+          "*BF",
+          "",
+          ""
+        ],
+        [
+          "-in",
+          "OF(O)",
+          "DF(D)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "ma-",
+          "AF(O)",
+          "AF(D)",
+          "AF(I)",
+          "OF(O)",
+          "OF(a)"
+        ],
+        [
+          "ma-…-an",
+          "AF(I)",
+          "OF(a)",
+          "DF(a)",
+          "",
+          ""
+        ],
+        [
+          "mag-",
+          "AF(O)",
+          "AF(DO)",
+          "AF(D)",
+          "AF(I)",
+          "AF(!)"
+        ],
+        [
+          "**magpa-",
+          "AF",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "**maka-",
+          "AF",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "**makapag-",
+          "AF",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "mang-",
+          "AF(O)",
+          "AF(D)",
+          "AF(I)",
+          "",
+          ""
+        ],
+        [
+          "pa-…-in",
+          "**A2F",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "pag-…-an",
+          "OF(O)",
+          "DF(D)",
+          "DF(DO)",
+          "**LF",
+          "*RFF"
+        ],
+        [
+          "**paki-",
+          "OF",
+          "DF",
+          "",
+          "",
+          ""
+        ],
+        [
+          "-um-",
+          "AF(O)",
+          "AF(DO)",
+          "AF(D)",
+          "",
+          ""
+        ],
+        [
+          "Table 6: All Focuses and Verb Affixes used in this Book"
+        ],
+        [
+          "*These do not have variants, so no symbols are used"
+        ],
+        [
+          "**These can go with any variant, so no symbols are used"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "markdown": "Guessing the Verb when you know the Root and Focus"
+    },
+    {
+      "type": "p",
+      "markdown": "In the wild, if you are trying to determine the right verb to use and you know the root and focus, I recommend looking it up or asking a native speaker with good grammar. If this is not practical at the moment, you can guess the verb, but here are some reasons why this might be difficult."
+    },
+    {
+      "type": "p",
+      "markdown": "There are many verb types for each focus."
+    },
+    {
+      "type": "p",
+      "markdown": "Although they are less common, there are many verb types not covered in this book."
+    },
+    {
+      "type": "p",
+      "markdown": "Knowing the traits of each verb type may be helpful, or may not, and some do not even have any special traits."
+    },
+    {
+      "type": "p",
+      "markdown": "There are “correspondence classes” that tell you things like AF mag- verbs can correspond to OF i- verbs, but these are numerous and there are many exceptions, so I do not recommend relying on them."
+    },
+    {
+      "type": "p",
+      "markdown": "Even if you are very familiar with everything mentioned above, you may still be unable to guess correctly a high percentage of the time. I used to think that my inability to guess correctly was due to my ignorance of the rules. But it turns out, to be completely sure, you have to get confirmation. And because native speakers are quite forgiving, even if you think you guess a verb correctly in the wild, I recommend you look it up later when you get a chance."
+    },
+    {
+      "type": "p",
+      "markdown": "All that being said, whenever we ask you to do something that makes you decide which focus/affix to use in the lessons, we have already introduced you to the correct corresponding verbs. I just wanted you to know that, in real life, the language can be more complicated than that."
+    }
+  ],
+  "exampleSentences": []
+}

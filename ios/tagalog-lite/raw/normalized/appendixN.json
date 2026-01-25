@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixN",
+  "title": "Appendix N - Terms and Abbreviations Unique to this Book",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "table",
+      "caption": "Table 14: Terms and Abbreviations Unique to this Book",
+      "rows": [
+        [
+          "Term/Abbreviation",
+          "Definition"
+        ],
+        [
+          "complement",
+          "An items that follows the verb in a standard sentence - an actor, object or X."
+        ],
+        [
+          "contrast",
+          "Signals learner to use naman."
+        ],
+        [
+          "directional complement",
+          "The complement X which is a direction/goal in a sentence with a directional variant verb, for example, an AF(D) sentence."
+        ],
+        [
+          "dp",
+          "demonstrative pronoun"
+        ],
+        [
+          "dup1",
+          "duplication of the first syllable of the root"
+        ],
+        [
+          "dup2",
+          "duplication of the entire root"
+        ],
+        [
+          "enclitic cluster",
+          "A group of one or more enclitcs after a single host."
+        ],
+        [
+          "excl.",
+          "Exclusive - signals learner to use exclusive forms of we/us."
+        ],
+        [
+          "focus noun clause",
+          "A structure of the form: focus + linker + noun clause."
+        ],
+        [
+          "focus sensitive enclitic particles",
+          "Enclitic particles that do not apply to the focus of a standard sentence (e.g. din/rin, lang and naman(contrast))."
+        ],
+        [
+          "focus variant",
+          "Describes what complements may be used with a given verb. It is called out in parentheses after the focus acronym. For example, AF(I) represents an intransitive variant of an AF verb."
+        ],
+        [
+          "form pattern",
+          "a set way of mapping certain forms (ang/ng/sa) to the certain complement (actor/object/X)"
+        ],
+        [
+          "generic root",
+          "a root without stress or glottal stops"
+        ],
+        [
+          "host",
+          "A word that an enclitic attaches itself after."
+        ],
+        [
+          "hr",
+          "hour of day, for example, alas-singko in Tagalog or “five” in English"
+        ],
+        [
+          "incl.",
+          "Inclusive - signals learner to use inclusive forms of we/us."
+        ],
+        [
+          "pl",
+          "plural"
+        ],
+        [
+          "pp",
+          "personal pronoun"
+        ],
+        [
+          "resp.",
+          "Respectful - signals learner to use po and plural personal pronouns."
+        ],
+        [
+          "soft",
+          "Soft - signals learner to use nga."
+        ],
+        [
+          "standard sentence",
+          "A sentence of the form: verb + actor + object + X"
+        ],
+        [
+          "structure equation",
+          "A sentence in large text, with an equal sign and abbreviations, that summarizes a grammar point."
+        ],
+        [
+          "X",
+          "One of the complements in a standard sentence - an IO, cause, directional compliment, benefactor or reference."
+        ]
+      ]
+    }
+  ],
+  "exampleSentences": []
+}

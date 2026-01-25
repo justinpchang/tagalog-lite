@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixK",
+  "title": "Appendix K - All Question Words in this Book",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "table",
+      "caption": "Table 11: All Question Words in this Book",
+      "rows": [
+        [
+          "Word",
+          "Definition",
+          "Sentence (focus in italics)"
+        ],
+        [
+          "alin",
+          "which",
+          "Alin ang bahay mo? = Which is your house?"
+        ],
+        [
+          "ano",
+          "what",
+          "Ano ang pagkaing yun? = What is that food?"
+        ],
+        [
+          "bakit",
+          "why",
+          "Bakit mo ito kinain? = Why did you eat it?"
+        ],
+        [
+          "kailan",
+          "when",
+          "Kailan siya pumunta? = When did she go?"
+        ],
+        [
+          "kanino",
+          "whom",
+          "Kanino mo ito sinabi? = Who did you tell it to?"
+        ],
+        [
+          "kumusta",
+          "how is; how are",
+          "Kumusta ka na? = How are you now?"
+        ],
+        [
+          "gaano",
+          "how; to what extent",
+          "Gaano kasaya ang lalaki? = How happy is the man?"
+        ],
+        [
+          "ilan",
+          "how many",
+          "Ilan ang anak mo? = How many children do you have?"
+        ],
+        [
+          "magkano",
+          "how much (price)",
+          "Magkano ang sasakyan? = How much is the car?"
+        ],
+        [
+          "nakanino",
+          "with whom",
+          "Nakanino ang aso? = Who is the dog with?"
+        ],
+        [
+          "nasaan",
+          "where (noun)",
+          "Nasaan ang eskwelahan? = Where is the school?"
+        ],
+        [
+          "nino",
+          "whose",
+          "Bata nino yun? = Whose kid is that?"
+        ],
+        [
+          "paano",
+          "how; in which way",
+          "Paano niya binuksan ito? = How did she turn it on?"
+        ],
+        [
+          "saan",
+          "where (verb)",
+          "Saan natutulog si Jessica? = Where is Jessica sleeping?"
+        ],
+        [
+          "sino",
+          "who",
+          "Sino ang lalaki? = Who is the man?"
+        ]
+      ]
+    }
+  ],
+  "exampleSentences": []
+}

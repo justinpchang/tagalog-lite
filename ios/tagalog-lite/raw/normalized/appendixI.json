@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixI",
+  "title": "Appendix I – Verb Affixes",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "There are over 100 verb affixes, or verb types, in Tagalog. But there is a group of six, called “The Big Six” in this book, that are normally taught in all beginner texts because they account for about 75% of verb usage and are diverse enough to give learners a good grasp of verb manipulation. Here is a table of all verb types used in this book:"
+    },
+    {
+      "type": "table",
+      "caption": "Table 8: Frequency of all Verb Affixes in this Book (Makes up about 93% of verb usage in Colloquial Speech. Source: Language Tools Tagalog Conversations)",
+      "rows": [
+        [
+          "Freq. Rank",
+          "Affix",
+          "Usage",
+          "Big Six?"
+        ],
+        [
+          "1",
+          "ma-",
+          "18.6%",
+          "yes"
+        ],
+        [
+          "2",
+          "-in",
+          "17.3%",
+          "yes"
+        ],
+        [
+          "3",
+          "mag-",
+          "13.6%",
+          "yes"
+        ],
+        [
+          "4",
+          "-um-",
+          "13.0%",
+          "yes"
+        ],
+        [
+          "5",
+          "-an",
+          "7.2%",
+          "yes"
+        ],
+        [
+          "6",
+          "ma-…-an",
+          "6.1%",
+          ""
+        ],
+        [
+          "7",
+          "i-",
+          "5.7%",
+          "yes"
+        ],
+        [
+          "8",
+          "maka-",
+          "3.8%",
+          ""
+        ],
+        [
+          "9",
+          "mang-",
+          "3.5%",
+          ""
+        ],
+        [
+          "10",
+          "pag-…-an",
+          "1.5%",
+          ""
+        ],
+        [
+          "11",
+          "magpa-",
+          "1.3%",
+          ""
+        ],
+        [
+          "15",
+          "pa-…-in",
+          "0.9%",
+          ""
+        ],
+        [
+          "16",
+          "makapag-",
+          "0.9%",
+          ""
+        ],
+        [
+          "37",
+          "paki-",
+          "0.0%",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "The learning of other verbs is important, but secondary to the big six, so sometimes we will refer to them as “second tier” verbs in this book. _Ma-...-an_ verbs are not included in the big six because they are too similar to, and in some resources even treated as, _ma-_ verbs. They do not add much diversity."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>How were Verb Affixes chosen for this Book?</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "I first chose to include the 11 most used verb types. After that, _Pa-...-in_ was added because it goes with _magpa-_, _makapag-_ was added because it goes with _maka-_, and _paki-_ was added to illustrate another way to say “please”."
+    }
+  ],
+  "exampleSentences": []
+}

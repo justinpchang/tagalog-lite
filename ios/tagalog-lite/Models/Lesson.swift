@@ -85,9 +85,16 @@ struct SentenceBlock: Decodable, Equatable {
   let item: BilingualItem
 }
 
+struct TableBlock: Decodable, Equatable {
+  let type: String  // "table"
+  let caption: String?
+  let rows: [[String]]
+}
+
 enum LessonBlock: Decodable, Equatable {
   case text(TextBlock)
   case sentence(SentenceBlock)
+  case table(TableBlock)
 
   private enum CodingKeys: String, CodingKey {
     case type
@@ -98,6 +105,8 @@ enum LessonBlock: Decodable, Equatable {
     let type = try container.decode(String.self, forKey: .type)
     if type == "sentence" {
       self = .sentence(try SentenceBlock(from: decoder))
+    } else if type == "table" {
+      self = .table(try TableBlock(from: decoder))
     } else {
       self = .text(try TextBlock(from: decoder))
     }

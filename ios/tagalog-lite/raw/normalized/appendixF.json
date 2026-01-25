@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixF",
+  "title": "Appendix F - Infinitive and Aspect",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "h1",
+      "markdown": "Infinitive and Aspect"
+    },
+    {
+      "type": "p",
+      "markdown": "The **infinitive** form of a verb, sometimes known as basic form or dictionary form, is the form a verb has before it is conjugated."
+    },
+    {
+      "type": "p",
+      "markdown": "To conjugate a verb means to change its form. In English, conjugating a verb can change its aspect, voice, mood, tense, person, number, gender etc. In Tagalog, conjugation only changes the aspect. **Aspect** indicates the state of completion of an action. There are three aspects that occur in all Tagalog verbs:"
+    },
+    {
+      "type": "p",
+      "markdown": "**Completed** aspect, sometimes known as perfective, indicates the action has been completed."
+    },
+    {
+      "type": "p",
+      "markdown": "**Uncompleted** aspect, sometimes known as imperfective, incompleted or habitual, indicates the action has started but has not been completed."
+    },
+    {
+      "type": "p",
+      "markdown": "**Contemplated** aspect, sometimes known as unstarted, indicates the action has not yet begun."
+    },
+    {
+      "type": "p",
+      "markdown": "Note – there is another aspect, the recently completed, that occurs in certain verbs, but it is much less common and will not be covered in this book."
+    },
+    {
+      "type": "p",
+      "markdown": "Here are some examples for the infinitive _mag-aral_ (to study)."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nag-aral si Maria ng Tagalog. = Maria studied Tagalog. _Nag-aral_ (studied) is completed aspect; the studying has been completed."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nag-aaral si Maria ng Tagalog. = Maria is/was studying Tagalog (or Maria studies Tagalog, depending on context). _Nag-aaral_ (studying/studies) is uncompleted aspect; the studying has started but has not been completed."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Mag-aaral si Maria ng Tagalog. = Maria will study Tagalog (or Maria will be studying Tagalog, depending on context). _Mag-aaral_ (will study/will be studying) is contemplated aspect; the studying has not yet begun."
+    },
+    {
+      "type": "h1",
+      "markdown": "Aspect vs Tense"
+    },
+    {
+      "type": "p",
+      "markdown": "At first glance, it may appear that the three aspects are just the past, present and future tenses. So why not just call them tenses and be done with it? Because they are not equivalent. Compare the following Tagalog sentence with its possible English definitions:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nag-aaral si Maria ng Tagalog. (Tagalog Uncompleted Aspect)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Maria studies Tagalog. (English Present Simple Tense)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Maria is studying Tagalog. (English Present Continuous Tense)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Maria was studying Tagalog. (English Past Continuous Tense)"
+    },
+    {
+      "type": "p",
+      "markdown": "For Tagalog one aspect is used, while in English three tenses are used. That is an example of why we say “aspect” rather than “tense” in this book. Most learning materials call them aspects, but be aware that some learning materials, teachers and native speakers call them tenses."
+    },
+    {
+      "type": "h1",
+      "markdown": "Sample Conjugation Table"
+    },
+    {
+      "type": "table",
+      "caption": "Table 1: Infinitive and\nAspects",
+      "rows": [
+        [
+          "Form",
+          "Verb",
+          "Definition",
+          ""
+        ],
+        [
+          "infinitive",
+          "mag-aral",
+          "to study",
+          "study"
+        ],
+        [
+          "completed",
+          "nag-aral",
+          "studied",
+          ""
+        ],
+        [
+          "uncompleted",
+          "nag-aaral",
+          "studying",
+          "studies"
+        ],
+        [
+          "contemplated",
+          "mag-aaral",
+          "will study",
+          "will be studying"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "It may help to visualize this table when thinking about aspect. Table 1 lists the infinitive and three aspects of the verb _mag-aral_. This is just a sample; different verb types are conjugated differently, as you will learn in the lessons."
+    },
+    {
+      "type": "h1",
+      "markdown": "Frequency of Infinitives and Aspects"
+    },
+    {
+      "type": "table",
+      "caption": "Table 2: Usage of Infinitive and Aspects in Colloquial Speech. (Source: Language Tools Tagalog Conversations)",
+      "rows": [
+        [
+          "Form",
+          "Usage"
+        ],
+        [
+          "infinitive",
+          "33%"
+        ],
+        [
+          "completed",
+          "24%"
+        ],
+        [
+          "uncompleted",
+          "26%"
+        ],
+        [
+          "contemplated",
+          "17%"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "This table was included for those curious to know how frequently the different verb forms occur in colloquial speech."
+    }
+  ],
+  "exampleSentences": []
+}

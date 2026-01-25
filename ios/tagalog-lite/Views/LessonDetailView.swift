@@ -413,6 +413,7 @@ struct GrammarSection: View {
     case h1Group([TextBlock])
     case bodyGroup([TextBlock])
     case sentence(key: String, item: BilingualItem)
+    case table(TableBlock)
   }
 
   private var chunks: [Chunk] {
@@ -440,6 +441,9 @@ struct GrammarSection: View {
         let key = "\(lessonId)-grammar-sentence-\(sentenceIndex)"
         sentenceIndex += 1
         out.append(.sentence(key: key, item: sb.item))
+      case .table(let tb):
+        flush()
+        out.append(.table(tb))
       }
     }
     flush()
@@ -472,6 +476,8 @@ struct GrammarSection: View {
                 if !showTagalog { toggleKey(key, in: &revealedTagalogKeys) }
               }
             )
+          case .table(let table):
+            GrammarTableView(table: table)
           }
         }
       }
@@ -582,6 +588,75 @@ private struct GrammarEmbeddedRevealCard: View {
         onToggleReveal()
       },
       including: .gesture
+    )
+  }
+}
+
+private struct GrammarTableView: View {
+  @Environment(\.colorScheme) private var colorScheme
+  let table: TableBlock
+
+  var body: some View {
+    VStack(alignment: .leading, spacing: 8) {
+      ScrollView(.horizontal, showsIndicators: false) {
+        VStack(alignment: .leading, spacing: 0) {
+          ForEach(Array(table.rows.enumerated()), id: \.offset) { rowIndex, row in
+            HStack(spacing: 0) {
+              ForEach(row.indices, id: \.self) { cellIndex in
+                let text = row[cellIndex]
+                Text(text)
+                  .font(
+                    .system(
+                      size: 14,
+                      weight: rowIndex == 0 ? .semibold : .regular,
+                      design: .rounded
+                    )
+                  )
+                  .foregroundStyle(.primary)
+                  .frame(minWidth: 90, alignment: .leading)
+                  .padding(.vertical, 6)
+                  .padding(.horizontal, 8)
+                  .background(
+                    rowIndex == 0
+                      ? Theme.accent.opacity(colorScheme == .dark ? 0.12 : 0.08)
+                      : Color.clear
+                  )
+                if cellIndex != row.indices.last {
+                  Divider()
+                    .frame(height: 24)
+                }
+              }
+            }
+            if rowIndex != table.rows.count - 1 {
+              Divider()
+            }
+          }
+        }
+        .overlay(
+          RoundedRectangle(cornerRadius: 10, style: .continuous)
+            .strokeBorder(
+              Color.primary.opacity(colorScheme == .dark ? 0.18 : 0.10),
+              lineWidth: 1
+            )
+        )
+        .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
+      }
+
+      if let caption = table.caption, !caption.isEmpty {
+        Text(caption)
+          .font(.system(.caption, design: .rounded).weight(.semibold))
+          .foregroundStyle(.secondary)
+      }
+    }
+    .padding(.horizontal, 6)
+    .padding(.vertical, 6)
+    .background(
+      RoundedRectangle(cornerRadius: 12, style: .continuous)
+        .fill(Theme.accent.opacity(colorScheme == .dark ? 0.06 : 0.04))
+    )
+    .overlay(
+      RoundedRectangle(cornerRadius: 12, style: .continuous)
+        .strokeBorder(Theme.accent.opacity(colorScheme == .dark ? 0.18 : 0.12), lineWidth: 1)
     )
   }
 }

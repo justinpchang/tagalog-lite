@@ -54,6 +54,56 @@ function stripHtml(html) {
   return decodeHtmlEntities(s).replace(/\u00a0/g, " ");
 }
 
+function parseHtmlTable(html) {
+  const tableMatch = String(html ?? "").match(/<table[\s\S]*?<\/table>/i);
+  if (!tableMatch) return null;
+  const tableHtml = tableMatch[0];
+  const rowMatches = tableHtml.match(/<tr[\s\S]*?<\/tr>/gi) ?? [];
+  const rows = [];
+
+  for (const rowHtml of rowMatches) {
+    const cellObjects = [];
+    const cellRe = /<(td|th)([^>]*)>([\s\S]*?)<\/\1>/gi;
+    let m;
+    while ((m = cellRe.exec(rowHtml)) !== null) {
+      const attrs = m[2] ?? "";
+      const raw = m[3] ?? "";
+      const text = cleanText(stripHtml(raw));
+      const colspanMatch = attrs.match(/colspan\s*=\s*["']?(\d+)/i);
+      const colspan = colspanMatch ? Math.max(1, Number(colspanMatch[1])) : 1;
+      cellObjects.push({ text, colspan });
+    }
+    if (cellObjects.length > 0) {
+      const cells = [];
+      if (cellObjects.length === 1) {
+        cells.push(cellObjects[0].text);
+      } else {
+        for (const cell of cellObjects) {
+          cells.push(cell.text);
+          for (let i = 1; i < cell.colspan; i++) {
+            cells.push("");
+          }
+        }
+      }
+      rows.push(cells);
+    }
+  }
+
+  if (rows.length === 0) return null;
+
+  let caption = null;
+  const lastRow = rows[rows.length - 1];
+  if (lastRow && lastRow.length === 1) {
+    const t = lastRow[0];
+    if (/^table\b/i.test(t) || /\btable\b/i.test(t)) {
+      caption = t;
+      rows.pop();
+    }
+  }
+
+  return { rows, caption };
+}
+
 function cleanText(s) {
   return String(s ?? "")
     .replace(/\r/g, "")
@@ -347,6 +397,18 @@ function normalizeRawContentState(raw, { id, title }) {
       const entityKey = block?.entityRanges?.[0]?.key;
       const entity = entityMap?.[String(entityKey)];
       const entityType = String(entity?.type ?? "");
+      if (entityType === "HTML") {
+        if (suppressedSection) continue;
+        const table = parseHtmlTable(entity?.data?.html ?? "");
+        if (table?.rows?.length) {
+          contents.push({
+            type: "table",
+            caption: table.caption ?? null,
+            rows: table.rows,
+          });
+        }
+        continue;
+      }
       if (entityType !== "EXAMPLE" && entityType !== "QUESTION") continue;
 
       // blobKey only (no audio fetching in-app yet)

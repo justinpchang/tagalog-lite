@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixM",
+  "title": "Appendix M - English Grammar Term Reference",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "table",
+      "caption": "Table 13: English Grammar Terms",
+      "rows": [
+        [
+          "Term",
+          "Definition and Examples"
+        ],
+        [
+          "adjective",
+          "A word that describes a noun. Examples: green, good, fast."
+        ],
+        [
+          "adverb",
+          "A word that modifies a verb, adjective, another adverb or group of words. Examples: happily, inside, now."
+        ],
+        [
+          "adverbial clause",
+          "A group of words that function as an adverb. Examples: right now, in total silence, any time."
+        ],
+        [
+          "affix",
+          "A group of letters that combine with the root to form a word. See prefix, suffix, infix and circumfix."
+        ],
+        [
+          "aspect",
+          "A verb form that expresses state of completion of a verb. See completed, uncompleted and contemplated aspects."
+        ],
+        [
+          "circumfix",
+          "A prefix and suffix that combine with a root to form a word. Example: enlighten (circumfix en-en combined with root light)."
+        ],
+        [
+          "clause",
+          "A clause contains a subject and a verb. Sentences can be made of combinations of clauses and phrases. An examples of a one clause sentence is Mary is the president. In Before I went home, I ate a banana there are 2 clauses; (1) before I went home and (2) I ate a banana."
+        ],
+        [
+          "common noun",
+          "Any noun that is not a proper noun. Examples: dog, house, car."
+        ],
+        [
+          "comparative",
+          "Adjective used to compare two objects. Examples: taller, more tired, worse."
+        ],
+        [
+          "completed aspect",
+          "A verb form that expresses a completed action. For example, \"eaten\" in \"I have eaten/I had eaten/I will have eaten\"."
+        ],
+        [
+          "conjugation",
+          "Changing the form of a verb. For example, the verb \"to be\" can be conjugated to \"is\", \"am\", \"are\", etc."
+        ],
+        [
+          "conjunction",
+          "A word that joins words, phrases, clauses or sentences. Examples: or, but, and."
+        ],
+        [
+          "contemplated aspect",
+          "A verb form that expresses an action that has not yet started. Examples: will go, will play, will eat."
+        ],
+        [
+          "contracted form",
+          "A shortened form (of a word). Examples: can't, don't, you've."
+        ],
+        [
+          "demonstrative pronoun",
+          "A pronoun that points to a specific object. Examples – this, that, it."
+        ],
+        [
+          "direct object",
+          "A noun or pronoun that is directly acted upon by a verb. Examples: boy in ask the boy, her in follow her, cat in feed the cat."
+        ],
+        [
+          "gerund",
+          "The \"ing\" form of a verb, used as a noun. Examples: I like eating. He is not good at cooking."
+        ],
+        [
+          "imperative",
+          "A sentence that is used to make a command or give instruction. Examples: Pass the butter. Be there by 3. Go home!"
+        ],
+        [
+          "indirect object",
+          "A noun or pronoun that is a recipient of an action. Example: me in Joe gave me a bike."
+        ],
+        [
+          "infinitive",
+          "A verb form made by adding \"to\" to the base form of the verb. Examples: to eat, to sleep, to dream."
+        ],
+        [
+          "infix",
+          "A group of letters that are inserted into a root to form a word. English has not true infixes, but occasionally you may see words like fan-flaming-tastic (infix: flaming)."
+        ],
+        [
+          "intensifier",
+          "Adverb used to add emphasis. Examples: really, very, too."
+        ],
+        [
+          "interrogative",
+          "A word or phrase used to indicate a question. Examples: how?, isn’t it?, where?"
+        ],
+        [
+          "intransitive verb",
+          "A verb that cannot take an object. Examples: happen, talk, panic."
+        ],
+        [
+          "noun",
+          "A word used for a person, place or thing. See common and proper nouns."
+        ],
+        [
+          "object",
+          "A noun or pronoun that is acted upon by a verb. See direct object and indirect object."
+        ],
+        [
+          "personal pronoun",
+          "A word that replaces a person in a sentence. Examples – he, she, they."
+        ],
+        [
+          "phrase",
+          "Phrases are groups of two or more words. They may act as, and be substituted for, a specific kind of word in a sentence. For example, a really ripe banana is a noun phrase. It can be substituted for the noun banana in I ate a banana to form the sentence I ate a really ripe banana."
+        ],
+        [
+          "plural",
+          "A form used to denote more than one noun. Example – dogs is the plural form of dog."
+        ],
+        [
+          "predicate",
+          "What remains in a clause if you remove the subject. Example – in Mary is the president, Mary is the subject and is the president is the predicate."
+        ],
+        [
+          "prefix",
+          "A group of letters that are added to the beginning of a root to form a word. Example: disappear (prefix dis- added to the beginning root appear)"
+        ],
+        [
+          "preposition",
+          "A word or phrase used before a noun or pronoun to indicate direction, time, place, location, etc. Examples: in, at, to."
+        ],
+        [
+          "present participle",
+          "The \"ing\" form of a verb, used as a verb. Examples: I am eating. They are cooking in the kitchen."
+        ],
+        [
+          "pronoun",
+          "A word that replaces a noun in a sentence. See personal pronoun, demonstrative pronoun."
+        ],
+        [
+          "proper noun",
+          "The name of a person or place. Examples: Mary, Manila, Joe."
+        ],
+        [
+          "reflexive phrase",
+          "A phrase in which the subject is the same as the object. Examples: She bathed herself. He ate his own cooking."
+        ],
+        [
+          "relative pronoun",
+          "A pronoun which is used to connect a noun to a relative clause. Examples: \"that\" in \"the car that I bought\"; \"who\" in \"the girl who is beautiful\"."
+        ],
+        [
+          "subject",
+          "The person/thing that is doing or being something in a clause. Example – in Mary is the President, Mary is the subject."
+        ],
+        [
+          "suffix",
+          "A group of letters that are added to the end of a root to form a word. Example: fellowship (suffix -ship added to the end of root fellow)"
+        ],
+        [
+          "superlative",
+          "Adjective used to describe an object which is at the upper or lower limit of a quality. Examples: tallest, most tired, worst."
+        ],
+        [
+          "tag question",
+          "A short interrogative structure tagged onto a sentence that makes it into a question. Examples: isn’t it?, right?, don’t you?"
+        ],
+        [
+          "transitive verb",
+          "A verb that can take an object. For example, in \"I ate a pie\", the verb \"ate\" is transitive because it can take the object \"pie\"."
+        ],
+        [
+          "uncompleted aspect",
+          "A verb form that expresses an action that has stated, but has not yet been completed. Examples: going, plays, eating."
+        ],
+        [
+          "verb",
+          "A word that describes an action, state or occurrence. Examples: run, be, happen."
+        ]
+      ]
+    }
+  ],
+  "exampleSentences": []
+}

@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixH",
+  "title": "Appendix H - Standard Sentence",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "h1",
+      "markdown": "Facts about the Standard Sentence"
+    },
+    {
+      "type": "p",
+      "markdown": "In this book we have defined what we call the “standard sentence” in order to help in explaining Tagalog grammar. Here are some facts about it:"
+    },
+    {
+      "type": "h2",
+      "markdown": "Standard Sentence = Verb + Actor + Object + X"
+    },
+    {
+      "type": "p",
+      "markdown": "Actor, Object and X are called “complements”"
+    },
+    {
+      "type": "p",
+      "markdown": "X may be an IO, cause, directional complement, benefactor or reference, depending on the focus and variant."
+    },
+    {
+      "type": "p",
+      "markdown": "The forms (ang/ng/sa) of the complements are summarized in this table:"
+    },
+    {
+      "type": "table",
+      "caption": "Table 3: The Three Form Patterns for Standard Sentences",
+      "rows": [
+        [
+          "Form Pattern",
+          "Form",
+          "",
+          ""
+        ],
+        [
+          "actor",
+          "object",
+          "X"
+        ],
+        [
+          "AF",
+          "ang",
+          "ng",
+          "sa"
+        ],
+        [
+          "OF",
+          "ng",
+          "ang",
+          "sa"
+        ],
+        [
+          "Other",
+          "ng",
+          "ng",
+          "ang"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "The order of the complements is as shown in the standard sentence equation above (actor, object, x), with a few notable exceptions which are mentioned in the word order lesson."
+    },
+    {
+      "type": "h1",
+      "markdown": "Which Complements are Required in a Standard Sentence?"
+    },
+    {
+      "type": "p",
+      "markdown": "Let’s define a complete sentence as one that has, as a minimum, a verb, focus, and any additional complements noted in the variant. For example:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Naglaro si Angel ng basketbol. = Angel played basketball."
+    },
+    {
+      "type": "p",
+      "markdown": "This is a complete sentence because the verb, _maglaro_, is AF(O), meaning a verb (_naglaro_), actor (_Angel_) and object (_basketbol_) are required. Most of the time complete sentences express a complete thought, or stand on their own. But sometimes incomplete sentences do too:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Naglaro si Angel sa eskwelahan. = Angel played at school."
+    },
+    {
+      "type": "p",
+      "markdown": "This sentence is incomplete because it is missing an object, but it stands on its own. Incomplete sentences can be almost anything. For example, if you ask what Angel played, they could answer:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Basketbol. = Basketball."
+    },
+    {
+      "type": "p",
+      "markdown": "This is just an object, but it is a valid sentence. On the other hand, it does not stand on its own. If you walk up to someone and say “basketball”, they would probably be confused. We use both complete and incomplete sentences in the lessons."
+    },
+    {
+      "type": "p",
+      "markdown": "The take away from this section is that there really is no minimum requirement for a standard sentence, but if you need it to stand on its own, your safest bet is to use a complete one."
+    },
+    {
+      "type": "h1",
+      "markdown": "More on Complements – Definite vs Indefinite"
+    },
+    {
+      "type": "p",
+      "markdown": "Let’s translate the sentence “The man will put a/the glass on the table” in AF, OF and DF:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Maglalagay ang lalaki ng baso sa lamesa. = The man will put a glass on the table."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Ilalagay ng lalaki ang baso sa lamesa. = A/the man will put the glass on the table."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Lalagyan ng lalaki ng baso ang lamesa. = A/the man will put a glass on the table."
+    },
+    {
+      "type": "p",
+      "markdown": "You may be wondering when to translate to “a” and when to translate to “the” in English. Here are the rules for _ang/ng/sa_ when they mark complements in standard sentences:"
+    },
+    {
+      "type": "p",
+      "markdown": "_Ang_ is always definite, so _ang lalaki_ is “the man”."
+    },
+    {
+      "type": "p",
+      "markdown": "_Ng_ is almost always indefinite when it marks an object. So _ng baso_ is “a glass” above. There are a few exceptions, like _ng totoo_(the truth) and _ng Tagalog_(Tagalog). But in general, do not use possessive phrases, personal pronouns, demonstrative pronouns or proper nouns as objects in standard sentences if they are _ng_ form."
+    },
+    {
+      "type": "p",
+      "markdown": "_Ng_ can be definite or indefinite when it marks an actor. So _ng lalaki_ is “a man” or “the man” above."
+    },
+    {
+      "type": "p",
+      "markdown": "_Sa_ is always definite, and normally contains a preposition, so _sa lamesa_ is “on the table”."
+    },
+    {
+      "type": "p",
+      "markdown": "Here are some helpful points for translating articles:"
+    },
+    {
+      "type": "p",
+      "markdown": "The definite article is “the”."
+    },
+    {
+      "type": "p",
+      "markdown": "The indefinite articles are “a”, “an”. “Some” is normally used for uncountable nouns. For example, the complement _ng tubig_ would normally translate to “some water”, _ng adobo_ would normally translate to “some adobo”, etc."
+    },
+    {
+      "type": "p",
+      "markdown": "Some proper nouns do not require “the/a/an”. For example, the complement _ang/ng Tagalog_ would just translate to “Tagalog”, _ang/ng Maynila_ would just translate to “Manila”, etc."
+    },
+    {
+      "type": "h1",
+      "markdown": "Extra: Which Focuses can create Standard Sentences?"
+    },
+    {
+      "type": "p",
+      "markdown": "Here is an expansion of Table 3 for all focuses and variants used in this book. I also listed the focuses not covered in the book, so that you could see how flexible the standard sentence is."
+    },
+    {
+      "type": "table",
+      "caption": null,
+      "rows": [
+        [
+          "Focus",
+          "Pos 1",
+          "Pos 2",
+          "Pos 3",
+          "Pos 4",
+          "Pos 5",
+          "Standard?"
+        ],
+        [
+          "AF(DO)",
+          "v",
+          "a/ang",
+          "o/ng",
+          "io/sa",
+          "",
+          "yes"
+        ],
+        [
+          "AF(O)",
+          "v",
+          "a/ang",
+          "o/ng",
+          "",
+          "",
+          "yes"
+        ],
+        [
+          "AF(D)",
+          "v",
+          "a/ang",
+          "",
+          "dc/sa",
+          "",
+          "yes"
+        ],
+        [
+          "AF(I)",
+          "v",
+          "a/ang",
+          "",
+          "c/sa",
+          "",
+          "yes"
+        ],
+        [
+          "OF(DO)",
+          "v",
+          "a/ng",
+          "o/ang",
+          "io/sa",
+          "",
+          "yes"
+        ],
+        [
+          "OF(O)",
+          "v",
+          "a/ng",
+          "o/ang",
+          "",
+          "",
+          "yes"
+        ],
+        [
+          "DF(DO)",
+          "v",
+          "a/ng",
+          "o/ng",
+          "io/ang",
+          "",
+          "yes"
+        ],
+        [
+          "DF(D)",
+          "v",
+          "a/ng",
+          "",
+          "dc/ang",
+          "",
+          "yes"
+        ],
+        [
+          "BF",
+          "v",
+          "a/ng",
+          "o/ng",
+          "b/ang",
+          "",
+          "yes"
+        ],
+        [
+          "RFF",
+          "v",
+          "a/ng",
+          "",
+          "rf/ang",
+          "",
+          "yes"
+        ],
+        [
+          "LF",
+          "v",
+          "a/ng",
+          "o/ng",
+          "io/sa",
+          "l/ang",
+          "no"
+        ],
+        [
+          "A2F",
+          "v",
+          "a/ng",
+          "o/ng",
+          "io/sa",
+          "2a/ang",
+          "no"
+        ],
+        [
+          "*MF",
+          "m adv",
+          "v/ang",
+          "a/ng",
+          "",
+          "",
+          "no"
+        ],
+        [
+          "*RF",
+          "v",
+          "a/ng",
+          "o/ng",
+          "r/ang",
+          "",
+          "yes"
+        ],
+        [
+          "*IF",
+          "v",
+          "a/ng",
+          "o/ng",
+          "i/ang",
+          "",
+          "yes"
+        ],
+        [
+          "*CF",
+          "v",
+          "a/ng",
+          "o/ng",
+          "c/ang",
+          "",
+          "yes"
+        ],
+        [
+          "Table 7: Form Patterns for All Focuses"
+        ],
+        [
+          "*Focus not covered in this book."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "caption": null,
+      "rows": [
+        [
+          "KEY:",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "pos",
+          "position",
+          "",
+          "m adv",
+          "measurement adverb"
+        ],
+        [
+          "ang",
+          "ang form",
+          "",
+          "dc",
+          "directional complement"
+        ],
+        [
+          "ng",
+          "ng form",
+          "",
+          "c",
+          "cause"
+        ],
+        [
+          "sa",
+          "sa form",
+          "",
+          "b",
+          "beneficiary"
+        ],
+        [
+          "v",
+          "verb",
+          "",
+          "rf",
+          "reference"
+        ],
+        [
+          "a",
+          "actor",
+          "",
+          "r",
+          "reservation"
+        ],
+        [
+          "o",
+          "object",
+          "",
+          "i",
+          "instrument"
+        ],
+        [
+          "io",
+          "indirect object",
+          "",
+          "l",
+          "location"
+        ],
+        [
+          "standard",
+          "standard sentence",
+          "",
+          "2a",
+          "2nd actor"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that there are only three focuses that cannot create standard sentences (LF, A2F and MF), and these are not very common."
+    }
+  ],
+  "exampleSentences": []
+}

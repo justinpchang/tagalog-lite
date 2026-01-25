@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixE",
+  "title": "Appendix E - Hours, Days, Months",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "These time words/expressions are borrowed from Spanish, and they are tabulated here for your convenience."
+    },
+    {
+      "type": "h1",
+      "markdown": "Hours of the Day"
+    },
+    {
+      "type": "p",
+      "markdown": "Note that you use _ala_ for _una (ala-una)_, but alas for all other hours. In Spanish _à la una_ means “at 1 o’clock”. But in Tagalog, _ala-una_ just means “1 o’clock”. _Alas-dos_ just means “2 o’clock”, etc."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ala-una",
+        "english": "1 o’clock",
+        "required": true,
+        "audioPath": "c45285bd-21fa-4f7b-b313-6d03f32dc24d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-dos",
+        "english": "2 o’clock",
+        "required": true,
+        "audioPath": "17e2c9d1-1ff8-42fb-b329-159e174593ae"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-tres",
+        "english": "3 o’clock",
+        "required": true,
+        "audioPath": "8e560c0e-e4a4-4c7b-959c-cdad261b1512"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-kuwatro",
+        "english": "4 o’clock",
+        "required": true,
+        "audioPath": "9e80d77e-20a6-464d-9c01-a19d76efa21b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-singko",
+        "english": "5 o’clock",
+        "required": true,
+        "audioPath": "17205859-1b4a-449d-b437-7b35ded950d6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-saís",
+        "english": "6 o’clock",
+        "required": true,
+        "audioPath": "3d9e6dba-02ef-43b4-801a-47ca8b1fbc9b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-siyete",
+        "english": "7 o’clock",
+        "required": true,
+        "audioPath": "e9d147a0-ef8e-4a4a-9b66-41a8ee887411"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-otso",
+        "english": "8 o’clock",
+        "required": true,
+        "audioPath": "fe581884-41c7-4980-a6fc-3bd705564e62"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-nuwebe",
+        "english": "9 o’clock",
+        "required": true,
+        "audioPath": "41fdc8df-3cff-4d40-9f39-3836f147e59b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-diyés",
+        "english": "10 o’clock",
+        "required": true,
+        "audioPath": "2add2fe6-8867-444e-af11-b5177d7a5642"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-onse",
+        "english": "11 o’clock",
+        "required": true,
+        "audioPath": "f45a01e2-c991-496c-9977-bb60224faf40"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "alas-dose",
+        "english": "12 o’clock",
+        "required": true,
+        "audioPath": "1b31e9b9-3048-4f1e-b41d-2b57941f7e7a"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Days of the Week"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Linggó",
+        "english": "Sunday",
+        "required": true,
+        "audioPath": "1f3e1b5d-b904-4387-97cd-3929f518326f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Lunes",
+        "english": "Monday",
+        "required": true,
+        "audioPath": "9d9fb061-24b5-4b6e-bece-eeb334dfa61c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Martés",
+        "english": "Tuesday",
+        "required": true,
+        "audioPath": "1c4327ac-c829-4d89-8443-097bdf5afb14"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Miyérkules",
+        "english": "Wednesday",
+        "required": true,
+        "audioPath": "d097c99d-b925-42fd-9f3d-23f68c5b1784"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Huwebes",
+        "english": "Thursday",
+        "required": true,
+        "audioPath": "8861ebb7-9d32-4714-9109-17c9f032ba7d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Biyernes",
+        "english": "Friday",
+        "required": true,
+        "audioPath": "193a63dd-8a18-4ceb-9646-ba967197d16e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Sábado",
+        "english": "Saturday",
+        "required": true,
+        "audioPath": "d3181047-d02f-46e1-a4fe-54d7c5e301f7"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Months of the Year"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Enero",
+        "english": "January",
+        "required": true,
+        "audioPath": "cb9b1822-d806-4d20-b94c-555abc130952"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Pebrero",
+        "english": "February",
+        "required": true,
+        "audioPath": "6b80f335-410a-4edc-a7d4-a7178829d4e1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Marso",
+        "english": "March",
+        "required": true,
+        "audioPath": "4f0ec582-6929-4433-a6f3-ab2a042d4dcf"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Abríl",
+        "english": "April",
+        "required": true,
+        "audioPath": "ebcfe5c3-e7fe-4dcc-811f-0884db5930b3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Mayo",
+        "english": "May",
+        "required": true,
+        "audioPath": "e05e213f-711c-4464-a60e-9e26b2dd13e2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hunyo",
+        "english": "June",
+        "required": true,
+        "audioPath": "e126fc2c-6021-4dd9-8521-d0ae0decf6aa"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Hulyo",
+        "english": "July",
+        "required": true,
+        "audioPath": "024ba45c-c47e-467e-9201-ac33ea4fa90a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Agosto",
+        "english": "August",
+        "required": true,
+        "audioPath": "cf791362-d71a-4f19-a58e-82e4123494fe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Setyembre",
+        "english": "September",
+        "required": true,
+        "audioPath": "a5011696-76fb-4fb8-8c45-3261ca2194e5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Oktubre",
+        "english": "October",
+        "required": true,
+        "audioPath": "33d8d606-7834-4eb0-b9ed-243510640900"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Nobyembre",
+        "english": "November",
+        "required": true,
+        "audioPath": "bfb9c9b8-22b8-41a3-bcf8-dcd459fc15a6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "Disyembre",
+        "english": "December",
+        "required": true,
+        "audioPath": "7b59ebbe-0421-4fff-977f-edec8bd242d3"
+      }
+    }
+  ],
+  "exampleSentences": []
+}

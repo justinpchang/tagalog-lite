@@ -1,0 +1,937 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixD",
+  "title": "Appendix D - Numbers",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Tagalog speakers use numbers originating from Tagalog, Spanish and English. In general, English is used most often. But you will hear Tagalog and Spanish numbers a lot, so you are encouraged to learn them and use them because that will give you a better chance of recognizing them. Here are the number tables for your convenience. I recommend you make a pass at memorizing them here as soon as you encounter them in a lesson. Do not be concerned if they do not stick well at first; there will be a lot of repetition, which will make them become automatic eventually. If at any time you are in doubt, revisit this appendix and review them again."
+    },
+    {
+      "type": "h1",
+      "markdown": "Pure Tagalog cardinal numbers 1-10"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "isá",
+        "english": "1",
+        "required": true,
+        "audioPath": "d2849e70-0112-4b48-86db-37b634e50aa3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dalawá",
+        "english": "2",
+        "required": true,
+        "audioPath": "5a0ba271-4566-46fa-b956-0708a29975b3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tatló",
+        "english": "3",
+        "required": true,
+        "audioPath": "6a71af0f-24ee-4651-b10a-433d9a28bd6f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "apat",
+        "english": "4",
+        "required": true,
+        "audioPath": "71cf29c8-f593-434d-a59c-ea45dbf218c0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "limá",
+        "english": "5",
+        "required": true,
+        "audioPath": "33d99dfe-ac6f-4727-94bc-a0ffa5a0d6c4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "anim",
+        "english": "6",
+        "required": true,
+        "audioPath": "5be4b5be-6153-48a4-9ae3-b8f9925281e4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pitó",
+        "english": "7",
+        "required": true,
+        "audioPath": "a518b5bf-e795-4ecd-a5c0-3936585236cb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "waló",
+        "english": "8",
+        "required": true,
+        "audioPath": "562373ea-d020-4d50-90ef-07828ff33184"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siyám",
+        "english": "9",
+        "required": true,
+        "audioPath": "83fed6b9-9fc4-4e66-9000-9109247cf368"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sampû",
+        "english": "10",
+        "required": true,
+        "audioPath": "ea075916-ec9c-42df-b7c8-1fcb50a3fb57"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Pure Tagalog cardinal numbers 11-19"
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that _labing_ is placed in front of numbers that start with vowels, and _labin_ with consonants, with the exception of 17 which gets _labim_."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labing-isá",
+        "english": "11",
+        "required": true,
+        "audioPath": "97ba0b6a-930e-4b24-9717-b014fa716e5b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labindalawá",
+        "english": "12",
+        "required": true,
+        "audioPath": "9cff0826-567b-4fb5-8e6f-f3dd835871f6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labintatló",
+        "english": "13",
+        "required": true,
+        "audioPath": "63c6d78d-cae2-47e8-a053-bc3e10cd0ff7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labing-apat",
+        "english": "14",
+        "required": true,
+        "audioPath": "e19c1e70-1937-4542-8742-2b08b4bfe59c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labinlimá",
+        "english": "15",
+        "required": true,
+        "audioPath": "1bcb9b5b-1cdf-40ec-9038-74470dc403b6"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labing-anim",
+        "english": "16",
+        "required": true,
+        "audioPath": "a84533c8-c352-439b-b4cc-16815723b1c7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labimpitó",
+        "english": "17",
+        "required": true,
+        "audioPath": "ed95054b-93c0-4bb6-a89c-c60e98139ce9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labinwaló",
+        "english": "18",
+        "required": true,
+        "audioPath": "480e7e24-6c9a-4464-bc74-4fb9b9094c21"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "labinsiyám",
+        "english": "19",
+        "required": true,
+        "audioPath": "efa99e23-cbf5-4fa9-ae23-72a4fc0ea05b"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Pure Tagalog cardinal numbers 20-99"
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that multiples of ten are just the number followed by _mpu_ if it ends with a vowel, and _napu_ with a consonant. Also, _o_’s turn into _u_’s. Between the multiples of ten, just add _‘t_ + number."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dalawampû",
+        "english": "20",
+        "required": true,
+        "audioPath": "7f8a25ed-42af-4011-a34c-398145b6c515"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tatlumpû",
+        "english": "30",
+        "required": true,
+        "audioPath": "7fe75486-ff0d-4612-ba64-62a6128016a1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "apatnapû",
+        "english": "40",
+        "required": true,
+        "audioPath": "8ca7059b-2f9b-4d04-a860-2c1e81c35da7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "limampû",
+        "english": "50",
+        "required": true,
+        "audioPath": "f8344479-e30f-4901-8c4e-3ad0030dff31"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "animnapû",
+        "english": "60",
+        "required": true,
+        "audioPath": "a5811fef-9899-4a1d-8abc-5375d833585a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pitumpû",
+        "english": "70",
+        "required": true,
+        "audioPath": "6465fa01-c3db-498b-9d62-8feff7667440"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "walumpû",
+        "english": "80",
+        "required": true,
+        "audioPath": "7224d7c7-b746-42b7-b700-6d9382ab1b42"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siyamnapû",
+        "english": "90",
+        "required": true,
+        "audioPath": "f5013bea-6a4e-4209-97d2-d917ad594e0e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siyamnapú’t isá",
+        "english": "91",
+        "required": true,
+        "audioPath": "84236952-a98f-4036-98b2-60f94929251d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siyamnapú’t dalawá",
+        "english": "92",
+        "required": true,
+        "audioPath": "952943b2-374c-479f-a8c5-64a4ed1ab86d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siyamnapú’t tatló",
+        "english": "93",
+        "required": true,
+        "audioPath": "97f54649-cddc-4777-8011-414881601c29"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Pure Tagalog cardinal numbers 100+"
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that except for 100, multiples of one hundred are just the number followed by _-ng daan _if it ends with a vowel, and_ na raan_ with a consonant. For numbers over one million, just use English or Spanish."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sandaán",
+        "english": "100",
+        "required": true,
+        "audioPath": "76d814ed-ede4-4c04-b8bd-2beaaea32c9c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dalawáng daán",
+        "english": "200",
+        "required": true,
+        "audioPath": "66e3e2a0-45a2-46b0-a786-5d0cd63d7e66"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tatlóng daán",
+        "english": "300",
+        "required": true,
+        "audioPath": "832ef413-e906-485d-92ad-9de9548a7a6c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "apat na raán",
+        "english": "400",
+        "required": true,
+        "audioPath": "c0108ec9-276a-4179-9ab2-eb9f4bb4f994"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "limáng daán",
+        "english": "500",
+        "required": true,
+        "audioPath": "a9cd0bbe-f4cd-42f2-b075-f3802e72f85b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "anim na raán",
+        "english": "600",
+        "required": true,
+        "audioPath": "e676a93f-317a-4a87-8e82-80881765867b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pitóng daán",
+        "english": "700",
+        "required": true,
+        "audioPath": "dd3928da-a0af-4806-9116-2294fce4a9c9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "walóng daán",
+        "english": "800",
+        "required": true,
+        "audioPath": "c2ca8814-f74e-4b92-9ee4-bf078fcf4732"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siyám na raán",
+        "english": "900",
+        "required": true,
+        "audioPath": "de985e0d-6cb6-46a1-9fcc-f1b6d2f8d028"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "isáng libo",
+        "english": "1000",
+        "required": true,
+        "audioPath": "995fe55a-f211-4f28-ab19-38299e4ef910"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "For numbers in between multiples, just use the same order you would with English, but add _at_ or _’t_ between the last two numbers and, provided it is not one of the last two numbers, a comma after hundreds, thousands, etc."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tatlóng libo, apat na raán, siyamnapú’t anim",
+        "english": "3496",
+        "required": true,
+        "audioPath": "79e9dc00-78ed-4826-8155-622238383b4d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tatlóng libo, apat na raán at anim",
+        "english": "3406",
+        "required": true,
+        "audioPath": "c71c645a-1360-440b-a933-6117d9316a3b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tatlóng libo’t anim",
+        "english": "3006",
+        "required": true,
+        "audioPath": "e96bf9c6-2698-4729-aa5a-1805ac92d8f1"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Cardinal numbers from Spanish 1-10"
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that while these numbers came from Spanish, pronunciation and spelling are often different."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "una/uno",
+        "english": "1",
+        "required": true,
+        "audioPath": "de20eaeb-03ee-4fda-b49d-933e3e0e977d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dos",
+        "english": "2",
+        "required": true,
+        "audioPath": "f164ff0f-7145-4b5d-a582-d12fab36a61d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tres",
+        "english": "3",
+        "required": true,
+        "audioPath": "428ec0ff-253d-4779-8add-988f703bf111"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kuwatro",
+        "english": "4",
+        "required": true,
+        "audioPath": "f8941b9f-52f9-4f1b-b370-2a298ad5cd77"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "singko",
+        "english": "5",
+        "required": true,
+        "audioPath": "f3e02e3f-ec75-42f6-9a5b-0181057653b2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "saís",
+        "english": "6",
+        "required": true,
+        "audioPath": "0f0a9b58-122f-4878-87d3-b4b93512b101"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siyete",
+        "english": "7",
+        "required": true,
+        "audioPath": "242fde18-158c-43a4-8878-a81ec900fa86"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "otso",
+        "english": "8",
+        "required": true,
+        "audioPath": "627b25ff-8c06-4723-b55f-615cd43342f2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nuwebe",
+        "english": "9",
+        "required": true,
+        "audioPath": "bdfce3eb-8f20-4517-a028-1f031994cf53"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "diyés",
+        "english": "10",
+        "required": true,
+        "audioPath": "039cc3df-1247-4bab-86fb-ac3eeaa1465f"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Cardinal numbers from Spanish 11-19"
+    },
+    {
+      "type": "p",
+      "markdown": "Notice that while these numbers came from Spanish, pronunciation and spelling are often different."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "onse",
+        "english": "11",
+        "required": true,
+        "audioPath": "07c44bbc-621e-4de8-8f7f-5b2e6cbd1719"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dose",
+        "english": "12",
+        "required": true,
+        "audioPath": "f6ee8150-6058-4bdc-ba58-d110aadd2531"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "trese",
+        "english": "13",
+        "required": true,
+        "audioPath": "4d7c11aa-994a-49af-bea4-68fcb97af31d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "katorse",
+        "english": "14",
+        "required": true,
+        "audioPath": "84b90043-a7d7-4cb1-a3f0-11564ae9417c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kinse",
+        "english": "15",
+        "required": true,
+        "audioPath": "c33fd4a6-6c16-46bf-ab07-38f765bc012d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "disiseis",
+        "english": "16",
+        "required": true,
+        "audioPath": "2c746168-5c32-403c-a334-fd93059354a7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "disisiyete",
+        "english": "17",
+        "required": true,
+        "audioPath": "04b41e01-7b5a-41f4-b735-1af2406c7c39"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "disiotso",
+        "english": "18",
+        "required": true,
+        "audioPath": "7337696d-240a-4d38-b9f3-a49a03d4f249"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "disinuwebe",
+        "english": "19",
+        "required": true,
+        "audioPath": "fc149416-cd53-418e-9ae9-dc0bd22d8582"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Cardinal numbers from Spanish 20-99"
+    },
+    {
+      "type": "p",
+      "markdown": "Between multiples of 10, with the exception of _beynte_, just add _’y _+ number."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "beynte",
+        "english": "20",
+        "required": true,
+        "audioPath": "5ad37d2c-3abb-4fd6-bdb5-7dfa81d0254e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "beynte uno",
+        "english": "21",
+        "required": true,
+        "audioPath": "a8ed1640-78b8-431b-ac43-f78197a7282e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "treynta",
+        "english": "30",
+        "required": true,
+        "audioPath": "d5cfb243-5ffe-40bd-b696-c000cd2b75c1"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kuwarenta",
+        "english": "40",
+        "required": true,
+        "audioPath": "28d2b96c-1591-4502-afec-4fe5fbc12dac"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "singkuwenta",
+        "english": "50",
+        "required": true,
+        "audioPath": "9bd9bcee-2cf0-4998-a575-ce8f82964b6d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sisenta",
+        "english": "60",
+        "required": true,
+        "audioPath": "5fe06ad9-68dc-45c9-b234-909150e71046"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sitenta",
+        "english": "70",
+        "required": true,
+        "audioPath": "8d622d41-88c7-4268-b977-62a91897347a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "otsenta",
+        "english": "80",
+        "required": true,
+        "audioPath": "d961a8d2-0b9d-4b7e-a1dd-15cf27d5aa5b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nobenta",
+        "english": "90",
+        "required": true,
+        "audioPath": "3b1037ac-1838-42d8-8816-590ac4c48c26"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nobenta’y uno",
+        "english": "91",
+        "required": true,
+        "audioPath": "98637814-1bac-47ba-b077-f380287d4e28"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Ordinal numbers"
+    },
+    {
+      "type": "p",
+      "markdown": "Ordinal numbers are of the type: first, second, third, etc. With the exceptions of first, second, third and last, all you have to do to form an ordinal number in Tagalog is add _ika_ in front of the number:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "una",
+        "english": "first",
+        "required": true,
+        "audioPath": "470cfe28-ab35-4ae9-a38c-cb13d2255d3d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikalawá",
+        "english": "second",
+        "required": true,
+        "audioPath": "b36320cf-1663-4fdd-a03f-b5253575584f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikatló",
+        "english": "third",
+        "required": true,
+        "audioPath": "0588890b-c293-411a-ab55-60037458ae46"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikaapat",
+        "english": "fourth",
+        "required": true,
+        "audioPath": "fdb099f4-4757-41f0-b354-a25357d5b125"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikalabinlimá",
+        "english": "fifteenth",
+        "required": true,
+        "audioPath": "212c9e6c-2aea-4b5a-af5d-afe9a970b9a0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikatatlumpû",
+        "english": "thirtieth",
+        "required": true,
+        "audioPath": "2a3dab6a-092e-4960-bbce-86a9f6cbe895"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikasandaán",
+        "english": "hundredth",
+        "required": true,
+        "audioPath": "c71f72e0-8fb2-474b-ba24-abc476b25dad"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "hulí",
+        "english": "last",
+        "required": true,
+        "audioPath": "95f306b6-9d1a-418e-bc8b-f5ee5857e061"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Although you use _una_ for just the plain “first”, when it comes to numbers like “twenty-first”, you use _isa_:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikadalawampú’t isa",
+        "english": "twenty-first",
+        "required": true,
+        "audioPath": "185fe5e3-3d89-418d-afa5-ab58c55f103a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikatatlumpú’t isa",
+        "english": "thirty-first",
+        "required": true,
+        "audioPath": "e27930cd-f0a1-4a7e-878d-47b89331b687"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikaapatnapú’t isa",
+        "english": "forty-first",
+        "required": true,
+        "audioPath": "4a1bd0a6-2acc-49df-87ea-258c0914b8be"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Extra – Pang</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Instead of _ika_, you can sometimes use _pang_, which may morph to _pan_ or _pam_ depending on the next letter, for ordinal numbers:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pangalawá",
+        "english": "second",
+        "required": true,
+        "audioPath": "20a02c7c-4905-4291-b259-67a40b2c3e57"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pangatló",
+        "english": "third",
+        "required": true,
+        "audioPath": "4d705d0b-0a03-49e9-9142-b6a08dd8fff2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "panlimá",
+        "english": "fifth",
+        "required": true,
+        "audioPath": "f4878d62-1f24-413d-9197-7b3486eb8e44"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "pampitó",
+        "english": "seventh",
+        "required": true,
+        "audioPath": "191444aa-c368-467c-888f-e10e0d0aca51"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "But it cannot be used in some cases, like days of the month, so we will only use ika in the lessons."
+    },
+    {
+      "type": "h1",
+      "markdown": "Fractions"
+    },
+    {
+      "type": "p",
+      "markdown": "Tagalog fractions are rarely used, with the exception of:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kalahatì",
+        "english": "1/2",
+        "required": true,
+        "audioPath": "385a4012-5909-4675-b2f9-0dcd0cfe49dc"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Extra – Examples of Fractions</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Although we will not be using these in the lessons, here are some examples to satisfy your curiosity:"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sang-katló",
+        "english": "1/3",
+        "required": true,
+        "audioPath": "9154e55e-db3c-4180-b390-31800094bccb"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sang-kapat",
+        "english": "1/4",
+        "required": true,
+        "audioPath": "9a35a775-2473-4b39-8b6f-a7378a067610"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dalawang-katló",
+        "english": "2/3",
+        "required": true,
+        "audioPath": "1cfeb1d0-f807-4860-9248-7fde926418c4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tatlong-kapat",
+        "english": "3/4",
+        "required": true,
+        "audioPath": "e37de534-e12e-4b59-8849-0f85565be229"
+      }
+    }
+  ],
+  "exampleSentences": []
+}

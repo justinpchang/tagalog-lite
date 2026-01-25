@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixJ",
+  "title": "Appendix J - Enclitics",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "This appendix contains a summary of general information about enclitics, a table of all enclitics, and a table of enclitics used in the sample sentences for your quick reference."
+    },
+    {
+      "type": "h1",
+      "markdown": "General Info about Enclitics"
+    },
+    {
+      "type": "p",
+      "markdown": "An enclitic is a word that must follow a certain word, called a “host”, in a phrase."
+    },
+    {
+      "type": "p",
+      "markdown": "In this book, we have made the host bold in the structure equations. See the associated lessons or **Appendix L** to find out what the hosts of specific structure equations are. Some sentences in this book are single phrases, meaning the enclitics will follow a single word in the sentence. But sometimes there are two or more phrases, and in those cases you need to remember that they go after the host of the phrase that they belong to. The host is often the first word of the phrase, but not always."
+    },
+    {
+      "type": "p",
+      "markdown": "Enclitics are either a) enclitic particles or b) _ang_ or _ng_ form personal pronouns (excluding _ikaw_)."
+    },
+    {
+      "type": "p",
+      "markdown": "For clarification, the word “enclitic” is both a noun and an adjective, so we call all words that must follow a host “enclitics”, and we call particles that must follow a host “enclitic particles”."
+    },
+    {
+      "type": "p",
+      "markdown": "When there are no enclitics, word order is more flexible."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nagluto si Maria ng adobo. = Maria cooked adobo."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nagluto ng adobo si Maria. = Maria cooked adobo."
+    },
+    {
+      "type": "p",
+      "markdown": "Both of these sentences are correct. Remember that the verb is the host in Standard Sentences. Now let’s see what happens when we replace _si Maria_ with _siya_."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nagluto siya ng adobo. = She cooked adobo."
+    },
+    {
+      "type": "p",
+      "markdown": "XXX Nagluto ng adobo siya. = Not a valid sentence."
+    },
+    {
+      "type": "p",
+      "markdown": "Because it is an _ang_ form personal pronoun, _siya_ is enclitic, so it must go after the host, the verb in this case, and therefore the second sentence is wrong."
+    },
+    {
+      "type": "p",
+      "markdown": "When more than one enclitic appears in a phrase, we will call it an “enclitic cluster”. The enclitics in the enclitic cluster are pronounced together with the host with no pauses as if they form a single word."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nagluto po ba siya ng adobo? = Did she cook the adobo?"
+    },
+    {
+      "type": "p",
+      "markdown": "In the example, _nagluto po ba siya_ is pronounced as _naglutopobasiya_."
+    },
+    {
+      "type": "h1",
+      "markdown": "Complete List of Enclitics"
+    },
+    {
+      "type": "table",
+      "caption": "Table 9: The Order of Enclitics in the Enclitic Cluster",
+      "rows": [
+        [
+          "Type",
+          "",
+          "Order",
+          "Enclitic",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "single syllable personal pronouns",
+          "",
+          "1",
+          "ko",
+          "ka",
+          "mo",
+          "",
+          "",
+          ""
+        ],
+        [
+          "enclitic particles",
+          "",
+          "2",
+          "na",
+          "pa",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "man",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "nga",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "5",
+          "din",
+          "rin",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "6",
+          "lang",
+          "lamang",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "7",
+          "naman",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "8",
+          "daw",
+          "raw",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "9",
+          "po",
+          "ho",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10",
+          "ba",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11",
+          "pala",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12",
+          "kaya",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13",
+          "muna",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "14",
+          "tuloy",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15",
+          "kasi",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16",
+          "yata",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17",
+          "sana",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "remaining personal pronouns",
+          "ng form, kita",
+          "18",
+          "niya",
+          "namin",
+          "natin",
+          "ninyo",
+          "nila",
+          "kita"
+        ],
+        [
+          "ang form",
+          "19",
+          "ako",
+          "siya",
+          "kami",
+          "tayo",
+          "kayo",
+          "sila"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "You do not need to memorize the whole table; it is just a convenient reference."
+    },
+    {
+      "type": "p",
+      "markdown": "_Rin_ and _raw_ are used after words that end in vowels, “w” or “y”; _din_ and _daw_ are used in all other cases. Be aware that sometimes native speakers do not follow that rule. _Lamang_ is the formal version of _lang_, so they can be used interchangeably. _Po_ and _ho_ both indicate respect. _Po_ is more respectful, so they are not necessarily interchangeable, but they use the same order of appearance. For more information on specific particle meanings and usage, see the lesson on Using Enclitics."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Tips for Remembering the order of Enclitics</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "I recommend you memorize this order:"
+    },
+    {
+      "type": "p",
+      "markdown": "Short Personal Pronouns"
+    },
+    {
+      "type": "p",
+      "markdown": "Enclitic Particles"
+    },
+    {
+      "type": "p",
+      "markdown": "Ng form Personal Pronouns and Kita"
+    },
+    {
+      "type": "p",
+      "markdown": "Ang form Personal Pronouns"
+    },
+    {
+      "type": "p",
+      "markdown": "When you get enough exposure to the language, you will naturally memorize all the personal pronouns and enclitic particles. So, knowing what order they appear in the sentence is useful."
+    },
+    {
+      "type": "p",
+      "markdown": "Memorizing the order of the enclitic particles (order 2 thru 17 in the big table) is a bit trickier. We hope that memorizing the shorter list of particles that we use in the sample sentence enclitic clusters will give you enough of a framework so the remaining particles will eventually find their way into the correct locations of your conversation. Short list:"
+    },
+    {
+      "type": "table",
+      "caption": "Table 10: All Particles used in the Sample Sentence Enclitic Clusters",
+      "rows": [
+        [
+          "Rank",
+          "Enclitic Particle",
+          ""
+        ],
+        [
+          "1",
+          "na",
+          "pa"
+        ],
+        [
+          "2",
+          "nga",
+          ""
+        ],
+        [
+          "3",
+          "din",
+          "rin"
+        ],
+        [
+          "4",
+          "lang",
+          ""
+        ],
+        [
+          "5",
+          "naman",
+          ""
+        ],
+        [
+          "6",
+          "po",
+          ""
+        ],
+        [
+          "7",
+          "ba",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "markdown": "One final tip. With the exception of naman, one-syllable enclitic particles always come before the two syllable ones. That may help you a bit in remembering the order."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Focus Sensitive Enclitic Particles.</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Most enclitic particles apply to the entire clause, but _din/rin, lang, naman_(contrast), which we call “focus sensitive” enclitic particles, do not apply to the focus:"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Nag-aral rin siya ng Tagalog. = She also studied Tagalog. “Also” does not apply to “she” here. For example, this can mean she studied it and listened to it, or she studied Tagalog and French, but it cannot mean that she and her friend studied Tagalog."
+    }
+  ],
+  "exampleSentences": []
+}

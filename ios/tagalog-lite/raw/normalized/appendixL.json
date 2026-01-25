@@ -1,0 +1,789 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixL",
+  "title": "Appendix L – All Structure Equations",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "table",
+      "caption": "Table 12: All Structure Equations in this Book",
+      "rows": [
+        [
+          "Loc",
+          "Tagalog (enclitic host in bold)",
+          "English",
+          "Notes"
+        ],
+        [
+          "2",
+          "Sino + subject?",
+          "Who is the subject?",
+          "Subject takes ang form."
+        ],
+        [
+          "2",
+          "Predicate + subject.",
+          "Subject is the predicate.",
+          "Subject and predicate take ang form."
+        ],
+        [
+          "3",
+          "Ano + subject?",
+          "What is subject?",
+          "Subject takes ang form."
+        ],
+        [
+          "3",
+          "Predicate + subject.",
+          "Subject is predicate.",
+          "Subject takes ang form."
+        ],
+        [
+          "3",
+          "Ano + subject + linker + dp?",
+          "What is dp subject?",
+          "Subject & dp take ang form."
+        ],
+        [
+          "3",
+          "Predicate + subject + linker + dp.",
+          "Dp predicate is subject.",
+          "Subject & dp take ang form."
+        ],
+        [
+          "4",
+          "Adj + Subject.",
+          "Subject is adj.",
+          "Subject takes ang form."
+        ],
+        [
+          "4",
+          "adj + linker + noun",
+          "adj noun",
+          "none"
+        ],
+        [
+          "4",
+          "mga + adj + linker + noun",
+          "adj nouns",
+          "none"
+        ],
+        [
+          "4",
+          "adj1 at adj2",
+          "adj1 and adj2",
+          "none"
+        ],
+        [
+          "4",
+          "adj1 + linker + adj2 + linker + noun",
+          "adj1, adj2 noun",
+          "none"
+        ],
+        [
+          "5",
+          "mga + adj + linker + noun",
+          "adj nouns",
+          "none"
+        ],
+        [
+          "5",
+          "adj(dup1) + linker + noun",
+          "adj nouns",
+          "none"
+        ],
+        [
+          "5",
+          "mga + adj(dup1) + linker + noun",
+          "adj nouns",
+          "none"
+        ],
+        [
+          "5",
+          "maraming + noun",
+          "many nouns",
+          "none"
+        ],
+        [
+          "6",
+          "possession + possessor",
+          "possessor’s possession",
+          "Possessor takes ng form."
+        ],
+        [
+          "6",
+          "pp + linker + possession",
+          "possessor’s possession",
+          "Pp takes sa form without the sa."
+        ],
+        [
+          "6",
+          "noun1 + noun2 + noun3 +...",
+          "chain of possessive phrases",
+          "Noun2 and on take ng form."
+        ],
+        [
+          "6",
+          "adj + pp + linker + possession",
+          "possessor adj possession",
+          "Pp takes ng form."
+        ],
+        [
+          "7",
+          "Predicate + ba + subject?",
+          "Is subject predicate?",
+          "Subject takes ang form."
+        ],
+        [
+          "7",
+          "Oo, predicate + subject.",
+          "Yes, subject is predicate.",
+          "Subject takes ang form."
+        ],
+        [
+          "7",
+          "Hindi + sentence.",
+          "Negated sentence.",
+          "none"
+        ],
+        [
+          "7",
+          "Predicate + po + ba + subject?",
+          "Is subject predicate?",
+          "Subject takes ang form."
+        ],
+        [
+          "7",
+          "(one-syllable pp’s) + (enclitic particles) + (two-syllable pp’s)",
+          "enclitic cluster",
+          "Po always comes before ba. The hosts are BOLD in the Structure Equations."
+        ],
+        [
+          "8",
+          "May + object + possessor/location.",
+          "Possessor has object/There is object in location.",
+          "Possessor takes ang form, location takes sa form."
+        ],
+        [
+          "8",
+          "Meron + linker + object + possessor/location.",
+          "Possessor has object/There is object in location.",
+          "Possessor takes ang form, location takes sa form."
+        ],
+        [
+          "8",
+          "Wala + linker + object + possessor/location.",
+          "Possessor does not have object/There is no object in location.",
+          "Possessor takes ang form, location takes sa form."
+        ],
+        [
+          "8",
+          "ang + may/walang + noun",
+          "the one who/that has/does not have",
+          "none"
+        ],
+        [
+          "9",
+          "Ilang + taon + na + subject?",
+          "How old is subject?",
+          "Subject takes ang form."
+        ],
+        [
+          "9",
+          "Number + taon + na + subject.",
+          "Subject is number years old now.",
+          "Subject takes ang form."
+        ],
+        [
+          "10",
+          "Anong oras na?",
+          "What time is it?",
+          "none"
+        ],
+        [
+          "10",
+          "Hr + na.",
+          "Hr o’clock./It is hr o’clock./It is hour o’clock already.",
+          "“Hr” stands for “hour of day” from this point on. For example, alas-singko in Tagalog or “five” in English. See Appendix N for all abbreviations used in Structure Equations."
+        ],
+        [
+          "10",
+          "mga + hr",
+          "about hr o’clock",
+          "The word mga can be a plural indicator, or it can mean “approximately”, depending on the context, but it is always pronounced mangá as mentioned in the pronunciation lesson."
+        ],
+        [
+          "10",
+          "Day + nang + hr.",
+          "Day at hr o’clock.",
+          "none"
+        ],
+        [
+          "10",
+          "hr + X (min.) + at + Y + segundo",
+          "X min and Y sec past hr o’clock",
+          "none"
+        ],
+        [
+          "10",
+          "hr + y medya",
+          "half past hr",
+          "none"
+        ],
+        [
+          "11",
+          "time + ng + period",
+          "time in the period",
+          "none"
+        ],
+        [
+          "11",
+          "Anong petsa na?",
+          "What date is it?",
+          "none"
+        ],
+        [
+          "11",
+          "Ordinal number + ng + Month.",
+          "Ordinal number of Month.",
+          "none"
+        ],
+        [
+          "11",
+          "Unang araw ng + Month.",
+          "1st (day) of Month.",
+          "none"
+        ],
+        [
+          "11",
+          "Huling araw ng + Month.",
+          "Last day of Month.",
+          "none"
+        ],
+        [
+          "11",
+          "Date + taong + year.",
+          "Date, year.",
+          "Taong is just taon + linker."
+        ],
+        [
+          "11",
+          "Day + ang + date + taong + year + time.",
+          "Time, day the date, year.",
+          "none"
+        ],
+        [
+          "12",
+          "Mahilig + experiencer + indefinite object.",
+          "Experiencer likes indefinite object.",
+          "The experiencer is the one who likes, and takes ang form. The indefinite object is the thing that is liked, and takes sa form."
+        ],
+        [
+          "12",
+          "Gusto + experiencer + indefinite object.",
+          "Experiencer wants indefinite object.",
+          "The experiencer is the one who wants, and takes ng form. The indefinite object is the thing that is wanted and takes ng form."
+        ],
+        [
+          "12",
+          "Gusto + experiencer + definite object.",
+          "Experiencer likes/wants definite object.",
+          "The experiencer is the one who likes/wants, and takes ng form. The definite object takes ang form."
+        ],
+        [
+          "13",
+          "Ayaw + experiencer + indefinite object.",
+          "Experiencer dislikes something indefinite.",
+          "The experiencer is the one who dislikes, and takes ng form. The indefinite object is the thing that is disliked and takes sa form."
+        ],
+        [
+          "13",
+          "Ayaw + experiencer + indefinite object.",
+          "Experiencer does not want something indefinite.",
+          "The experiencer is the one who does not want, and takes ng form. The indefinite object is the thing that is not wanted and takes ng form."
+        ],
+        [
+          "13",
+          "Ayaw + experiencer + definite object.",
+          "Experiencer dislikes/does not want definite object.",
+          "The experiencer is the one who dislikes/does not want, and takes ng form. The definite object takes sa form."
+        ],
+        [
+          "14",
+          "Verb + Actor + Object + X + location + time",
+          "Standard Sentnece",
+          "Location takes sa form."
+        ],
+        [
+          "14",
+          "Verb + Actor + Object + IO",
+          "Standard Sentence(AF(DO))",
+          "Actor takes ang form, object takes ng form, IO takes sa form."
+        ],
+        [
+          "14",
+          "Verb + Actor + Object",
+          "Standard Sentence(AF(O))",
+          "Actor takes ang form, object takes ng form"
+        ],
+        [
+          "15",
+          "Verb + Actor + cause",
+          "Standard Sentence(AF(I))",
+          "Actor takes ang form, cause takes sa form."
+        ],
+        [
+          "15",
+          "Verb + Actor + dc",
+          "Standard Sentence((AF(D))",
+          "Actor takes ang form, object takes ng form, dc takes sa form."
+        ],
+        [
+          "15",
+          "verb... papunta sa destination",
+          "verb to destination",
+          "Used only when the verb does not have punta as its root."
+        ],
+        [
+          "16",
+          "Adj (+ linker) + Verb + object + X",
+          "It is adj to verb",
+          "The verb takes infinitive. Use the linker if it -ng type, but omit it if it is na."
+        ],
+        [
+          "18",
+          "Positive statement, di ba?",
+          "Positive statement, right?",
+          "none"
+        ],
+        [
+          "18",
+          "Negative statement, no?",
+          "Negative statement, right?",
+          "none"
+        ],
+        [
+          "19",
+          "Verb + Actor + Object",
+          "Standard Sentence(OF(O))",
+          "Actor takes ng form, object takes ang form. For imperative, verb takes infinitive, actor is either mo, ninyo or natin."
+        ],
+        [
+          "19",
+          "(one-syllable pps) + (enclitic particles) + (ng form two-syllable pps or kita) + (ang form two-syllable pps)",
+          "enclitic cluster",
+          "none"
+        ],
+        [
+          "20",
+          "Verb + Actor + Object + IO",
+          "Standard Sentence(DF(DO))",
+          "Actor takes ng form, object takes ng form and IO takes ang form. For imperative, verb takes infinitive, actor is either mo, ninyo or natin."
+        ],
+        [
+          "20",
+          "Verb + Actor + dc",
+          "Standard Sentence(DF(D))",
+          "Actor takes ng form and dc takes ang form. For imperative, verb takes infinitive, actor is either mo, ninyo or natin."
+        ],
+        [
+          "21",
+          "Standard Sentence + para + noun.",
+          "Standard Sentence for noun.",
+          "Noun takes sa form. These are two phrase sentences; the hosts are the verb in the standard sentence, and the noun after para."
+        ],
+        [
+          "25",
+          "Sino + ang + Noun Clause?",
+          "Who is sentence?",
+          "The host sino is for enclitic particles only. If there are pps in the noun clause, the verb is their host."
+        ],
+        [
+          "25",
+          "Focus + ang + Noun Clause.",
+          "Focus is sentence.",
+          "The focus takes ang form and is the host for enclitic particles only. If there are pps in the noun clause, the verb is their host."
+        ],
+        [
+          "26",
+          "Ano + ang + Noun Clause?",
+          "What is sentence?",
+          "The host ano is for enclitic particles only. If there are pps in the noun clause, the verb is their host."
+        ],
+        [
+          "26",
+          "Focus + ang + Noun Clause.",
+          "Focus is sentence.",
+          "The focus takes ang form and is the host for enclitic particles only. If there are pps in the noun clause, the verb is their host."
+        ],
+        [
+          "26",
+          "Focus + Linker + Noun Clause",
+          "Focus Noun Clause",
+          "“Focus” here is the item in focus."
+        ],
+        [
+          "29",
+          "Nasaan + noun.",
+          "Where is noun?",
+          "Noun takes ang form."
+        ],
+        [
+          "29",
+          "Na + location + noun.",
+          "Noun is at location.",
+          "Location takes sa form, noun takes ang form."
+        ],
+        [
+          "29",
+          "Wala + location + noun.",
+          "Noun is not at location.",
+          "Location takes sa form, noun takes ang form."
+        ],
+        [
+          "29",
+          "Tagasaan + person?",
+          "Where is person from?",
+          "Person takes ang form."
+        ],
+        [
+          "29",
+          "Taga-location + person.",
+          "Person is from location.",
+          "Person takes ang form."
+        ],
+        [
+          "29",
+          "Hindi + taga-location + person.",
+          "Person is not from location.",
+          "Person takes ang form."
+        ],
+        [
+          "30",
+          "Saan + Standard Sentence.",
+          "Where Standard Sentence?",
+          "none"
+        ],
+        [
+          "30",
+          "Standard Sentence + location.",
+          "Standard Sentence at location.",
+          "Location takes sa form."
+        ],
+        [
+          "30",
+          "Hindi + Standard Sentence + location.",
+          "Negated Standard Sentence at location.",
+          "Location takes sa form."
+        ],
+        [
+          "33",
+          "Verb1 + linker + Infinitive2 + actor + object + X",
+          "Verb1 + Infinitive2 Sentence",
+          "none"
+        ],
+        [
+          "34",
+          "Kailan + Phrase?",
+          "When Phrase?",
+          "none"
+        ],
+        [
+          "34",
+          "Phrase + nung + phrase.",
+          "Phrase during period.",
+          "Nung is just nun + linker. For past actions."
+        ],
+        [
+          "34",
+          "Phrase + kapag + phrase.",
+          "Phrase when phrase.",
+          "For non-past actions."
+        ],
+        [
+          "34",
+          "Phrase + kung + phrase.",
+          "Phrase if phrase.",
+          "For non-past actions."
+        ],
+        [
+          "34",
+          "Phrase + kung + question word + phrase.",
+          "Phrase question word phrase.",
+          "none"
+        ],
+        [
+          "37",
+          "sa compound preposition + noun",
+          "preposition noun",
+          "Noun takes ng form."
+        ],
+        [
+          "37",
+          "Noun Phrase + Linker + Adjective Phrase",
+          "Noun Phrase that/who Adjective Phrase",
+          "none"
+        ],
+        [
+          "38",
+          "Ay Sentence.",
+          "Focus + ay + (sentence without focus).",
+          "Remember focus always takes ang form."
+        ],
+        [
+          "39",
+          "Non-AF Ng Pseudo verb Sentence",
+          "Ng pseudo-verb (+ linker) + Non-AF SS.",
+          "The verb takes infinitive. The linker goes before the verb. Use the linker if it is -ng type, but omit it if it is na."
+        ],
+        [
+          "39",
+          "AF Ng Pseudo-verb Sentence",
+          "Ng pseudo-verb + actor (+ linker) + AF SS without actor.",
+          "Actor takes ng form, verb takes infinitive. The linker goes before the verb. Use the linker if it -ng type, but omit it if it is na."
+        ],
+        [
+          "40",
+          "Plain pseudo verb Sentence.",
+          "Plain pseudo-verb (+ linker) + SS.",
+          "Verb takes infinitive. The linker goes before the verb. Use the linker if it is -ng type, but omit it if it is na."
+        ],
+        [
+          "42",
+          "Nang Manner Adverb",
+          "Nang + Adj",
+          "none"
+        ],
+        [
+          "43",
+          "Ang/ng/sa + verb/adj/etc.",
+          "General Noun Phrase",
+          "none"
+        ],
+        [
+          "43",
+          "Sinabi + Speaker + Linker + Phrase",
+          "Speaker said that phrase.",
+          "Speaker takes ng form."
+        ],
+        [
+          "43",
+          "Sabi + Speaker, Phrase.",
+          "Speaker said phrase.",
+          "Speaker takes ng form."
+        ],
+        [
+          "45",
+          "Item1 + para + item2.",
+          "Item1 in order to item2.",
+          "If item2 starts with a verb, the verb takes infinitive."
+        ],
+        [
+          "46",
+          "alin + linker + noun",
+          "which noun",
+          "none"
+        ],
+        [
+          "46",
+          "Alin + ang + noun?",
+          "Which is noun?",
+          "Noun takes ang form."
+        ],
+        [
+          "46",
+          "alin + plural noun",
+          "which of the plural noun",
+          "Noun takes sa form."
+        ],
+        [
+          "47",
+          "plural personal pronoun + Y",
+          "X and Y",
+          "X and Y are both people and one is a personal pronoun. Y takes ng form. If the plural personal pronoun is ang or ng form, the entire phrase is enclitic."
+        ],
+        [
+          "47",
+          "sarili + linker + possession + possessor",
+          "possessor’s own possession",
+          "Possessor takes ng form."
+        ],
+        [
+          "48",
+          "Naka/nakapag + root + ka + na + ba?",
+          "Have you ever verbed?",
+          "none"
+        ],
+        [
+          "50",
+          "maging/naging/nagiging/magiging + noun/adj + noun2",
+          "noun2 becomes noun/adj",
+          "Noun2 takes ang form."
+        ],
+        [
+          "52",
+          "Kasing + adj root + noun1+ noun2.",
+          "Noun 1 is as adjective as noun2.",
+          "Noun1 takes ng form; noun2 takes ang form."
+        ],
+        [
+          "52",
+          "ganito/ganun + (ka + adj root)",
+          "this/that adjective",
+          "none"
+        ],
+        [
+          "53",
+          "Mas + phrase1 + kaysa + phrase2.",
+          "Phrase1 is more than phrase2.",
+          "Phrase1 starts with an adjective or pseudo verb. Phrase2 takes sa form."
+        ],
+        [
+          "53",
+          "Sobrang + adj root + linker + noun + name.",
+          "Name is a very adj noun.",
+          "Name takes ng form."
+        ],
+        [
+          "53",
+          "pv + linker + pv",
+          "very pv",
+          "If the linker ends in g, join the pseudo verbs with a dash."
+        ],
+        [
+          "54",
+          "Root + Ng phrase",
+          "Verb + Ng phrase",
+          "none"
+        ],
+        [
+          "54",
+          "Ang + Root + Ng form phrase",
+          "Sobrang + Adj + Ang form phrase",
+          "none"
+        ],
+        [
+          "56",
+          "sinong + person",
+          "which person",
+          "none"
+        ],
+        [
+          "56",
+          "sino + person",
+          "who is person",
+          "Person takes ang form."
+        ],
+        [
+          "56",
+          "sino + people",
+          "which of the people",
+          "People takes sa form."
+        ],
+        [
+          "56",
+          "Sino + ang + phrase?",
+          "Who phrase?",
+          "none"
+        ],
+        [
+          "56",
+          "kanino + linker + phrase",
+          "whose phrase",
+          "none"
+        ],
+        [
+          "57",
+          "Paano + phrase?",
+          "How phrase?",
+          "none"
+        ],
+        [
+          "57",
+          "gaano + (ka + adj root)",
+          "how adjective",
+          "none"
+        ],
+        [
+          "57",
+          "kumusta + noun phrase",
+          "how is/are noun phrase",
+          "none"
+        ],
+        [
+          "57",
+          "Bakit + phrase?",
+          "Why phrase?",
+          "none"
+        ],
+        [
+          "58",
+          "Verb + actor + object (+ A2) + X",
+          "Magpa Sentence",
+          "The Magpa Sentence is just an AF Standard Sentence with an optional A2. The actor takes ang form, the object takes ng form and X takes sa form. The A2 takes sa form with some exceptions."
+        ],
+        [
+          "58",
+          "Verb + actor + A2 + object + X",
+          "Pa...in Sentence",
+          "The actor takes ng form, the A2 takes ang form, the object takes ng form and X takes sa form."
+        ],
+        [
+          "59",
+          "gerund + noun phrase",
+          "gerund noun phrase",
+          "Indefinite noun phrases take ng form. Definite noun phrases (possessive clause, personal pronoun, demonstrative pronoun or proper noun) take sa form."
+        ],
+        [
+          "60",
+          "pagka + root + noun",
+          "after noun verbed",
+          "These are adverbs of time; noun takes ng form."
+        ],
+        [
+          "60",
+          "Tapos + na + linker + clause.",
+          "Actor is finished clausing.",
+          "The verb takes infinitive form."
+        ],
+        [
+          "60",
+          "Tapos + na + name/pp + noun phrase.",
+          "Name/pp is finished phrasing.",
+          "To focus on the actor, name/pp takes ang form, and noun phrase takes sa form. To focus on the noun phrase, name/pp takes ng form, and noun phrase takes ang form."
+        ],
+        [
+          "60",
+          "pagkatapos + linker + verb",
+          "after verbing",
+          "Verb takes infinitive form, actor takes ng form. Use the linker if it is -ng type, but omit it if it is na."
+        ],
+        [
+          "60",
+          "pagkatapos + event",
+          "after the event",
+          "Event takes ng form."
+        ],
+        [
+          "61",
+          "bago + noun",
+          "before (the) noun",
+          "Noun takes ang form."
+        ],
+        [
+          "61",
+          "bago + clause",
+          "before clause",
+          "none"
+        ],
+        [
+          "61",
+          "Phrase + dati",
+          "Phrase previously",
+          "none"
+        ]
+      ]
+    }
+  ],
+  "exampleSentences": []
+}
