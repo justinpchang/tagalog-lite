@@ -33,6 +33,11 @@ final class LessonCompletionStore: ObservableObject {
     setCompleted(lessonId, completed: !isCompleted(lessonId))
   }
 
+  func removeAll() {
+    completedLessonIds.removeAll()
+    persist()
+  }
+
   private func load() {
     let ids = userDefaults.stringArray(forKey: storageKey) ?? []
     completedLessonIds = Set(ids)

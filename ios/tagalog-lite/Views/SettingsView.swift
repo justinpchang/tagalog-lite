@@ -29,8 +29,10 @@ struct SettingsView: View {
     @AppStorage("srsDailyReviewLimit") private var srsDailyReviewLimit: Int = 200
     @AppStorage("srsAllowReviewAhead") private var srsAllowReviewAhead: Bool = false
   @EnvironmentObject private var srs: SRSStateStore
+  @EnvironmentObject private var completion: LessonCompletionStore
 
   @State private var showResetSrsConfirm: Bool = false
+  @State private var showResetLessonsConfirm: Bool = false
 
     private var selectedTheme: Binding<AppTheme> {
         Binding(
@@ -90,11 +92,25 @@ struct SettingsView: View {
                         } message: {
                             Text("This will delete all SRS scheduling data on this device. This cannot be undone.")
                         }
+
+                        Button(role: .destructive) {
+                            showResetLessonsConfirm = true
+                        } label: {
+                            Text("Reset lesson progress")
+                        }
+                        .alert("Reset lesson progress?", isPresented: $showResetLessonsConfirm) {
+                            Button("Cancel", role: .cancel) {}
+                            Button("Reset", role: .destructive) {
+                                completion.removeAll()
+                            }
+                        } message: {
+                            Text("This will mark all lessons as incomplete on this device. This cannot be undone.")
+                        }
                     }
 
                     Section("Credits") {
                         VStack(alignment: .leading, spacing: 10) {
-                            Text("Course content and audio are from Tagalog Lite (LanguageCrush).")
+                            Text("Tagalog Lite is an original web app by LanguageCrush. This iOS app is an independent adaptation created with permission. All lesson content and audio are © LanguageCrush, used here by consent; all rights in the content remain with LanguageCrush.")
                                 .font(.system(.subheadline, design: .rounded))
                                 .foregroundStyle(.secondary)
 
