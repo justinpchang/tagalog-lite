@@ -3,6 +3,7 @@ import SwiftUI
 struct LessonDetailView: View {
   @Environment(\.dismiss) private var dismiss
   @Environment(\.colorScheme) private var colorScheme
+  @EnvironmentObject private var store: LessonStore
 
   let lesson: Lesson
 
@@ -11,6 +12,7 @@ struct LessonDetailView: View {
 
   // Per-item overrides (when global visibility is off)
   @State private var revealedTagalogKeys: Set<String> = []
+  @State private var selectedAppendix: Lesson?
 
   var body: some View {
     ZStack {
@@ -30,7 +32,8 @@ struct LessonDetailView: View {
             lessonId: lesson.id,
             blocks: lesson.contents,
             showTagalog: showTagalog,
-            revealedTagalogKeys: $revealedTagalogKeys
+            revealedTagalogKeys: $revealedTagalogKeys,
+            appendixKeys: availableAppendixKeys
           )
           .padding(.horizontal, 16)
 
@@ -50,6 +53,15 @@ struct LessonDetailView: View {
     .safeAreaInset(edge: .top) {
       header
     }
+    .sheet(item: $selectedAppendix) { appendix in
+      AppendixDetailView(appendix: appendix)
+    }
+    .environment(
+      \.openURL,
+      OpenURLAction { url in
+        handleAppendixLink(url)
+      }
+    )
   }
 
   private var header: some View {
@@ -109,6 +121,52 @@ struct LessonDetailView: View {
       Color(.systemBackground)
         .ignoresSafeArea(edges: .top)
     )
+  }
+
+  private var availableAppendixKeys: Set<String> {
+    Set(appendixIndex.keys)
+  }
+
+  private var appendixIndex: [String: Lesson] {
+    store.lessons.reduce(into: [:]) { dict, lesson in
+      guard isAppendix(lesson), let key = appendixKey(for: lesson) else { return }
+      dict[key] = lesson
+    }
+  }
+
+  private func handleAppendixLink(_ url: URL) -> OpenURLAction.Result {
+    guard url.scheme == "appendix" else {
+      return .systemAction
+    }
+    let key = (url.host?.isEmpty == false) ? url.host! : url.pathComponents.last
+    guard let raw = key?.lowercased(), let appendix = appendixIndex[raw] else {
+      return .discarded
+    }
+    selectedAppendix = appendix
+    return .handled
+  }
+
+  private func isAppendix(_ lesson: Lesson) -> Bool {
+    let id = lesson.id.lowercased()
+    let title = lesson.title.lowercased()
+    return id.hasPrefix("appendix") || title.hasPrefix("appendix")
+  }
+
+  private func appendixKey(for lesson: Lesson) -> String? {
+    if let key = appendixKey(in: lesson.id) { return key }
+    if let key = appendixKey(in: lesson.title) { return key }
+    return nil
+  }
+
+  private func appendixKey(in raw: String) -> String? {
+    let lower = raw.lowercased()
+    guard let range = lower.range(of: "appendix") else { return nil }
+    let suffix = lower[range.upperBound...]
+      .trimmingCharacters(in: .whitespacesAndNewlines)
+    let cleaned = suffix.trimmingCharacters(in: CharacterSet(charactersIn: "-–—"))
+    guard !cleaned.isEmpty else { return nil }
+    let key = cleaned.prefix { $0.isLetter || $0.isNumber }
+    return key.isEmpty ? nil : String(key)
   }
 }
 
@@ -345,6 +403,7 @@ struct GrammarSection: View {
   let showTagalog: Bool
   @Binding var revealedTagalogKeys: Set<String>
   var showsHeader: Bool = true
+  var appendixKeys: Set<String> = []
 
   private enum Chunk: Equatable {
     case h1Group([TextBlock])
@@ -395,9 +454,9 @@ struct GrammarSection: View {
         ForEach(Array(chunks.enumerated()), id: \.offset) { _, chunk in
           switch chunk {
           case .h1Group(let group):
-            GrammarTextGroup(blocks: group)
+            GrammarTextGroup(blocks: group, appendixKeys: appendixKeys)
           case .bodyGroup(let group):
-            GrammarTextGroup(blocks: group)
+            GrammarTextGroup(blocks: group, appendixKeys: appendixKeys)
           case .sentence(let key, let item):
             GrammarEmbeddedRevealCard(
               tagalog: item.tagalog,
@@ -434,28 +493,33 @@ struct GrammarSection: View {
 
 private struct GrammarTextGroup: View {
   let blocks: [TextBlock]
+  let appendixKeys: Set<String>
 
   var body: some View {
     VStack(alignment: .leading, spacing: 10) {
       ForEach(Array(blocks.enumerated()), id: \.offset) { _, block in
         switch block.type {
         case .h1:
-          InlineMarkdownText(markdown: block.markdown, style: .title1)
+          InlineMarkdownText(markdown: block.markdown, style: .title1, appendixKeys: appendixKeys)
             .padding(.top, 2)
         case .h2:
-          InlineMarkdownText(markdown: block.markdown, style: .title2)
+          InlineMarkdownText(markdown: block.markdown, style: .title2, appendixKeys: appendixKeys)
             .frame(maxWidth: .infinity, alignment: .leading)
             .layoutPriority(1)
             .padding(.top, 6)
         case .h3:
-          InlineMarkdownText(markdown: block.markdown, style: .title3)
+          InlineMarkdownText(markdown: block.markdown, style: .title3, appendixKeys: appendixKeys)
             .frame(maxWidth: .infinity, alignment: .leading)
             .layoutPriority(1)
             .padding(.top, 4)
         case .p:
-          InlineMarkdownText(markdown: block.markdown, style: .body)
-            .foregroundStyle(.primary.opacity(0.92))
-            .lineSpacing(4)
+          InlineMarkdownText(
+            markdown: block.markdown,
+            style: .body,
+            appendixKeys: appendixKeys,
+            baseColor: .primary.opacity(0.92)
+          )
+          .lineSpacing(4)
         }
       }
     }

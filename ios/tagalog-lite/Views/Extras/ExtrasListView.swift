@@ -176,10 +176,12 @@ private struct AppendixRow: View {
 struct AppendixDetailView: View {
   @Environment(\.dismiss) private var dismiss
   @Environment(\.colorScheme) private var colorScheme
+  @EnvironmentObject private var store: LessonStore
   let appendix: Lesson
 
   @State private var showTagalog: Bool = true
   @State private var revealedTagalogKeys: Set<String> = []
+  @State private var selectedAppendix: Lesson?
 
   var body: some View {
     ZStack {
@@ -192,7 +194,8 @@ struct AppendixDetailView: View {
             blocks: appendix.contents,
             showTagalog: showTagalog,
             revealedTagalogKeys: $revealedTagalogKeys,
-            showsHeader: false
+            showsHeader: false,
+            appendixKeys: availableAppendixKeys
           )
         }
         .padding(.horizontal, 16)
@@ -204,6 +207,15 @@ struct AppendixDetailView: View {
     .safeAreaInset(edge: .top) {
       header
     }
+    .sheet(item: $selectedAppendix) { appendix in
+      AppendixDetailView(appendix: appendix)
+    }
+    .environment(
+      \.openURL,
+      OpenURLAction { url in
+        handleAppendixLink(url)
+      }
+    )
   }
 
   private var header: some View {
@@ -281,6 +293,35 @@ struct AppendixDetailView: View {
     guard !cleaned.isEmpty else { return nil }
     let key = cleaned.prefix { $0.isLetter || $0.isNumber }
     return key.isEmpty ? nil : String(key)
+  }
+
+  private var availableAppendixKeys: Set<String> {
+    Set(appendixIndex.keys)
+  }
+
+  private var appendixIndex: [String: Lesson] {
+    store.lessons.reduce(into: [:]) { dict, lesson in
+      guard isAppendix(lesson), let key = appendixKey(in: lesson.id) ?? appendixKey(in: lesson.title) else { return }
+      dict[key] = lesson
+    }
+  }
+
+  private func handleAppendixLink(_ url: URL) -> OpenURLAction.Result {
+    guard url.scheme == "appendix" else {
+      return .systemAction
+    }
+    let key = (url.host?.isEmpty == false) ? url.host! : url.pathComponents.last
+    guard let raw = key?.lowercased(), let appendix = appendixIndex[raw] else {
+      return .discarded
+    }
+    selectedAppendix = appendix
+    return .handled
+  }
+
+  private func isAppendix(_ lesson: Lesson) -> Bool {
+    let id = lesson.id.lowercased()
+    let title = lesson.title.lowercased()
+    return id.hasPrefix("appendix") || title.hasPrefix("appendix")
   }
 }
 

@@ -86,9 +86,12 @@ private struct H1Card: View {
             .layoutPriority(1)
           .padding(.top, 4)
         case .p:
-          InlineMarkdownText(markdown: block.markdown, style: .body)
-            .foregroundStyle(.primary.opacity(0.92))
-            .lineSpacing(4)
+          InlineMarkdownText(
+            markdown: block.markdown,
+            style: .body,
+            baseColor: .primary.opacity(0.92)
+          )
+          .lineSpacing(4)
         }
       }
     }
@@ -129,9 +132,12 @@ private struct BodyCard: View {
             .layoutPriority(1)
           .padding(.top, 4)
         case .p:
-          InlineMarkdownText(markdown: block.markdown, style: .body)
-            .foregroundStyle(.primary.opacity(0.92))
-            .lineSpacing(4)
+          InlineMarkdownText(
+            markdown: block.markdown,
+            style: .body,
+            baseColor: .primary.opacity(0.92)
+          )
+          .lineSpacing(4)
         }
       }
     }
