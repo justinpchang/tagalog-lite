@@ -7,11 +7,9 @@ struct LessonDetailView: View {
   let lesson: Lesson
 
   // Global visibility controls
-  @State private var showEnglish: Bool = true
   @State private var showTagalog: Bool = true
 
   // Per-item overrides (when global visibility is off)
-  @State private var revealedEnglishKeys: Set<String> = []
   @State private var revealedTagalogKeys: Set<String> = []
 
   var body: some View {
@@ -23,9 +21,7 @@ struct LessonDetailView: View {
           VocabularySection(
             lessonId: lesson.id,
             items: lesson.vocabulary,
-            showEnglish: showEnglish,
             showTagalog: showTagalog,
-            revealedEnglishKeys: $revealedEnglishKeys,
             revealedTagalogKeys: $revealedTagalogKeys
           )
           .padding(.horizontal, 16)
@@ -33,9 +29,7 @@ struct LessonDetailView: View {
           GrammarSection(
             lessonId: lesson.id,
             blocks: lesson.contents,
-            showEnglish: showEnglish,
             showTagalog: showTagalog,
-            revealedEnglishKeys: $revealedEnglishKeys,
             revealedTagalogKeys: $revealedTagalogKeys
           )
           .padding(.horizontal, 16)
@@ -43,9 +37,7 @@ struct LessonDetailView: View {
           ExamplesSection(
             lessonId: lesson.id,
             items: lesson.exampleSentences,
-            showEnglish: showEnglish,
             showTagalog: showTagalog,
-            revealedEnglishKeys: $revealedEnglishKeys,
             revealedTagalogKeys: $revealedTagalogKeys
           )
           .padding(.horizontal, 16)
@@ -102,28 +94,37 @@ struct LessonDetailView: View {
           .font(.system(.subheadline, design: .rounded).weight(.semibold))
           .foregroundStyle(.secondary)
         Spacer(minLength: 0)
-        VisibilityPill(title: "English", isOn: $showEnglish)
-        VisibilityPill(title: "Tagalog", isOn: $showTagalog)
+        TagalogVisibilityPill(
+          isOn: $showTagalog,
+          onToggle: {
+            revealedTagalogKeys.removeAll()
+          }
+        )
       }
     }
     .padding(.horizontal, 16)
     .padding(.vertical, 8)
     .padding(.bottom, 10)
     .background(
-      Theme.cardBackground(colorScheme)
+      Color(.systemBackground)
         .ignoresSafeArea(edges: .top)
     )
   }
 }
 
-private struct VisibilityPill: View {
+private struct TagalogVisibilityPill: View {
   @Environment(\.colorScheme) private var colorScheme
-  let title: String
   @Binding var isOn: Bool
+  let onToggle: () -> Void
+
+  private var title: String {
+    isOn ? "Hide Tagalog" : "Show Tagalog"
+  }
 
   var body: some View {
     Button {
       isOn.toggle()
+      onToggle()
     } label: {
       HStack(spacing: 8) {
         Image(systemName: isOn ? "eye" : "eye.slash")
@@ -162,42 +163,24 @@ private struct BilingualRevealCard: View {
   let tagalog: String
   let english: String
   let audioKey: String?
-  let showEnglish: Bool
   let showTagalog: Bool
-  let isEnglishRevealed: Bool
   let isTagalogRevealed: Bool
   let onToggleReveal: () -> Void
 
-  private var effectiveShowEnglish: Bool { showEnglish || isEnglishRevealed }
   private var effectiveShowTagalog: Bool { showTagalog || isTagalogRevealed }
-  private var shouldShowTapHint: Bool {
-    (!showEnglish && !isEnglishRevealed) || (!showTagalog && !isTagalogRevealed)
-  }
-
   var body: some View {
     VStack(alignment: .leading, spacing: 6) {  // less spacing overall
       HStack(alignment: .top, spacing: 8) {  // tighter spacing
         VStack(alignment: .leading, spacing: 4) {  // less vertical gap between lines
-          if effectiveShowTagalog {
-            Text(tagalog)
-              .font(.system(size: 16, weight: .regular, design: .rounded))  // smaller, not bold
-              .foregroundStyle(.primary)
-              .fixedSize(horizontal: false, vertical: true)
-          }
+          Text(effectiveShowTagalog ? tagalog : "Tap to reveal Tagalog")
+            .font(.system(size: 16, weight: effectiveShowTagalog ? .regular : .bold, design: .rounded))
+            .foregroundStyle(effectiveShowTagalog ? .primary : .secondary)
+            .fixedSize(horizontal: false, vertical: true)
 
-          if effectiveShowEnglish {
-            Text(english)
-              .font(.system(size: 14, weight: .regular, design: .rounded))  // a bit smaller, not bold
-              .foregroundStyle(.secondary)
-              .fixedSize(horizontal: false, vertical: true)
-          }
-
-          if !effectiveShowTagalog && !effectiveShowEnglish {
-            Text("Tap to reveal")
-              .font(.system(.subheadline, design: .rounded).weight(.semibold))
-              .foregroundStyle(.secondary)
-              .padding(.vertical, 6)
-          }
+          Text(english)
+            .font(.system(size: 14, weight: .regular, design: .rounded))  // a bit smaller, not bold
+            .foregroundStyle(effectiveShowTagalog ? .secondary : .primary)
+            .fixedSize(horizontal: false, vertical: true)
         }
 
         Spacer(minLength: 4)
@@ -207,11 +190,6 @@ private struct BilingualRevealCard: View {
         }
       }
 
-      if shouldShowTapHint && (effectiveShowTagalog || effectiveShowEnglish) {
-        Text("Tap to reveal")
-          .font(.system(.caption, design: .rounded))
-          .foregroundStyle(.secondary)
-      }
     }
     .padding(10)  // less padding for a smaller card
     .background(
@@ -228,7 +206,7 @@ private struct BilingualRevealCard: View {
     .contentShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
     .gesture(
       TapGesture().onEnded {
-        guard !showEnglish || !showTagalog else { return }
+        guard !showTagalog else { return }
         onToggleReveal()
       },
       including: .gesture
@@ -288,9 +266,7 @@ private struct SpeakerButton: View {
 private struct VocabularySection: View {
   let lessonId: String
   let items: [BilingualItem]
-  let showEnglish: Bool
   let showTagalog: Bool
-  @Binding var revealedEnglishKeys: Set<String>
   @Binding var revealedTagalogKeys: Set<String>
 
   var body: some View {
@@ -311,12 +287,9 @@ private struct VocabularySection: View {
             tagalog: item.tagalog,
             english: item.english,
             audioKey: item.audioKey,
-            showEnglish: showEnglish,
             showTagalog: showTagalog,
-            isEnglishRevealed: revealedEnglishKeys.contains(key),
             isTagalogRevealed: revealedTagalogKeys.contains(key),
             onToggleReveal: {
-              if !showEnglish { toggleKey(key, in: &revealedEnglishKeys) }
               if !showTagalog { toggleKey(key, in: &revealedTagalogKeys) }
             }
           )
@@ -333,9 +306,7 @@ private struct VocabularySection: View {
 private struct ExamplesSection: View {
   let lessonId: String
   let items: [BilingualItem]
-  let showEnglish: Bool
   let showTagalog: Bool
-  @Binding var revealedEnglishKeys: Set<String>
   @Binding var revealedTagalogKeys: Set<String>
 
   var body: some View {
@@ -351,12 +322,9 @@ private struct ExamplesSection: View {
             tagalog: item.tagalog,
             english: item.english,
             audioKey: item.audioKey,
-            showEnglish: showEnglish,
             showTagalog: showTagalog,
-            isEnglishRevealed: revealedEnglishKeys.contains(key),
             isTagalogRevealed: revealedTagalogKeys.contains(key),
             onToggleReveal: {
-              if !showEnglish { toggleKey(key, in: &revealedEnglishKeys) }
               if !showTagalog { toggleKey(key, in: &revealedTagalogKeys) }
             }
           )
@@ -373,9 +341,7 @@ private struct ExamplesSection: View {
 private struct GrammarSection: View {
   let lessonId: String
   let blocks: [LessonBlock]
-  let showEnglish: Bool
   let showTagalog: Bool
-  @Binding var revealedEnglishKeys: Set<String>
   @Binding var revealedTagalogKeys: Set<String>
 
   private enum Chunk: Equatable {
@@ -433,12 +399,9 @@ private struct GrammarSection: View {
               tagalog: item.tagalog,
               english: item.english,
               audioKey: item.audioKey,
-              showEnglish: showEnglish,
               showTagalog: showTagalog,
-              isEnglishRevealed: revealedEnglishKeys.contains(key),
               isTagalogRevealed: revealedTagalogKeys.contains(key),
               onToggleReveal: {
-                if !showEnglish { toggleKey(key, in: &revealedEnglishKeys) }
                 if !showTagalog { toggleKey(key, in: &revealedTagalogKeys) }
               }
             )
