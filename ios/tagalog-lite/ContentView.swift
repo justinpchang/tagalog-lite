@@ -20,6 +20,11 @@ struct ContentView: View {
           Label("Practice", systemImage: "bolt.fill")
         }
 
+      ExtrasListView()
+        .tabItem {
+          Label("Extras", systemImage: "square.grid.2x2.fill")
+        }
+
       SettingsView()
         .tabItem {
           Label("Settings", systemImage: "gearshape.fill")

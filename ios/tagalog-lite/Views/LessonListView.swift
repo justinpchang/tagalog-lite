@@ -7,6 +7,10 @@ struct LessonListView: View {
 
   @State private var path: [String] = []
 
+  private var lessonsOnly: [Lesson] {
+    store.lessons.filter { !isAppendix($0) }
+  }
+
   var body: some View {
     NavigationStack(path: $path) {
       ZStack {
@@ -23,7 +27,7 @@ struct LessonListView: View {
                 .foregroundStyle(.secondary)
                 .tropicalCard()
                 .padding(.top, 6)
-            } else if store.lessons.isEmpty {
+            } else if lessonsOnly.isEmpty {
               VStack(alignment: .leading, spacing: 10) {
                 Text("No lessons found in the app bundle.")
                   .font(.system(.headline, design: .rounded))
@@ -37,7 +41,7 @@ struct LessonListView: View {
               .padding(.top, 6)
             } else {
               LazyVStack(spacing: 12) {
-                ForEach(store.lessons) { lesson in
+                ForEach(lessonsOnly) { lesson in
                   LessonRow(
                     lesson: lesson,
                     isCompleted: completion.isCompleted(lesson.id),
@@ -79,8 +83,8 @@ struct LessonListView: View {
   }
 
   private var progressCard: some View {
-    let total = max(store.lessons.count, 1)
-    let done = store.lessons.reduce(0) { partial, lesson in
+    let total = max(lessonsOnly.count, 1)
+    let done = lessonsOnly.reduce(0) { partial, lesson in
       partial + (completion.isCompleted(lesson.id) ? 1 : 0)
     }
     let progress = CGFloat(done) / CGFloat(total)
@@ -118,6 +122,12 @@ struct LessonListView: View {
         )
     )
     .shadow(color: Color.black.opacity(colorScheme == .dark ? 0.22 : 0.08), radius: 12, x: 0, y: 8)
+  }
+
+  private func isAppendix(_ lesson: Lesson) -> Bool {
+    let id = lesson.id.lowercased()
+    let title = lesson.title.lowercased()
+    return id.hasPrefix("appendix") || title.hasPrefix("appendix")
   }
 }
 

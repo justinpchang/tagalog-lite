@@ -338,12 +338,13 @@ private struct ExamplesSection: View {
   }
 }
 
-private struct GrammarSection: View {
+struct GrammarSection: View {
   @Environment(\.colorScheme) private var colorScheme
   let lessonId: String
   let blocks: [LessonBlock]
   let showTagalog: Bool
   @Binding var revealedTagalogKeys: Set<String>
+  var showsHeader: Bool = true
 
   private enum Chunk: Equatable {
     case h1Group([TextBlock])
@@ -384,9 +385,11 @@ private struct GrammarSection: View {
 
   var body: some View {
     VStack(alignment: .leading, spacing: 12) {
-      Text("Grammar")
-        .font(.system(.title2, design: .rounded).weight(.heavy))
-        .padding(.top, 8)
+      if showsHeader {
+        Text("Grammar")
+          .font(.system(.title2, design: .rounded).weight(.heavy))
+          .padding(.top, 8)
+      }
 
       VStack(alignment: .leading, spacing: 12) {
         ForEach(Array(chunks.enumerated()), id: \.offset) { _, chunk in

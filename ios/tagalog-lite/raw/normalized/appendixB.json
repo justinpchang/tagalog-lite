@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixB",
+  "title": "Appendix B - The Linker Na",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "The \\*\\*linker _na_\\*\\* is used to link certain words, phrases or clauses in Tagalog. The specific structures that require linkers in this book can be found in the lessons or **Appendix L**. When the linker occurs after certain letters, it can be modified. Sometimes this modification is mandatory, sometimes it is optional. In colloquial speech, some native speakers will omit, or not modify, linkers in certain structures. Because there is so much variation, in this book we will tell you where to use linkers, and they will always be modified as shown below."
+    },
+    {
+      "type": "h1",
+      "markdown": "Modification Rules:"
+    },
+    {
+      "type": "p",
+      "markdown": "If the first word ends with a vowel, add ng to it."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: magand**a**+ng babae = maganda**ng** babae (beautiful woman)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: gusal**i**+ng ito = gusali**ng** ito (this building)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Pwede k**a**+ng magluto ng adobo. = Pwede ka**ng** magluto ng adobo. (You can cook adobo.)"
+    },
+    {
+      "type": "p",
+      "markdown": "If the first word ends with an n, add g to it."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: pagkai**n**+g ito = pagkain**g** ito (this food)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: inumi**n**+g yun = inumin**g** yun (that drink)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Gusto niya ri**n**+g mag-aral ng Tagalog. = Gusto niya rin**g** mag-aral ng Tagalog. (She also wants to study Tagalog.)"
+    },
+    {
+      "type": "p",
+      "markdown": "If the first word ends with any other consonant, insert the word na."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: maini\\*\\*t\\*\\* na pagkain = mainit **na** pagkain (hot food)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: baha\\*\\*y\\*\\* na ito = bahay **na** ito (this house)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Bawa\\*\\*l\\*\\* na magluto si Angel. = Bawal **na** magluto si Angel. (Angel is not allowed to cook.)"
+    }
+  ],
+  "exampleSentences": []
+}

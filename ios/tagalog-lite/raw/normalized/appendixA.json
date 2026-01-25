@@ -1,0 +1,656 @@
+{
+  "schemaVersion": 1,
+  "id": "appendixA",
+  "title": "Appendix A - Ang, Ng, Sa forms and Kita",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "p",
+      "markdown": "Nouns and pronouns are always in either the _ang, ng_ or _sa_ form. The lessons often call out the form to use for a given grammar point, so I have listed them all here for your convenience. They are presented in a way that facilitates memorization. There is a suggested way to memorize vocabulary described in **How to Use this Book**. There are many, so it may be difficult to memorize these all in a single pass. Instead, it is recommended that the first time you encounter a group of these in a lesson, you come here and memorize that specific group. For example, the first time you encounter _ang_ form noun markers in the lessons, you should come here and memorize all four of them. The first time you encounter _ang_ form personal pronouns in the lessons, you should come here and memorize all eight of them, etc. In that way, you will have them memorized and immediately put them to use, which makes you less likely to forget. They will be reinforced often in later lessons, so do not be concerned if they do not stick well at first. And any time you are in doubt, revisit this appendix and review them again."
+    },
+    {
+      "type": "h1",
+      "markdown": "Ang Form"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ang form Noun Markers</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang",
+        "english": "noun marker",
+        "required": true,
+        "audioPath": "c8b585ae-d0a9-42e3-8be7-b25450367ab0"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang mga",
+        "english": "plural noun marker",
+        "required": true,
+        "audioPath": "2bafeae5-4263-47e5-9b0f-23302eac0d31"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "si",
+        "english": "name marker (includes family member nouns)",
+        "required": true,
+        "audioPath": "14fec9c4-e5b1-4988-a03f-2f1c0a045e16"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siná",
+        "english": "plural name marker",
+        "required": true,
+        "audioPath": "48c575a5-4100-4944-930b-7d4d4a4f6767"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "**Note: Noun markers for Family Members are the same as for Names**"
+    },
+    {
+      "type": "p",
+      "markdown": "Direct family member nouns, like _nanay_, are marked by the same noun markers that mark names. So for _ang_ form noun markers, it is _si nanay_ and _sina nanay at Maria_. For _ng_ form it is _ni nanay_ and _nina nanay at Maria_. For _sa_ form it is _kay nanay_ and _kina nanay at Maria_. On the other hand, family members by marriage, such as _asawa_, are marked like common nouns. So for _ang_ form noun markers, it is _ang asawa_, etc."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ang form Personal Pronouns</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "akó",
+        "english": "I",
+        "required": true,
+        "audioPath": "e4c35c0e-3d20-41ec-a897-f6acc847992a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "tayo",
+        "english": "we (inclusive – me, the listener and possibly others)",
+        "required": true,
+        "audioPath": "6dcc2d59-07ea-42b2-ac56-6bf32c280589"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kamí",
+        "english": "we (exclusive – me and others but not the listener)",
+        "required": true,
+        "audioPath": "ac8a2092-5a7b-4e4a-b59a-c18a510495fc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ka",
+        "english": "you",
+        "required": true,
+        "audioPath": "c065a305-f63f-481b-a2ae-ff67024ffafe"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ikáw",
+        "english": "you (singular at start of phrase)",
+        "required": true,
+        "audioPath": "7729b6c9-9f23-4be2-8ee6-71ed46661143"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kayó",
+        "english": "you (plural/singular respectful)",
+        "required": true,
+        "audioPath": "7db66c50-cddb-4975-8069-da2b69e98ec7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "siyá",
+        "english": "he/she",
+        "required": true,
+        "audioPath": "f39c7b5d-284f-4211-85a4-1215034f3bde"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "silá",
+        "english": "they",
+        "required": true,
+        "audioPath": "05ec9ec9-1f64-4363-94da-58dfcf961930"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ang form Demonstrative Pronouns</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "itó",
+        "english": "this",
+        "required": true,
+        "audioPath": "e6fae6a5-8b67-405e-8641-c394c90e1a38"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "yun",
+        "english": "that",
+        "required": true,
+        "audioPath": "1d5d3bf9-454c-4a06-9123-91ad2ad62c3d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang mga itó",
+        "english": "these",
+        "required": true,
+        "audioPath": "d1d52bb6-86c2-4673-9662-5c2783534a29"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang mga yun",
+        "english": "those",
+        "required": true,
+        "audioPath": "afe97611-34be-44d0-a635-b6e3f71e2ef2"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "iyán",
+        "english": "that (near listener)",
+        "required": true,
+        "audioPath": "8eb0969f-638a-4860-8fa4-6b939db6cc44"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "iyón",
+        "english": "that (far from speaker and listener)",
+        "required": true,
+        "audioPath": "23592914-e7f3-44b1-9b69-87544638ea7e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang mga iyán",
+        "english": "those (near listener)",
+        "required": true,
+        "audioPath": "4ffa273d-e2ee-4bbf-a220-cb73da7a5eb4"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ang mga iyón",
+        "english": "those (far from speaker and listener)",
+        "required": true,
+        "audioPath": "f11c5696-7fea-4612-a5ca-d663f9289067"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "*less common in colloquial speech"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Yun instead of Iyan and Iyon</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "The lessons will use _yun_ instead of _iyan_ and _iyon_, because it is more common in colloquial speech. The same goes for _non_ vs _niyan_ and _niyon_, and _dun_ vs _diyan_ and _doon_."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ang vs Yung</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You will sometimes hear _yung_ in colloquial speech where you expect to hear _ang_. We recommend you be aware of this, but continue to use _ang_ as shown in the lessons."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Who is the teacher? = Sino ang guro? (expected) or Sino yung guro? (you will sometimes hear)"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Personal Pronouns vs Demonstrative Pronouns</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "You will sometimes hear personal pronouns in colloquial speech where you expect to hear demonstrative pronouns, and vice versa. We recommend you be aware of this, but continue to use them as shown in the lessons."
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: It is expensive. = Mahal ito. (expected) or Mahal siya. (you will sometimes hear)"
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Is she beautiful? = Maganda ba siya? (expected) or Maganda ba yun? (you will sometimes hear)"
+    },
+    {
+      "type": "h1",
+      "markdown": "Ng Form"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ng form Noun Markers</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ng",
+        "english": "noun marker",
+        "required": true,
+        "audioPath": "70a73b95-0f4f-4db0-86d7-0c95bddd92b7"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ng mga",
+        "english": "plural noun marker",
+        "required": true,
+        "audioPath": "f0d7b1ad-13ea-439b-913e-b979049ff39d"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ni",
+        "english": "name marker (includes family member nouns)",
+        "required": true,
+        "audioPath": "d39d2b5d-ec81-485d-a04f-c04b58ea1ae5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "niná",
+        "english": "plural name marker",
+        "required": true,
+        "audioPath": "a5c6b47f-925a-4c5d-8042-33922990fe57"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ng form Personal Pronouns</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ko",
+        "english": "I",
+        "required": true,
+        "audioPath": "0170f451-2197-4242-8249-2c124d912a6b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "natin",
+        "english": "we (inclusive – me, the listener and possibly others)",
+        "required": true,
+        "audioPath": "48840407-65e8-48fd-8e3b-f83ae103b606"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "namin",
+        "english": "we (exclusive – me and others but not the listener)",
+        "required": true,
+        "audioPath": "f48fb219-aa23-4ca9-a8ea-fbb20b7429ae"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "mo",
+        "english": "you",
+        "required": true,
+        "audioPath": "6934ead5-0df6-46af-8fc9-df8ea5cac734"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ninyó",
+        "english": "you (plural/singular respectful)",
+        "required": true,
+        "audioPath": "e593f10a-7078-4f6b-bc4e-2d013250dc0a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "niyá",
+        "english": "he/she",
+        "required": true,
+        "audioPath": "4912d5ef-3160-4df4-97cc-1e0a21cb7964"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nilá",
+        "english": "they",
+        "required": true,
+        "audioPath": "e958a154-fe8b-4926-81e2-f60bc6328fa5"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Ng form Demonstrative Pronouns</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "nitó",
+        "english": "this",
+        "required": true,
+        "audioPath": "343803e2-6df4-4e5c-ad58-2445932feb15"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "non",
+        "english": "that",
+        "required": true,
+        "audioPath": "cb523829-3b13-415a-a805-162b6dc2b349"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ng mga itó",
+        "english": "these",
+        "required": true,
+        "audioPath": "08be0d1a-e6be-482d-92fa-ac5578293780"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ng mga yun",
+        "english": "those",
+        "required": true,
+        "audioPath": "7078f988-7a8e-4419-86c8-79babb2be63a"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "niyán",
+        "english": "that (near listener)",
+        "required": true,
+        "audioPath": "d4deab7e-1c42-440f-ab32-7a13d5a3911e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "niyón",
+        "english": "that (far from speaker and listener)",
+        "required": true,
+        "audioPath": "7abacc40-b4be-4df6-94d7-f5fb17d677b3"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ng mga iyán",
+        "english": "those (near listener)",
+        "required": true,
+        "audioPath": "71140b2b-d472-40fb-bebd-dce1e59ff3e9"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "ng mga iyón",
+        "english": "those (far from speaker and listener)",
+        "required": true,
+        "audioPath": "6e1f7164-f343-4aa7-9323-3958903f9a03"
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "*less common in colloquial speech"
+    },
+    {
+      "type": "h1",
+      "markdown": "Sa Form"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sa form Noun Markers</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa",
+        "english": "noun marker",
+        "required": true,
+        "audioPath": "6f009436-2bfc-462a-9af4-4b418fac9c24"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa mga",
+        "english": "plural noun marker",
+        "required": true,
+        "audioPath": "e603b196-3835-44d9-8256-f2a8cd5f877e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kay",
+        "english": "name marker (includes family member nouns)",
+        "required": true,
+        "audioPath": "06c2a794-7d17-41a1-a1d9-d0fa0c46082b"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kiná",
+        "english": "plural name marker",
+        "required": true,
+        "audioPath": "81335660-dccd-41d4-8c16-305fb51b2ebb"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sa form Personal Pronouns</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa akin",
+        "english": "I",
+        "required": true,
+        "audioPath": "21d00ea5-2104-41ce-98c8-b7f1c556f0ce"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa atin",
+        "english": "we (inclusive – me, the listener and possibly others)",
+        "required": true,
+        "audioPath": "8fa54629-248c-4461-b640-5e8c3b135fcc"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa amin",
+        "english": "we (exclusive – me and others but not the listener)",
+        "required": true,
+        "audioPath": "2123e649-2089-407d-8307-df56e9931782"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa iyó",
+        "english": "you",
+        "required": true,
+        "audioPath": "fc8e2f55-4e4a-4198-9eee-7f971cb5a930"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa inyó",
+        "english": "you (plural or singular respectful)",
+        "required": true,
+        "audioPath": "357fc706-6bb2-4333-bef7-84d350e9e82e"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa kaniyá",
+        "english": "he/she",
+        "required": true,
+        "audioPath": "04ed0c72-8e1e-4e30-bb82-4ab4db1d7770"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa kanilá",
+        "english": "they",
+        "required": true,
+        "audioPath": "6e0f6317-8974-4d3a-826f-88b5aa6708f6"
+      }
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Sa form Demonstrative Pronouns</u>"
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dito/rito",
+        "english": "this; here",
+        "required": true,
+        "audioPath": "5f962cce-939a-499d-93b5-9ee77f244aed"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "dun",
+        "english": "that; there",
+        "required": true,
+        "audioPath": "fafd94ff-e463-46e7-9ea1-93b41071a086"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa mga itó",
+        "english": "these",
+        "required": true,
+        "audioPath": "5d8c4b7c-5a89-4ac0-8e22-29827e01ba2f"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa mga yun",
+        "english": "those",
+        "required": true,
+        "audioPath": "c255240c-5d85-4bfe-b7c7-98c7d5683c2c"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "diyán/riyán",
+        "english": "that; there (near listener)",
+        "required": true,
+        "audioPath": "ac3caf0d-0691-447b-a1bd-f1393879d538"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "doón/roón",
+        "english": "that; there (far from speaker and listener)",
+        "required": true,
+        "audioPath": "55755205-c311-4fe7-92c6-260485f1f9b5"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa mga iyán",
+        "english": "those (near listener)",
+        "required": true,
+        "audioPath": "35e92445-9f49-4eb4-a532-d1948c91fbf8"
+      }
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "sa mga iyón",
+        "english": "those (far from speaker and listener)",
+        "required": true,
+        "audioPath": "f023ca88-7a6b-4e9f-8430-9efe41eeda50"
+      }
+    },
+    {
+      "type": "h1",
+      "markdown": "Kita"
+    },
+    {
+      "type": "p",
+      "markdown": "_Kita_ is a compound personal pronoun. It is used when you would expect _ko_(_ng_ form of I) and _ka_(_ang_ form of you) to be next to each other in a sentence. There is no _ko ka_ or _ka ko_ in Tagalog."
+    },
+    {
+      "type": "sentence",
+      "item": {
+        "tagalog": "kitá",
+        "english": "I (verb) you; I to you; you to me",
+        "required": true,
+        "audioPath": null
+      }
+    },
+    {
+      "type": "p",
+      "markdown": "Ex: Gusto kita. = I like you."
+    }
+  ],
+  "exampleSentences": []
+}

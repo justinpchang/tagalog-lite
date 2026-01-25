@@ -24,7 +24,10 @@ final class LessonStore: ObservableObject {
     let rootUrls = bundle.urls(forResourcesWithExtension: "json", subdirectory: nil) ?? []
 
     let unique = Array(Set(urls + rootUrls))
-      .filter { $0.lastPathComponent.lowercased().hasPrefix("lesson") }
+      .filter {
+        let name = $0.lastPathComponent.lowercased()
+        return name.hasPrefix("lesson") || name.hasPrefix("appendix")
+      }
 
     let decoder = JSONDecoder()
     var loaded: [(lesson: Lesson, url: URL)] = []
