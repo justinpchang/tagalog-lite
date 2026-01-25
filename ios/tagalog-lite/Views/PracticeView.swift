@@ -15,6 +15,7 @@ struct PracticeView: View {
   @State private var index: Int = 0
   @State private var isRevealed: Bool = false
   @State private var history: [HistoryEntry] = []
+  @State private var showCardList: Bool = false
 
   private struct SessionSnapshot: Equatable {
     var session: [Flashcard]
@@ -35,6 +36,10 @@ struct PracticeView: View {
       lessons: store.lessons,
       completedLessonIds: completion.completedLessonIds
     )
+  }
+
+  private var completedLessons: [Lesson] {
+    store.lessons.filter { completion.completedLessonIds.contains($0.id) }
   }
 
   private var dueCount: Int {
@@ -86,6 +91,13 @@ struct PracticeView: View {
         .padding(16)
       }
       .toolbar(.hidden, for: .navigationBar)
+      .sheet(isPresented: $showCardList) {
+        PracticeCardListView(
+          lessons: completedLessons,
+          states: srs.states,
+          now: now
+        )
+      }
       .onAppear {
         // Make sure lessons are available even if user lands on Practice first.
         if store.lessons.isEmpty {
@@ -184,6 +196,11 @@ struct PracticeView: View {
         .background(RoundedRectangle(cornerRadius: 16, style: .continuous).fill(Theme.accent))
       }
       .buttonStyle(.plain)
+
+      secondaryButton(title: "See cards", systemImage: "rectangle.stack.fill") {
+        showCardList = true
+      }
+      .disabled(completedLessons.isEmpty)
             }
             .tropicalCard()
   }
