@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "intro1",
+  "title": "i - Introduction",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "h2",
+      "markdown": "Learning Grammar Explicitly"
+    },
+    {
+      "type": "p",
+      "markdown": "Most accomplished language learners will agree that to learn a language one needs massive exposure and practice. However, the language learning community is somewhat divided as to whether one should study grammar explicitly or just glean it. The fact that I have written this book tells you which camp I am in. Although I firmly believe that we assimilate most of our grammar through exposure and practice regardless of which path we take, I also believe that studying it explicitly speeds up the process and allows us to reach a higher level than gleaning alone. I would like to point out that, even if you choose to study it explicitly, the time spent learning grammar is a relatively small percentage of the total study time spent learning a language. I have reached an intermediate level or better in ten foreign languages up to this point, spending under 5% of my study time explicitly learning grammar, and it has been well worth the investment."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Groundbreaking Design</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Tagalog Lite is a new kind of grammar course for two reasons:"
+    },
+    {
+      "type": "h3",
+      "markdown": "1. Concise like a Grammar, but Builds like a Textbook"
+    },
+    {
+      "type": "p",
+      "markdown": "In order to get the massive exposure and practice mentioned above, hundreds if not thousands of hours need to be spent with native speakers and materials. To maximize those hours, we have designed Tagalog Lite to be part of a better-organized learning plan which will allow you to minimize the time spent on explicit grammar study."
+    },
+    {
+      "type": "p",
+      "markdown": "Language learning can be broken into seven major facets: conversation, listening, reading, writing, vocabulary, grammar and pronunciation. Although all facets reinforce each other, I believe it is wise to have a robust component of each of these in your language learning to ensure that each gets enough attention. For example, you should try to do a lot of listening and reading. A typical textbook may give you a start in these skills. But the small amount of reading and listening that comes with it will not be nearly enough. That means you will need to do a lot of it elsewhere anyhow, so I propose leaving them out of your explicit grammar study component. Focus on grammar when learning grammar – there is no need to jam reading and listening into this component because you should be getting those elsewhere. The same goes for the other facets."
+    },
+    {
+      "type": "p",
+      "markdown": "To maximize the hours spent with native speakers and materials, and to reduce complexity, we designed Tagalog Lite to be as concise as possible. Our goal was that if you use this book, when you think about a grammar point, or want to physically look something up, there will be a nice clean path to it, both in your mind and in the physical course itself, that is not encumbered by a lot of non-grammar information."
+    },
+    {
+      "type": "p",
+      "markdown": "What I am describing is normally just called a grammar, or grammar book. Most grammars explain the structure of the language in a well-organized, concise way, with the clearest possible explanations and examples. But the downside of grammars is that they assume the learner already knows all vocabulary and all other structure needed to explain a given grammar point. Grammars are great for reviewing, especially for learners with a strong background in the language, but they are not designed for beginners."
+    },
+    {
+      "type": "p",
+      "markdown": "Tagalog Lite is a concise grammar course in which each lesson builds on previous lessons only. All you need to know for a given lesson is the material that was covered previously. The vocabulary is minimized – enough to adequately demonstrate the grammar, but not intentionally added to increase the learner’s vocabulary. There are plenty of example sentences, but no additional reading exercises. All new vocabulary and sample sentences have audio, but there are no additional listening exercises. There are no culture lessons. Spoken answers are required for the exercises, but there are no additional speaking exercises. There are no specific writing exercises. Other than grammar, the only other facet that is specifically targeted is pronunciation. This is because I feel it would be wrong to start learning a language without first learning pronunciation and the alphabet."
+    },
+    {
+      "type": "p",
+      "markdown": "All new vocabulary is listed at the top of each lesson and organized in a way that facilitates memorization. There are no surprise additional words. Although there are many examples throughout a lesson, the exercises consist of 10 Sample Sentences at the end. The ultimate goal of learning a grammar point is to correctly produce sentences that use said point, and lessons are kept brief enough so that 10 are adequate to test your knowledge."
+    },
+    {
+      "type": "h3",
+      "markdown": "2. Based on Real Conversation"
+    },
+    {
+      "type": "p",
+      "markdown": "Tagalog Lite is designed to teach learners to speak colloquial Tagalog. All vocabulary and sentences in this book have been checked multiple times by native speakers. But what makes it unique is the measures that were taken to ensure that it was firmly grounded in real conversation."
+    },
+    {
+      "type": "p",
+      "markdown": "It contains the most commonly used grammar and vocabulary in everyday conversation. To ensure this, after its initial writing, we used 110 six-minute conversations between native speakers to verify that our grammar points were the most common. Adjustments were made – some points were fleshed out, and many additional points were added. Vocabulary was checked and revised in a similar way, against a frequency list generated from the same conversations."
+    },
+    {
+      "type": "h3",
+      "markdown": "New in this Edition – Drills, Anki Decks and more!"
+    },
+    {
+      "type": "p",
+      "markdown": "“More drills” was the most requested item from the Beta Edition, so we went above and beyond by creating a set of drills for each lesson, with audio, which are part of the free book online. In addition, we created a Big Anki deck for the entire book, a Cloze Deletion Anki deck for the drills, a folder containing the text and audio, and a PDF of the book, all for a single download fee."
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Welcome to Edition 1</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "When I put the Beta Edition online for everyone to use for free, it had some shortcomings. For example, formatting issues, typos, a non-standard pronunciation system, and a few unclear explanations. I was fortunate enough to get a lot of input from students, teachers and linguists. Most notably, Gerry Avelino (aka MrGerbear), a Filipino Linguist who is perhaps the most prolific and beloved poster to reddit Tagalog learning forums, was kind enough to thoroughly check the beta edition. He was a huge help, and very pleasant to work with."
+    },
+    {
+      "type": "p",
+      "markdown": "With that input I rewrote the entire book. It took several months, and the lesson count went from 47 to 52. Then it became apparent that the pandemic was going to keep me home for much longer than I had planned, and an idea struck me. Why not use the 110 transcribed conversations that I had commissioned for Language Crush as the driving force behind the book? After all, my goal was to teach others how to speak Tagalog like natives. I fell in love with that idea, did some comparisons, and came up with a list of grammar items that were in the conversations but not in the book. Some of these items were added to existing lessons in the book, and some were used as new lessons."
+    },
+    {
+      "type": "p",
+      "markdown": "In addition to minimizing the vocabulary as previously mentioned, I wanted to try and use the most common words possible to cover the grammar points that had been chosen. So, we created a frequency list for the 110 conversations. I first used it to select the most common verbs. Then I selected nouns, adjectives and adverbs that fit nicely with the verbs. Unfortunately, just selecting the highest frequency words of all types did not always work; it would have required the creation of some strange sentences. It was sometimes a balancing act between realistic sentences and high frequency."
+    },
+    {
+      "type": "p",
+      "markdown": "After several additional months of work, the end results were a lesson count of 71, and my satisfaction that we were finally based on colloquial conversation. Then came another series of editing and checking. With Gerry’s finely tuned explanations, we put out an edition that everyone was satisfied with."
+    },
+    {
+      "type": "p",
+      "markdown": "All the input from the Beta Edition has been incorporated, and I believe all other issues have been fixed, but I still invite you to comment on the online version. There is an “offer corrections” button at the bottom of each lesson."
+    },
+    {
+      "type": "p",
+      "markdown": "**The online version of Tagalog Lite, including the Drills, will always be free. You can read and listen to the 110 Conversations that the book is based on for free too.**"
+    },
+    {
+      "type": "p",
+      "markdown": "As mentioned above, we have added some additional pay items to support our efforts. The PDF is available for those who prefer an offline copy. Anki Decks, downloadable text and audio are available for those who prefer to review things on their own SRS. Premium memberships to Language Crush are available for those who would like to keep detailed vocabulary statistics, etc. But it is always possible to use the book for free."
+    },
+    {
+      "type": "p",
+      "markdown": "For more help learning this beautiful language, please join our community at Language Crush. You can read and listen to the Tagalog Conversations mentioned above, thousands of other passages in the library, or create your own in the Reading Tool. You can also keep a language learning Log and ask questions on our Community Forum, get your essays corrected in Write & Correct, and Chat for free. We have Tagalog teachers for hire on our teaching platform. We support over 100 other languages too."
+    },
+    {
+      "type": "h3",
+      "markdown": "\\*\\*Good luck with your studies!\\*\\*"
+    },
+    {
+      "type": "h3",
+      "markdown": "**-Raymond Flaherty (aka leosmith)**"
+    },
+    {
+      "type": "h3",
+      "markdown": "<u>Dear Tagalog Learner,</u>"
+    },
+    {
+      "type": "p",
+      "markdown": "Learning a new language is not easy. It takes time, dedication, and the will to persevere in adverse situations. The fact that Tagalog is so different from English makes the task you set forth for yourself much more difficult, and I commend you for taking on the challenge. No matter your reason for learning Tagalog—whether you are re-learning a heritage language, aiming to communicate with your loved ones, or exploring cultural interests in the Philippines—the rewards are certainly worth the effort."
+    },
+    {
+      "type": "p",
+      "markdown": "Tagalog Lite is a wonderful new way to learn Tagalog for English speakers. I believe that the approach taken in this course will not just help you learn the way Tagalog is spoken in everyday situations, but also guide you to understand some of the intricacies of Tagalog grammar. Some textbooks or courses might just teach you phrases or set formulae to memorize, but learning the actual rules of what makes up a good sentence is key to unlocking one of the fundamental properties of human language: the capacity to express anything and everything you want."
+    },
+    {
+      "type": "p",
+      "markdown": "Creating this course was, in itself, a challenge, but Raymond was certainly up for the task. And he executed it brilliantly. He is an incredibly dedicated language learner, and persistent at making sure that this course is true to Filipino culture and progresses naturally in a way that best fits a Tagalog learner's needs. The lessons are well organized, and the explanation of grammatical structures is not only clear but helpfully nuanced. One of the difficulties of doing any sort of linguistic work lies in explaining how words work by using other words, a metalinguistic challenge that Raymond excelled at in writing this course. I am incredibly honored to have had the opportunity to help build this work, and grateful to have gotten a new perspective into the inner workings of one of my own languages."
+    },
+    {
+      "type": "p",
+      "markdown": "Thank you for choosing Tagalog Lite on your path to Tagalog proficiency. It is my sincerest wish that you attain the level of Tagalog that best suits your needs, and that this course helps you achieve your language learning goals."
+    },
+    {
+      "type": "h3",
+      "markdown": "**Maligayang pag-aaral!**"
+    },
+    {
+      "type": "h3",
+      "markdown": "**- Gerry Avelino (aka MrGerbear)**"
+    }
+  ],
+  "exampleSentences": []
+}

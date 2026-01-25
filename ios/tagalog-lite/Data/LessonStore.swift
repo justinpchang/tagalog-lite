@@ -26,7 +26,7 @@ final class LessonStore: ObservableObject {
     let unique = Array(Set(urls + rootUrls))
       .filter {
         let name = $0.lastPathComponent.lowercased()
-        return name.hasPrefix("lesson") || name.hasPrefix("appendix")
+        return name.hasPrefix("lesson")
       }
 
     let decoder = JSONDecoder()

@@ -21,11 +21,11 @@ struct ExtrasListView: View {
                 .foregroundStyle(.secondary)
                 .tropicalCard()
                 .padding(.top, 6)
-            } else if appendices.isEmpty {
+            } else if appendices.isEmpty && intros.isEmpty {
               VStack(alignment: .leading, spacing: 10) {
-                Text("No appendices found in the app bundle.")
+                Text("No extras found in the app bundle.")
                   .font(.system(.headline, design: .rounded))
-                Text("Make sure `appendix*.json` files are included in the app bundle.")
+                Text("Make sure `intro*.json` and `appendix*.json` files are included in the app bundle.")
                   .font(.system(.subheadline, design: .rounded))
                   .foregroundStyle(.secondary)
               }
@@ -33,6 +33,13 @@ struct ExtrasListView: View {
               .padding(.top, 6)
             } else {
               LazyVStack(spacing: 12) {
+                ForEach(intros) { intro in
+                  NavigationLink(value: intro.id) {
+                    IntroRow(intro: intro)
+                  }
+                  .buttonStyle(.plain)
+                }
+
                 ForEach(appendices) { appendix in
                   NavigationLink(value: appendix.id) {
                     AppendixRow(appendix: appendix)
@@ -83,10 +90,44 @@ struct ExtrasListView: View {
       }
   }
 
+  private var intros: [Lesson] {
+    store.lessons
+      .filter(isIntro)
+      .sorted { a, b in
+        let an = introNumber(for: a) ?? Int.max
+        let bn = introNumber(for: b) ?? Int.max
+        if an != bn { return an < bn }
+        return a.title.localizedCaseInsensitiveCompare(b.title) == .orderedAscending
+      }
+  }
+
   private func isAppendix(_ lesson: Lesson) -> Bool {
     let id = lesson.id.lowercased()
     let title = lesson.title.lowercased()
     return id.hasPrefix("appendix") || title.hasPrefix("appendix")
+  }
+
+  private func isIntro(_ lesson: Lesson) -> Bool {
+    let id = lesson.id.lowercased()
+    let title = lesson.title.lowercased()
+    return id.hasPrefix("intro") || title.hasPrefix("intro")
+  }
+
+  private func introNumber(for lesson: Lesson) -> Int? {
+    if let n = introNumber(in: lesson.id) { return n }
+    if let n = introNumber(in: lesson.title) { return n }
+    return nil
+  }
+
+  private func introNumber(in raw: String) -> Int? {
+    let lower = raw.lowercased()
+    if let range = lower.range(of: #"intro\D*(\d+)"#, options: .regularExpression) {
+      let sub = String(lower[range])
+      if let digitsRange = sub.range(of: #"\d+"#, options: .regularExpression) {
+        return Int(sub[digitsRange])
+      }
+    }
+    return nil
   }
 
   private func appendixKey(for lesson: Lesson) -> String {
@@ -170,6 +211,72 @@ private struct AppendixRow: View {
     guard !cleaned.isEmpty else { return nil }
     let key = cleaned.prefix { $0.isLetter || $0.isNumber }
     return key.isEmpty ? nil : String(key)
+  }
+}
+
+private struct IntroRow: View {
+  @Environment(\.colorScheme) private var colorScheme
+  let intro: Lesson
+
+  var body: some View {
+    HStack(alignment: .center, spacing: 12) {
+      VStack(alignment: .leading, spacing: 6) {
+        Text(introLabel)
+          .font(.system(.subheadline, design: .rounded).weight(.semibold))
+          .foregroundStyle(.secondary)
+        Text(introTitle)
+          .font(.system(.title3, design: .rounded).weight(.heavy))
+          .foregroundStyle(.primary)
+          .multilineTextAlignment(.leading)
+          .lineLimit(nil)
+      }
+
+      Spacer(minLength: 8)
+
+      Image(systemName: "chevron.right")
+        .foregroundStyle(.secondary)
+        .font(.system(size: 16, weight: .semibold))
+    }
+    .padding(16)
+    .background(
+      RoundedRectangle(cornerRadius: 22, style: .continuous)
+        .fill(Theme.cardBackground(colorScheme))
+    )
+    .overlay(
+      RoundedRectangle(cornerRadius: 22, style: .continuous)
+        .strokeBorder(Color.primary.opacity(colorScheme == .dark ? 0.12 : 0.08), lineWidth: 1)
+    )
+    .shadow(color: Color.primary.opacity(colorScheme == .dark ? 0.20 : 0.06), radius: 12, x: 0, y: 8)
+  }
+
+  private var introLabel: String {
+    if let n = introNumber(in: intro.id) ?? introNumber(in: intro.title) {
+      return "Intro \(n)"
+    }
+    return "Intro"
+  }
+
+  private var introTitle: String {
+    intro.title
+      .replacingOccurrences(
+        of: introLabel + " - ",
+        with: ""
+      )
+      .replacingOccurrences(
+        of: introLabel + " – ",
+        with: ""
+      )
+  }
+
+  private func introNumber(in raw: String) -> Int? {
+    let lower = raw.lowercased()
+    if let range = lower.range(of: #"intro\D*(\d+)"#, options: .regularExpression) {
+      let sub = String(lower[range])
+      if let digitsRange = sub.range(of: #"\d+"#, options: .regularExpression) {
+        return Int(sub[digitsRange])
+      }
+    }
+    return nil
   }
 }
 

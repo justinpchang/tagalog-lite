@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "intro2",
+  "title": "ii - How to use this Book",
+  "vocabulary": [],
+  "contents": [
+    {
+      "type": "h1",
+      "markdown": "ii - How to Use this Book"
+    },
+    {
+      "type": "p",
+      "markdown": "The Appendices and Lesson 1 include their specific instructions. The following explanation is for Lessons 2 thru 71."
+    },
+    {
+      "type": "p",
+      "markdown": "Each lesson is organized as follows:"
+    },
+    {
+      "type": "p",
+      "markdown": "**Vocabulary** list."
+    },
+    {
+      "type": "p",
+      "markdown": "**Grammar** points, explanations and examples."
+    },
+    {
+      "type": "p",
+      "markdown": "**Sample Sentences**."
+    },
+    {
+      "type": "p",
+      "markdown": "In brief, I recommend that you memorize the vocabulary, read the explanations, attempt the examples and do the sample sentences. The following is a more detailed description:"
+    },
+    {
+      "type": "h2",
+      "markdown": "First Pass"
+    },
+    {
+      "type": "p",
+      "markdown": "When beginning a lesson, I recommend you memorize the **Vocabulary** before proceeding if you do not know it yet. There are many methods for doing this; here is the one I normally use (if there are eight words or more, I recommend doing the following in groups of about four words):"
+    },
+    {
+      "type": "p",
+      "markdown": "Listen to the audio of the word, note the English definition then pronounce the Tagalog loud and clear. Repeat this two or three times, or until you feel you are pronouncing the word correctly."
+    },
+    {
+      "type": "p",
+      "markdown": "Hide the Tagalog column, glance at the first English definition then recall and pronounce the Tagalog word. Repeat this until you have done all of them. If you had trouble recalling any of the Tagalog words, repeat until you are able to recall all of them. Go through the list one more time for reinforcement."
+    },
+    {
+      "type": "p",
+      "markdown": "(Optional) Hide the English column, glance at the Tagalog words, pronounce the words and try to recall the English definitions. Listen to the Tagalog audio and repeat until you feel you are pronouncing the words correctly. Do not pronounce the English. Tagalog to English should be much easier than English to Tagalog; that is why this step is optional."
+    },
+    {
+      "type": "p",
+      "markdown": "Next comes the **Grammar** portion of the lesson. This portion normally contains a short introduction followed by individual grammar points. A grammar point may contain a Structure Equation in large text, notes and examples. Read the entire grammar portion and attempt the examples. Here is the method I normally use with the examples:"
+    },
+    {
+      "type": "p",
+      "markdown": "Listen to the audio of the first example then read the Tagalog side loud and clear. Note the English. Repeat this for all examples in the group."
+    },
+    {
+      "type": "p",
+      "markdown": "Hide the Tagalog side. Look at the English side of the first example, then say the Tagalog sentence. Check your pronunciation by playing the audio and repeat if necessary. Work your way through the remaining examples."
+    },
+    {
+      "type": "p",
+      "markdown": "Repeat as necessary until you are able to produce all examples correctly with the Tagalog hidden."
+    },
+    {
+      "type": "p",
+      "markdown": "At the end of the lesson there are 10 **Sample Sentences**. These are the bread and butter of the lesson. Here is my method:"
+    },
+    {
+      "type": "p",
+      "markdown": "With the Tagalog hidden, note the English and produce the Tagalog sentence out loud."
+    },
+    {
+      "type": "p",
+      "markdown": "Listen to the audio and repeat it, trying to sound just like the audio. And that means not only hitting the right vowels and consonants, but also having the right stress, glottal stops and prosody."
+    },
+    {
+      "type": "p",
+      "markdown": "Look at the Tagalog text and read it to ensure that your answer is entirely correct."
+    },
+    {
+      "type": "p",
+      "markdown": "Repeat as necessary until you are able to produce all Sample Sentences correctly with the Tagalog hidden."
+    },
+    {
+      "type": "h2",
+      "markdown": "Optional Next Passes"
+    },
+    {
+      "type": "p",
+      "markdown": "I have found that it is better to first learn and then periodically review grammar points than to expect to learn all grammar in a single spurt. Let me explain that. Many people, myself included, like to methodically work their way through an entire textbook. But I have found that if I stop there, even though I am doing other language learning activities simultaneously, my retention is limited. Some people will just live with the results and hope the grammar will come back to them. Others will immediately start another beginner textbook. But I recommend you make additional passes through the same course, like I do. If you keep doing this, you will soon only need to hit the Sample Sentences to adequately review a grammar point. Think of how good your grammar will be when you get to the point where you are only hitting the Sample Sentences, and you can easily cover multiple lessons a day! I think you will agree that this result is far superior to only making a single pass through the course."
+    },
+    {
+      "type": "p",
+      "markdown": "These lessons were intentionally made short so that they can be repeated quickly. Revisit them to sharpen your grammar skills, but when you do, only do the sample sentences and see if you can glean the grammar from that activity alone. If not, do the rest of the lesson too. Eventually you will get to the point where all you will need to do for a refresher is to review the Sample Sentences."
+    },
+    {
+      "type": "h2",
+      "markdown": "Remember to use the Appendices"
+    },
+    {
+      "type": "p",
+      "markdown": "I put some points that I thought you might need to refer to frequently, long lists of items like numbers, and miscellaneous tabulated data, in the Appendices. The lessons often direct you to them, but I wanted to put a reminder here too in case you are not doing the lessons in order."
+    }
+  ],
+  "exampleSentences": []
+}
